@@ -1,0 +1,484 @@
+{
+  "head" : {
+    "vars" : [ "statement", "item", "name_en", "name_hi", "party", "party_name_en", "party_name_hi", "district", "district_name_en", "district_name_hi", "role", "role_en", "role_hi", "role_superclass", "role_superclass_en", "role_superclass_hi", "start", "end", "facebook", "org", "org_en", "org_hi", "org_jurisdiction", "org_seat_count" ]
+  },
+  "results" : {
+    "bindings" : [ {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16901207-D9A3B457-7628-421B-9A29-621BCB170615"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16901207"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राधेश्याम बिस्वास"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Radheshyam Biswas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "545"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1606665"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "करीमगंज लोक सभा निर्वाचन क्षेत्र"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karimganj"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16901207-D9A3B457-7628-421B-9A29-621BCB170615"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16901207"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राधेश्याम बिस्वास"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Radheshyam Biswas"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "543"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1606665"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "करीमगंज लोक सभा निर्वाचन क्षेत्र"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karimganj"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16901223-1F44EDF2-50EB-493A-865F-730AFD344A1F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16901223"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राममोहन एन किंजरपु"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rammohan Naidu Kinjarapu"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "545"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3764487"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "श्रीकाकुलम लोक सभा निर्वाचन क्षेत्र"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Srikakulam"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16901223-1F44EDF2-50EB-493A-865F-730AFD344A1F"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16901223"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राममोहन एन किंजरपु"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rammohan Naidu Kinjarapu"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "543"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3764487"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "श्रीकाकुलम लोक सभा निर्वाचन क्षेत्र"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Srikakulam"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7499274-dcb72825-488a-0c49-b887-6ce9df1cd63e"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7499274"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अधलराव शिवाजी दत्तात्रेय"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shivaji Adhalrao Patil"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "545"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7499274-dcb72825-488a-0c49-b887-6ce9df1cd63e"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7499274"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अधलराव शिवाजी दत्तात्रेय"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shivaji Adhalrao Patil"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "543"
+      }
+    } ]
+  }
+}
