@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Neiphiu Rio",
+        "lang:hi": "नेफियू रियो"
+      },
+      "id": "Q3530214",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3530214"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Nagaland",
+        "lang:hi": "नगालैंड विधान सभा"
+      },
+      "id": "Q55147388",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147388"
+        }
+      ],
+      "area_id": "Q1599"
+    },
+    {
+      "name": {
+        "lang:en": "Naga People's Front",
+        "lang:hi": "नागा पीपुल्स फ्रंट"
+      },
+      "id": "Q3277586",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3277586"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3530214-69424F98-461C-4FEE-BBBD-FB7CB0813925",
+      "person_id": "Q3530214",
+      "on_behalf_of_id": "Q3277586",
+      "organization_id": "Q55147388",
+      "area_id": "Q1599",
+      "role_superclass_code": "Q55018648",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Nagaland",
+        "lang:hi": "नागालैंड के मुख्यमंत्री"
+      },
+      "role_code": "Q55018648",
+      "role": {
+        "lang:en": "Chief Minister of Nagaland",
+        "lang:hi": "नागालैंड के मुख्यमंत्री"
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "J. Dringwell Rymbai"
+      },
+      "id": "Q6105426",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6105426"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Meghalaya",
+        "lang:hi": "मेघालय विधान सभा"
+      },
+      "id": "Q55147386",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147386"
+        }
+      ],
+      "area_id": "Q1195"
+    },
+    {
+      "name": {
+        "lang:en": "United Democratic Party"
+      },
+      "id": "Q7887699",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7887699"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6105426-416C3363-2C15-487A-AE51-5B64E8019922",
+      "person_id": "Q6105426",
+      "on_behalf_of_id": "Q7887699",
+      "organization_id": "Q55147386",
+      "area_id": "Q1195",
+      "role_superclass_code": "Q55018641",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Meghalaya",
+        "lang:hi": "मेघालय के मुख्यमंत्री"
+      },
+      "role_code": "Q55018641",
+      "role": {
+        "lang:en": "Chief Minister of Meghalaya",
+        "lang:hi": "मेघालय के मुख्यमंत्री"
+      }
+    }
+  ]
+}

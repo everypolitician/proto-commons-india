@@ -1,0 +1,390 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "B. B. Gurung"
+      },
+      "id": "Q16091198",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16091198"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sonam Gyatso Lepcha"
+      },
+      "id": "Q16731404",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16731404"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sanchaman Limboo"
+      },
+      "id": "Q16875274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16875274"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kedar Nath Rai"
+      },
+      "id": "Q17466300",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17466300"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Kazi Lhendup Dorjee"
+      },
+      "id": "Q2072011",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2072011"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pawan Kumar Chamling",
+        "lang:hi": "पवन कुमार चामलिंग"
+      },
+      "id": "Q2475703",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2475703"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BeautifulSikkim"
+        },
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BeautifulSikkim"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nar Bahadur Bhandari",
+        "lang:hi": "नर बहादुर भण्डारी"
+      },
+      "id": "Q3277025",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3277025"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Lal Bahadur Basnet"
+      },
+      "id": "Q6480012",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6480012"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा"
+      },
+      "id": "Q7513808",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7513808"
+        }
+      ],
+      "area_id": "Q1505",
+      "seat_counts": {
+        "Q24547509": "32"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16091198-05C4A85B-6679-48AB-9A5B-CAE1DBC3D48E",
+      "person_id": "Q16091198",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16091198-05C4A85B-6679-48AB-9A5B-CAE1DBC3D48E",
+      "person_id": "Q16091198",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16731404-15E5A554-BAF5-41D6-9B2D-AC350678F0B8",
+      "person_id": "Q16731404",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16731404-15E5A554-BAF5-41D6-9B2D-AC350678F0B8",
+      "person_id": "Q16731404",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16875274-486B1777-2DFC-4FED-ADCB-08BCAF97B740",
+      "person_id": "Q16875274",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16875274-486B1777-2DFC-4FED-ADCB-08BCAF97B740",
+      "person_id": "Q16875274",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17466300-EE119087-4CFF-4969-840F-ECEFBDA9ED11",
+      "person_id": "Q17466300",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17466300-EE119087-4CFF-4969-840F-ECEFBDA9ED11",
+      "person_id": "Q17466300",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2072011-D066D3EC-976B-47A8-AC70-2DA4C96642A2",
+      "person_id": "Q2072011",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2072011-D066D3EC-976B-47A8-AC70-2DA4C96642A2",
+      "person_id": "Q2072011",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2475703-49A358DD-5E3A-4904-B189-E0071D2EAC3E",
+      "person_id": "Q2475703",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2475703-49A358DD-5E3A-4904-B189-E0071D2EAC3E",
+      "person_id": "Q2475703",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3277025-F1FD76D0-04D3-4E6C-826E-E84B88AD8251",
+      "person_id": "Q3277025",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3277025-F1FD76D0-04D3-4E6C-826E-E84B88AD8251",
+      "person_id": "Q3277025",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6480012-226A3CBE-CDD6-4E05-8DED-06B8A63B6A1F",
+      "person_id": "Q6480012",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6480012-226A3CBE-CDD6-4E05-8DED-06B8A63B6A1F",
+      "person_id": "Q6480012",
+      "organization_id": "Q7513808",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24547509",
+      "role": {
+        "lang:en": "Member of the Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

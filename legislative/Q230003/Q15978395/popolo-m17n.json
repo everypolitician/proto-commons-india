@@ -1,0 +1,142 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Radheshyam Biswas",
+        "lang:hi": "राधेश्याम बिस्वास"
+      },
+      "id": "Q16901207",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16901207"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rammohan Naidu Kinjarapu",
+        "lang:hi": "राममोहन एन किंजरपु"
+      },
+      "id": "Q16901223",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16901223"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shivaji Adhalrao Patil",
+        "lang:hi": "अधलराव शिवाजी दत्तात्रेय"
+      },
+      "id": "Q7499274",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7499274"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Lok Sabha",
+        "lang:hi": "लोक सभा"
+      },
+      "id": "Q230003",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q230003"
+        }
+      ],
+      "area_id": "Q668",
+      "seat_counts": {
+        "Q16556694": "545"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Lok Sabha",
+        "lang:hi": "लोक सभा"
+      },
+      "id": "Q230003",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q230003"
+        }
+      ],
+      "area_id": "Q668",
+      "seat_counts": {
+        "Q16556694": "543"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16901207-D9A3B457-7628-421B-9A29-621BCB170615",
+      "person_id": "Q16901207",
+      "organization_id": "Q230003",
+      "area_id": "Q1606665",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q16556694",
+      "role": {
+        "lang:en": "member of the Lok Sabha",
+        "lang:hi": "लोकसभा सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16901223-1F44EDF2-50EB-493A-865F-730AFD344A1F",
+      "person_id": "Q16901223",
+      "organization_id": "Q230003",
+      "area_id": "Q3764487",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q16556694",
+      "role": {
+        "lang:en": "member of the Lok Sabha",
+        "lang:hi": "लोकसभा सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7499274-dcb72825-488a-0c49-b887-6ce9df1cd63e",
+      "person_id": "Q7499274",
+      "organization_id": "Q230003",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q16556694",
+      "role": {
+        "lang:en": "member of the Lok Sabha",
+        "lang:hi": "लोकसभा सदस्य"
+      }
+    }
+  ]
+}
