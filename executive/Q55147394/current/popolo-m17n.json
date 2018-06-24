@@ -1,0 +1,252 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jagannath Pahadia",
+        "lang:hi": "जगन्नाथ पहाड़ीया"
+      },
+      "id": "Q1896702",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1896702"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Mohan Lal Sukhadia",
+        "lang:hi": "मोहनलाल सुखाड़िया"
+      },
+      "id": "Q1942799",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1942799"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vasundhara Raje",
+        "lang:hi": "वसुन्धरा राजे सिंधिया"
+      },
+      "id": "Q2997305",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2997305"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Barkatullah Khan",
+        "lang:hi": "बरकतुल्लाह खान"
+      },
+      "id": "Q4860911",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860911"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hiralal Shastri",
+        "lang:hi": "हीरा लाल शास्त्री"
+      },
+      "id": "Q5698076",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5698076"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hira Lal Devpura",
+        "lang:hi": "हीरा लाल देवपुरा"
+      },
+      "id": "Q5768781",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5768781"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Rajasthan",
+        "lang:hi": "राजस्थान विधान सभा"
+      },
+      "id": "Q55147394",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147394"
+        }
+      ],
+      "area_id": "Q1437"
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1896702-DB02F3A9-95E5-4FD9-A0E8-7B1869F84E12",
+      "person_id": "Q1896702",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147394",
+      "area_id": "Q1437",
+      "role_superclass_code": "Q55018649",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      },
+      "role_code": "Q55018649",
+      "role": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1942799-D166C08B-446F-4B9B-81B9-14F28CB478B7",
+      "person_id": "Q1942799",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147394",
+      "area_id": "Q1437",
+      "role_superclass_code": "Q55018649",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      },
+      "role_code": "Q55018649",
+      "role": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2997305-B03ACC8F-B561-4585-B674-36FA1306E42A",
+      "person_id": "Q2997305",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147394",
+      "area_id": "Q1437",
+      "role_superclass_code": "Q55018649",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      },
+      "role_code": "Q55018649",
+      "role": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4860911-E24FB821-3A09-4D74-8183-4038A3522272",
+      "person_id": "Q4860911",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147394",
+      "area_id": "Q1437",
+      "role_superclass_code": "Q55018649",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      },
+      "role_code": "Q55018649",
+      "role": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5698076-C09D0AED-6AD8-4855-AE42-1FBC5FE08E45",
+      "person_id": "Q5698076",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147394",
+      "area_id": "Q1437",
+      "role_superclass_code": "Q55018649",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      },
+      "role_code": "Q55018649",
+      "role": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5768781-5A9C2EBC-D1CF-4081-9E40-98573838BE58",
+      "person_id": "Q5768781",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147394",
+      "area_id": "Q1437",
+      "role_superclass_code": "Q55018649",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      },
+      "role_code": "Q55018649",
+      "role": {
+        "lang:en": "Chief Minister of Rajasthan",
+        "lang:hi": "राजस्थान के मुख्यमंत्री"
+      }
+    }
+  ]
+}

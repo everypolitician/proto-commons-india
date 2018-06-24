@@ -1,0 +1,73 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Hopingstone Lyngdoh"
+      },
+      "id": "Q5900574",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5900574"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय विधान सभा"
+      },
+      "id": "Q6809008",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6809008"
+        }
+      ],
+      "area_id": "Q1195",
+      "seat_counts": {
+        "Q21191665": "60"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5900574-71941112-4ceb-56c5-3f01-1e342a73018d",
+      "person_id": "Q5900574",
+      "organization_id": "Q6809008",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q21191665",
+      "role": {
+        "lang:en": "Member of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5900574-71941112-4ceb-56c5-3f01-1e342a73018d",
+      "person_id": "Q5900574",
+      "organization_id": "Q6809008",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q21191665",
+      "role": {
+        "lang:en": "Member of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

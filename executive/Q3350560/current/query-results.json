@@ -22,6 +22,24 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2901773"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1348"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कोलकाता"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kolkata"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q39512829"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q39512829"
@@ -30,10 +48,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Mayor of Kolkata"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q39512829"
       },
       "role_en" : {
         "xml:lang" : "en",
@@ -67,6 +81,10 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2901773-e52cc9b8-44e5-4035-40b9-ab7106ba6223"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1348"
       }
     } ]
   }

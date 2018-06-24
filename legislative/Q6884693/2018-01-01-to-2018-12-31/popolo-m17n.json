@@ -1,0 +1,428 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Pu Zoramthanga",
+        "lang:hi": "ज़ोरामथंगा"
+      },
+      "id": "Q1362153",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1362153"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pu Zoduha"
+      },
+      "id": "Q15993690",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15993690"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Hiphei"
+      },
+      "id": "Q16729837",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16729837"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pu Laldenga"
+      },
+      "id": "Q457664",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q457664"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "C. L. Ruala",
+        "lang:hi": "सी॰ एल॰ रुआला"
+      },
+      "id": "Q5006649",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5006649"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ch. Chhunga"
+      },
+      "id": "Q5065891",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5065891"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Pu Lalthanhawla",
+        "lang:hi": "पु ललथनहवला"
+      },
+      "id": "Q5094693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094693"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ṭhenphunga Sailo"
+      },
+      "id": "Q7668693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7668693"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vanlalzawma"
+      },
+      "id": "Q7915071",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7915071"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा"
+      },
+      "id": "Q6884693",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6884693"
+        }
+      ],
+      "area_id": "Q1502",
+      "seat_counts": {
+        "Q24540202": "40"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1362153-3E64B828-5550-4900-8468-444BFB238280",
+      "person_id": "Q1362153",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q1362153-3E64B828-5550-4900-8468-444BFB238280",
+      "person_id": "Q1362153",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15993690-1B938FA1-A4F1-4891-BB1E-B0EE358B70CF",
+      "person_id": "Q15993690",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q15993690-1B938FA1-A4F1-4891-BB1E-B0EE358B70CF",
+      "person_id": "Q15993690",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16729837-AA971A4E-B7DE-44C2-A935-C1B493637E33",
+      "person_id": "Q16729837",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16729837-AA971A4E-B7DE-44C2-A935-C1B493637E33",
+      "person_id": "Q16729837",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q457664-ADEF0146-3B71-4595-AA7F-3993B773AB9C",
+      "person_id": "Q457664",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q457664-ADEF0146-3B71-4595-AA7F-3993B773AB9C",
+      "person_id": "Q457664",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5006649-6C5D5E00-2190-4F5C-AE5D-F03D21015484",
+      "person_id": "Q5006649",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5006649-6C5D5E00-2190-4F5C-AE5D-F03D21015484",
+      "person_id": "Q5006649",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5065891-53703C82-C3D8-44B5-B019-880F13AAA621",
+      "person_id": "Q5065891",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5065891-53703C82-C3D8-44B5-B019-880F13AAA621",
+      "person_id": "Q5065891",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA",
+      "person_id": "Q5094693",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA",
+      "person_id": "Q5094693",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7668693-842D7BC9-193B-4C50-883E-3097DFD77774",
+      "person_id": "Q7668693",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7668693-842D7BC9-193B-4C50-883E-3097DFD77774",
+      "person_id": "Q7668693",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7915071-167F623B-179D-4127-9B88-5D150DB4A250",
+      "person_id": "Q7915071",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7915071-167F623B-179D-4127-9B88-5D150DB4A250",
+      "person_id": "Q7915071",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Janaki Ramachandran",
+        "lang:hi": "जानकी रामचंद्रन"
+      },
+      "id": "Q3535989",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3535989"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "K. Kamaraj",
+        "lang:hi": "के. कामराज"
+      },
+      "id": "Q522048",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q522048"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "K. Palanisamy",
+        "lang:hi": "के पलानीस्वामी"
+      },
+      "id": "Q6323772",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6323772"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Tamil Nadu",
+        "lang:hi": "तमिलनाडु विधान सभा"
+      },
+      "id": "Q25154",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25154"
+        }
+      ],
+      "area_id": "Q1445"
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "All India Anna Dravida Munnetra Kazhagam",
+        "lang:hi": "ऑल इण्डिया अन्ना द्रविड़ मुनेत्र कड़गम"
+      },
+      "id": "Q651141",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q651141"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3535989-29D32EA5-666F-400A-950A-4B0E8BF164D8",
+      "person_id": "Q3535989",
+      "on_behalf_of_id": "Q651141",
+      "organization_id": "Q25154",
+      "area_id": "Q1445",
+      "role_superclass_code": "Q24040821",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Tamil Nadu"
+      },
+      "role_code": "Q24040821",
+      "role": {
+        "lang:en": "Chief Minister of Tamil Nadu"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q522048-d9ed620b-4e42-eaa0-cc9f-b991d642af10",
+      "person_id": "Q522048",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q25154",
+      "area_id": "Q1445",
+      "role_superclass_code": "Q24040821",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Tamil Nadu"
+      },
+      "role_code": "Q24040821",
+      "role": {
+        "lang:en": "Chief Minister of Tamil Nadu"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6323772-e45c060e-41e1-ea4c-bf9c-e9013a5b277e",
+      "person_id": "Q6323772",
+      "on_behalf_of_id": "Q651141",
+      "organization_id": "Q25154",
+      "area_id": "Q1445",
+      "start_date": "2017-02-16",
+      "role_superclass_code": "Q24040821",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Tamil Nadu"
+      },
+      "role_code": "Q24040821",
+      "role": {
+        "lang:en": "Chief Minister of Tamil Nadu"
+      }
+    }
+  ]
+}

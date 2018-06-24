@@ -1,0 +1,117 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "N. D. Tiwari",
+        "lang:hi": "नारायण दत्त तिवारी"
+      },
+      "id": "Q3520007",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3520007"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Yogi Adityanath",
+        "lang:hi": "योगी आदित्यनाथ"
+      },
+      "id": "Q4683097",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4683097"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Uttar Pradesh",
+        "lang:hi": "उत्तर प्रदेश विधान सभा"
+      },
+      "id": "Q29467206",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q29467206"
+        }
+      ],
+      "area_id": "Q1498"
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3520007-F014EC2E-DA7B-449D-BBB4-54E839BB6433",
+      "person_id": "Q3520007",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q29467206",
+      "area_id": "Q1498",
+      "role_superclass_code": "Q28966983",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Uttar Pradesh"
+      },
+      "role_code": "Q28966983",
+      "role": {
+        "lang:en": "Chief Minister of Uttar Pradesh"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4683097-d67b3047-49e4-a83e-d27b-f5d97a809b51",
+      "person_id": "Q4683097",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q29467206",
+      "area_id": "Q1498",
+      "start_date": "2017-03-19",
+      "role_superclass_code": "Q28966983",
+      "role_superclass": {
+        "lang:en": "Chief Minister of Uttar Pradesh"
+      },
+      "role_code": "Q28966983",
+      "role": {
+        "lang:en": "Chief Minister of Uttar Pradesh"
+      }
+    }
+  ]
+}

@@ -22,7 +22,8 @@ OPTIONAL {
   OPTIONAL {
     ?org wdt:P1001 ?org_jurisdiction
   }
-  ?item p:P39 ?statement .
+  ?item wdt:P31 wd:Q5 ;
+        p:P39 ?statement .
   OPTIONAL {
   ?item rdfs:label ?name_en
   FILTER(LANG(?name_en) = "en")

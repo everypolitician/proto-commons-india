@@ -17,6 +17,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21191665"
       },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मेघालय विधान सभा के सदस्य"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -35,6 +40,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6809008"
       },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मेघालय विधान सभा"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -47,6 +57,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1195"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
       },
       "role_superclass_hi" : {
         "xml:lang" : "hi",
@@ -67,6 +82,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q21191665"
       },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मेघालय विधान सभा के सदस्य"
+      },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -85,6 +105,11 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6809008"
       },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मेघालय विधान सभा"
+      },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
@@ -97,6 +122,11 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1195"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
       }
     } ]
   }
