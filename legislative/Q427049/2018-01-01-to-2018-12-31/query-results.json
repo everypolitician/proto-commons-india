@@ -6,66 +6,6 @@
     "bindings" : [ {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24456735"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15993391"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Wangnia Pongte"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q427049"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arunachal Pradesh Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15993391-EE48564F-6CE2-460C-821A-16C71FA9E603"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1162"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -154,12 +94,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16012135"
+        "value" : "http://www.wikidata.org/entity/Q15993391"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nyari Welly"
+        "value" : "Wangnia Pongte"
       },
       "org" : {
         "type" : "uri",
@@ -177,7 +117,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16012135-ABED0EC6-FAE0-4A0C-9C1F-0C66D7F815C7"
+        "value" : "http://www.wikidata.org/entity/statement/Q15993391-EE48564F-6CE2-460C-821A-16C71FA9E603"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -279,12 +219,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16013731"
+        "value" : "http://www.wikidata.org/entity/Q16012135"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bakin Pertin"
+        "value" : "Nyari Welly"
       },
       "org" : {
         "type" : "uri",
@@ -302,7 +242,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16013731-FD38B2F1-F031-4B16-B921-BF1BF5D0F6CE"
+        "value" : "http://www.wikidata.org/entity/statement/Q16012135-ABED0EC6-FAE0-4A0C-9C1F-0C66D7F815C7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -363,6 +303,131 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16013731-FD38B2F1-F031-4B16-B921-BF1BF5D0F6CE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24456735"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16013731"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bakin Pertin"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427049"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arunachal Pradesh Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16013731-FD38B2F1-F031-4B16-B921-BF1BF5D0F6CE"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24456735"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16734308"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nido Pavitra"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427049"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arunachal Pradesh Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16734308-3439910B-3802-4B15-9735-EB65A91F7374"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -464,12 +529,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16734308"
+        "value" : "http://www.wikidata.org/entity/Q16734776"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nido Pavitra"
+        "value" : "Kalikho Pul"
       },
       "org" : {
         "type" : "uri",
@@ -487,7 +552,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16734308-3439910B-3802-4B15-9735-EB65A91F7374"
+        "value" : "http://www.wikidata.org/entity/statement/Q16734776-97B72E92-CD1A-499F-BC22-08B3C063EBD9"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -502,6 +567,11 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कलिखो पुल"
       }
     }, {
       "role_superclass" : {
@@ -594,136 +664,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16734776"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kalikho Pul"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q427049"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arunachal Pradesh Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16734776-97B72E92-CD1A-499F-BC22-08B3C063EBD9"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1162"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कलिखो पुल"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24456735"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16800810"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Phurpa Tsering"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q427049"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arunachal Pradesh Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16800810-63B60D50-DF78-433C-A155-307630DDC12E"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1162"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24456735"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q16800810"
       },
       "name_en" : {
@@ -789,12 +729,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16858685"
+        "value" : "http://www.wikidata.org/entity/Q16800810"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Karikho Kri"
+        "value" : "Phurpa Tsering"
       },
       "org" : {
         "type" : "uri",
@@ -812,7 +752,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16858685-F18625B0-44BD-42E0-9477-0446439F510D"
+        "value" : "http://www.wikidata.org/entity/statement/Q16800810-63B60D50-DF78-433C-A155-307630DDC12E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -914,12 +854,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16866737"
+        "value" : "http://www.wikidata.org/entity/Q16858685"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Yumsem Matey"
+        "value" : "Karikho Kri"
       },
       "org" : {
         "type" : "uri",
@@ -937,7 +877,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16866737-B3B47D36-26D1-4C7B-81AC-E39E40D6B237"
+        "value" : "http://www.wikidata.org/entity/statement/Q16858685-F18625B0-44BD-42E0-9477-0446439F510D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -998,6 +938,131 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16866737-B3B47D36-26D1-4C7B-81AC-E39E40D6B237"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24456735"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16866737"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Yumsem Matey"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427049"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arunachal Pradesh Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16866737-B3B47D36-26D1-4C7B-81AC-E39E40D6B237"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24456735"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16875094"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Padi Richo"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427049"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arunachal Pradesh Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16875094-5CDBF3ED-3C33-4D44-8FCA-5DEAB5DF6D3A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1099,12 +1164,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16875094"
+        "value" : "http://www.wikidata.org/entity/Q16885674"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Padi Richo"
+        "value" : "Tapen Siga"
       },
       "org" : {
         "type" : "uri",
@@ -1122,7 +1187,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16875094-5CDBF3ED-3C33-4D44-8FCA-5DEAB5DF6D3A"
+        "value" : "http://www.wikidata.org/entity/statement/Q16885674-C2DDF8E0-C308-46A3-AE0F-C0033D484B2F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1224,12 +1289,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16885674"
+        "value" : "http://www.wikidata.org/entity/Q16934100"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tapen Siga"
+        "value" : "Gum Tayeng"
       },
       "org" : {
         "type" : "uri",
@@ -1247,7 +1312,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16885674-C2DDF8E0-C308-46A3-AE0F-C0033D484B2F"
+        "value" : "http://www.wikidata.org/entity/statement/Q16934100-1123BA2C-73A2-4A6E-93E6-5C785F6EEDD9"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1349,12 +1414,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16934100"
+        "value" : "http://www.wikidata.org/entity/Q16963928"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gum Tayeng"
+        "value" : "Sibo Kai"
       },
       "org" : {
         "type" : "uri",
@@ -1372,7 +1437,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16934100-1123BA2C-73A2-4A6E-93E6-5C785F6EEDD9"
+        "value" : "http://www.wikidata.org/entity/statement/Q16963928-6EA59B48-0C3D-4142-AB03-8FF773B63B11"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1474,12 +1539,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16963928"
+        "value" : "http://www.wikidata.org/entity/Q17495936"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sibo Kai"
+        "value" : "Tamiyo Taga"
       },
       "org" : {
         "type" : "uri",
@@ -1497,7 +1562,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16963928-6EA59B48-0C3D-4142-AB03-8FF773B63B11"
+        "value" : "http://www.wikidata.org/entity/statement/Q17495936-025BAC0D-4B24-4246-9E4B-3D77A4F419EB"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1599,12 +1664,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17495936"
+        "value" : "http://www.wikidata.org/entity/Q18126345"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tamiyo Taga"
+        "value" : "Jomin Tayeng"
       },
       "org" : {
         "type" : "uri",
@@ -1622,7 +1687,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17495936-025BAC0D-4B24-4246-9E4B-3D77A4F419EB"
+        "value" : "http://www.wikidata.org/entity/statement/Q18126345-ABB6AA8D-8309-4A7B-80A3-47F12C4CD4B5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1724,12 +1789,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18126345"
+        "value" : "http://www.wikidata.org/entity/Q18128222"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jomin Tayeng"
+        "value" : "Kaling Moyong"
       },
       "org" : {
         "type" : "uri",
@@ -1747,7 +1812,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18126345-ABB6AA8D-8309-4A7B-80A3-47F12C4CD4B5"
+        "value" : "http://www.wikidata.org/entity/statement/Q18128222-EEDB3CB1-2FB7-4704-BFF1-48A8062D9D49"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1849,12 +1914,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18128222"
+        "value" : "http://www.wikidata.org/entity/Q18164136"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kaling Moyong"
+        "value" : "Jambey Tashi"
       },
       "org" : {
         "type" : "uri",
@@ -1872,7 +1937,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18128222-EEDB3CB1-2FB7-4704-BFF1-48A8062D9D49"
+        "value" : "http://www.wikidata.org/entity/statement/Q18164136-A5B2A783-DDB7-4C1F-BA03-F362F39658A7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1974,12 +2039,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18164136"
+        "value" : "http://www.wikidata.org/entity/Q18164432"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jambey Tashi"
+        "value" : "Tapang Taloh"
       },
       "org" : {
         "type" : "uri",
@@ -1997,7 +2062,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18164136-A5B2A783-DDB7-4C1F-BA03-F362F39658A7"
+        "value" : "http://www.wikidata.org/entity/statement/Q18164432-07D88726-4A33-48BB-AC8E-811C3DB38E32"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2099,12 +2164,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18164432"
+        "value" : "http://www.wikidata.org/entity/Q18164436"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tapang Taloh"
+        "value" : "Tarung Pabin"
       },
       "org" : {
         "type" : "uri",
@@ -2122,7 +2187,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18164432-07D88726-4A33-48BB-AC8E-811C3DB38E32"
+        "value" : "http://www.wikidata.org/entity/statement/Q18164436-9787B281-DBEF-4300-842B-EA2BED0C4F01"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2224,12 +2289,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18164436"
+        "value" : "http://www.wikidata.org/entity/Q18211105"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tarung Pabin"
+        "value" : "Tangor Tapak"
       },
       "org" : {
         "type" : "uri",
@@ -2247,7 +2312,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18164436-9787B281-DBEF-4300-842B-EA2BED0C4F01"
+        "value" : "http://www.wikidata.org/entity/statement/Q18211105-63905C53-B02B-44EA-8B21-01E6DE00F33F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2349,12 +2414,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18211105"
+        "value" : "http://www.wikidata.org/entity/Q18217300"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tangor Tapak"
+        "value" : "Techi Kaso"
       },
       "org" : {
         "type" : "uri",
@@ -2372,7 +2437,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18211105-63905C53-B02B-44EA-8B21-01E6DE00F33F"
+        "value" : "http://www.wikidata.org/entity/statement/Q18217300-7DB8359A-E71F-466E-AAB0-CB55E1C89040"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2474,12 +2539,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18217300"
+        "value" : "http://www.wikidata.org/entity/Q18217334"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Techi Kaso"
+        "value" : "Tenzing Norbu Thongdok"
       },
       "org" : {
         "type" : "uri",
@@ -2497,7 +2562,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18217300-7DB8359A-E71F-466E-AAB0-CB55E1C89040"
+        "value" : "http://www.wikidata.org/entity/statement/Q18217334-9F33B123-D823-4842-BF70-8A7A43FFB7D8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2599,12 +2664,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18217334"
+        "value" : "http://www.wikidata.org/entity/Q18217543"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tenzing Norbu Thongdok"
+        "value" : "Kumsi Sidisow"
       },
       "org" : {
         "type" : "uri",
@@ -2622,7 +2687,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18217334-9F33B123-D823-4842-BF70-8A7A43FFB7D8"
+        "value" : "http://www.wikidata.org/entity/statement/Q18217543-48144D15-10AF-4D95-A8D5-1BC5A15A8151"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2724,12 +2789,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18217543"
+        "value" : "http://www.wikidata.org/entity/Q18218113"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kumsi Sidisow"
+        "value" : "Tsering Tashi"
       },
       "org" : {
         "type" : "uri",
@@ -2747,7 +2812,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18217543-48144D15-10AF-4D95-A8D5-1BC5A15A8151"
+        "value" : "http://www.wikidata.org/entity/statement/Q18218113-80743010-9850-4A06-9796-9A2885BD8210"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2849,12 +2914,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18218113"
+        "value" : "http://www.wikidata.org/entity/Q18356813"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tsering Tashi"
+        "value" : "Gabriel Denwang Wangsu"
       },
       "org" : {
         "type" : "uri",
@@ -2872,7 +2937,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18218113-80743010-9850-4A06-9796-9A2885BD8210"
+        "value" : "http://www.wikidata.org/entity/statement/Q18356813-5BB545E0-4E2A-4933-9E8F-0C8E3C40970D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2974,12 +3039,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18356813"
+        "value" : "http://www.wikidata.org/entity/Q19663664"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gabriel Denwang Wangsu"
+        "value" : "Tesam Pongte"
       },
       "org" : {
         "type" : "uri",
@@ -2997,7 +3062,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18356813-5BB545E0-4E2A-4933-9E8F-0C8E3C40970D"
+        "value" : "http://www.wikidata.org/entity/statement/Q19663664-0EB9ACC8-935B-4E3B-A50A-020B2458FFFF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3099,12 +3164,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19663664"
+        "value" : "http://www.wikidata.org/entity/Q21266438"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tesam Pongte"
+        "value" : "Jomde Kena"
       },
       "org" : {
         "type" : "uri",
@@ -3122,7 +3187,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19663664-0EB9ACC8-935B-4E3B-A50A-020B2458FFFF"
+        "value" : "http://www.wikidata.org/entity/statement/Q21266438-E7C9F1A9-F2FE-496F-8FAF-7B1F64379166"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3224,12 +3289,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21266438"
+        "value" : "http://www.wikidata.org/entity/Q23409826"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jomde Kena"
+        "value" : "Zingnu Namchoom"
       },
       "org" : {
         "type" : "uri",
@@ -3247,7 +3312,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21266438-E7C9F1A9-F2FE-496F-8FAF-7B1F64379166"
+        "value" : "http://www.wikidata.org/entity/statement/Q23409826-C351CFCD-91A0-4101-B9D1-6D63967A94D7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3349,12 +3414,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23409826"
+        "value" : "http://www.wikidata.org/entity/Q23772431"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Zingnu Namchoom"
+        "value" : "Kameng Dolo"
       },
       "org" : {
         "type" : "uri",
@@ -3372,7 +3437,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23409826-C351CFCD-91A0-4101-B9D1-6D63967A94D7"
+        "value" : "http://www.wikidata.org/entity/statement/Q23772431-2D2006A5-3578-4F0E-8E73-42018164DD11"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3474,12 +3539,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23772431"
+        "value" : "http://www.wikidata.org/entity/Q24266642"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kameng Dolo"
+        "value" : "Tumke Bagra"
       },
       "org" : {
         "type" : "uri",
@@ -3497,7 +3562,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23772431-2D2006A5-3578-4F0E-8E73-42018164DD11"
+        "value" : "http://www.wikidata.org/entity/statement/Q24266642-080712B1-197F-4527-96D8-9DE8500E10A1"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3599,136 +3664,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24266642"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tumke Bagra"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q427049"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arunachal Pradesh Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24266642-080712B1-197F-4527-96D8-9DE8500E10A1"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1162"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24456735"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3595251"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nabam Tuki"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q427049"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arunachal Pradesh Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3595251-6310F76B-D33B-45B2-86F1-41E383386ED8"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1162"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "नबाम टुकी"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24456735"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3595251"
       },
       "name_en" : {
@@ -3799,12 +3734,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3595612"
+        "value" : "http://www.wikidata.org/entity/Q3595251"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gegong Apang"
+        "value" : "Nabam Tuki"
       },
       "org" : {
         "type" : "uri",
@@ -3822,7 +3757,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3595612-B2920A66-CC6F-4EFD-9EE2-141B23ADACC2"
+        "value" : "http://www.wikidata.org/entity/statement/Q3595251-6310F76B-D33B-45B2-86F1-41E383386ED8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3836,7 +3771,7 @@
       "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "गेगोंग अपांग"
+        "value" : "नबाम टुकी"
       }
     }, {
       "role_superclass" : {
@@ -3934,12 +3869,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q376465"
+        "value" : "http://www.wikidata.org/entity/Q3595612"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dorjee Khandu"
+        "value" : "Gegong Apang"
       },
       "org" : {
         "type" : "uri",
@@ -3957,7 +3892,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q376465-5E3929A1-FB50-4933-A08E-1B5DCE971EDB"
+        "value" : "http://www.wikidata.org/entity/statement/Q3595612-B2920A66-CC6F-4EFD-9EE2-141B23ADACC2"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3967,6 +3902,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गेगोंग अपांग"
       }
     }, {
       "role_superclass" : {
@@ -4059,12 +3999,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5989347"
+        "value" : "http://www.wikidata.org/entity/Q376465"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mukut Mithi"
+        "value" : "Dorjee Khandu"
       },
       "org" : {
         "type" : "uri",
@@ -4082,7 +4022,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5989347-8A1C8B34-8E45-4830-94D9-F9F0DE0719A0"
+        "value" : "http://www.wikidata.org/entity/statement/Q376465-5E3929A1-FB50-4933-A08E-1B5DCE971EDB"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4184,12 +4124,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6159584"
+        "value" : "http://www.wikidata.org/entity/Q5989347"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jarbom Gamlin"
+        "value" : "Mukut Mithi"
       },
       "org" : {
         "type" : "uri",
@@ -4207,7 +4147,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6159584-3F5EF48D-C844-450C-BED4-B10365ECE64D"
+        "value" : "http://www.wikidata.org/entity/statement/Q5989347-8A1C8B34-8E45-4830-94D9-F9F0DE0719A0"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4309,12 +4249,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6956739"
+        "value" : "http://www.wikidata.org/entity/Q6159584"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nabam Rebia"
+        "value" : "Jarbom Gamlin"
       },
       "org" : {
         "type" : "uri",
@@ -4332,7 +4272,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6956739-5E7E9B5E-B5F6-46AA-A07F-899AE0371084"
+        "value" : "http://www.wikidata.org/entity/statement/Q6159584-3F5EF48D-C844-450C-BED4-B10365ECE64D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4434,12 +4374,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7039087"
+        "value" : "http://www.wikidata.org/entity/Q6956739"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ninong Ering"
+        "value" : "Nabam Rebia"
       },
       "org" : {
         "type" : "uri",
@@ -4457,7 +4397,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7039087-BF2EB377-7D12-47E3-B083-FDC38AE37CA3"
+        "value" : "http://www.wikidata.org/entity/statement/Q6956739-5E7E9B5E-B5F6-46AA-A07F-899AE0371084"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4467,11 +4407,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "निनोंग ईरिंग"
       }
     }, {
       "role_superclass" : {
@@ -4569,12 +4504,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7161834"
+        "value" : "http://www.wikidata.org/entity/Q7039087"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pema Khandu"
+        "value" : "Ninong Ering"
       },
       "org" : {
         "type" : "uri",
@@ -4592,7 +4527,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7161834-B6AAF58A-10F9-42E5-BDC1-8CE9C5BDA386"
+        "value" : "http://www.wikidata.org/entity/statement/Q7039087-BF2EB377-7D12-47E3-B083-FDC38AE37CA3"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4606,7 +4541,7 @@
       "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "पेमा खांडू"
+        "value" : "निनोंग ईरिंग"
       }
     }, {
       "role_superclass" : {
@@ -4704,6 +4639,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7161834"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pema Khandu"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427049"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arunachal Pradesh Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7161834-B6AAF58A-10F9-42E5-BDC1-8CE9C5BDA386"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पेमा खांडू"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24456735"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7240137"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Prem Khandu Thungan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q427049"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Arunachal Pradesh Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7240137-BCB64F40-BD66-430D-BB0A-F1447D3D28D3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1162"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24456735"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7240137"
       },
       "name_en" : {
@@ -4764,12 +4829,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7240137"
+        "value" : "http://www.wikidata.org/entity/Q7286093"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Prem Khandu Thungan"
+        "value" : "Rajesh Tacho"
       },
       "org" : {
         "type" : "uri",
@@ -4787,7 +4852,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7240137-BCB64F40-BD66-430D-BB0A-F1447D3D28D3"
+        "value" : "http://www.wikidata.org/entity/statement/Q7286093-4F70F54F-762E-42A8-A12F-5B5788821057"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4889,12 +4954,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7286093"
+        "value" : "http://www.wikidata.org/entity/Q7677123"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rajesh Tacho"
+        "value" : "Takam Sanjoy"
       },
       "org" : {
         "type" : "uri",
@@ -4912,7 +4977,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7286093-4F70F54F-762E-42A8-A12F-5B5788821057"
+        "value" : "http://www.wikidata.org/entity/statement/Q7677123-A1FC912A-DAF9-467F-806D-A7087D5DFF01"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5014,12 +5079,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7677123"
+        "value" : "http://www.wikidata.org/entity/Q7820073"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Takam Sanjoy"
+        "value" : "Tomo Riba"
       },
       "org" : {
         "type" : "uri",
@@ -5037,7 +5102,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7677123-A1FC912A-DAF9-467F-806D-A7087D5DFF01"
+        "value" : "http://www.wikidata.org/entity/statement/Q7820073-5B1E4C03-F7C9-4992-993B-67BD6F28CB20"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5112,71 +5177,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24456735"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Arunachal Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7820073"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Tomo Riba"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q427049"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरुणाचल प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Arunachal Pradesh Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7820073-5B1E4C03-F7C9-4992-993B-67BD6F28CB20"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1162"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       }
     } ]
   }

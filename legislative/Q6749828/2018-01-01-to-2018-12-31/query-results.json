@@ -6,66 +6,6 @@
     "bindings" : [ {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19464087"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Manipur Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16104553"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Singh W Angou"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6749828"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manipur Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16104553-10FB83CD-142C-48F3-ACE7-D5AE3ED6641A"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -154,12 +94,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16107214"
+        "value" : "http://www.wikidata.org/entity/Q16104553"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B.D. Behring"
+        "value" : "Singh W Angou"
       },
       "org" : {
         "type" : "uri",
@@ -177,7 +117,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16107214-121691BB-AA12-4271-B47E-4714E53ED317"
+        "value" : "http://www.wikidata.org/entity/statement/Q16104553-10FB83CD-142C-48F3-ACE7-D5AE3ED6641A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -279,12 +219,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2017412"
+        "value" : "http://www.wikidata.org/entity/Q16107214"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Okram Ibobi Singh"
+        "value" : "B.D. Behring"
       },
       "org" : {
         "type" : "uri",
@@ -302,7 +242,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2017412-2118E707-99F1-4C19-B3BB-D66967DE06BF"
+        "value" : "http://www.wikidata.org/entity/statement/Q16107214-121691BB-AA12-4271-B47E-4714E53ED317"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -312,11 +252,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "ओकरम इबोबी सिंह"
       }
     }, {
       "role_superclass" : {
@@ -414,6 +349,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2017412"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Okram Ibobi Singh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6749828"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manipur Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2017412-2118E707-99F1-4C19-B3BB-D66967DE06BF"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1193"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "ओकरम इबोबी सिंह"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19464087"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Manipur Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q23772077"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "T N Haokip"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6749828"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manipur Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q23772077-4368526F-BA27-4822-AF4E-83BAA8798523"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1193"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19464087"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Manipur Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q23772077"
       },
       "name_en" : {
@@ -474,12 +539,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23772077"
+        "value" : "http://www.wikidata.org/entity/Q24284529"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "T N Haokip"
+        "value" : "Mohammed Alimuddin"
       },
       "org" : {
         "type" : "uri",
@@ -497,7 +562,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23772077-4368526F-BA27-4822-AF4E-83BAA8798523"
+        "value" : "http://www.wikidata.org/entity/statement/Q24284529-2BBFAD80-E7F3-4D68-9352-5729481D7E6C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -599,12 +664,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24284529"
+        "value" : "http://www.wikidata.org/entity/Q4907266"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mohammed Alimuddin"
+        "value" : "Bijoy Koijam"
       },
       "org" : {
         "type" : "uri",
@@ -622,7 +687,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24284529-2BBFAD80-E7F3-4D68-9352-5729481D7E6C"
+        "value" : "http://www.wikidata.org/entity/statement/Q4907266-5DACA313-2E18-4F0A-BCA7-180524B6CA8E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -724,12 +789,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4907266"
+        "value" : "http://www.wikidata.org/entity/Q5517030"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bijoy Koijam"
+        "value" : "Gaikhangam Gangmei"
       },
       "org" : {
         "type" : "uri",
@@ -747,7 +812,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4907266-5DACA313-2E18-4F0A-BCA7-180524B6CA8E"
+        "value" : "http://www.wikidata.org/entity/statement/Q5517030-40F7A831-0D0B-4371-8EE9-E1B4E99EF4B6"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -849,12 +914,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5517030"
+        "value" : "http://www.wikidata.org/entity/Q5521157"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gaikhangam Gangmei"
+        "value" : "Gangmumei Kamei"
       },
       "org" : {
         "type" : "uri",
@@ -872,7 +937,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5517030-40F7A831-0D0B-4371-8EE9-E1B4E99EF4B6"
+        "value" : "http://www.wikidata.org/entity/statement/Q5521157-EDC3A957-624B-4536-8A1F-9D5B4A7AC231"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -974,12 +1039,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5521157"
+        "value" : "http://www.wikidata.org/entity/Q6403408"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gangmumei Kamei"
+        "value" : "Khwairakpam Loken Singh"
       },
       "org" : {
         "type" : "uri",
@@ -997,7 +1062,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5521157-EDC3A957-624B-4536-8A1F-9D5B4A7AC231"
+        "value" : "http://www.wikidata.org/entity/statement/Q6403408-A9590607-DCB4-4DFF-8FC0-C6A565DB027F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1099,12 +1164,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6403408"
+        "value" : "http://www.wikidata.org/entity/Q6474145"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Khwairakpam Loken Singh"
+        "value" : "Laishram Nandakumar Singh"
       },
       "org" : {
         "type" : "uri",
@@ -1122,7 +1187,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6403408-A9590607-DCB4-4DFF-8FC0-C6A565DB027F"
+        "value" : "http://www.wikidata.org/entity/statement/Q6474145-5986B960-4499-4D0E-A217-A02C3B6C23E8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1224,12 +1289,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6474145"
+        "value" : "http://www.wikidata.org/entity/Q6712738"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Laishram Nandakumar Singh"
+        "value" : "M. K. Binodini Devi"
       },
       "org" : {
         "type" : "uri",
@@ -1247,7 +1312,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6474145-5986B960-4499-4D0E-A217-A02C3B6C23E8"
+        "value" : "http://www.wikidata.org/entity/statement/Q6712738-09D384EC-9F90-4380-B351-E13843248FB6"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1262,6 +1327,11 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "एम.के. बिनोदिनी देवी"
       }
     }, {
       "role_superclass" : {
@@ -1354,136 +1424,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6712738"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "M. K. Binodini Devi"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6749828"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manipur Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6712738-09D384EC-9F90-4380-B351-E13843248FB6"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एम.के. बिनोदिनी देवी"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19464087"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Manipur Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6736926"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mairembam Koireng Singh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6749828"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manipur Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6736926-A0433F11-D208-4D56-9D84-65AF17116CF1"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19464087"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Manipur Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6736926"
       },
       "name_en" : {
@@ -1549,12 +1489,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6932936"
+        "value" : "http://www.wikidata.org/entity/Q6736926"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Muhammed Alauddin Khan"
+        "value" : "Mairembam Koireng Singh"
       },
       "org" : {
         "type" : "uri",
@@ -1572,7 +1512,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6932936-BC9ED2D9-1662-49DF-8608-86109BFE8B34"
+        "value" : "http://www.wikidata.org/entity/statement/Q6736926-A0433F11-D208-4D56-9D84-65AF17116CF1"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1674,12 +1614,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7021878"
+        "value" : "http://www.wikidata.org/entity/Q6932936"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ngairangbam Bijoy Singh"
+        "value" : "Muhammed Alauddin Khan"
       },
       "org" : {
         "type" : "uri",
@@ -1697,7 +1637,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7021878-FAAB381D-A404-4715-BD00-50579508E1EC"
+        "value" : "http://www.wikidata.org/entity/statement/Q6932936-BC9ED2D9-1662-49DF-8608-86109BFE8B34"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1799,12 +1739,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7049407"
+        "value" : "http://www.wikidata.org/entity/Q7021878"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nongthombam Biren Singh"
+        "value" : "Ngairangbam Bijoy Singh"
       },
       "org" : {
         "type" : "uri",
@@ -1822,7 +1762,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7049407-FE3074DC-48A5-4232-9DD6-D85DE291C211"
+        "value" : "http://www.wikidata.org/entity/statement/Q7021878-FAAB381D-A404-4715-BD00-50579508E1EC"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1832,11 +1772,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एन बीरेन सिंह"
       }
     }, {
       "role_superclass" : {
@@ -1934,6 +1869,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7049407"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nongthombam Biren Singh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6749828"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manipur Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7049407-FE3074DC-48A5-4232-9DD6-D85DE291C211"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1193"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "एन बीरेन सिंह"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19464087"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Manipur Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7181202"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Pheiroijam Parijat Singh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6749828"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manipur Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7181202-D0A83F54-796D-4F20-AAE1-B14DB5E2B39D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1193"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "60"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q19464087"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मणिपुर विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Manipur Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7181202"
       },
       "name_en" : {
@@ -1994,12 +2059,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7181202"
+        "value" : "http://www.wikidata.org/entity/Q7280206"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pheiroijam Parijat Singh"
+        "value" : "Radhabinod Koijam"
       },
       "org" : {
         "type" : "uri",
@@ -2017,7 +2082,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7181202-D0A83F54-796D-4F20-AAE1-B14DB5E2B39D"
+        "value" : "http://www.wikidata.org/entity/statement/Q7280206-F42DF9A1-9A10-42E3-BBB7-F68F30929A48"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2119,12 +2184,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7280206"
+        "value" : "http://www.wikidata.org/entity/Q7285314"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Radhabinod Koijam"
+        "value" : "Raj Kumar Dorendra Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2142,7 +2207,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7280206-F42DF9A1-9A10-42E3-BBB7-F68F30929A48"
+        "value" : "http://www.wikidata.org/entity/statement/Q7285314-6099695F-B44A-4294-BD23-6628A93DA9EA"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2244,12 +2309,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7285314"
+        "value" : "http://www.wikidata.org/entity/Q7336021"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Raj Kumar Dorendra Singh"
+        "value" : "Rishang Keishing"
       },
       "org" : {
         "type" : "uri",
@@ -2267,7 +2332,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7285314-6099695F-B44A-4294-BD23-6628A93DA9EA"
+        "value" : "http://www.wikidata.org/entity/statement/Q7336021-B55AE2B1-5512-471B-AD34-850E23F4FDC9"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2369,12 +2434,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7336021"
+        "value" : "http://www.wikidata.org/entity/Q7420904"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rishang Keishing"
+        "value" : "Sapam Budhichandra Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2392,7 +2457,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7336021-B55AE2B1-5512-471B-AD34-850E23F4FDC9"
+        "value" : "http://www.wikidata.org/entity/statement/Q7420904-4787B11C-D497-4360-A37F-02E9B30AB3A5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2494,12 +2559,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7420904"
+        "value" : "http://www.wikidata.org/entity/Q7710309"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sapam Budhichandra Singh"
+        "value" : "Thangjam Nandakishor Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2517,7 +2582,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7420904-4787B11C-D497-4360-A37F-02E9B30AB3A5"
+        "value" : "http://www.wikidata.org/entity/statement/Q7710309-D22AFD66-1617-41B7-963B-EE5B6F3AA9A8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2619,12 +2684,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7710309"
+        "value" : "http://www.wikidata.org/entity/Q7786659"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Thangjam Nandakishor Singh"
+        "value" : "Thokchom Navakumar Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2642,7 +2707,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7710309-D22AFD66-1617-41B7-963B-EE5B6F3AA9A8"
+        "value" : "http://www.wikidata.org/entity/statement/Q7786659-696C0AF1-EB53-4377-A7AD-EAD89CD1BB66"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2744,12 +2809,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7786659"
+        "value" : "http://www.wikidata.org/entity/Q7797029"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Thokchom Navakumar Singh"
+        "value" : "Thounaojam Shyamkumar Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2767,7 +2832,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7786659-696C0AF1-EB53-4377-A7AD-EAD89CD1BB66"
+        "value" : "http://www.wikidata.org/entity/statement/Q7797029-87A58767-893C-4436-86A6-8F79F5BBF971"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2869,12 +2934,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7797029"
+        "value" : "http://www.wikidata.org/entity/Q7959768"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Thounaojam Shyamkumar Singh"
+        "value" : "Wahengbam Nipamacha Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2892,7 +2957,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7797029-87A58767-893C-4436-86A6-8F79F5BBF971"
+        "value" : "http://www.wikidata.org/entity/statement/Q7959768-CC99D1AE-FE7C-4623-8829-A455CB52EA3A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2994,12 +3059,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7959768"
+        "value" : "http://www.wikidata.org/entity/Q8048602"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Wahengbam Nipamacha Singh"
+        "value" : "Yangmaso Shaiza"
       },
       "org" : {
         "type" : "uri",
@@ -3017,7 +3082,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7959768-CC99D1AE-FE7C-4623-8829-A455CB52EA3A"
+        "value" : "http://www.wikidata.org/entity/statement/Q8048602-5348DACA-FC54-40DC-963C-439D0E55EE6B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3092,71 +3157,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "60"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19464087"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Manipur Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8048602"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Yangmaso Shaiza"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6749828"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manipur Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8048602-5348DACA-FC54-40DC-963C-439D0E55EE6B"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "60"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       }
     } ]
   }
