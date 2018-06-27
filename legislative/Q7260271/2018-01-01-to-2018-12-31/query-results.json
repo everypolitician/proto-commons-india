@@ -6,71 +6,6 @@
     "bindings" : [ {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q14624968"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Som Parkash"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q14624968-51AE7CD2-F7C5-42C8-9DCF-C17782E6EDA0"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -154,12 +89,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1584960"
+        "value" : "http://www.wikidata.org/entity/Q14624968"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Harcharan Singh Brar"
+        "value" : "Som Parkash"
       },
       "org" : {
         "type" : "uri",
@@ -177,7 +112,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1584960-ADDF437A-63DC-4249-9A57-C6CF69B06FC1"
+        "value" : "http://www.wikidata.org/entity/statement/Q14624968-51AE7CD2-F7C5-42C8-9DCF-C17782E6EDA0"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -279,12 +214,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15972065"
+        "value" : "http://www.wikidata.org/entity/Q1584960"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Satpal Dang"
+        "value" : "Harcharan Singh Brar"
       },
       "org" : {
         "type" : "uri",
@@ -302,7 +237,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15972065-D9FEF7D5-A25A-420B-BA38-C42C86704257"
+        "value" : "http://www.wikidata.org/entity/statement/Q1584960-ADDF437A-63DC-4249-9A57-C6CF69B06FC1"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -404,12 +339,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15983294"
+        "value" : "http://www.wikidata.org/entity/Q15972065"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chuni Lal Bhagat"
+        "value" : "Satpal Dang"
       },
       "org" : {
         "type" : "uri",
@@ -427,7 +362,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15983294-97734648-108E-4881-BFC3-63CCD1893C4A"
+        "value" : "http://www.wikidata.org/entity/statement/Q15972065-D9FEF7D5-A25A-420B-BA38-C42C86704257"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -529,12 +464,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16008783"
+        "value" : "http://www.wikidata.org/entity/Q15983294"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gian Singh Rarewala"
+        "value" : "Chuni Lal Bhagat"
       },
       "org" : {
         "type" : "uri",
@@ -552,7 +487,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16008783-23ECF418-EDC3-463F-8CDE-11BCF3C7D8F5"
+        "value" : "http://www.wikidata.org/entity/statement/Q15983294-97734648-108E-4881-BFC3-63CCD1893C4A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -654,12 +589,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16014206"
+        "value" : "http://www.wikidata.org/entity/Q16008783"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jiwan Singh Umranangal"
+        "value" : "Gian Singh Rarewala"
       },
       "org" : {
         "type" : "uri",
@@ -677,7 +612,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16014206-7D8E9F09-E1A3-43BA-99F9-E89917AABCC6"
+        "value" : "http://www.wikidata.org/entity/statement/Q16008783-23ECF418-EDC3-463F-8CDE-11BCF3C7D8F5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -779,12 +714,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16017888"
+        "value" : "http://www.wikidata.org/entity/Q16014206"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Raghunath Sahai Puri"
+        "value" : "Jiwan Singh Umranangal"
       },
       "org" : {
         "type" : "uri",
@@ -802,7 +737,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16017888-EA76D074-1B84-41C8-86DC-718712B13708"
+        "value" : "http://www.wikidata.org/entity/statement/Q16014206-7D8E9F09-E1A3-43BA-99F9-E89917AABCC6"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -904,12 +839,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16019544"
+        "value" : "http://www.wikidata.org/entity/Q16017888"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Amarjit Singh Sahi"
+        "value" : "Raghunath Sahai Puri"
       },
       "org" : {
         "type" : "uri",
@@ -927,7 +862,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16019544-7613704C-0F66-4D2D-BD88-71A545D7A88B"
+        "value" : "http://www.wikidata.org/entity/statement/Q16017888-EA76D074-1B84-41C8-86DC-718712B13708"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1029,12 +964,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16030046"
+        "value" : "http://www.wikidata.org/entity/Q16019544"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Harnam Singh"
+        "value" : "Amarjit Singh Sahi"
       },
       "org" : {
         "type" : "uri",
@@ -1052,7 +987,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16030046-8CE62D45-3A48-41AC-B92B-6252A843E876"
+        "value" : "http://www.wikidata.org/entity/statement/Q16019544-7613704C-0F66-4D2D-BD88-71A545D7A88B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1154,12 +1089,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16097177"
+        "value" : "http://www.wikidata.org/entity/Q16030046"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Madan Mohan Mittal"
+        "value" : "Harnam Singh"
       },
       "org" : {
         "type" : "uri",
@@ -1177,7 +1112,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16097177-69DA6C30-5562-4CB0-A6F7-AEE95840D29A"
+        "value" : "http://www.wikidata.org/entity/statement/Q16030046-8CE62D45-3A48-41AC-B92B-6252A843E876"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1279,12 +1214,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16097212"
+        "value" : "http://www.wikidata.org/entity/Q16097177"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Master Mohan Lal"
+        "value" : "Madan Mohan Mittal"
       },
       "org" : {
         "type" : "uri",
@@ -1302,7 +1237,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16097212-C696DFC6-E942-4731-B417-23025FC68C4E"
+        "value" : "http://www.wikidata.org/entity/statement/Q16097177-69DA6C30-5562-4CB0-A6F7-AEE95840D29A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1404,12 +1339,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16106441"
+        "value" : "http://www.wikidata.org/entity/Q16097212"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Amarjit Singh Samra"
+        "value" : "Master Mohan Lal"
       },
       "org" : {
         "type" : "uri",
@@ -1427,7 +1362,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16106441-C4F35C03-0D37-4F29-BD38-1E528A9065CB"
+        "value" : "http://www.wikidata.org/entity/statement/Q16097212-C696DFC6-E942-4731-B417-23025FC68C4E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1529,12 +1464,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16142848"
+        "value" : "http://www.wikidata.org/entity/Q16106441"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sikander Singh Maluka"
+        "value" : "Amarjit Singh Samra"
       },
       "org" : {
         "type" : "uri",
@@ -1552,7 +1487,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16142848-BF3EEE17-C824-45D8-B96A-DF6FDE05A71F"
+        "value" : "http://www.wikidata.org/entity/statement/Q16106441-C4F35C03-0D37-4F29-BD38-1E528A9065CB"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1654,12 +1589,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16148213"
+        "value" : "http://www.wikidata.org/entity/Q16142848"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Amarpal Singh Ajnala"
+        "value" : "Sikander Singh Maluka"
       },
       "org" : {
         "type" : "uri",
@@ -1677,7 +1612,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16148213-432BF615-1115-4196-B431-910212556B56"
+        "value" : "http://www.wikidata.org/entity/statement/Q16142848-BF3EEE17-C824-45D8-B96A-DF6FDE05A71F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1752,6 +1687,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16148213"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Amarpal Singh Ajnala"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16148213-432BF615-1115-4196-B431-910212556B56"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -1891,71 +1891,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16149555"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ashwani Kumar Sharma"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16149555-A233E628-70DB-4BF5-8E01-33CA57CE52F7"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -2039,12 +1974,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16149568"
+        "value" : "http://www.wikidata.org/entity/Q16149555"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ashwani Sekhri"
+        "value" : "Ashwani Kumar Sharma"
       },
       "org" : {
         "type" : "uri",
@@ -2062,7 +1997,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16149568-C9E660FA-F787-46B3-8260-C2EF9E86987E"
+        "value" : "http://www.wikidata.org/entity/statement/Q16149555-A233E628-70DB-4BF5-8E01-33CA57CE52F7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2164,12 +2099,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16149643"
+        "value" : "http://www.wikidata.org/entity/Q16149568"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Amrinder Singh Raja Warring"
+        "value" : "Ashwani Sekhri"
       },
       "org" : {
         "type" : "uri",
@@ -2187,7 +2122,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16149643-FB1CEEEB-3004-4BF4-A030-7680AE192011"
+        "value" : "http://www.wikidata.org/entity/statement/Q16149568-C9E660FA-F787-46B3-8260-C2EF9E86987E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2289,12 +2224,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16194513"
+        "value" : "http://www.wikidata.org/entity/Q16149643"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dinesh Singh"
+        "value" : "Amrinder Singh Raja Warring"
       },
       "org" : {
         "type" : "uri",
@@ -2312,7 +2247,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16194513-BA6C1F7B-2385-4EE7-913C-89B34306B564"
+        "value" : "http://www.wikidata.org/entity/statement/Q16149643-FB1CEEEB-3004-4BF4-A030-7680AE192011"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2414,12 +2349,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16197674"
+        "value" : "http://www.wikidata.org/entity/Q16194513"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gurbachan Singh Babbehali"
+        "value" : "Dinesh Singh"
       },
       "org" : {
         "type" : "uri",
@@ -2437,7 +2372,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16197674-99717BC8-51FF-4AFA-897E-2E0784A88EDF"
+        "value" : "http://www.wikidata.org/entity/statement/Q16194513-BA6C1F7B-2385-4EE7-913C-89B34306B564"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2539,12 +2474,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16197713"
+        "value" : "http://www.wikidata.org/entity/Q16197674"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Charanjit Kaur Bajwa"
+        "value" : "Gurbachan Singh Babbehali"
       },
       "org" : {
         "type" : "uri",
@@ -2562,7 +2497,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16197713-24C86E64-0E29-412C-ABFC-6DE9FEB0AFA4"
+        "value" : "http://www.wikidata.org/entity/statement/Q16197674-99717BC8-51FF-4AFA-897E-2E0784A88EDF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2664,12 +2599,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16198078"
+        "value" : "http://www.wikidata.org/entity/Q16197713"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Janmeja Singh Sekhon"
+        "value" : "Charanjit Kaur Bajwa"
       },
       "org" : {
         "type" : "uri",
@@ -2687,7 +2622,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16198078-7AB18376-9448-4E3A-B7B6-6C65049EB0BD"
+        "value" : "http://www.wikidata.org/entity/statement/Q16197713-24C86E64-0E29-412C-ABFC-6DE9FEB0AFA4"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2789,12 +2724,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16199207"
+        "value" : "http://www.wikidata.org/entity/Q16198078"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. D. Bhandari"
+        "value" : "Janmeja Singh Sekhon"
       },
       "org" : {
         "type" : "uri",
@@ -2812,7 +2747,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16199207-7178ADC1-D0F6-4250-B823-1979AC047DC4"
+        "value" : "http://www.wikidata.org/entity/statement/Q16198078-7AB18376-9448-4E3A-B7B6-6C65049EB0BD"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2914,12 +2849,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16199695"
+        "value" : "http://www.wikidata.org/entity/Q16199207"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Inderbir Singh Bolaria"
+        "value" : "K. D. Bhandari"
       },
       "org" : {
         "type" : "uri",
@@ -2937,7 +2872,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16199695-26FA757B-B9D8-491C-AD80-364A8057B05B"
+        "value" : "http://www.wikidata.org/entity/statement/Q16199207-7178ADC1-D0F6-4250-B823-1979AC047DC4"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3039,12 +2974,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16203492"
+        "value" : "http://www.wikidata.org/entity/Q16199695"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Avinash Chander"
+        "value" : "Inderbir Singh Bolaria"
       },
       "org" : {
         "type" : "uri",
@@ -3062,7 +2997,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16203492-D74FCC71-9C52-46B6-9EBD-A5AFABD8E541"
+        "value" : "http://www.wikidata.org/entity/statement/Q16199695-26FA757B-B9D8-491C-AD80-364A8057B05B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3137,6 +3072,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16203492"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Avinash Chander"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16203492-D74FCC71-9C52-46B6-9EBD-A5AFABD8E541"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -3276,71 +3276,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16207807"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Navtej Singh Cheema"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16207807-4084A5EE-3479-4282-AC59-D1E36F5D3107"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -3424,12 +3359,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16208469"
+        "value" : "http://www.wikidata.org/entity/Q16207807"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kewal Singh Dhillon"
+        "value" : "Navtej Singh Cheema"
       },
       "org" : {
         "type" : "uri",
@@ -3447,7 +3382,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16208469-2CCC1C59-3BF2-4129-A324-6FD029B598DF"
+        "value" : "http://www.wikidata.org/entity/statement/Q16207807-4084A5EE-3479-4282-AC59-D1E36F5D3107"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3549,12 +3484,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16208479"
+        "value" : "http://www.wikidata.org/entity/Q16208469"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Des Raj Dhugga"
+        "value" : "Kewal Singh Dhillon"
       },
       "org" : {
         "type" : "uri",
@@ -3572,7 +3507,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16208479-02A8A340-C1E0-4269-B193-2648BCBCC02C"
+        "value" : "http://www.wikidata.org/entity/statement/Q16208469-2CCC1C59-3BF2-4129-A324-6FD029B598DF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3674,12 +3609,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16215906"
+        "value" : "http://www.wikidata.org/entity/Q16208479"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bikram Singh Majithia"
+        "value" : "Des Raj Dhugga"
       },
       "org" : {
         "type" : "uri",
@@ -3697,7 +3632,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16215906-8F2B5CB7-9D1E-45B5-8658-8A119228E798"
+        "value" : "http://www.wikidata.org/entity/statement/Q16208479-02A8A340-C1E0-4269-B193-2648BCBCC02C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3799,12 +3734,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16727364"
+        "value" : "http://www.wikidata.org/entity/Q16215906"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tripat Rajinder Singh Bajwa"
+        "value" : "Bikram Singh Majithia"
       },
       "org" : {
         "type" : "uri",
@@ -3822,7 +3757,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16727364-693CE499-9BE4-492D-AA55-C4C28A8F867A"
+        "value" : "http://www.wikidata.org/entity/statement/Q16215906-8F2B5CB7-9D1E-45B5-8658-8A119228E798"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -3924,12 +3859,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16727958"
+        "value" : "http://www.wikidata.org/entity/Q16727364"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Laxmi Kanta Chawla"
+        "value" : "Tripat Rajinder Singh Bajwa"
       },
       "org" : {
         "type" : "uri",
@@ -3947,7 +3882,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16727958-30CAB3CE-E4C9-4584-85C4-BBC07571AB9F"
+        "value" : "http://www.wikidata.org/entity/statement/Q16727364-693CE499-9BE4-492D-AA55-C4C28A8F867A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4022,6 +3957,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16727958"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Laxmi Kanta Chawla"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16727958-30CAB3CE-E4C9-4584-85C4-BBC07571AB9F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -4161,71 +4161,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16730958"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ajit Singh Kohar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16730958-B586D57D-3993-4643-82BB-551F7AB866F8"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -4309,12 +4244,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16731095"
+        "value" : "http://www.wikidata.org/entity/Q16730958"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Rajnish Kumar"
+        "value" : "Ajit Singh Kohar"
       },
       "org" : {
         "type" : "uri",
@@ -4332,7 +4267,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16731095-BBF26600-B860-49A1-BA79-E636800F218A"
+        "value" : "http://www.wikidata.org/entity/statement/Q16730958-B586D57D-3993-4643-82BB-551F7AB866F8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4434,12 +4369,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16731224"
+        "value" : "http://www.wikidata.org/entity/Q16731095"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sucha Singh Langah"
+        "value" : "Rajnish Kumar"
       },
       "org" : {
         "type" : "uri",
@@ -4457,7 +4392,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16731224-150727E4-6CE6-4D9C-8075-675DD5826EEF"
+        "value" : "http://www.wikidata.org/entity/statement/Q16731095-BBF26600-B860-49A1-BA79-E636800F218A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4559,12 +4494,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16732542"
+        "value" : "http://www.wikidata.org/entity/Q16731224"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Manjit Singh Mianwind"
+        "value" : "Sucha Singh Langah"
       },
       "org" : {
         "type" : "uri",
@@ -4582,7 +4517,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16732542-60F470F2-CE73-4FED-BFB9-C9E1837C62C9"
+        "value" : "http://www.wikidata.org/entity/statement/Q16731224-150727E4-6CE6-4D9C-8075-675DD5826EEF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4684,12 +4619,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16734187"
+        "value" : "http://www.wikidata.org/entity/Q16732542"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Parminder Singh Dhindsa"
+        "value" : "Manjit Singh Mianwind"
       },
       "org" : {
         "type" : "uri",
@@ -4707,7 +4642,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16734187-27EE3022-0DA0-4E31-AD81-55E56A35FAFC"
+        "value" : "http://www.wikidata.org/entity/statement/Q16732542-60F470F2-CE73-4FED-BFB9-C9E1837C62C9"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4809,12 +4744,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16736904"
+        "value" : "http://www.wikidata.org/entity/Q16734187"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pawan Kumar Tinu"
+        "value" : "Parminder Singh Dhindsa"
       },
       "org" : {
         "type" : "uri",
@@ -4832,7 +4767,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16736904-D56B6C60-2DFB-400D-8CFA-6C05213D0B79"
+        "value" : "http://www.wikidata.org/entity/statement/Q16734187-27EE3022-0DA0-4E31-AD81-55E56A35FAFC"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -4934,12 +4869,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16744969"
+        "value" : "http://www.wikidata.org/entity/Q16736904"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Harbans Lal Gupta"
+        "value" : "Pawan Kumar Tinu"
       },
       "org" : {
         "type" : "uri",
@@ -4957,7 +4892,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16744969-0C5CF5B7-D384-4E5D-A4EA-1A80E63703AB"
+        "value" : "http://www.wikidata.org/entity/statement/Q16736904-D56B6C60-2DFB-400D-8CFA-6C05213D0B79"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5032,6 +4967,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16744969"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harbans Lal Gupta"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q16744969-0C5CF5B7-D384-4E5D-A4EA-1A80E63703AB"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -5171,71 +5171,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16910060"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Santokh Singh Choudhary"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16910060-868EB6A8-E7E2-4054-8A4B-D25115FDE982"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -5319,12 +5254,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16933417"
+        "value" : "http://www.wikidata.org/entity/Q16910060"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sukhjinder Singh Randhawa"
+        "value" : "Santokh Singh Choudhary"
       },
       "org" : {
         "type" : "uri",
@@ -5342,7 +5277,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16933417-69B89AF7-9BE9-4E78-B025-A407835AEA9C"
+        "value" : "http://www.wikidata.org/entity/statement/Q16910060-868EB6A8-E7E2-4054-8A4B-D25115FDE982"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5444,12 +5379,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17011554"
+        "value" : "http://www.wikidata.org/entity/Q16933417"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Seema Kumari"
+        "value" : "Sukhjinder Singh Randhawa"
       },
       "org" : {
         "type" : "uri",
@@ -5467,7 +5402,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17011554-DFB46E78-E96D-4D38-BA50-3D58DFDD2C12"
+        "value" : "http://www.wikidata.org/entity/statement/Q16933417-69B89AF7-9BE9-4E78-B025-A407835AEA9C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5569,12 +5504,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17017303"
+        "value" : "http://www.wikidata.org/entity/Q17011554"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Harmeet Singh Sandhu"
+        "value" : "Seema Kumari"
       },
       "org" : {
         "type" : "uri",
@@ -5592,7 +5527,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17017303-FC232F56-AC5F-4D73-AFF0-ADC0F0C02342"
+        "value" : "http://www.wikidata.org/entity/statement/Q17011554-DFB46E78-E96D-4D38-BA50-3D58DFDD2C12"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5607,11 +5542,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "हरमीत सिंह संधू"
       }
     }, {
       "role_superclass" : {
@@ -5704,6 +5634,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17017303"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Harmeet Singh Sandhu"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17017303-FC232F56-AC5F-4D73-AFF0-ADC0F0C02342"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "हरमीत सिंह संधू"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17017558"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sukhbinder Singh Sarkaria"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17017558-2901A55D-805E-4E04-9E37-54A06F5B5C37"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17017558"
       },
       "name_en" : {
@@ -5769,12 +5829,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17017558"
+        "value" : "http://www.wikidata.org/entity/Q17017598"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sukhbinder Singh Sarkaria"
+        "value" : "Sarwan Singh Phillaur"
       },
       "org" : {
         "type" : "uri",
@@ -5792,7 +5852,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17017558-2901A55D-805E-4E04-9E37-54A06F5B5C37"
+        "value" : "http://www.wikidata.org/entity/statement/Q17017598-AABDDC72-78AA-4044-95BF-AC4528EC168D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -5894,12 +5954,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17017598"
+        "value" : "http://www.wikidata.org/entity/Q17019520"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sarwan Singh Phillaur"
+        "value" : "Ramanjit Singh Sikki"
       },
       "org" : {
         "type" : "uri",
@@ -5917,7 +5977,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17017598-AABDDC72-78AA-4044-95BF-AC4528EC168D"
+        "value" : "http://www.wikidata.org/entity/statement/Q17019520-57D947EE-0C91-4041-9EDB-7613A74ADC58"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6019,12 +6079,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17019520"
+        "value" : "http://www.wikidata.org/entity/Q17019691"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ramanjit Singh Sikki"
+        "value" : "Tota Singh"
       },
       "org" : {
         "type" : "uri",
@@ -6042,7 +6102,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17019520-57D947EE-0C91-4041-9EDB-7613A74ADC58"
+        "value" : "http://www.wikidata.org/entity/statement/Q17019691-8F3A6FF4-A621-403B-984F-D84F7A521A8F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6144,12 +6204,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17019691"
+        "value" : "http://www.wikidata.org/entity/Q17022406"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tota Singh"
+        "value" : "Surjit Singh Rakhra"
       },
       "org" : {
         "type" : "uri",
@@ -6167,7 +6227,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17019691-8F3A6FF4-A621-403B-984F-D84F7A521A8F"
+        "value" : "http://www.wikidata.org/entity/statement/Q17022406-144C3478-EF19-4CFA-B5DE-9BE7DC4F6AD5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6269,12 +6329,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17022406"
+        "value" : "http://www.wikidata.org/entity/Q17026593"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Surjit Singh Rakhra"
+        "value" : "Baljit Singh Jalal Usma"
       },
       "org" : {
         "type" : "uri",
@@ -6292,7 +6352,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17022406-144C3478-EF19-4CFA-B5DE-9BE7DC4F6AD5"
+        "value" : "http://www.wikidata.org/entity/statement/Q17026593-57E69ABE-CCF9-48D1-8075-5250272B96C5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6394,12 +6454,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17026593"
+        "value" : "http://www.wikidata.org/entity/Q17029035"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Baljit Singh Jalal Usma"
+        "value" : "Gurpartap Singh Wadala"
       },
       "org" : {
         "type" : "uri",
@@ -6417,7 +6477,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17026593-57E69ABE-CCF9-48D1-8075-5250272B96C5"
+        "value" : "http://www.wikidata.org/entity/statement/Q17029035-B984E626-2F79-4528-866A-8FF015E553B1"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6519,12 +6579,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17029035"
+        "value" : "http://www.wikidata.org/entity/Q17029094"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gurpartap Singh Wadala"
+        "value" : "Hari Singh Zira"
       },
       "org" : {
         "type" : "uri",
@@ -6542,7 +6602,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17029035-B984E626-2F79-4528-866A-8FF015E553B1"
+        "value" : "http://www.wikidata.org/entity/statement/Q17029094-58B83D71-EA23-4013-A291-8F024C23493C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6644,12 +6704,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17029094"
+        "value" : "http://www.wikidata.org/entity/Q17040897"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hari Singh Zira"
+        "value" : "Virsa Singh Valtoha"
       },
       "org" : {
         "type" : "uri",
@@ -6667,7 +6727,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17029094-58B83D71-EA23-4013-A291-8F024C23493C"
+        "value" : "http://www.wikidata.org/entity/statement/Q17040897-00E458C4-AA9C-45FA-8AF9-7AB88A4B2752"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6769,12 +6829,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17040897"
+        "value" : "http://www.wikidata.org/entity/Q17061353"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Virsa Singh Valtoha"
+        "value" : "Raj Kumar Verka"
       },
       "org" : {
         "type" : "uri",
@@ -6792,7 +6852,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17040897-00E458C4-AA9C-45FA-8AF9-7AB88A4B2752"
+        "value" : "http://www.wikidata.org/entity/statement/Q17061353-95B837C8-A31A-4D1D-BA02-ACB52CDA1E4B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -6894,12 +6954,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17061353"
+        "value" : "http://www.wikidata.org/entity/Q17069990"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Raj Kumar Verka"
+        "value" : "Surjit Kumar Jyani"
       },
       "org" : {
         "type" : "uri",
@@ -6917,7 +6977,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17061353-95B837C8-A31A-4D1D-BA02-ACB52CDA1E4B"
+        "value" : "http://www.wikidata.org/entity/statement/Q17069990-30903B09-ED64-478E-8FC8-D980C5637052"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7019,12 +7079,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17069990"
+        "value" : "http://www.wikidata.org/entity/Q17081725"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Surjit Kumar Jyani"
+        "value" : "Jagmohan Singh Kang"
       },
       "org" : {
         "type" : "uri",
@@ -7042,7 +7102,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17069990-30903B09-ED64-478E-8FC8-D980C5637052"
+        "value" : "http://www.wikidata.org/entity/statement/Q17081725-2F4AA77F-8F9B-4573-A51A-058F7B6B7941"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7144,12 +7204,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17081725"
+        "value" : "http://www.wikidata.org/entity/Q17081886"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jagmohan Singh Kang"
+        "value" : "Om Parkash Soni"
       },
       "org" : {
         "type" : "uri",
@@ -7167,7 +7227,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17081725-2F4AA77F-8F9B-4573-A51A-058F7B6B7941"
+        "value" : "http://www.wikidata.org/entity/statement/Q17081886-82519B62-3F75-4159-8FE3-555649753A92"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7269,12 +7329,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17081886"
+        "value" : "http://www.wikidata.org/entity/Q17151995"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Om Parkash Soni"
+        "value" : "Vaninder Kaur Loomba"
       },
       "org" : {
         "type" : "uri",
@@ -7292,7 +7352,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17081886-82519B62-3F75-4159-8FE3-555649753A92"
+        "value" : "http://www.wikidata.org/entity/statement/Q17151995-72157916-6FCF-4228-B4C4-5F4A8467E5B9"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7394,12 +7454,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17151995"
+        "value" : "http://www.wikidata.org/entity/Q17152173"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vaninder Kaur Loomba"
+        "value" : "Lal Singh"
       },
       "org" : {
         "type" : "uri",
@@ -7417,7 +7477,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17151995-72157916-6FCF-4228-B4C4-5F4A8467E5B9"
+        "value" : "http://www.wikidata.org/entity/statement/Q17152173-314FF00F-2607-4B90-AA44-C49A5AD40DA3"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7519,12 +7579,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17152173"
+        "value" : "http://www.wikidata.org/entity/Q17279160"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lal Singh"
+        "value" : "Balram Das Tandon"
       },
       "org" : {
         "type" : "uri",
@@ -7542,7 +7602,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17152173-314FF00F-2607-4B90-AA44-C49A5AD40DA3"
+        "value" : "http://www.wikidata.org/entity/statement/Q17279160-D4A389C9-965C-4748-B021-FCB73317F7BF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7552,6 +7612,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "बलराम दास टंडन"
       }
     }, {
       "role_superclass" : {
@@ -7649,136 +7714,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17279160"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Balram Das Tandon"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17279160-D4A389C9-965C-4748-B021-FCB73317F7BF"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "बलराम दास टंडन"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17285325"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Brij Bhushan Mehra"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17285325-F79BA4A9-3F38-41A6-85DF-AAF2E9A1BD80"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17285325"
       },
       "name_en" : {
@@ -7839,12 +7774,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17285403"
+        "value" : "http://www.wikidata.org/entity/Q17285325"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hit Abhilashi"
+        "value" : "Brij Bhushan Mehra"
       },
       "org" : {
         "type" : "uri",
@@ -7862,7 +7797,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17285403-3A4260C0-7CB3-4BDF-9AD9-536B1B3309A2"
+        "value" : "http://www.wikidata.org/entity/statement/Q17285325-F79BA4A9-3F38-41A6-85DF-AAF2E9A1BD80"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -7964,12 +7899,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17308769"
+        "value" : "http://www.wikidata.org/entity/Q17285403"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Balwant Singh Thind"
+        "value" : "Hit Abhilashi"
       },
       "org" : {
         "type" : "uri",
@@ -7987,7 +7922,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17308769-E85F73EB-D048-47B6-B4A0-7464F3FFD25D"
+        "value" : "http://www.wikidata.org/entity/statement/Q17285403-3A4260C0-7CB3-4BDF-9AD9-536B1B3309A2"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -8089,12 +8024,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17318690"
+        "value" : "http://www.wikidata.org/entity/Q17308769"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Manmohan Kalia"
+        "value" : "Balwant Singh Thind"
       },
       "org" : {
         "type" : "uri",
@@ -8112,7 +8047,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17318690-5FD6B470-E6E5-41CA-A24A-22D809767367"
+        "value" : "http://www.wikidata.org/entity/statement/Q17308769-E85F73EB-D048-47B6-B4A0-7464F3FFD25D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -8214,12 +8149,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17318832"
+        "value" : "http://www.wikidata.org/entity/Q17318690"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Baldev Prakash"
+        "value" : "Manmohan Kalia"
       },
       "org" : {
         "type" : "uri",
@@ -8237,7 +8172,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17318832-9DF82272-E7E3-476D-89FD-D17D6C6CD4DA"
+        "value" : "http://www.wikidata.org/entity/statement/Q17318690-5FD6B470-E6E5-41CA-A24A-22D809767367"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -8312,6 +8247,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17318832"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Baldev Prakash"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q17318832-9DF82272-E7E3-476D-89FD-D17D6C6CD4DA"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -8451,71 +8451,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17388289"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Darshan Singh Kaypee"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17388289-BC2013AE-CC19-4E09-9C14-686D81F0BCDE"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -8599,12 +8534,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17388421"
+        "value" : "http://www.wikidata.org/entity/Q17388289"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Harbans Lal Khanna"
+        "value" : "Darshan Singh Kaypee"
       },
       "org" : {
         "type" : "uri",
@@ -8622,7 +8557,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17388421-528B56A4-96FC-44C5-A50F-DEBE39EC502F"
+        "value" : "http://www.wikidata.org/entity/statement/Q17388289-BC2013AE-CC19-4E09-9C14-686D81F0BCDE"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -8724,12 +8659,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17388479"
+        "value" : "http://www.wikidata.org/entity/Q17388421"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jagat Ram Soondh"
+        "value" : "Harbans Lal Khanna"
       },
       "org" : {
         "type" : "uri",
@@ -8747,7 +8682,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17388479-02E3D667-F0DC-4A28-8A55-53AAD2E0B542"
+        "value" : "http://www.wikidata.org/entity/statement/Q17388421-528B56A4-96FC-44C5-A50F-DEBE39EC502F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -8849,12 +8784,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17388489"
+        "value" : "http://www.wikidata.org/entity/Q17388479"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Joginder Pal Pandey"
+        "value" : "Jagat Ram Soondh"
       },
       "org" : {
         "type" : "uri",
@@ -8872,7 +8807,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17388489-F18EA8B7-17DF-405B-B6D7-BEBB91F11B06"
+        "value" : "http://www.wikidata.org/entity/statement/Q17388479-02E3D667-F0DC-4A28-8A55-53AAD2E0B542"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -8974,12 +8909,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17488206"
+        "value" : "http://www.wikidata.org/entity/Q17388489"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Baldev Raj Chawla"
+        "value" : "Joginder Pal Pandey"
       },
       "org" : {
         "type" : "uri",
@@ -8997,7 +8932,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17488206-AF205547-EEBC-4059-B09C-D1A5E2F73B81"
+        "value" : "http://www.wikidata.org/entity/statement/Q17388489-F18EA8B7-17DF-405B-B6D7-BEBB91F11B06"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -9099,12 +9034,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17495840"
+        "value" : "http://www.wikidata.org/entity/Q17488206"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Randeep Singh Nabha"
+        "value" : "Baldev Raj Chawla"
       },
       "org" : {
         "type" : "uri",
@@ -9122,7 +9057,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17495840-3D48CFC9-B18D-4E65-992F-F1C6B75D464D"
+        "value" : "http://www.wikidata.org/entity/statement/Q17488206-AF205547-EEBC-4059-B09C-D1A5E2F73B81"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -9224,12 +9159,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17495873"
+        "value" : "http://www.wikidata.org/entity/Q17495840"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Satpal Gosain"
+        "value" : "Randeep Singh Nabha"
       },
       "org" : {
         "type" : "uri",
@@ -9247,7 +9182,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17495873-2721F1D2-EDEB-4041-A9BF-AB606960302D"
+        "value" : "http://www.wikidata.org/entity/statement/Q17495840-3D48CFC9-B18D-4E65-992F-F1C6B75D464D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -9349,12 +9284,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18207135"
+        "value" : "http://www.wikidata.org/entity/Q17495873"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mangu Ram Mugowalia"
+        "value" : "Satpal Gosain"
       },
       "org" : {
         "type" : "uri",
@@ -9372,7 +9307,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18207135-60CBE21F-3FEC-4D66-A19B-DFEF93CF2CC3"
+        "value" : "http://www.wikidata.org/entity/statement/Q17495873-2721F1D2-EDEB-4041-A9BF-AB606960302D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -9447,6 +9382,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q18207135"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mangu Ram Mugowalia"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q18207135-60CBE21F-3FEC-4D66-A19B-DFEF93CF2CC3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -9586,71 +9586,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19661755"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Rakesh Pandey"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19661755-2ABDE4FF-14D6-4D3C-9024-6B265142630A"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -9734,12 +9669,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19662756"
+        "value" : "http://www.wikidata.org/entity/Q19661755"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sunil Jakhar"
+        "value" : "Rakesh Pandey"
       },
       "org" : {
         "type" : "uri",
@@ -9757,7 +9692,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19662756-F1BD2D11-0771-4FDE-A694-07AEF78E9358"
+        "value" : "http://www.wikidata.org/entity/statement/Q19661755-2ABDE4FF-14D6-4D3C-9024-6B265142630A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -9859,12 +9794,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19882198"
+        "value" : "http://www.wikidata.org/entity/Q19662756"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mool Chand Jain"
+        "value" : "Sunil Jakhar"
       },
       "org" : {
         "type" : "uri",
@@ -9882,7 +9817,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19882198-E1F145FC-FDD5-4600-87E3-41FDED189ABA"
+        "value" : "http://www.wikidata.org/entity/statement/Q19662756-F1BD2D11-0771-4FDE-A694-07AEF78E9358"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -9984,12 +9919,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20065246"
+        "value" : "http://www.wikidata.org/entity/Q19882198"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Savita Behen"
+        "value" : "Mool Chand Jain"
       },
       "org" : {
         "type" : "uri",
@@ -10007,7 +9942,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q20065246-3FD20C1C-90FE-43F5-BAF7-AE958C705928"
+        "value" : "http://www.wikidata.org/entity/statement/Q19882198-E1F145FC-FDD5-4600-87E3-41FDED189ABA"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10109,12 +10044,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21078120"
+        "value" : "http://www.wikidata.org/entity/Q20065246"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Arjan Singh Mastana"
+        "value" : "Savita Behen"
       },
       "org" : {
         "type" : "uri",
@@ -10132,7 +10067,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21078120-97F2A527-E75E-4C18-B7B6-5FBDB59FF05B"
+        "value" : "http://www.wikidata.org/entity/statement/Q20065246-3FD20C1C-90FE-43F5-BAF7-AE958C705928"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10234,12 +10169,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21151462"
+        "value" : "http://www.wikidata.org/entity/Q21078120"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vimla Dang"
+        "value" : "Arjan Singh Mastana"
       },
       "org" : {
         "type" : "uri",
@@ -10257,7 +10192,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21151462-99AD75F2-E0A6-4C77-896A-3AD437054741"
+        "value" : "http://www.wikidata.org/entity/statement/Q21078120-97F2A527-E75E-4C18-B7B6-5FBDB59FF05B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10359,12 +10294,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21605242"
+        "value" : "http://www.wikidata.org/entity/Q21151462"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sardar Atma Singh"
+        "value" : "Vimla Dang"
       },
       "org" : {
         "type" : "uri",
@@ -10382,7 +10317,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21605242-C6853818-F391-448E-AC2F-5874A1C419F0"
+        "value" : "http://www.wikidata.org/entity/statement/Q21151462-99AD75F2-E0A6-4C77-896A-3AD437054741"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10484,12 +10419,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23808266"
+        "value" : "http://www.wikidata.org/entity/Q21605242"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Narain Singh Shahbazpuri"
+        "value" : "Sardar Atma Singh"
       },
       "org" : {
         "type" : "uri",
@@ -10507,7 +10442,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23808266-6CA44B07-00E0-4253-939C-F806E366DCB4"
+        "value" : "http://www.wikidata.org/entity/statement/Q21605242-C6853818-F391-448E-AC2F-5874A1C419F0"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10609,12 +10544,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23888211"
+        "value" : "http://www.wikidata.org/entity/Q23808266"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sucha Singh Chhotepur"
+        "value" : "Narain Singh Shahbazpuri"
       },
       "org" : {
         "type" : "uri",
@@ -10632,7 +10567,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23888211-6D20195B-FBD6-44FE-964E-0203A52DDAB7"
+        "value" : "http://www.wikidata.org/entity/statement/Q23808266-6CA44B07-00E0-4253-939C-F806E366DCB4"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10734,12 +10669,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24053537"
+        "value" : "http://www.wikidata.org/entity/Q23888211"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nirmal Singh Kahlon"
+        "value" : "Sucha Singh Chhotepur"
       },
       "org" : {
         "type" : "uri",
@@ -10757,7 +10692,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24053537-3394504E-2CFF-4360-8B1A-1DB0069536CB"
+        "value" : "http://www.wikidata.org/entity/statement/Q23888211-6D20195B-FBD6-44FE-964E-0203A52DDAB7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10832,6 +10767,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24053537"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nirmal Singh Kahlon"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q24053537-3394504E-2CFF-4360-8B1A-1DB0069536CB"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -11241,6 +11241,66 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3576672"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhim Sen Sachar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3576672-9F46F046-2021-4DB1-8122-6D4FCBB7C562"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -11302,66 +11362,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3576672"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bhim Sen Sachar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3576672-9F46F046-2021-4DB1-8122-6D4FCBB7C562"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
       }
     }, {
       "role_superclass" : {
@@ -11501,6 +11501,66 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4673646"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Achhar Singh Chhina"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4673646-F27639E4-5B2D-4982-BBE3-4F0C0677CD00"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -11589,12 +11649,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4673646"
+        "value" : "http://www.wikidata.org/entity/Q4682368"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Achhar Singh Chhina"
+        "value" : "Adesh Kanwarjit Singh Brar"
       },
       "org" : {
         "type" : "uri",
@@ -11612,7 +11672,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4673646-F27639E4-5B2D-4982-BBE3-4F0C0677CD00"
+        "value" : "http://www.wikidata.org/entity/statement/Q4682368-4858FECE-1F72-4674-AF7B-8E11D39F8E99"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -11687,66 +11747,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4682368"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Adesh Kanwarjit Singh Brar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4682368-4858FECE-1F72-4674-AF7B-8E11D39F8E99"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
       }
     }, {
       "role_superclass" : {
@@ -12021,6 +12021,66 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5073932"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Charanjit Singh Atwal"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5073932-12A21DC3-E8C7-47F3-946E-2BDEBBF04278"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -12082,66 +12142,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5073932"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Charanjit Singh Atwal"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5073932-12A21DC3-E8C7-47F3-946E-2BDEBBF04278"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
       }
     }, {
       "role_superclass" : {
@@ -12416,6 +12416,66 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5558123"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Giani Gurmukh Singh Musafir"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5558123-91E4D744-370B-4B5F-B3CE-C069DD0F031A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -12504,12 +12564,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5558123"
+        "value" : "http://www.wikidata.org/entity/Q5584274"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Giani Gurmukh Singh Musafir"
+        "value" : "Gopi Chand Bhargava"
       },
       "org" : {
         "type" : "uri",
@@ -12527,7 +12587,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5558123-91E4D744-370B-4B5F-B3CE-C069DD0F031A"
+        "value" : "http://www.wikidata.org/entity/statement/Q5584274-970A3B2F-E13E-4138-927F-E6ECE5C07503"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12602,66 +12662,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5584274"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gopi Chand Bhargava"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5584274-970A3B2F-E13E-4138-927F-E6ECE5C07503"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
       }
     }, {
       "role_superclass" : {
@@ -12801,71 +12801,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5620189"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gurnam Singh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5620189-DBDDB045-1421-408E-BF09-A7D828EBC079"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -12949,12 +12884,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5768789"
+        "value" : "http://www.wikidata.org/entity/Q5620189"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hira Singh Gabria"
+        "value" : "Gurnam Singh"
       },
       "org" : {
         "type" : "uri",
@@ -12972,7 +12907,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5768789-3A9C24E1-C1ED-4C5E-84F3-F5B2891947F5"
+        "value" : "http://www.wikidata.org/entity/statement/Q5620189-DBDDB045-1421-408E-BF09-A7D828EBC079"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13074,12 +13009,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6122638"
+        "value" : "http://www.wikidata.org/entity/Q5768789"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jagir Kaur"
+        "value" : "Hira Singh Gabria"
       },
       "org" : {
         "type" : "uri",
@@ -13097,7 +13032,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6122638-BF2A8401-9DB6-41A7-96F0-4ED3E4512F88"
+        "value" : "http://www.wikidata.org/entity/statement/Q5768789-3A9C24E1-C1ED-4C5E-84F3-F5B2891947F5"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13199,12 +13134,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6164162"
+        "value" : "http://www.wikidata.org/entity/Q6122638"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jassi Khangura"
+        "value" : "Jagir Kaur"
       },
       "org" : {
         "type" : "uri",
@@ -13222,7 +13157,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6164162-1BC13DB5-8568-481B-AE38-23A4794A2F5B"
+        "value" : "http://www.wikidata.org/entity/statement/Q6122638-BF2A8401-9DB6-41A7-96F0-4ED3E4512F88"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13324,12 +13259,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6365737"
+        "value" : "http://www.wikidata.org/entity/Q6164162"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kanwaljit Singh"
+        "value" : "Jassi Khangura"
       },
       "org" : {
         "type" : "uri",
@@ -13347,7 +13282,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6365737-88CA1402-A0B9-4FB8-9A62-7C616530AEC7"
+        "value" : "http://www.wikidata.org/entity/statement/Q6164162-1BC13DB5-8568-481B-AE38-23A4794A2F5B"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13449,12 +13384,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6397921"
+        "value" : "http://www.wikidata.org/entity/Q6365737"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kewal Krishan"
+        "value" : "Kanwaljit Singh"
       },
       "org" : {
         "type" : "uri",
@@ -13472,7 +13407,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6397921-3398B995-B071-456D-989A-C5FBEE70AFEE"
+        "value" : "http://www.wikidata.org/entity/statement/Q6365737-88CA1402-A0B9-4FB8-9A62-7C616530AEC7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13574,12 +13509,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6468385"
+        "value" : "http://www.wikidata.org/entity/Q6397921"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lachhman Singh Gill"
+        "value" : "Kewal Krishan"
       },
       "org" : {
         "type" : "uri",
@@ -13597,7 +13532,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6468385-40C400D8-7247-4CA5-A4C3-94CD6A52E509"
+        "value" : "http://www.wikidata.org/entity/statement/Q6397921-3398B995-B071-456D-989A-C5FBEE70AFEE"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13699,12 +13634,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6743901"
+        "value" : "http://www.wikidata.org/entity/Q6468385"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Malkiat Singh Sidhu"
+        "value" : "Lachhman Singh Gill"
       },
       "org" : {
         "type" : "uri",
@@ -13722,7 +13657,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6743901-5C87ABBB-8644-4DFC-ADCC-248D5D1EDA6A"
+        "value" : "http://www.wikidata.org/entity/statement/Q6468385-40C400D8-7247-4CA5-A4C3-94CD6A52E509"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13824,12 +13759,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6751426"
+        "value" : "http://www.wikidata.org/entity/Q6743901"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Manoranjan Kalia"
+        "value" : "Malkiat Singh Sidhu"
       },
       "org" : {
         "type" : "uri",
@@ -13847,7 +13782,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6751426-B2417A8C-E7F0-47F9-974C-BA43D15B07C9"
+        "value" : "http://www.wikidata.org/entity/statement/Q6743901-5C87ABBB-8644-4DFC-ADCC-248D5D1EDA6A"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13922,6 +13857,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6751426"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Manoranjan Kalia"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6751426-B2417A8C-E7F0-47F9-974C-BA43D15B07C9"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -14601,71 +14601,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7288498"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ram Kishan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7288498-DB1B49DC-1628-49BC-BBD5-2F90C94364BE"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -14749,12 +14684,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7299557"
+        "value" : "http://www.wikidata.org/entity/Q7288498"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Razia Sultana"
+        "value" : "Ram Kishan"
       },
       "org" : {
         "type" : "uri",
@@ -14772,7 +14707,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7299557-1E94B09B-F273-408F-B585-D510B9895724"
+        "value" : "http://www.wikidata.org/entity/statement/Q7288498-DB1B49DC-1628-49BC-BBD5-2F90C94364BE"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -14874,12 +14809,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7458129"
+        "value" : "http://www.wikidata.org/entity/Q7299557"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sewa Singh Sekhwan"
+        "value" : "Razia Sultana"
       },
       "org" : {
         "type" : "uri",
@@ -14897,7 +14832,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7458129-400A2327-F68F-4149-A6D2-8294D2F4707F"
+        "value" : "http://www.wikidata.org/entity/statement/Q7299557-1E94B09B-F273-408F-B585-D510B9895724"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -14972,6 +14907,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7458129"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sewa Singh Sekhwan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7458129-400A2327-F68F-4149-A6D2-8294D2F4707F"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -15246,6 +15246,70 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340550"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Punjab Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7635823"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sukhpal Singh Khaira"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7260271"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पंजाब विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Punjab Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7635823-5B35BD06-7FA2-4C5D-A8C7-F4007BFE38B5"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22424"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "117"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Sukhpal-Singh-Khaira-155566517802635"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -15338,12 +15402,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7635823"
+        "value" : "http://www.wikidata.org/entity/Q7878143"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sukhpal Singh Khaira"
+        "value" : "Ujagar Singh Sekhwan"
       },
       "org" : {
         "type" : "uri",
@@ -15361,7 +15425,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7635823-5B35BD06-7FA2-4C5D-A8C7-F4007BFE38B5"
+        "value" : "http://www.wikidata.org/entity/statement/Q7878143-3717B57E-7A52-44C1-97C6-E26E11D4D09E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -15371,10 +15435,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "117"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "Sukhpal-Singh-Khaira-155566517802635"
       }
     }, {
       "role_superclass" : {
@@ -15440,66 +15500,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340550"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Punjab Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7878143"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ujagar Singh Sekhwan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7260271"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पंजाब विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Punjab Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7878143-3717B57E-7A52-44C1-97C6-E26E11D4D09E"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22424"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "117"
       }
     } ]
   }
