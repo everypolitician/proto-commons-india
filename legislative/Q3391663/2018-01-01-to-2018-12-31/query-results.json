@@ -6,6 +6,66 @@
     "bindings" : [ {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340546"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Puducherry Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1380115"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "M. O. H. Farook"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3391663"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puducherry Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1380115-36EFB2E7-3F53-4D47-BD19-14B1F16262C1"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66743"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -94,12 +154,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1380115"
+        "value" : "http://www.wikidata.org/entity/Q16215503"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. O. H. Farook"
+        "value" : "R. Radhakrishnan"
       },
       "org" : {
         "type" : "uri",
@@ -117,7 +177,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1380115-36EFB2E7-3F53-4D47-BD19-14B1F16262C1"
+        "value" : "http://www.wikidata.org/entity/statement/Q16215503-9A8049BE-D486-4D18-8FEC-9CD5D1CFBE81"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -127,6 +187,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "30"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आर॰ राधाकृष्णन"
       }
     }, {
       "role_superclass" : {
@@ -224,136 +289,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16215503"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "R. Radhakrishnan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3391663"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Puducherry Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16215503-9A8049BE-D486-4D18-8FEC-9CD5D1CFBE81"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q66743"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "30"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आर॰ राधाकृष्णन"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340546"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Puducherry Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24565280"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "M. O. H. F. Shahjahan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3391663"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Puducherry Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24565280-0b764e38-1c4a-4a69-97b4-08e2bed4be29"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q66743"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "30"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340546"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Puducherry Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24565280"
       },
       "name_en" : {
@@ -414,12 +349,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24572352"
+        "value" : "http://www.wikidata.org/entity/Q24565280"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Namassivayam"
+        "value" : "M. O. H. F. Shahjahan"
       },
       "org" : {
         "type" : "uri",
@@ -437,7 +372,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24572352-9bcdae90-2a0e-4b63-b154-e829adedb100"
+        "value" : "http://www.wikidata.org/entity/statement/Q24565280-0b764e38-1c4a-4a69-97b4-08e2bed4be29"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -539,12 +474,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24852751"
+        "value" : "http://www.wikidata.org/entity/Q24572352"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "R. Kamalakannan"
+        "value" : "Namassivayam"
       },
       "org" : {
         "type" : "uri",
@@ -562,7 +497,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24852751-60f39beb-c68f-4f05-8ae4-cdac07699230"
+        "value" : "http://www.wikidata.org/entity/statement/Q24572352-9bcdae90-2a0e-4b63-b154-e829adedb100"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -664,12 +599,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q25184972"
+        "value" : "http://www.wikidata.org/entity/Q24852751"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. Kandaswamy"
+        "value" : "R. Kamalakannan"
       },
       "org" : {
         "type" : "uri",
@@ -687,7 +622,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q25184972-7c6e65a9-3a01-4777-8431-d1af7d1dda98"
+        "value" : "http://www.wikidata.org/entity/statement/Q24852751-60f39beb-c68f-4f05-8ae4-cdac07699230"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -789,12 +724,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q274315"
+        "value" : "http://www.wikidata.org/entity/Q25184972"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Edouard Goubert"
+        "value" : "M. Kandaswamy"
       },
       "org" : {
         "type" : "uri",
@@ -812,7 +747,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q274315-25A8E3D1-E544-4C20-909D-C64876AC1297"
+        "value" : "http://www.wikidata.org/entity/statement/Q25184972-7c6e65a9-3a01-4777-8431-d1af7d1dda98"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -914,12 +849,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27942343"
+        "value" : "http://www.wikidata.org/entity/Q274315"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "N. Kesavan"
+        "value" : "Edouard Goubert"
       },
       "org" : {
         "type" : "uri",
@@ -937,7 +872,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27942343-bdf84443-3575-425f-9340-ce4f5e3bcf6d"
+        "value" : "http://www.wikidata.org/entity/statement/Q274315-25A8E3D1-E544-4C20-909D-C64876AC1297"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1039,7 +974,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q31380769"
+        "value" : "http://www.wikidata.org/entity/Q27942343"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "N. Kesavan"
       },
       "org" : {
         "type" : "uri",
@@ -1057,7 +997,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q31380769-6821302b-2880-4103-be5e-498953eeec16"
+        "value" : "http://www.wikidata.org/entity/statement/Q27942343-bdf84443-3575-425f-9340-ce4f5e3bcf6d"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1118,6 +1058,126 @@
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q31380769-6821302b-2880-4103-be5e-498953eeec16"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66743"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340546"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Puducherry Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q31380769"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3391663"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puducherry Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q31380769-6821302b-2880-4103-be5e-498953eeec16"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66743"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340546"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Puducherry Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q40553909"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "A. M. Krishnamurthy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3391663"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puducherry Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q40553909-9253a5d2-9608-40d4-97ae-9b829f63d76f"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1219,12 +1279,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q40553909"
+        "value" : "http://www.wikidata.org/entity/Q40554686"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "A. M. Krishnamurthy"
+        "value" : "V. Saminathan"
       },
       "org" : {
         "type" : "uri",
@@ -1242,7 +1302,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q40553909-9253a5d2-9608-40d4-97ae-9b829f63d76f"
+        "value" : "http://www.wikidata.org/entity/statement/Q40554686-89d535a2-7edc-4e2f-aa9b-cc71153609ae"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1344,12 +1404,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q40554686"
+        "value" : "http://www.wikidata.org/entity/Q40555579"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "V. Saminathan"
+        "value" : "K. G. Shankar"
       },
       "org" : {
         "type" : "uri",
@@ -1367,7 +1427,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q40554686-89d535a2-7edc-4e2f-aa9b-cc71153609ae"
+        "value" : "http://www.wikidata.org/entity/statement/Q40555579-bcc1adf3-7933-4a7f-82e5-36f249f809d7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1469,12 +1529,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q40555579"
+        "value" : "http://www.wikidata.org/entity/Q4069263"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. G. Shankar"
+        "value" : "P. Shanmugam"
       },
       "org" : {
         "type" : "uri",
@@ -1492,7 +1552,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q40555579-bcc1adf3-7933-4a7f-82e5-36f249f809d7"
+        "value" : "http://www.wikidata.org/entity/statement/Q4069263-7C428CDE-D8DC-4C17-9762-625231CA7390"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1594,12 +1654,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4069263"
+        "value" : "http://www.wikidata.org/entity/Q599267"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "P. Shanmugam"
+        "value" : "N. Rangaswamy"
       },
       "org" : {
         "type" : "uri",
@@ -1617,7 +1677,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4069263-7C428CDE-D8DC-4C17-9762-625231CA7390"
+        "value" : "http://www.wikidata.org/entity/statement/Q599267-2D11513F-44E3-4A4F-88D2-454173FB9148"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1627,6 +1687,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "30"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "एन॰ रंगास्वामी"
       }
     }, {
       "role_superclass" : {
@@ -1724,136 +1789,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q599267"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "N. Rangaswamy"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3391663"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Puducherry Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q599267-2D11513F-44E3-4A4F-88D2-454173FB9148"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q66743"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "30"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एन॰ रंगास्वामी"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340546"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Puducherry Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6357338"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kamichetty Sri Parassourama Varaprassada Rao Naidu"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3391663"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Puducherry Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6357338-C95D583B-F6A2-4BA4-BC29-77F652B1158F"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q66743"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "30"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340546"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Puducherry Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6357338"
       },
       "name_en" : {
@@ -1914,12 +1849,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6712514"
+        "value" : "http://www.wikidata.org/entity/Q6357338"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. D. R. Ramachandran"
+        "value" : "Kamichetty Sri Parassourama Varaprassada Rao Naidu"
       },
       "org" : {
         "type" : "uri",
@@ -1937,7 +1872,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6712514-0DEE9A18-5A8D-4392-80AB-B1347AF44B25"
+        "value" : "http://www.wikidata.org/entity/statement/Q6357338-C95D583B-F6A2-4BA4-BC29-77F652B1158F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2039,12 +1974,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6713231"
+        "value" : "http://www.wikidata.org/entity/Q6712514"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. Vaithianathan"
+        "value" : "M. D. R. Ramachandran"
       },
       "org" : {
         "type" : "uri",
@@ -2062,7 +1997,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6713231-A287C59F-C9D3-4FF3-8100-8E16C9152AEF"
+        "value" : "http://www.wikidata.org/entity/statement/Q6712514-0DEE9A18-5A8D-4392-80AB-B1347AF44B25"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2164,12 +2099,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7274072"
+        "value" : "http://www.wikidata.org/entity/Q6713231"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "R. V. Janakiraman"
+        "value" : "M. Vaithianathan"
       },
       "org" : {
         "type" : "uri",
@@ -2187,7 +2122,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7274072-776B73CE-2989-4EFF-BDD9-EA7ECE3BAF63"
+        "value" : "http://www.wikidata.org/entity/statement/Q6713231-A287C59F-C9D3-4FF3-8100-8E16C9152AEF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2289,12 +2224,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7423266"
+        "value" : "http://www.wikidata.org/entity/Q7274072"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Saraswathi Subbiah"
+        "value" : "R. V. Janakiraman"
       },
       "org" : {
         "type" : "uri",
@@ -2312,7 +2247,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7423266-7EC74A3E-BFFF-46EA-A148-DDDF32CA1CBA"
+        "value" : "http://www.wikidata.org/entity/statement/Q7274072-776B73CE-2989-4EFF-BDD9-EA7ECE3BAF63"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2414,12 +2349,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7631898"
+        "value" : "http://www.wikidata.org/entity/Q7423266"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Subramanyan Ramaswamy"
+        "value" : "Saraswathi Subbiah"
       },
       "org" : {
         "type" : "uri",
@@ -2437,7 +2372,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7631898-31BCCF66-E5F3-49D1-8A56-A38AE60978C4"
+        "value" : "http://www.wikidata.org/entity/statement/Q7423266-7EC74A3E-BFFF-46EA-A148-DDDF32CA1CBA"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2539,12 +2474,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7906147"
+        "value" : "http://www.wikidata.org/entity/Q7631898"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "V. Narayanasamy"
+        "value" : "Subramanyan Ramaswamy"
       },
       "org" : {
         "type" : "uri",
@@ -2562,7 +2497,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7906147-BC0B696D-3FF5-4A5D-90D1-F677EE6E0FFC"
+        "value" : "http://www.wikidata.org/entity/statement/Q7631898-31BCCF66-E5F3-49D1-8A56-A38AE60978C4"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2577,11 +2512,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "वी नारायणस्वामी"
       }
     }, {
       "role_superclass" : {
@@ -2674,6 +2604,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7906147"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "V. Narayanasamy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3391663"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puducherry Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7906147-BC0B696D-3FF5-4A5D-90D1-F677EE6E0FFC"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66743"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "वी नारायणस्वामी"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340546"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Puducherry Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7906257"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "V. Subbiah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3391663"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Puducherry Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7906257-5A9EA08B-7D0B-4ADA-8967-0C3663FF9A5D"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q66743"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "30"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24340546"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पुडुचेरी विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Puducherry Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7906257"
       },
       "name_en" : {
@@ -2739,12 +2799,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7906257"
+        "value" : "http://www.wikidata.org/entity/Q7906295"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "V. Subbiah"
+        "value" : "V. Vaithilingam"
       },
       "org" : {
         "type" : "uri",
@@ -2762,7 +2822,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7906257-5A9EA08B-7D0B-4ADA-8967-0C3663FF9A5D"
+        "value" : "http://www.wikidata.org/entity/statement/Q7906295-12134BFB-6A5F-437B-B87E-7678F75489EC"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2864,12 +2924,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7906295"
+        "value" : "http://www.wikidata.org/entity/Q7906298"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "V. Vaithilingam"
+        "value" : "V. Venkatasubha Reddiar"
       },
       "org" : {
         "type" : "uri",
@@ -2887,7 +2947,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7906295-12134BFB-6A5F-437B-B87E-7678F75489EC"
+        "value" : "http://www.wikidata.org/entity/statement/Q7906298-1E7C2F4E-3AF8-4AD0-BBC3-913EA8294151"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -2962,66 +3022,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24340546"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Puducherry Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7906298"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "V. Venkatasubha Reddiar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3391663"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पुडुचेरी विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Puducherry Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7906298-1E7C2F4E-3AF8-4AD0-BBC3-913EA8294151"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q66743"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "30"
       }
     } ]
   }

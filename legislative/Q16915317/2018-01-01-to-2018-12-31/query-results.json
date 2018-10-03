@@ -10,12 +10,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of a Legislative Assembly of India"
       },
       "role" : {
         "type" : "uri",
@@ -62,11 +62,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       }
     }, {
       "statement" : {
@@ -75,12 +70,12 @@
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -127,66 +122,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q13011379-56b0e3b8-bd46-4197-af9c-c6757294b786"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q13011379"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Simhadri Satyanarayana Rao"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
       },
       "role_superclass_hi" : {
         "xml:lang" : "hi",
@@ -256,7 +191,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15991350-1b98a458-6d04-4ff1-83b9-a591c66ec945"
+        "value" : "http://www.wikidata.org/entity/statement/Q13011379-56b0e3b8-bd46-4197-af9c-c6757294b786"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -283,12 +218,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15991350"
+        "value" : "http://www.wikidata.org/entity/Q13011379"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Syed Shafiullah Quadri"
+        "value" : "Simhadri Satyanarayana Rao"
       },
       "org" : {
         "type" : "uri",
@@ -381,7 +316,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15993174-F5D43894-EB39-4F8E-B2F3-B82F7CB0BDBA"
+        "value" : "http://www.wikidata.org/entity/statement/Q15991350-1b98a458-6d04-4ff1-83b9-a591c66ec945"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -408,12 +343,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15993174"
+        "value" : "http://www.wikidata.org/entity/Q15991350"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kotagiri Vidyadhara Rao"
+        "value" : "Syed Shafiullah Quadri"
       },
       "org" : {
         "type" : "uri",
@@ -479,6 +414,131 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kotagiri Vidyadhara Rao"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15993174-F5D43894-EB39-4F8E-B2F3-B82F7CB0BDBA"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15993174"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kotagiri Vidyadhara Rao"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q15993528-025322fe-b44e-4038-8dcb-b5cbceb92ae2"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q15993528"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Sripathi Rajeshwar Rao"
       },
       "org" : {
         "type" : "uri",
@@ -571,7 +631,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15993528-025322fe-b44e-4038-8dcb-b5cbceb92ae2"
+        "value" : "http://www.wikidata.org/entity/statement/Q16015258-a40733b3-7bcd-4cd4-bd81-eb07377e7240"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -598,12 +658,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15993528"
+        "value" : "http://www.wikidata.org/entity/Q16015258"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sripathi Rajeshwar Rao"
+        "value" : "Moturu Hanumantha Rao"
       },
       "org" : {
         "type" : "uri",
@@ -696,7 +756,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16015258-a40733b3-7bcd-4cd4-bd81-eb07377e7240"
+        "value" : "http://www.wikidata.org/entity/statement/Q16018970-5FCB4083-25F2-40EB-B002-CA2BE7B472E3"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -723,12 +783,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16015258"
+        "value" : "http://www.wikidata.org/entity/Q16018970"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Moturu Hanumantha Rao"
+        "value" : "Sudarshan Akarapu"
       },
       "org" : {
         "type" : "uri",
@@ -821,7 +881,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16018970-5FCB4083-25F2-40EB-B002-CA2BE7B472E3"
+        "value" : "http://www.wikidata.org/entity/statement/Q16105812-DD528FF3-24D1-45E5-AFE1-A0EA522FA57E"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -848,12 +908,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16018970"
+        "value" : "http://www.wikidata.org/entity/Q16105812"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sudarshan Akarapu"
+        "value" : "Vedas Venkaiah"
       },
       "org" : {
         "type" : "uri",
@@ -946,7 +1006,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16105812-DD528FF3-24D1-45E5-AFE1-A0EA522FA57E"
+        "value" : "http://www.wikidata.org/entity/statement/Q16107101-CCFFC0F1-FDC6-4528-98C1-F94DCFA7EB82"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -973,12 +1033,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16105812"
+        "value" : "http://www.wikidata.org/entity/Q16107101"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vedas Venkaiah"
+        "value" : "Gade Venkata Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -1071,7 +1131,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16107101-CCFFC0F1-FDC6-4528-98C1-F94DCFA7EB82"
+        "value" : "http://www.wikidata.org/entity/statement/Q16151936-88A5871D-61AC-433C-85A0-0657A1ED10F4"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1098,12 +1158,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16107101"
+        "value" : "http://www.wikidata.org/entity/Q16151936"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gade Venkata Reddy"
+        "value" : "Ramreddy Damodar Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -1196,7 +1256,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16151936-88A5871D-61AC-433C-85A0-0657A1ED10F4"
+        "value" : "http://www.wikidata.org/entity/statement/Q16186759-0beb64a3-3785-420e-9c19-28b12827eea0"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1223,12 +1283,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16151936"
+        "value" : "http://www.wikidata.org/entity/Q16186759"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ramreddy Damodar Reddy"
+        "value" : "Kanna Lakshminarayana"
       },
       "org" : {
         "type" : "uri",
@@ -1321,7 +1381,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16186759-0beb64a3-3785-420e-9c19-28b12827eea0"
+        "value" : "http://www.wikidata.org/entity/statement/Q16195813-338fc979-7d3a-4ab0-b3ca-b2d13e2fa9eb"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1348,12 +1408,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16186759"
+        "value" : "http://www.wikidata.org/entity/Q16195813"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kanna Lakshminarayana"
+        "value" : "Balineni Srinivasa Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -1446,7 +1506,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16195813-338fc979-7d3a-4ab0-b3ca-b2d13e2fa9eb"
+        "value" : "http://www.wikidata.org/entity/statement/Q16196229-C4477A4A-30D7-4E79-AF82-E0890C4AE7E8"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1473,12 +1533,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16195813"
+        "value" : "http://www.wikidata.org/entity/Q16196229"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Balineni Srinivasa Reddy"
+        "value" : "Julakanti Ranga Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -1571,7 +1631,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16196229-C4477A4A-30D7-4E79-AF82-E0890C4AE7E8"
+        "value" : "http://www.wikidata.org/entity/statement/Q16247284-7BCF2D42-D3AB-4F55-9306-E0F997E82125"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1598,12 +1658,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16196229"
+        "value" : "http://www.wikidata.org/entity/Q16247284"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Julakanti Ranga Reddy"
+        "value" : "RamaRao Bodduluri"
       },
       "org" : {
         "type" : "uri",
@@ -1696,7 +1756,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16247284-7BCF2D42-D3AB-4F55-9306-E0F997E82125"
+        "value" : "http://www.wikidata.org/entity/statement/Q16257928-685D50B7-C467-4FD1-93A7-62866ACFA86E"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1723,12 +1783,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16247284"
+        "value" : "http://www.wikidata.org/entity/Q16257928"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "RamaRao Bodduluri"
+        "value" : "Mohammed Vizarat Rasool Khan"
       },
       "org" : {
         "type" : "uri",
@@ -1821,7 +1881,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16257928-685D50B7-C467-4FD1-93A7-62866ACFA86E"
+        "value" : "http://www.wikidata.org/entity/statement/Q16727564-7a4ac70a-6a32-4af8-a0f5-37f449a48371"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1848,12 +1908,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16257928"
+        "value" : "http://www.wikidata.org/entity/Q16727564"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mohammed Vizarat Rasool Khan"
+        "value" : "Kunja Bojji"
       },
       "org" : {
         "type" : "uri",
@@ -1946,7 +2006,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16727564-7a4ac70a-6a32-4af8-a0f5-37f449a48371"
+        "value" : "http://www.wikidata.org/entity/statement/Q16735076-F94C4475-3D53-4EC0-9F95-E93788D7D12D"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1973,12 +2033,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16727564"
+        "value" : "http://www.wikidata.org/entity/Q16735076"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kunja Bojji"
+        "value" : "Ravula Ravindranath Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -2071,7 +2131,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16735076-F94C4475-3D53-4EC0-9F95-E93788D7D12D"
+        "value" : "http://www.wikidata.org/entity/statement/Q16935179-A5E6468C-B84E-4B26-959B-E073A2508080"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2098,12 +2158,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16735076"
+        "value" : "http://www.wikidata.org/entity/Q16935179"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ravula Ravindranath Reddy"
+        "value" : "Y. Visweswara Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -2196,7 +2256,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16935179-A5E6468C-B84E-4B26-959B-E073A2508080"
+        "value" : "http://www.wikidata.org/entity/statement/Q16980168-AB9C72A8-F27D-4E79-A1B0-AAB31DD81187"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2223,12 +2283,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16935179"
+        "value" : "http://www.wikidata.org/entity/Q16980168"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Y. Visweswara Reddy"
+        "value" : "Penmetsa Vishnu Kumar Raju"
       },
       "org" : {
         "type" : "uri",
@@ -2321,7 +2381,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16980168-AB9C72A8-F27D-4E79-A1B0-AAB31DD81187"
+        "value" : "http://www.wikidata.org/entity/statement/Q17069893-FB09271B-A148-4F75-857D-18943175175C"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2348,12 +2408,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16980168"
+        "value" : "http://www.wikidata.org/entity/Q17069893"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Penmetsa Vishnu Kumar Raju"
+        "value" : "T. G. Venkatesh"
       },
       "org" : {
         "type" : "uri",
@@ -2446,7 +2506,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q17069893-FB09271B-A148-4F75-857D-18943175175C"
+        "value" : "http://www.wikidata.org/entity/statement/Q18810914-fe0cf68b-9517-4b07-9b47-127bc467962b"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2473,12 +2533,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17069893"
+        "value" : "http://www.wikidata.org/entity/Q18810914"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "T. G. Venkatesh"
+        "value" : "Nimmakayala Chinarajappa"
       },
       "org" : {
         "type" : "uri",
@@ -2571,7 +2631,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q18810914-fe0cf68b-9517-4b07-9b47-127bc467962b"
+        "value" : "http://www.wikidata.org/entity/statement/Q19600138-c2b5eca8-27c2-432b-aaf8-402b1f9d0103"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2598,12 +2658,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q18810914"
+        "value" : "http://www.wikidata.org/entity/Q19600138"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nimmakayala Chinarajappa"
+        "value" : "Amanchi Krishna Mohan"
       },
       "org" : {
         "type" : "uri",
@@ -2696,7 +2756,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19600138-c2b5eca8-27c2-432b-aaf8-402b1f9d0103"
+        "value" : "http://www.wikidata.org/entity/statement/Q19604975-f241ac85-ecf3-4ab2-bd0a-b50ba585c9a9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2723,12 +2783,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19600138"
+        "value" : "http://www.wikidata.org/entity/Q19604975"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Amanchi Krishna Mohan"
+        "value" : "Bonda Umamaheswara Rao"
       },
       "org" : {
         "type" : "uri",
@@ -2821,7 +2881,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19604975-f241ac85-ecf3-4ab2-bd0a-b50ba585c9a9"
+        "value" : "http://www.wikidata.org/entity/statement/Q19662814-47a6d46e-6888-4d96-a46f-65e2b9c7e7a9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2848,12 +2908,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19604975"
+        "value" : "http://www.wikidata.org/entity/Q19662814"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bonda Umamaheswara Rao"
+        "value" : "Challa Venkatrami Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -2946,7 +3006,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19662814-47a6d46e-6888-4d96-a46f-65e2b9c7e7a9"
+        "value" : "http://www.wikidata.org/entity/statement/Q19667031-46b087f5-8335-4dae-884b-d051990b52f2"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2973,12 +3033,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19662814"
+        "value" : "http://www.wikidata.org/entity/Q19667031"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Challa Venkatrami Reddy"
+        "value" : "S.A. Devshah"
       },
       "org" : {
         "type" : "uri",
@@ -3071,7 +3131,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19667031-46b087f5-8335-4dae-884b-d051990b52f2"
+        "value" : "http://www.wikidata.org/entity/statement/Q19896201-21282891-a177-489e-b5ef-24332a60d6e0"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3098,12 +3158,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19667031"
+        "value" : "http://www.wikidata.org/entity/Q19896201"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "S.A. Devshah"
+        "value" : "Allu Venkata Satyanarayana"
       },
       "org" : {
         "type" : "uri",
@@ -3196,7 +3256,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19896201-21282891-a177-489e-b5ef-24332a60d6e0"
+        "value" : "http://www.wikidata.org/entity/statement/Q19938237-c4202297-46e9-eee3-9d2d-7a34af3695ad"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3223,12 +3283,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19896201"
+        "value" : "http://www.wikidata.org/entity/Q19938237"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Allu Venkata Satyanarayana"
+        "value" : "Amanullah Khan"
       },
       "org" : {
         "type" : "uri",
@@ -3321,7 +3381,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q19938237-c4202297-46e9-eee3-9d2d-7a34af3695ad"
+        "value" : "http://www.wikidata.org/entity/statement/Q20675876-71aa51f7-8fd2-4254-b250-0009786b280b"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3348,12 +3408,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19938237"
+        "value" : "http://www.wikidata.org/entity/Q20675876"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Amanullah Khan"
+        "value" : "Nerella Anjaneyulu"
       },
       "org" : {
         "type" : "uri",
@@ -3446,7 +3506,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q20675876-71aa51f7-8fd2-4254-b250-0009786b280b"
+        "value" : "http://www.wikidata.org/entity/statement/Q20676365-254534cf-f405-49bd-b0db-4421c472186d"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3473,12 +3533,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20675876"
+        "value" : "http://www.wikidata.org/entity/Q20676365"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nerella Anjaneyulu"
+        "value" : "Damacharla Janardhana Rao"
       },
       "org" : {
         "type" : "uri",
@@ -3571,7 +3631,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q20676365-254534cf-f405-49bd-b0db-4421c472186d"
+        "value" : "http://www.wikidata.org/entity/statement/Q21064556-15e0a8d5-e565-4a2a-9749-363677365209"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3598,12 +3658,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q20676365"
+        "value" : "http://www.wikidata.org/entity/Q21064556"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Damacharla Janardhana Rao"
+        "value" : "Ravela Kishore Babu"
       },
       "org" : {
         "type" : "uri",
@@ -3696,7 +3756,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21064556-15e0a8d5-e565-4a2a-9749-363677365209"
+        "value" : "http://www.wikidata.org/entity/statement/Q21932362-d8798a8b-ab72-4efe-8b13-1af9ce44d817"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3723,12 +3783,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21064556"
+        "value" : "http://www.wikidata.org/entity/Q21932362"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ravela Kishore Babu"
+        "value" : "Vetukuri Venkata Siva Rama Raju"
       },
       "org" : {
         "type" : "uri",
@@ -3821,7 +3881,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q21932362-d8798a8b-ab72-4efe-8b13-1af9ce44d817"
+        "value" : "http://www.wikidata.org/entity/statement/Q22006051-961c3aab-543f-4f76-aeca-bf197024f796"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3848,12 +3908,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q21932362"
+        "value" : "http://www.wikidata.org/entity/Q22006051"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vetukuri Venkata Siva Rama Raju"
+        "value" : "Chadalawada Krishnamurthy"
       },
       "org" : {
         "type" : "uri",
@@ -3946,7 +4006,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q22006051-961c3aab-543f-4f76-aeca-bf197024f796"
+        "value" : "http://www.wikidata.org/entity/statement/Q23615038-e333f798-e711-4405-addd-6c95f69dadc4"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -3973,12 +4033,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22006051"
+        "value" : "http://www.wikidata.org/entity/Q23615038"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chadalawada Krishnamurthy"
+        "value" : "Kondru Subba Rao"
       },
       "org" : {
         "type" : "uri",
@@ -4071,7 +4131,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23615038-e333f798-e711-4405-addd-6c95f69dadc4"
+        "value" : "http://www.wikidata.org/entity/statement/Q23769928-f8094ef0-db8f-4da7-808c-116ad7998ac3"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4098,12 +4158,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23615038"
+        "value" : "http://www.wikidata.org/entity/Q23769928"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kondru Subba Rao"
+        "value" : "Adimulapu Suresh"
       },
       "org" : {
         "type" : "uri",
@@ -4196,7 +4256,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q23769928-f8094ef0-db8f-4da7-808c-116ad7998ac3"
+        "value" : "http://www.wikidata.org/entity/statement/Q24263582-b5bdf099-057a-42f0-b397-09b5e132c9da"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4223,12 +4283,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q23769928"
+        "value" : "http://www.wikidata.org/entity/Q24263582"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Adimulapu Suresh"
+        "value" : "Nimmala Rama Naidu"
       },
       "org" : {
         "type" : "uri",
@@ -4321,7 +4381,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24263582-b5bdf099-057a-42f0-b397-09b5e132c9da"
+        "value" : "http://www.wikidata.org/entity/statement/Q24572580-0a111daa-b34d-479d-9def-c1911be99b3f"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4348,12 +4408,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24263582"
+        "value" : "http://www.wikidata.org/entity/Q24572580"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nimmala Rama Naidu"
+        "value" : "Chevireddy Bhaskar Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -4446,7 +4506,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24572580-0a111daa-b34d-479d-9def-c1911be99b3f"
+        "value" : "http://www.wikidata.org/entity/statement/Q24572610-a8f51818-9477-44a9-a68c-02783e8fef18"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4473,12 +4533,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24572580"
+        "value" : "http://www.wikidata.org/entity/Q24572610"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chevireddy Bhaskar Reddy"
+        "value" : "Somu Veerraju"
       },
       "org" : {
         "type" : "uri",
@@ -4571,7 +4631,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24572610-a8f51818-9477-44a9-a68c-02783e8fef18"
+        "value" : "http://www.wikidata.org/entity/statement/Q26213622-fc053f8c-c4a4-47f0-bc17-1ed28fe39f9e"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4598,12 +4658,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24572610"
+        "value" : "http://www.wikidata.org/entity/Q26213622"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Somu Veerraju"
+        "value" : "Sarojini Pulla Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -4696,7 +4756,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26213622-fc053f8c-c4a4-47f0-bc17-1ed28fe39f9e"
+        "value" : "http://www.wikidata.org/entity/statement/Q26464776-e79e0505-488a-4573-87ed-37a4ce5daa6b"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4723,12 +4783,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26213622"
+        "value" : "http://www.wikidata.org/entity/Q26464776"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sarojini Pulla Reddy"
+        "value" : "Anagani Satya Prasad"
       },
       "org" : {
         "type" : "uri",
@@ -4821,7 +4881,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26464776-e79e0505-488a-4573-87ed-37a4ce5daa6b"
+        "value" : "http://www.wikidata.org/entity/statement/Q26924839-8a83a749-2389-4000-add5-993d01183617"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4848,12 +4908,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26464776"
+        "value" : "http://www.wikidata.org/entity/Q26924839"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Anagani Satya Prasad"
+        "value" : "Nawab mayana nizam vali"
       },
       "org" : {
         "type" : "uri",
@@ -4946,7 +5006,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q26924839-8a83a749-2389-4000-add5-993d01183617"
+        "value" : "http://www.wikidata.org/entity/statement/Q27736304-b0a64cd2-402a-495e-9f96-74acf7689d02"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -4973,12 +5033,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q26924839"
+        "value" : "http://www.wikidata.org/entity/Q27736304"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nawab mayana nizam vali"
+        "value" : "Devineni Nehru"
       },
       "org" : {
         "type" : "uri",
@@ -5071,7 +5131,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27736304-b0a64cd2-402a-495e-9f96-74acf7689d02"
+        "value" : "http://www.wikidata.org/entity/statement/Q27836065-d0b52fb5-8e12-4000-94fe-011400962133"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5098,12 +5158,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27736304"
+        "value" : "http://www.wikidata.org/entity/Q27836065"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Devineni Nehru"
+        "value" : "Chirag Pratap Lingam Goud"
       },
       "org" : {
         "type" : "uri",
@@ -5196,7 +5256,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27836065-d0b52fb5-8e12-4000-94fe-011400962133"
+        "value" : "http://www.wikidata.org/entity/statement/Q27881500-d27ca662-4c8a-47a4-ade1-c1e8807de221"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5223,12 +5283,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27836065"
+        "value" : "http://www.wikidata.org/entity/Q27881500"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chirag Pratap Lingam Goud"
+        "value" : "Srinivasulu Reddy Nallapareddy"
       },
       "org" : {
         "type" : "uri",
@@ -5321,7 +5381,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27881500-d27ca662-4c8a-47a4-ade1-c1e8807de221"
+        "value" : "http://www.wikidata.org/entity/statement/Q27947676-d40504e5-16f1-4f83-94f5-e2802e8a9dd9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5348,12 +5408,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27881500"
+        "value" : "http://www.wikidata.org/entity/Q27947676"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Srinivasulu Reddy Nallapareddy"
+        "value" : "Akula Satyanarayana"
       },
       "org" : {
         "type" : "uri",
@@ -5446,7 +5506,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27947676-d40504e5-16f1-4f83-94f5-e2802e8a9dd9"
+        "value" : "http://www.wikidata.org/entity/statement/Q27947677-e77c6759-4a78-4a12-ae77-929f946dbd11"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5473,12 +5533,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27947676"
+        "value" : "http://www.wikidata.org/entity/Q27947677"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Akula Satyanarayana"
+        "value" : "Kamineni Srinivas"
       },
       "org" : {
         "type" : "uri",
@@ -5571,7 +5631,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27947677-e77c6759-4a78-4a12-ae77-929f946dbd11"
+        "value" : "http://www.wikidata.org/entity/statement/Q27950851-d4a89d8e-86c2-411a-94e9-23c759d518ef"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5598,12 +5658,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27947677"
+        "value" : "http://www.wikidata.org/entity/Q27950851"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kamineni Srinivas"
+        "value" : "Kalava Srinivasulu"
       },
       "org" : {
         "type" : "uri",
@@ -5696,7 +5756,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q27950851-d4a89d8e-86c2-411a-94e9-23c759d518ef"
+        "value" : "http://www.wikidata.org/entity/statement/Q28222906-2b0aec9c-a79e-499b-8846-1616d72cecae"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5723,12 +5783,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q27950851"
+        "value" : "http://www.wikidata.org/entity/Q28222906"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kalava Srinivasulu"
+        "value" : "Dorababu Pendem"
       },
       "org" : {
         "type" : "uri",
@@ -5821,7 +5881,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28222906-2b0aec9c-a79e-499b-8846-1616d72cecae"
+        "value" : "http://www.wikidata.org/entity/statement/Q28222912-4ae8c77d-6dab-4199-b428-c9cb0251e55c"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5848,12 +5908,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28222906"
+        "value" : "http://www.wikidata.org/entity/Q28222912"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dorababu Pendem"
+        "value" : "SVSN Varma"
       },
       "org" : {
         "type" : "uri",
@@ -5946,7 +6006,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28222912-4ae8c77d-6dab-4199-b428-c9cb0251e55c"
+        "value" : "http://www.wikidata.org/entity/statement/Q28794105-de46e203-49e3-4ee9-ba05-24a8ae5d153a"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -5973,12 +6033,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28222912"
+        "value" : "http://www.wikidata.org/entity/Q28794105"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "SVSN Varma"
+        "value" : "Endela Lakshminarayana"
       },
       "org" : {
         "type" : "uri",
@@ -6071,7 +6131,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28794105-de46e203-49e3-4ee9-ba05-24a8ae5d153a"
+        "value" : "http://www.wikidata.org/entity/statement/Q28840428-6edcd386-5b63-4dd3-8e29-d2bcafaa926b"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6098,12 +6158,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28794105"
+        "value" : "http://www.wikidata.org/entity/Q28840428"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Endela Lakshminarayana"
+        "value" : "Modiyam Srinivasa Rao"
       },
       "org" : {
         "type" : "uri",
@@ -6196,7 +6256,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28840428-6edcd386-5b63-4dd3-8e29-d2bcafaa926b"
+        "value" : "http://www.wikidata.org/entity/statement/Q28858737-6f207be1-b1cc-437b-b199-ab61f0097497"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6223,12 +6283,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28840428"
+        "value" : "http://www.wikidata.org/entity/Q28858737"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Modiyam Srinivasa Rao"
+        "value" : "Pantam Gandhi Mohan"
       },
       "org" : {
         "type" : "uri",
@@ -6321,7 +6381,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28858737-6f207be1-b1cc-437b-b199-ab61f0097497"
+        "value" : "http://www.wikidata.org/entity/statement/Q3518013-EDF4075C-63DD-4E42-B991-562E3D7F97DD"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6348,12 +6408,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28858737"
+        "value" : "http://www.wikidata.org/entity/Q3518013"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pantam Gandhi Mohan"
+        "value" : "N. Chandrababu Naidu"
       },
       "org" : {
         "type" : "uri",
@@ -6377,6 +6437,16 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "1989-01-01T00:00:00Z"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "चंद्रबाबू नायडू"
       }
     }, {
       "statement" : {
@@ -6456,141 +6526,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3518013-EDF4075C-63DD-4E42-B991-562E3D7F97DD"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3518013"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "N. Chandrababu Naidu"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "1989-01-01T00:00:00Z"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "चंद्रबाबू नायडू"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3520208-302EF181-7E8D-4B22-959A-30E70344EACF"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3520208"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Roja"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3520208-302EF181-7E8D-4B22-959A-30E70344EACF"
       },
       "role_superclass" : {
@@ -6651,7 +6586,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3763821-5BCD2AB2-36A7-4BE5-9207-144379BAD902"
+        "value" : "http://www.wikidata.org/entity/statement/Q3520208-302EF181-7E8D-4B22-959A-30E70344EACF"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6678,12 +6613,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3763821"
+        "value" : "http://www.wikidata.org/entity/Q3520208"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kona Prabhakara Rao"
+        "value" : "Roja"
       },
       "org" : {
         "type" : "uri",
@@ -6776,7 +6711,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3763961-EF548F50-513B-46D9-9760-C0D08F3BA9C0"
+        "value" : "http://www.wikidata.org/entity/statement/Q3763821-5BCD2AB2-36A7-4BE5-9207-144379BAD902"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6803,12 +6738,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3763961"
+        "value" : "http://www.wikidata.org/entity/Q3763821"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kotla Vijaya Bhaskara Reddy"
+        "value" : "Kona Prabhakara Rao"
       },
       "org" : {
         "type" : "uri",
@@ -6874,6 +6809,131 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Kotla Vijaya Bhaskara Reddy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3763961-EF548F50-513B-46D9-9760-C0D08F3BA9C0"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3763961"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kotla Vijaya Bhaskara Reddy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3764347-D03ACC9A-66F6-44AC-B7F0-9804708A4E33"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3764347"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Kinjarapu Yerran Naidu"
       },
       "org" : {
         "type" : "uri",
@@ -6966,7 +7026,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3764347-D03ACC9A-66F6-44AC-B7F0-9804708A4E33"
+        "value" : "http://www.wikidata.org/entity/statement/Q3764744-EE40AE8C-7EE6-476A-80DC-B098B926B5E4"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -6993,12 +7053,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3764347"
+        "value" : "http://www.wikidata.org/entity/Q3764744"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kinjarapu Yerran Naidu"
+        "value" : "T. Nagi Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -7091,7 +7151,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3764744-EE40AE8C-7EE6-476A-80DC-B098B926B5E4"
+        "value" : "http://www.wikidata.org/entity/statement/Q42932309-bb6ec429-dfa7-4576-b28f-cf89e006d71e"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7118,12 +7178,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3764744"
+        "value" : "http://www.wikidata.org/entity/Q42932309"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "T. Nagi Reddy"
+        "value" : "N. M. D. Farooq"
       },
       "org" : {
         "type" : "uri",
@@ -7216,7 +7276,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q42932309-bb6ec429-dfa7-4576-b28f-cf89e006d71e"
+        "value" : "http://www.wikidata.org/entity/statement/Q43252402-9b2e8cc9-e22e-4518-9393-849fcb15ef48"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7243,12 +7303,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q42932309"
+        "value" : "http://www.wikidata.org/entity/Q43252402"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "N. M. D. Farooq"
+        "value" : "Ramakrishna Reddy Nallamilli"
       },
       "org" : {
         "type" : "uri",
@@ -7341,7 +7401,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q43252402-9b2e8cc9-e22e-4518-9393-849fcb15ef48"
+        "value" : "http://www.wikidata.org/entity/statement/Q47035025-d1b69c30-5e3f-4951-87eb-42a86d738309"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7368,12 +7428,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q43252402"
+        "value" : "http://www.wikidata.org/entity/Q47035025"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ramakrishna Reddy Nallamilli"
+        "value" : "Guntur Bapanaiah"
       },
       "org" : {
         "type" : "uri",
@@ -7397,6 +7457,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुंटूर बापानायाह"
       }
     }, {
       "statement" : {
@@ -7471,136 +7536,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47035025-d1b69c30-5e3f-4951-87eb-42a86d738309"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47035025"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Guntur Bapanaiah"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुंटूर बापानायाह"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4708327-7DC3BF4D-FA27-4F68-BDA9-8CC17D239B86"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4708327"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Alapati Venkataramaiah"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4708327-7DC3BF4D-FA27-4F68-BDA9-8CC17D239B86"
       },
       "role_superclass" : {
@@ -7661,7 +7596,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4730248-196A523B-FEA0-47C0-BD7F-94C84D1EFCAD"
+        "value" : "http://www.wikidata.org/entity/statement/Q4708327-7DC3BF4D-FA27-4F68-BDA9-8CC17D239B86"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7688,12 +7623,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4730248"
+        "value" : "http://www.wikidata.org/entity/Q4708327"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Alla Nani"
+        "value" : "Alapati Venkataramaiah"
       },
       "org" : {
         "type" : "uri",
@@ -7786,7 +7721,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q47486431-bd98ebe1-5e0c-47ab-8cd1-5a8b2be47b6a"
+        "value" : "http://www.wikidata.org/entity/statement/Q4730248-196A523B-FEA0-47C0-BD7F-94C84D1EFCAD"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7813,12 +7748,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q47486431"
+        "value" : "http://www.wikidata.org/entity/Q4730248"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "David Raju Palaparthi"
+        "value" : "Alla Nani"
       },
       "org" : {
         "type" : "uri",
@@ -7911,7 +7846,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4751171-841FDC32-FD12-4CEA-A3E6-323E7F6B8AF7"
+        "value" : "http://www.wikidata.org/entity/statement/Q47486431-bd98ebe1-5e0c-47ab-8cd1-5a8b2be47b6a"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -7938,12 +7873,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4751171"
+        "value" : "http://www.wikidata.org/entity/Q47486431"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Anam Ramanarayana Reddy"
+        "value" : "David Raju Palaparthi"
       },
       "org" : {
         "type" : "uri",
@@ -8036,7 +7971,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4838053-e5b84872-b7be-407d-a8d6-5336b6afb37e"
+        "value" : "http://www.wikidata.org/entity/statement/Q4751171-841FDC32-FD12-4CEA-A3E6-323E7F6B8AF7"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8063,12 +7998,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4838053"
+        "value" : "http://www.wikidata.org/entity/Q4751171"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Babu Mohan"
+        "value" : "Anam Ramanarayana Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -8161,7 +8096,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4840669-AC5F6305-8591-4D08-AFB8-FC73EB7F8E10"
+        "value" : "http://www.wikidata.org/entity/statement/Q4838053-e5b84872-b7be-407d-a8d6-5336b6afb37e"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8188,12 +8123,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4840669"
+        "value" : "http://www.wikidata.org/entity/Q4838053"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Baddam Yella Reddy"
+        "value" : "Babu Mohan"
       },
       "org" : {
         "type" : "uri",
@@ -8286,7 +8221,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4855115-4BC879F8-409F-4F1A-850B-1357DEF78407"
+        "value" : "http://www.wikidata.org/entity/statement/Q4840669-AC5F6305-8591-4D08-AFB8-FC73EB7F8E10"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8313,12 +8248,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4855115"
+        "value" : "http://www.wikidata.org/entity/Q4840669"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bangaru Usha Rani"
+        "value" : "Baddam Yella Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -8411,7 +8346,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4997180-27B16287-923B-4901-9D26-D606C389B6EB"
+        "value" : "http://www.wikidata.org/entity/statement/Q4855115-4BC879F8-409F-4F1A-850B-1357DEF78407"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8438,12 +8373,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4997180"
+        "value" : "http://www.wikidata.org/entity/Q4855115"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bulusu Sambamurti"
+        "value" : "Bangaru Usha Rani"
       },
       "org" : {
         "type" : "uri",
@@ -8536,7 +8471,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q50860566-c048319d-62ba-414b-8ebc-23fb733889c2"
+        "value" : "http://www.wikidata.org/entity/statement/Q4997180-27B16287-923B-4901-9D26-D606C389B6EB"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8563,12 +8498,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q50860566"
+        "value" : "http://www.wikidata.org/entity/Q4997180"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ahmed Ali Khan"
+        "value" : "Bulusu Sambamurti"
       },
       "org" : {
         "type" : "uri",
@@ -8661,6 +8596,136 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50860566-c048319d-62ba-414b-8ebc-23fb733889c2"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50860566"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ahmed Ali Khan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5103750-19124681-73F6-4E7F-9B94-6FF181F0A615"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5103750"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chodagam Ammanna Raja"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "चोडगाम अम्मान राजा"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q5103750-19124681-73F6-4E7F-9B94-6FF181F0A615"
       },
       "role_superclass" : {
@@ -8731,7 +8796,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5103750-19124681-73F6-4E7F-9B94-6FF181F0A615"
+        "value" : "http://www.wikidata.org/entity/statement/Q52004303-053fa41d-4a43-4276-b00a-04d370087ac6"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8758,12 +8823,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5103750"
+        "value" : "http://www.wikidata.org/entity/Q52004303"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chodagam Ammanna Raja"
+        "value" : "Yeluri Sambasiva Rao"
       },
       "org" : {
         "type" : "uri",
@@ -8787,11 +8852,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "चोडगाम अम्मान राजा"
       }
     }, {
       "statement" : {
@@ -8861,7 +8921,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q52004303-053fa41d-4a43-4276-b00a-04d370087ac6"
+        "value" : "http://www.wikidata.org/entity/statement/Q5203683-D474F2A7-433A-4EB0-BDB9-D132408B69A4"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -8888,12 +8948,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q52004303"
+        "value" : "http://www.wikidata.org/entity/Q5203683"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Yeluri Sambasiva Rao"
+        "value" : "D. K. Aruna"
       },
       "org" : {
         "type" : "uri",
@@ -8986,7 +9046,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5203683-D474F2A7-433A-4EB0-BDB9-D132408B69A4"
+        "value" : "http://www.wikidata.org/entity/statement/Q5208079-ABE7EEA3-2EA5-426C-88BA-8C6A1E53E6D7"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9013,12 +9073,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5203683"
+        "value" : "http://www.wikidata.org/entity/Q5208079"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "D. K. Aruna"
+        "value" : "Dadichiluka Veera Gouri Sankara Rao"
       },
       "org" : {
         "type" : "uri",
@@ -9111,7 +9171,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5208079-ABE7EEA3-2EA5-426C-88BA-8C6A1E53E6D7"
+        "value" : "http://www.wikidata.org/entity/statement/Q5208550-E3EDD3DE-671C-472A-A538-852A19A7C6C9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9138,12 +9198,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5208079"
+        "value" : "http://www.wikidata.org/entity/Q5208550"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dadichiluka Veera Gouri Sankara Rao"
+        "value" : "Daggubati Venkateswara Rao"
       },
       "org" : {
         "type" : "uri",
@@ -9236,7 +9296,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5208550-E3EDD3DE-671C-472A-A538-852A19A7C6C9"
+        "value" : "http://www.wikidata.org/entity/statement/Q5269216-3094698C-D95A-4BAA-9D2D-2266A0003775"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9263,12 +9323,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5208550"
+        "value" : "http://www.wikidata.org/entity/Q5269216"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Daggubati Venkateswara Rao"
+        "value" : "Dharma Bhiksham"
       },
       "org" : {
         "type" : "uri",
@@ -9361,7 +9421,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5269216-3094698C-D95A-4BAA-9D2D-2266A0003775"
+        "value" : "http://www.wikidata.org/entity/statement/Q5269282-56D5E17D-0208-4A2E-A8D0-5E1D20FA0006"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9388,12 +9448,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5269216"
+        "value" : "http://www.wikidata.org/entity/Q5269282"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dharma Bhiksham"
+        "value" : "Dharmana Prasada Rao"
       },
       "org" : {
         "type" : "uri",
@@ -9486,7 +9546,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5269282-56D5E17D-0208-4A2E-A8D0-5E1D20FA0006"
+        "value" : "http://www.wikidata.org/entity/statement/Q5512473-EAC1D080-F219-49C9-BA82-D24BD3284A05"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9513,12 +9573,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5269282"
+        "value" : "http://www.wikidata.org/entity/Q5512473"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dharmana Prasada Rao"
+        "value" : "G. Sanjeeva Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -9611,7 +9671,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5512473-EAC1D080-F219-49C9-BA82-D24BD3284A05"
+        "value" : "http://www.wikidata.org/entity/statement/Q5516387-A8243D49-C437-4F29-B6CB-8E6D1AAB0F94"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9638,12 +9698,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5512473"
+        "value" : "http://www.wikidata.org/entity/Q5516387"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "G. Sanjeeva Reddy"
+        "value" : "Gadikota Srikanth Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -9736,7 +9796,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5516387-A8243D49-C437-4F29-B6CB-8E6D1AAB0F94"
+        "value" : "http://www.wikidata.org/entity/statement/Q5518543-3C50346C-BE8A-4679-824B-00783C69FA55"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9763,12 +9823,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5516387"
+        "value" : "http://www.wikidata.org/entity/Q5518543"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gadikota Srikanth Reddy"
+        "value" : "Gali Muddu Krishnama Naidu"
       },
       "org" : {
         "type" : "uri",
@@ -9861,7 +9921,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5518543-3C50346C-BE8A-4679-824B-00783C69FA55"
+        "value" : "http://www.wikidata.org/entity/statement/Q5521935-58320633-42dc-4196-bfbd-52b80cdf8def"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -9888,12 +9948,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5518543"
+        "value" : "http://www.wikidata.org/entity/Q5521935"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gali Muddu Krishnama Naidu"
+        "value" : "Garapaty Satyanarayana"
       },
       "org" : {
         "type" : "uri",
@@ -9986,7 +10046,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5521935-58320633-42dc-4196-bfbd-52b80cdf8def"
+        "value" : "http://www.wikidata.org/entity/statement/Q5584197-B9590249-472C-4C5C-AD17-3A3C2A009D8A"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10013,12 +10073,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5521935"
+        "value" : "http://www.wikidata.org/entity/Q5584197"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Garapaty Satyanarayana"
+        "value" : "Gopal Rao Ekbote"
       },
       "org" : {
         "type" : "uri",
@@ -10111,7 +10171,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5584197-B9590249-472C-4C5C-AD17-3A3C2A009D8A"
+        "value" : "http://www.wikidata.org/entity/statement/Q56250284-f26ed530-09eb-46bf-bbb4-3400fcfbc462"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10138,12 +10198,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5584197"
+        "value" : "http://www.wikidata.org/entity/Q56250284"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Gopal Rao Ekbote"
+        "value" : "Kona Raghupathi"
       },
       "org" : {
         "type" : "uri",
@@ -10236,7 +10296,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q56250284-f26ed530-09eb-46bf-bbb4-3400fcfbc462"
+        "value" : "http://www.wikidata.org/entity/statement/Q6121936-D158E245-DE07-49CA-B181-CF8529FD9181"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10263,12 +10323,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q56250284"
+        "value" : "http://www.wikidata.org/entity/Q6121936"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kona Raghupathi"
+        "value" : "Jaffer Hussain"
       },
       "org" : {
         "type" : "uri",
@@ -10361,7 +10421,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6121936-D158E245-DE07-49CA-B181-CF8529FD9181"
+        "value" : "http://www.wikidata.org/entity/statement/Q6167636-18B63FE0-FB05-4231-A8A9-33153F866EDC"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10388,12 +10448,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6121936"
+        "value" : "http://www.wikidata.org/entity/Q6167636"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jaffer Hussain"
+        "value" : "Jayaprakash Narayan"
       },
       "org" : {
         "type" : "uri",
@@ -10417,6 +10477,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "जयप्रकाश नारायण (लोकसत्ता)"
       }
     }, {
       "statement" : {
@@ -10491,136 +10556,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6167636-18B63FE0-FB05-4231-A8A9-33153F866EDC"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6167636"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jayaprakash Narayan"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "जयप्रकाश नारायण (लोकसत्ता)"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6167685-F1E0D3DC-5161-44D7-A1FF-53FF9B8509F9"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6167685"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jayasudha"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6167685-F1E0D3DC-5161-44D7-A1FF-53FF9B8509F9"
       },
       "role_superclass" : {
@@ -10681,7 +10616,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6214828-788EF78B-AA3D-4CB2-B459-CB7320777ED3"
+        "value" : "http://www.wikidata.org/entity/statement/Q6167685-F1E0D3DC-5161-44D7-A1FF-53FF9B8509F9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10708,12 +10643,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6214828"
+        "value" : "http://www.wikidata.org/entity/Q6167685"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jogu Ramanna"
+        "value" : "Jayasudha"
       },
       "org" : {
         "type" : "uri",
@@ -10806,6 +10741,136 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6214828-788EF78B-AA3D-4CB2-B459-CB7320777ED3"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6214828"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jogu Ramanna"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6314533-04AAA107-1BC8-4BE9-BA72-C0CFB5F8A423"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6314533"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jupally Krishna Rao"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "jupally krishna rao"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6314533-04AAA107-1BC8-4BE9-BA72-C0CFB5F8A423"
       },
       "role_superclass" : {
@@ -10876,7 +10941,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6314533-04AAA107-1BC8-4BE9-BA72-C0CFB5F8A423"
+        "value" : "http://www.wikidata.org/entity/statement/Q6323322-0CD39193-DB76-426A-A8AA-9E80CB8F77D9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -10903,12 +10968,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6314533"
+        "value" : "http://www.wikidata.org/entity/Q6323322"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Jupally Krishna Rao"
+        "value" : "K. E. Krishnamurthy"
       },
       "org" : {
         "type" : "uri",
@@ -10932,11 +10997,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "jupally krishna rao"
       }
     }, {
       "statement" : {
@@ -11006,7 +11066,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6323322-0CD39193-DB76-426A-A8AA-9E80CB8F77D9"
+        "value" : "http://www.wikidata.org/entity/statement/Q6323804-54AB9190-CD5D-463B-A46A-56278361B8AC"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11033,12 +11093,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6323322"
+        "value" : "http://www.wikidata.org/entity/Q6323804"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. E. Krishnamurthy"
+        "value" : "K. Punnaiah"
       },
       "org" : {
         "type" : "uri",
@@ -11131,7 +11191,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6323804-54AB9190-CD5D-463B-A46A-56278361B8AC"
+        "value" : "http://www.wikidata.org/entity/statement/Q6373332-A150C716-52E1-4F60-B726-38B128D1A65B"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11158,12 +11218,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6323804"
+        "value" : "http://www.wikidata.org/entity/Q6373332"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. Punnaiah"
+        "value" : "Karra Subba Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -11256,7 +11316,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6373332-A150C716-52E1-4F60-B726-38B128D1A65B"
+        "value" : "http://www.wikidata.org/entity/statement/Q6373646-3576DD1D-FE0D-42BA-BE26-9C6776B4E8EC"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11283,12 +11343,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6373332"
+        "value" : "http://www.wikidata.org/entity/Q6373646"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Karra Subba Reddy"
+        "value" : "Karumuri Venkata Nageswara Rao"
       },
       "org" : {
         "type" : "uri",
@@ -11381,7 +11441,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6373646-3576DD1D-FE0D-42BA-BE26-9C6776B4E8EC"
+        "value" : "http://www.wikidata.org/entity/statement/Q6374861-8798F51B-0F38-4C0E-B645-3BA8BC4B4FCC"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11408,12 +11468,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6373646"
+        "value" : "http://www.wikidata.org/entity/Q6374861"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Karumuri Venkata Nageswara Rao"
+        "value" : "Kasu Krishna Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -11506,7 +11566,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6374861-8798F51B-0F38-4C0E-B645-3BA8BC4B4FCC"
+        "value" : "http://www.wikidata.org/entity/statement/Q6386898-F3721184-204C-4C6F-A749-15A5CB5B0FFC"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11533,12 +11593,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6374861"
+        "value" : "http://www.wikidata.org/entity/Q6386898"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kasu Krishna Reddy"
+        "value" : "Kemburi Ramamohan Rao"
       },
       "org" : {
         "type" : "uri",
@@ -11631,7 +11691,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6386898-F3721184-204C-4C6F-A749-15A5CB5B0FFC"
+        "value" : "http://www.wikidata.org/entity/statement/Q6429085-8457BA0A-43D8-4EC8-BB6A-9DAC5F4F078E"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11658,12 +11718,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6386898"
+        "value" : "http://www.wikidata.org/entity/Q6429085"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kemburi Ramamohan Rao"
+        "value" : "Koneru Ranga Rao"
       },
       "org" : {
         "type" : "uri",
@@ -11756,7 +11816,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6429085-8457BA0A-43D8-4EC8-BB6A-9DAC5F4F078E"
+        "value" : "http://www.wikidata.org/entity/statement/Q6433821-975E6810-E04B-4A69-A0C1-9A07FC99A3E8"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -11783,12 +11843,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6429085"
+        "value" : "http://www.wikidata.org/entity/Q6433821"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Koneru Ranga Rao"
+        "value" : "Kota Srinivasa Rao"
       },
       "org" : {
         "type" : "uri",
@@ -11812,6 +11872,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कोटा श्रीनिवास राव"
       }
     }, {
       "statement" : {
@@ -11886,136 +11951,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6433821-975E6810-E04B-4A69-A0C1-9A07FC99A3E8"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6433821"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kota Srinivasa Rao"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कोटा श्रीनिवास राव"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6441783-C89E962E-A205-4B56-9030-917D910E4CAB"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6441783"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Kududula Nagesh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6441783-C89E962E-A205-4B56-9030-917D910E4CAB"
       },
       "role_superclass" : {
@@ -12076,7 +12011,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6712272-49E79F94-3620-42EB-9E76-1204E7C57B1A"
+        "value" : "http://www.wikidata.org/entity/statement/Q6441783-C89E962E-A205-4B56-9030-917D910E4CAB"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12103,12 +12038,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6712272"
+        "value" : "http://www.wikidata.org/entity/Q6441783"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M.S. Partha Sarathi"
+        "value" : "Kududula Nagesh"
       },
       "org" : {
         "type" : "uri",
@@ -12201,7 +12136,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6810521-24F9C78B-C32E-4257-A075-B6827C718AC8"
+        "value" : "http://www.wikidata.org/entity/statement/Q6712272-49E79F94-3620-42EB-9E76-1204E7C57B1A"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12228,12 +12163,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6810521"
+        "value" : "http://www.wikidata.org/entity/Q6712272"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Meka Rangaiah Appa Rao"
+        "value" : "M.S. Partha Sarathi"
       },
       "org" : {
         "type" : "uri",
@@ -12326,7 +12261,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6890427-4BAE1895-4B99-4B74-A31E-44421B90408C"
+        "value" : "http://www.wikidata.org/entity/statement/Q6810521-24F9C78B-C32E-4257-A075-B6827C718AC8"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12353,12 +12288,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6890427"
+        "value" : "http://www.wikidata.org/entity/Q6810521"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mogaligundla Baga Reddy"
+        "value" : "Meka Rangaiah Appa Rao"
       },
       "org" : {
         "type" : "uri",
@@ -12451,7 +12386,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6893336-6D4A1782-431B-4BD6-B987-A81FCBCC596D"
+        "value" : "http://www.wikidata.org/entity/statement/Q6890427-4BAE1895-4B99-4B74-A31E-44421B90408C"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12478,12 +12413,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6893336"
+        "value" : "http://www.wikidata.org/entity/Q6890427"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mohammed Shakir"
+        "value" : "Mogaligundla Baga Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -12576,7 +12511,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6951816-F9AB80FC-9F7D-4409-AA48-FE4A815D17B7"
+        "value" : "http://www.wikidata.org/entity/statement/Q6893336-6D4A1782-431B-4BD6-B987-A81FCBCC596D"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12603,12 +12538,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6951816"
+        "value" : "http://www.wikidata.org/entity/Q6893336"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "N. V. Krishnaiah"
+        "value" : "Mohammed Shakir"
       },
       "org" : {
         "type" : "uri",
@@ -12701,7 +12636,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6960784-3EDAC84F-EB7B-4C05-A7BE-245C805D5EFE"
+        "value" : "http://www.wikidata.org/entity/statement/Q6951816-F9AB80FC-9F7D-4409-AA48-FE4A815D17B7"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12728,12 +12663,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6960784"
+        "value" : "http://www.wikidata.org/entity/Q6951816"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nalamada Uttam Kumar Reddy"
+        "value" : "N. V. Krishnaiah"
       },
       "org" : {
         "type" : "uri",
@@ -12826,6 +12761,136 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6960784-3EDAC84F-EB7B-4C05-A7BE-245C805D5EFE"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6960784"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nalamada Uttam Kumar Reddy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6963169-B7D61A8E-AB8B-479B-8480-7C69B24A99C7"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6963169"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Nandamuri Balakrishna"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "नंदमुरी बालकृष्ण"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q6963169-B7D61A8E-AB8B-479B-8480-7C69B24A99C7"
       },
       "role_superclass" : {
@@ -12896,7 +12961,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6963169-B7D61A8E-AB8B-479B-8480-7C69B24A99C7"
+        "value" : "http://www.wikidata.org/entity/statement/Q6963409-8C13F304-249B-4A87-97FF-9E2503BF8B21"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -12923,12 +12988,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6963169"
+        "value" : "http://www.wikidata.org/entity/Q6963409"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nandamuri Balakrishna"
+        "value" : "Nandyala Varada Rajulu Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -12952,11 +13017,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "नंदमुरी बालकृष्ण"
       }
     }, {
       "statement" : {
@@ -13026,7 +13086,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6963409-8C13F304-249B-4A87-97FF-9E2503BF8B21"
+        "value" : "http://www.wikidata.org/entity/statement/Q7127801-70CA535B-39C0-4E6D-BC8F-E2FD089B73A1"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13053,12 +13113,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6963409"
+        "value" : "http://www.wikidata.org/entity/Q7127801"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Nandyala Varada Rajulu Reddy"
+        "value" : "Palle Raghunatha Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -13151,7 +13211,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7127801-70CA535B-39C0-4E6D-BC8F-E2FD089B73A1"
+        "value" : "http://www.wikidata.org/entity/statement/Q7156945-8CE61590-F144-4E2E-B50C-E12CD38FCEB9"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13178,12 +13238,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7127801"
+        "value" : "http://www.wikidata.org/entity/Q7156945"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Palle Raghunatha Reddy"
+        "value" : "Payyavula Keshav"
       },
       "org" : {
         "type" : "uri",
@@ -13276,7 +13336,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7156945-8CE61590-F144-4E2E-B50C-E12CD38FCEB9"
+        "value" : "http://www.wikidata.org/entity/statement/Q7227897-56B38B77-DC6B-400D-8E26-B4A71C0E72E1"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13303,12 +13363,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7156945"
+        "value" : "http://www.wikidata.org/entity/Q7227897"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Payyavula Keshav"
+        "value" : "Ponnala Lakshmaiah"
       },
       "org" : {
         "type" : "uri",
@@ -13401,7 +13461,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7227897-56B38B77-DC6B-400D-8E26-B4A71C0E72E1"
+        "value" : "http://www.wikidata.org/entity/statement/Q7238856-0F3B7C24-D887-4B40-A769-1560BA97E302"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13428,12 +13488,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7227897"
+        "value" : "http://www.wikidata.org/entity/Q7238856"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ponnala Lakshmaiah"
+        "value" : "Praveen Kumar Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -13526,7 +13586,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7238856-0F3B7C24-D887-4B40-A769-1560BA97E302"
+        "value" : "http://www.wikidata.org/entity/statement/Q7282988-8dd6f440-3fc9-435d-a831-777c07cfde98"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13553,12 +13613,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7238856"
+        "value" : "http://www.wikidata.org/entity/Q7282988"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Praveen Kumar Reddy"
+        "value" : "Raghu Veera Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -13651,7 +13711,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7282988-8dd6f440-3fc9-435d-a831-777c07cfde98"
+        "value" : "http://www.wikidata.org/entity/statement/Q7296827-ED94E710-FE13-4D1D-8761-B0CA65EA7433"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13678,12 +13738,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7282988"
+        "value" : "http://www.wikidata.org/entity/Q7296827"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Raghu Veera Reddy"
+        "value" : "Ravula Chandra Sekar Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -13776,7 +13836,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7296827-ED94E710-FE13-4D1D-8761-B0CA65EA7433"
+        "value" : "http://www.wikidata.org/entity/statement/Q7317733-21038421-9001-4DF4-A0A0-C98A283665B8"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13803,12 +13863,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7296827"
+        "value" : "http://www.wikidata.org/entity/Q7317733"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ravula Chandra Sekar Reddy"
+        "value" : "Anumula Revanth Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -13901,7 +13961,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7317733-21038421-9001-4DF4-A0A0-C98A283665B8"
+        "value" : "http://www.wikidata.org/entity/statement/Q7586360-7344703a-fd2e-4997-b749-aaa693b19f9c"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -13928,12 +13988,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7317733"
+        "value" : "http://www.wikidata.org/entity/Q7586360"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Anumula Revanth Reddy"
+        "value" : "Sridhar Babu"
       },
       "org" : {
         "type" : "uri",
@@ -14026,7 +14086,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7586360-7344703a-fd2e-4997-b749-aaa693b19f9c"
+        "value" : "http://www.wikidata.org/entity/statement/Q7672670-BC8B339C-650B-4C2D-A12D-E2FCF7F681A2"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14053,12 +14113,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7586360"
+        "value" : "http://www.wikidata.org/entity/Q7672670"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Sridhar Babu"
+        "value" : "T Ratna Bai"
       },
       "org" : {
         "type" : "uri",
@@ -14151,7 +14211,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7672670-BC8B339C-650B-4C2D-A12D-E2FCF7F681A2"
+        "value" : "http://www.wikidata.org/entity/statement/Q7678908-987dd802-825a-4774-919f-3f7a19dce641"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14178,12 +14238,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7672670"
+        "value" : "http://www.wikidata.org/entity/Q7678908"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "T Ratna Bai"
+        "value" : "Talari Manohar"
       },
       "org" : {
         "type" : "uri",
@@ -14276,7 +14336,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7678908-987dd802-825a-4774-919f-3f7a19dce641"
+        "value" : "http://www.wikidata.org/entity/statement/Q7682567-D5B58072-2AA8-4A3F-AC3F-EF9E0F11F82B"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14303,12 +14363,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7678908"
+        "value" : "http://www.wikidata.org/entity/Q7682567"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Talari Manohar"
+        "value" : "Taneti Vanitha"
       },
       "org" : {
         "type" : "uri",
@@ -14401,7 +14461,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7682567-D5B58072-2AA8-4A3F-AC3F-EF9E0F11F82B"
+        "value" : "http://www.wikidata.org/entity/statement/Q7852127-1306F15E-86ED-4E12-BC36-E743C4E78902"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14428,12 +14488,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7682567"
+        "value" : "http://www.wikidata.org/entity/Q7852127"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Taneti Vanitha"
+        "value" : "Tulla Devender Goud"
       },
       "org" : {
         "type" : "uri",
@@ -14526,7 +14586,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7852127-1306F15E-86ED-4E12-BC36-E743C4E78902"
+        "value" : "http://www.wikidata.org/entity/statement/Q7881019-5571FC3A-2F35-478F-BCF9-8D6AE2EC8DA6"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14553,12 +14613,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7852127"
+        "value" : "http://www.wikidata.org/entity/Q7881019"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Tulla Devender Goud"
+        "value" : "Uma Maheswara Rao Devineni"
       },
       "org" : {
         "type" : "uri",
@@ -14651,7 +14711,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7881019-5571FC3A-2F35-478F-BCF9-8D6AE2EC8DA6"
+        "value" : "http://www.wikidata.org/entity/statement/Q7909188-23CB9B05-9338-49A8-8822-7F2AED7E5E8E"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14678,12 +14738,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7881019"
+        "value" : "http://www.wikidata.org/entity/Q7909188"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Uma Maheswara Rao Devineni"
+        "value" : "Vala Chakradhar Rao"
       },
       "org" : {
         "type" : "uri",
@@ -14776,7 +14836,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7909188-23CB9B05-9338-49A8-8822-7F2AED7E5E8E"
+        "value" : "http://www.wikidata.org/entity/statement/Q7917497-dd47c872-f1a2-414a-a07e-28346fbf3b62"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -14803,12 +14863,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7909188"
+        "value" : "http://www.wikidata.org/entity/Q7917497"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vala Chakradhar Rao"
+        "value" : "Vavilala Gopalakrishnayya"
       },
       "org" : {
         "type" : "uri",
@@ -14832,6 +14892,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "वाविलला गोपालकृष्णन्या"
       }
     }, {
       "statement" : {
@@ -14906,136 +14971,6 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7917497-dd47c872-f1a2-414a-a07e-28346fbf3b62"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7917497"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vavilala Gopalakrishnayya"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "वाविलला गोपालकृष्णन्या"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7919129-b741e0e7-20e3-48ff-94b5-201515d17efa"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17598882"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Andhra Pradesh Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7919129"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vellampalli Srinivas"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16915317"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आन्ध्र प्रदेश विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Andhra Pradesh Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1159"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "176"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q7919129-b741e0e7-20e3-48ff-94b5-201515d17efa"
       },
       "role_superclass" : {
@@ -15096,7 +15031,7 @@
     }, {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q8045771-1D9F431C-AE6D-4275-9491-CD6005940818"
+        "value" : "http://www.wikidata.org/entity/statement/Q7919129-b741e0e7-20e3-48ff-94b5-201515d17efa"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -15123,12 +15058,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q8045771"
+        "value" : "http://www.wikidata.org/entity/Q7919129"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Y. S. Vijayamma"
+        "value" : "Vellampalli Srinivas"
       },
       "org" : {
         "type" : "uri",
@@ -15217,6 +15152,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "176"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q8045771-1D9F431C-AE6D-4275-9491-CD6005940818"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17598882"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आंध्र प्रदेश विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Andhra Pradesh Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q8045771"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Y. S. Vijayamma"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16915317"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आन्ध्र प्रदेश विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Andhra Pradesh Legislative Assembly"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1159"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "176"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     } ]
   }

@@ -6,76 +6,6 @@
     "bindings" : [ {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24540202"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मिजोरम विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Mizoram Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1362153"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pu Zoramthanga"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6884693"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मिजोरम विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mizoram Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1362153-3E64B828-5550-4900-8468-444BFB238280"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1502"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "40"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "ज़ोरामथंगा"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -164,12 +94,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q15993690"
+        "value" : "http://www.wikidata.org/entity/Q1362153"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pu Zoduha"
+        "value" : "Pu Zoramthanga"
       },
       "org" : {
         "type" : "uri",
@@ -187,7 +117,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q15993690-1B938FA1-A4F1-4891-BB1E-B0EE358B70CF"
+        "value" : "http://www.wikidata.org/entity/statement/Q1362153-3E64B828-5550-4900-8468-444BFB238280"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -197,6 +127,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "40"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "ज़ोरामथंगा"
       },
       "role_superclass_hi" : {
         "xml:lang" : "hi",
@@ -289,12 +224,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16729837"
+        "value" : "http://www.wikidata.org/entity/Q15993690"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Hiphei"
+        "value" : "Pu Zoduha"
       },
       "org" : {
         "type" : "uri",
@@ -312,7 +247,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q16729837-AA971A4E-B7DE-44C2-A935-C1B493637E33"
+        "value" : "http://www.wikidata.org/entity/statement/Q15993690-1B938FA1-A4F1-4891-BB1E-B0EE358B70CF"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -414,12 +349,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24952293"
+        "value" : "http://www.wikidata.org/entity/Q16729837"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Lal Thanzara"
+        "value" : "Hiphei"
       },
       "org" : {
         "type" : "uri",
@@ -437,7 +372,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q24952293-680a98d2-d82f-4df5-9080-fb39d189952e"
+        "value" : "http://www.wikidata.org/entity/statement/Q16729837-AA971A4E-B7DE-44C2-A935-C1B493637E33"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -539,12 +474,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28794158"
+        "value" : "http://www.wikidata.org/entity/Q24952293"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Zosiama Pachuau"
+        "value" : "Lal Thanzara"
       },
       "org" : {
         "type" : "uri",
@@ -562,7 +497,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28794158-9082e9e9-b732-462f-86e6-73884c4130d6"
+        "value" : "http://www.wikidata.org/entity/statement/Q24952293-680a98d2-d82f-4df5-9080-fb39d189952e"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -664,12 +599,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q28842094"
+        "value" : "http://www.wikidata.org/entity/Q28794158"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. Beichhua"
+        "value" : "Zosiama Pachuau"
       },
       "org" : {
         "type" : "uri",
@@ -687,7 +622,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a"
+        "value" : "http://www.wikidata.org/entity/statement/Q28794158-9082e9e9-b732-462f-86e6-73884c4130d6"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -789,12 +724,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q457664"
+        "value" : "http://www.wikidata.org/entity/Q28842094"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Pu Laldenga"
+        "value" : "K. Beichhua"
       },
       "org" : {
         "type" : "uri",
@@ -812,7 +747,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q457664-ADEF0146-3B71-4595-AA7F-3993B773AB9C"
+        "value" : "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -914,12 +849,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5006649"
+        "value" : "http://www.wikidata.org/entity/Q457664"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "C. L. Ruala"
+        "value" : "Pu Laldenga"
       },
       "org" : {
         "type" : "uri",
@@ -937,7 +872,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5006649-6C5D5E00-2190-4F5C-AE5D-F03D21015484"
+        "value" : "http://www.wikidata.org/entity/statement/Q457664-ADEF0146-3B71-4595-AA7F-3993B773AB9C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -952,11 +887,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सी॰ एल॰ रुआला"
       }
     }, {
       "role_superclass" : {
@@ -1022,6 +952,136 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सी॰ एल॰ रुआला"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24540202"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मिजोरम विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Mizoram Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5006649"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "C. L. Ruala"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6884693"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मिजोरम विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mizoram Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5006649-6C5D5E00-2190-4F5C-AE5D-F03D21015484"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सी॰ एल॰ रुआला"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24540202"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मिजोरम विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Mizoram Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5065891"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ch. Chhunga"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6884693"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मिजोरम विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mizoram Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5065891-53703C82-C3D8-44B5-B019-880F13AAA621"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
       }
     }, {
       "role_superclass" : {
@@ -1114,136 +1174,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5065891"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ch. Chhunga"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6884693"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मिजोरम विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mizoram Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5065891-53703C82-C3D8-44B5-B019-880F13AAA621"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1502"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "40"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24540202"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मिजोरम विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Mizoram Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5094693"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Pu Lalthanhawla"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6884693"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मिजोरम विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mizoram Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1502"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "40"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पु ललथनहवला"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24540202"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मिजोरम विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Mizoram Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5094693"
       },
       "name_en" : {
@@ -1309,12 +1239,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7668693"
+        "value" : "http://www.wikidata.org/entity/Q5094693"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ṭhenphunga Sailo"
+        "value" : "Pu Lalthanhawla"
       },
       "org" : {
         "type" : "uri",
@@ -1332,7 +1262,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7668693-842D7BC9-193B-4C50-883E-3097DFD77774"
+        "value" : "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1343,15 +1273,15 @@
         "type" : "literal",
         "value" : "40"
       },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "पु ललथनहवला"
+      },
       "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "थेन्फुन्गा सैलो"
       }
     }, {
       "role_superclass" : {
@@ -1444,12 +1374,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7915071"
+        "value" : "http://www.wikidata.org/entity/Q7668693"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Vanlalzawma"
+        "value" : "Ṭhenphunga Sailo"
       },
       "org" : {
         "type" : "uri",
@@ -1467,7 +1397,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7915071-167F623B-179D-4127-9B88-5D150DB4A250"
+        "value" : "http://www.wikidata.org/entity/statement/Q7668693-842D7BC9-193B-4C50-883E-3097DFD77774"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -1477,6 +1407,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "40"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "थेन्फुन्गा सैलो"
       },
       "role_superclass_hi" : {
         "xml:lang" : "hi",
@@ -1542,6 +1477,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "40"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24540202"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मिजोरम विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Mizoram Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7915071"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vanlalzawma"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6884693"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मिजोरम विधान सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Mizoram Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7915071-167F623B-179D-4127-9B88-5D150DB4A250"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1502"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "40"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     } ]
   }
