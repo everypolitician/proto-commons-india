@@ -255,12 +255,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6150836"
+        "value" : "http://www.wikidata.org/entity/Q2352638"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "जनता पार्टी"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Janata Morcha"
+        "value" : "Janata Party"
       },
       "item" : {
         "type" : "uri",
@@ -328,17 +333,12 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2352638"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "जनता पार्टी"
+        "value" : "http://www.wikidata.org/entity/Q6150836"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Janata Party"
+        "value" : "Janata Morcha"
       },
       "item" : {
         "type" : "uri",
@@ -718,17 +718,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
+        "value" : "http://www.wikidata.org/entity/Q10230"
       },
       "party_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+        "value" : "भारतीय जनता पार्टी"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Indian National Congress"
+        "value" : "Bharatiya Janata Party"
       },
       "item" : {
         "type" : "uri",
@@ -796,17 +796,17 @@
     }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
+        "value" : "http://www.wikidata.org/entity/Q10225"
       },
       "party_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bharatiya Janata Party"
+        "value" : "Indian National Congress"
       },
       "item" : {
         "type" : "uri",

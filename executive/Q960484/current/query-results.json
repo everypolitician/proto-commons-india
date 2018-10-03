@@ -6,85 +6,104 @@
     "bindings" : [ {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
+        "value" : "http://www.wikidata.org/entity/Q10230"
       },
       "party_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+        "value" : "भारतीय जनता पार्टी"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Indian National Congress"
+        "value" : "Bharatiya Janata Party"
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2901773"
+        "value" : "http://www.wikidata.org/entity/Q1058"
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1348"
+        "value" : "http://www.wikidata.org/entity/Q668"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "कोलकाता"
+        "value" : "भारत"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kolkata"
+        "value" : "India"
       },
       "role" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16345170"
+        "value" : "http://www.wikidata.org/entity/Q192711"
       },
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16345170"
+        "value" : "http://www.wikidata.org/entity/Q192711"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारत के प्रधानमंत्री"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of Kolkata"
+        "value" : "Prime Minister of India"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारत के प्रधानमंत्री"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Mayor of Kolkata"
+        "value" : "Prime Minister of India"
       },
       "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "बिधान चंद्र राय"
+        "value" : "नरेन्द्र मोदी"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bidhan Chandra Roy"
+        "value" : "Narendra Modi"
       },
       "org" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3350560"
+        "value" : "http://www.wikidata.org/entity/Q960484"
       },
       "org_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "कोलकाता नगर निगम"
+        "value" : "भारत का मंत्रिमंडल"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kolkata Municipal Corporation"
+        "value" : "Union Council of Ministers of India"
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2901773-e52cc9b8-44e5-4035-40b9-ab7106ba6223"
+        "value" : "http://www.wikidata.org/entity/statement/Q1058-ddad0908-4e1d-35fb-5013-ab40b9934572"
       },
       "org_jurisdiction" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1348"
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-05-26T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "268475866502370"
       }
     } ]
   }
