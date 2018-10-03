@@ -4,156 +4,166 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Indian National Congress"
+        "value" : "http://www.wikidata.org/entity/statement/Q2722486-9EE6B48A-42CA-4E18-880C-46E7AFA2B327"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q2722486"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gujarat"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Amarsinh Chaudhary"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Gujarat"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2722486-9EE6B48A-42CA-4E18-880C-46E7AFA2B327"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3595245"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
       },
-      "name_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Balwantrai Mehta"
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3595245-A6F74055-57AF-476F-9C0E-CE042DEED454"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3595245"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Balwantrai Mehta"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10225"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian National Congress"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujarat"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22337580"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054110"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Gujarat"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -165,78 +175,83 @@
         "value" : "बलवंतराय मेहता"
       }
     }, {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bharatiya Janata Party"
+        "value" : "http://www.wikidata.org/entity/statement/Q4751365-c13fe11f-4c70-027b-c12a-9fc0e364064b"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4751365"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gujarat"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Anandiben Patel"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujarat"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22337580"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4751365-c13fe11f-4c70-027b-c12a-9fc0e364064b"
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -253,6 +268,102 @@
         "value" : "2014-05-22T00:00:00Z"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4838069-D9DD0EB6-FF5E-4D57-8BBA-AFFD6676E32D"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4838069"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Babubhai J. Patel"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2352638"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Janata Party"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "जनता पार्टी"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujarat"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22337580"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054110"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Gujarat"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4838069-D9DD0EB6-FF5E-4D57-8BBA-AFFD6676E32D"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4838069"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Babubhai J. Patel"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6150836"
@@ -262,688 +373,637 @@
         "type" : "literal",
         "value" : "Janata Morcha"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4838069"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Babubhai J. Patel"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Gujarat"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4838069-D9DD0EB6-FF5E-4D57-8BBA-AFFD6676E32D"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2352638"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "जनता पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Janata Party"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4838069"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "गुजरात"
       },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gujarat"
-      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
       },
-      "name_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Babubhai J. Patel"
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4838069-D9DD0EB6-FF5E-4D57-8BBA-AFFD6676E32D"
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
       }
     }, {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Indian National Congress"
+        "value" : "http://www.wikidata.org/entity/statement/Q5094737-24F565C4-0D19-4815-AE45-FEAA07F6039A"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5094737"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gujarat"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chhabildas Mehta"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Gujarat"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5094737-24F565C4-0D19-4815-AE45-FEAA07F6039A"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5099299"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054110"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Gujarat"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5099299-4D2BA478-4508-4F72-9E81-A479FC4E30CA"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5099299"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chimanbhai Patel"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Gujarat"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5099299-4D2BA478-4508-4F72-9E81-A479FC4E30CA"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5555610"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054110"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Gujarat"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5555610-3DB41B11-4A32-4B79-A34E-9A5A4E9212C5"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5555610"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Ghanshyambhai C. Oza"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Gujarat"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5555610-3DB41B11-4A32-4B79-A34E-9A5A4E9212C5"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5871914"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054110"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Gujarat"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5871914-70B41634-FC1E-43C4-841C-63C340712135"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5871914"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Hitendra Kanaiyalal Desai"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Gujarat"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5871914-70B41634-FC1E-43C4-841C-63C340712135"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6221027"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
       },
-      "name_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Shankersinh Vaghela"
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6221027-0FF7699A-660A-43E0-BF86-461E3B207A92"
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
       }
     }, {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bharatiya Janata Party"
+        "value" : "http://www.wikidata.org/entity/statement/Q6221027-0FF7699A-660A-43E0-BF86-461E3B207A92"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6221027"
       },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shankersinh Vaghela"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10225"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian National Congress"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Gujarat"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Gujarat"
       },
-      "name_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Shankersinh Vaghela"
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6221027-0FF7699A-660A-43E0-BF86-461E3B207A92"
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1061"
       }
     }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6221027-0FF7699A-660A-43E0-BF86-461E3B207A92"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6221027"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shankersinh Vaghela"
+      },
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
       },
       "party_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "भारतीय जनता पार्टी"
       },
-      "party_name_en" : {
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      },
+      "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bharatiya Janata Party"
+        "value" : "Gujarat"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22337580"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17054110"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Gujarat"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7645763-029AF557-EC02-4DAA-9662-6DF933F6A685"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7645763"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gujarat"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Suresh Mehta"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujarat"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22337580"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7645763-029AF557-EC02-4DAA-9662-6DF933F6A685"
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -955,78 +1015,83 @@
         "value" : "सुरेश मेहता"
       }
     }, {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bharatiya Janata Party"
+        "value" : "http://www.wikidata.org/entity/statement/Q7929316-c359ad13-4ab6-717f-867e-52634e126958"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q7929316"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1061"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Gujarat"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q22337580"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Gujarat"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Vijay Rupani"
       },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1061"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Gujarat"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q22337580"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Gujarat"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17054110"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "गुजरात विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Gujarat"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7929316-c359ad13-4ab6-717f-867e-52634e126958"
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गुजरात विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",

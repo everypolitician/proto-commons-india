@@ -33,6 +33,66 @@
     },
     {
       "name": {
+        "lang:en": "M. O. H. F. Shahjahan"
+      },
+      "id": "Q24565280",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24565280"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Namassivayam"
+      },
+      "id": "Q24572352",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24572352"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "R. Kamalakannan"
+      },
+      "id": "Q24852751",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24852751"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "M. Kandaswamy"
+      },
+      "id": "Q25184972",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25184972"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Edouard Goubert"
       },
       "id": "Q274315",
@@ -40,6 +100,80 @@
         {
           "scheme": "wikidata",
           "identifier": "Q274315"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "N. Kesavan"
+      },
+      "id": "Q27942343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27942343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+      },
+      "id": "Q31380769",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q31380769"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "A. M. Krishnamurthy"
+      },
+      "id": "Q40553909",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40553909"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "V. Saminathan"
+      },
+      "id": "Q40554686",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40554686"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "K. G. Shankar"
+      },
+      "id": "Q40555579",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40555579"
         }
       ],
       "links": [
@@ -257,10 +391,9 @@
       "id": "http://www.wikidata.org/entity/statement/Q1380115-36EFB2E7-3F53-4D47-BD19-14B1F16262C1",
       "person_id": "Q1380115",
       "organization_id": "Q3391663",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -272,9 +405,24 @@
       "id": "http://www.wikidata.org/entity/statement/Q1380115-36EFB2E7-3F53-4D47-BD19-14B1F16262C1",
       "person_id": "Q1380115",
       "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16215503-9A8049BE-D486-4D18-8FEC-9CD5D1CFBE81",
+      "person_id": "Q16215503",
+      "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -298,12 +446,128 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q16215503-9A8049BE-D486-4D18-8FEC-9CD5D1CFBE81",
-      "person_id": "Q16215503",
+      "id": "http://www.wikidata.org/entity/statement/Q24565280-0b764e38-1c4a-4a69-97b4-08e2bed4be29",
+      "person_id": "Q24565280",
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24565280-0b764e38-1c4a-4a69-97b4-08e2bed4be29",
+      "person_id": "Q24565280",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24572352-9bcdae90-2a0e-4b63-b154-e829adedb100",
+      "person_id": "Q24572352",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24572352-9bcdae90-2a0e-4b63-b154-e829adedb100",
+      "person_id": "Q24572352",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24852751-60f39beb-c68f-4f05-8ae4-cdac07699230",
+      "person_id": "Q24852751",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24852751-60f39beb-c68f-4f05-8ae4-cdac07699230",
+      "person_id": "Q24852751",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25184972-7c6e65a9-3a01-4777-8431-d1af7d1dda98",
+      "person_id": "Q25184972",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25184972-7c6e65a9-3a01-4777-8431-d1af7d1dda98",
+      "person_id": "Q25184972",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q274315-25A8E3D1-E544-4C20-909D-C64876AC1297",
+      "person_id": "Q274315",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -327,12 +591,157 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q274315-25A8E3D1-E544-4C20-909D-C64876AC1297",
-      "person_id": "Q274315",
+      "id": "http://www.wikidata.org/entity/statement/Q27942343-bdf84443-3575-425f-9340-ce4f5e3bcf6d",
+      "person_id": "Q27942343",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27942343-bdf84443-3575-425f-9340-ce4f5e3bcf6d",
+      "person_id": "Q27942343",
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31380769-6821302b-2880-4103-be5e-498953eeec16",
+      "person_id": "Q31380769",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q31380769-6821302b-2880-4103-be5e-498953eeec16",
+      "person_id": "Q31380769",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40553909-9253a5d2-9608-40d4-97ae-9b829f63d76f",
+      "person_id": "Q40553909",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40553909-9253a5d2-9608-40d4-97ae-9b829f63d76f",
+      "person_id": "Q40553909",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40554686-89d535a2-7edc-4e2f-aa9b-cc71153609ae",
+      "person_id": "Q40554686",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40554686-89d535a2-7edc-4e2f-aa9b-cc71153609ae",
+      "person_id": "Q40554686",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40555579-bcc1adf3-7933-4a7f-82e5-36f249f809d7",
+      "person_id": "Q40555579",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q40555579-bcc1adf3-7933-4a7f-82e5-36f249f809d7",
+      "person_id": "Q40555579",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4069263-7C428CDE-D8DC-4C17-9762-625231CA7390",
+      "person_id": "Q4069263",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -356,12 +765,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4069263-7C428CDE-D8DC-4C17-9762-625231CA7390",
-      "person_id": "Q4069263",
+      "id": "http://www.wikidata.org/entity/statement/Q599267-2D11513F-44E3-4A4F-88D2-454173FB9148",
+      "person_id": "Q599267",
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -385,12 +794,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q599267-2D11513F-44E3-4A4F-88D2-454173FB9148",
-      "person_id": "Q599267",
+      "id": "http://www.wikidata.org/entity/statement/Q6357338-C95D583B-F6A2-4BA4-BC29-77F652B1158F",
+      "person_id": "Q6357338",
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -406,20 +815,6 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
-      },
-      "role_code": "Q24340546",
-      "role": {
-        "lang:en": "Member of the Puducherry Legislative Assembly",
-        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6357338-C95D583B-F6A2-4BA4-BC29-77F652B1158F",
-      "person_id": "Q6357338",
-      "organization_id": "Q3391663",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -448,7 +843,21 @@
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6713231-A287C59F-C9D3-4FF3-8100-8E16C9152AEF",
+      "person_id": "Q6713231",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -472,12 +881,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6713231-A287C59F-C9D3-4FF3-8100-8E16C9152AEF",
-      "person_id": "Q6713231",
+      "id": "http://www.wikidata.org/entity/statement/Q7274072-776B73CE-2989-4EFF-BDD9-EA7ECE3BAF63",
+      "person_id": "Q7274072",
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -493,20 +902,6 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
-      },
-      "role_code": "Q24340546",
-      "role": {
-        "lang:en": "Member of the Puducherry Legislative Assembly",
-        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7274072-776B73CE-2989-4EFF-BDD9-EA7ECE3BAF63",
-      "person_id": "Q7274072",
-      "organization_id": "Q3391663",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -535,7 +930,7 @@
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -564,7 +959,21 @@
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7906147-BC0B696D-3FF5-4A5D-90D1-F677EE6E0FFC",
+      "person_id": "Q7906147",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -580,20 +989,6 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
-      },
-      "role_code": "Q24340546",
-      "role": {
-        "lang:en": "Member of the Puducherry Legislative Assembly",
-        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7906147-BC0B696D-3FF5-4A5D-90D1-F677EE6E0FFC",
-      "person_id": "Q7906147",
-      "organization_id": "Q3391663",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -622,7 +1017,21 @@
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24340546",
+      "role": {
+        "lang:en": "Member of the Puducherry Legislative Assembly",
+        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7906295-12134BFB-6A5F-437B-B87E-7678F75489EC",
+      "person_id": "Q7906295",
+      "organization_id": "Q3391663",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -646,12 +1055,12 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7906295-12134BFB-6A5F-437B-B87E-7678F75489EC",
-      "person_id": "Q7906295",
+      "id": "http://www.wikidata.org/entity/statement/Q7906298-1E7C2F4E-3AF8-4AD0-BBC3-913EA8294151",
+      "person_id": "Q7906298",
       "organization_id": "Q3391663",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {
@@ -667,20 +1076,6 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
-      },
-      "role_code": "Q24340546",
-      "role": {
-        "lang:en": "Member of the Puducherry Legislative Assembly",
-        "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7906298-1E7C2F4E-3AF8-4AD0-BBC3-913EA8294151",
-      "person_id": "Q7906298",
-      "organization_id": "Q3391663",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
       },
       "role_code": "Q24340546",
       "role": {

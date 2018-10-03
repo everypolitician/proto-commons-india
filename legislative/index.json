@@ -1,29 +1,9 @@
 [
   {
-    "comment": "Lok Sabha",
-    "house_item_id": "Q230003",
-    "position_item_id": "Q16556694",
-    "terms": [
-      {
-        "comment": "16th Lok Sabha",
-        "term_item_id": "Q15978395"
-      }
-    ]
-  },
-  {
-    "comment": "Rajya Sabha",
-    "house_item_id": "Q244730",
-    "position_item_id": "Q17324844",
-    "terms": [
-      {
-        "start_date": "2018-01-01",
-        "end_date": "2018-12-31"
-      }
-    ]
-  },
-  {
     "comment": "Jharkhand Legislative Assembly",
     "house_item_id": "Q12429757",
+    "seat_count": "82",
+    "area_id": "Q1184",
     "position_item_id": "Q24525324",
     "terms": [
       {
@@ -35,6 +15,8 @@
   {
     "comment": "Karnataka Legislative Council",
     "house_item_id": "Q15717249",
+    "seat_count": "75",
+    "area_id": "Q1185",
     "position_item_id": "Q55192421",
     "terms": [
       {
@@ -46,6 +28,8 @@
   {
     "comment": "Nagaland Legislative Assembly",
     "house_item_id": "Q16056691",
+    "seat_count": "60",
+    "area_id": "Q1599",
     "position_item_id": "Q24541525",
     "terms": [
       {
@@ -57,6 +41,8 @@
   {
     "comment": "Andhra Pradesh Legislative Assembly",
     "house_item_id": "Q16915317",
+    "seat_count": "176",
+    "area_id": "Q1159",
     "position_item_id": "Q17598882",
     "terms": [
       {
@@ -68,6 +54,8 @@
   {
     "comment": "Telangana Legislative Assembly",
     "house_item_id": "Q17152219",
+    "seat_count": "120",
+    "area_id": "Q677037",
     "position_item_id": "Q24331572",
     "terms": [
       {
@@ -79,6 +67,8 @@
   {
     "comment": "Telangana Legislative Council",
     "house_item_id": "Q17152221",
+    "seat_count": "40",
+    "area_id": "Q677037",
     "position_item_id": "Q55192423",
     "terms": [
       {
@@ -90,7 +80,35 @@
   {
     "comment": "Gujarat Legislative Assembly",
     "house_item_id": "Q1743621",
+    "seat_count": "182",
+    "area_id": "Q1061",
     "position_item_id": "Q17582810",
+    "terms": [
+      {
+        "start_date": "2018-01-01",
+        "end_date": "2018-12-31"
+      }
+    ]
+  },
+  {
+    "comment": "Lok Sabha",
+    "house_item_id": "Q230003",
+    "seat_count": "545",
+    "area_id": "Q668",
+    "position_item_id": "Q16556694",
+    "terms": [
+      {
+        "comment": "16th Lok Sabha",
+        "term_item_id": "Q15978395"
+      }
+    ]
+  },
+  {
+    "comment": "Rajya Sabha",
+    "house_item_id": "Q244730",
+    "seat_count": "245",
+    "area_id": "Q668",
+    "position_item_id": "Q17324844",
     "terms": [
       {
         "start_date": "2018-01-01",
@@ -101,6 +119,8 @@
   {
     "comment": "West Bengal Legislative Assembly",
     "house_item_id": "Q3350930",
+    "seat_count": "295",
+    "area_id": "Q1356",
     "position_item_id": "Q19007052",
     "terms": [
       {
@@ -112,6 +132,8 @@
   {
     "comment": "Puducherry Legislative Assembly",
     "house_item_id": "Q3391663",
+    "seat_count": "30",
+    "area_id": "Q66743",
     "position_item_id": "Q24340546",
     "terms": [
       {
@@ -123,12 +145,10 @@
   {
     "comment": "Kerala Legislative Assembly",
     "house_item_id": "Q3462542",
+    "seat_count": "141",
+    "area_id": "Q1186",
     "position_item_id": "Q19468152",
     "terms": [
-      {
-        "comment": "13th Kerala Legislative Assembly",
-        "term_item_id": "Q16136943"
-      },
       {
         "comment": "Pinarayi Vijayan Ministry",
         "term_item_id": "Q25589378"
@@ -138,6 +158,8 @@
   {
     "comment": "Himachal Pradesh Legislative Assembly",
     "house_item_id": "Q3633627",
+    "seat_count": "68",
+    "area_id": "Q1177",
     "position_item_id": "Q18055586",
     "terms": [
       {
@@ -149,6 +171,8 @@
   {
     "comment": "Arunachal Pradesh Legislative Assembly",
     "house_item_id": "Q427049",
+    "seat_count": "60",
+    "area_id": "Q1162",
     "position_item_id": "Q24456735",
     "terms": [
       {
@@ -160,6 +184,8 @@
   {
     "comment": "Andhra Pradesh Legislative Council",
     "house_item_id": "Q4754369",
+    "seat_count": "58",
+    "area_id": "Q1159",
     "position_item_id": "Q55192418",
     "terms": [
       {
@@ -171,6 +197,8 @@
   {
     "comment": "Assam Legislative Assembly",
     "house_item_id": "Q4808385",
+    "seat_count": "126",
+    "area_id": "Q1164",
     "position_item_id": "Q21191662",
     "terms": [
       {
@@ -182,6 +210,8 @@
   {
     "comment": "Bihar Legislative Assembly",
     "house_item_id": "Q4907056",
+    "seat_count": "243",
+    "area_id": "Q1165",
     "position_item_id": "Q24457068",
     "terms": [
       {
@@ -193,6 +223,8 @@
   {
     "comment": "Bihar Legislative Council",
     "house_item_id": "Q4907067",
+    "seat_count": "75",
+    "area_id": "Q1165",
     "position_item_id": "Q55192419",
     "terms": [
       {
@@ -204,6 +236,8 @@
   {
     "comment": "Chhattisgarh Legislative Assembly",
     "house_item_id": "Q5094831",
+    "seat_count": "91",
+    "area_id": "Q1168",
     "position_item_id": "Q24457183",
     "terms": [
       {
@@ -215,6 +249,8 @@
   {
     "comment": "Delhi Legislative Assembly",
     "house_item_id": "Q5253776",
+    "seat_count": "70",
+    "area_id": "Q1353",
     "position_item_id": "Q24461612",
     "terms": [
       {
@@ -226,6 +262,8 @@
   {
     "comment": "Odisha Legislative Assembly",
     "house_item_id": "Q5471613",
+    "seat_count": "147",
+    "area_id": "Q22048",
     "position_item_id": "Q24546266",
     "terms": [
       {
@@ -237,6 +275,8 @@
   {
     "comment": "Goa Legislative Assembly",
     "house_item_id": "Q5575081",
+    "seat_count": "40",
+    "area_id": "Q1171",
     "position_item_id": "Q24461695",
     "terms": [
       {
@@ -248,6 +288,8 @@
   {
     "comment": "Haryana Legislative Assembly",
     "house_item_id": "Q5677950",
+    "seat_count": "90",
+    "area_id": "Q1174",
     "position_item_id": "Q24497178",
     "terms": [
       {
@@ -259,6 +301,8 @@
   {
     "comment": "Jammu and Kashmir Legislative Council",
     "house_item_id": "Q6148013",
+    "seat_count": "36",
+    "area_id": "Q1180",
     "position_item_id": "Q55192420",
     "terms": [
       {
@@ -270,6 +314,8 @@
   {
     "comment": "Jammu and Kashmir Legislative Assembly",
     "house_item_id": "Q6148015",
+    "seat_count": "89",
+    "area_id": "Q1180",
     "position_item_id": "Q18171423",
     "terms": [
       {
@@ -281,6 +327,8 @@
   {
     "comment": "Karnataka Legislative Assembly",
     "house_item_id": "Q6372858",
+    "seat_count": "225",
+    "area_id": "Q1185",
     "position_item_id": "Q24525419",
     "terms": [
       {
@@ -292,6 +340,8 @@
   {
     "comment": "Uttarakhand Legislative Assembly",
     "house_item_id": "Q664403",
+    "seat_count": "71",
+    "area_id": "Q1499",
     "position_item_id": "Q18055681",
     "terms": [
       {
@@ -303,6 +353,8 @@
   {
     "comment": "Madhya Pradesh Legislative Assembly",
     "house_item_id": "Q6727600",
+    "seat_count": "231",
+    "area_id": "Q1188",
     "position_item_id": "Q24529702",
     "terms": [
       {
@@ -314,6 +366,8 @@
   {
     "comment": "Maharashtra Legislative Assembly",
     "house_item_id": "Q6733343",
+    "seat_count": "289",
+    "area_id": "Q1191",
     "position_item_id": "Q18055379",
     "terms": [
       {
@@ -325,6 +379,8 @@
   {
     "comment": "Maharashtra Legislative Council",
     "house_item_id": "Q6733344",
+    "seat_count": "78",
+    "area_id": "Q1191",
     "position_item_id": "Q55192422",
     "terms": [
       {
@@ -336,6 +392,8 @@
   {
     "comment": "Manipur Legislative Assembly",
     "house_item_id": "Q6749828",
+    "seat_count": "60",
+    "area_id": "Q1193",
     "position_item_id": "Q19464087",
     "terms": [
       {
@@ -347,6 +405,8 @@
   {
     "comment": "Meghalaya Legislative Assembly",
     "house_item_id": "Q6809008",
+    "seat_count": "60",
+    "area_id": "Q1195",
     "position_item_id": "Q21191665",
     "terms": [
       {
@@ -358,6 +418,8 @@
   {
     "comment": "Mizoram Legislative Assembly",
     "house_item_id": "Q6884693",
+    "seat_count": "40",
+    "area_id": "Q1502",
     "position_item_id": "Q24540202",
     "terms": [
       {
@@ -369,6 +431,8 @@
   {
     "comment": "Punjab Legislative Assembly",
     "house_item_id": "Q7260271",
+    "seat_count": "117",
+    "area_id": "Q22424",
     "position_item_id": "Q24340550",
     "terms": [
       {
@@ -380,6 +444,8 @@
   {
     "comment": "Rajasthan Legislative Assembly",
     "house_item_id": "Q7285832",
+    "seat_count": "200",
+    "area_id": "Q1437",
     "position_item_id": "Q17599276",
     "terms": [
       {
@@ -391,6 +457,8 @@
   {
     "comment": "Sikkim Legislative Assembly",
     "house_item_id": "Q7513808",
+    "seat_count": "32",
+    "area_id": "Q1505",
     "position_item_id": "Q24547509",
     "terms": [
       {
@@ -402,6 +470,8 @@
   {
     "comment": "Tamil Nadu Legislative Assembly",
     "house_item_id": "Q7681292",
+    "seat_count": "235",
+    "area_id": "Q1445",
     "position_item_id": "Q24558764",
     "terms": [
       {
@@ -413,6 +483,8 @@
   {
     "comment": "Tripura Legislative Assembly",
     "house_item_id": "Q7843860",
+    "seat_count": "60",
+    "area_id": "Q1363",
     "position_item_id": "Q24559639",
     "terms": [
       {
@@ -424,6 +496,8 @@
   {
     "comment": "Uttar Pradesh Legislative Assembly",
     "house_item_id": "Q7903333",
+    "seat_count": "404",
+    "area_id": "Q1498",
     "position_item_id": "Q18039836",
     "terms": [
       {
@@ -435,6 +509,8 @@
   {
     "comment": "Uttar Pradesh Legislative Council",
     "house_item_id": "Q7903335",
+    "seat_count": "100",
+    "area_id": "Q1498",
     "position_item_id": "Q55192424",
     "terms": [
       {

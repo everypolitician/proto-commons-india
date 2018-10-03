@@ -4,145 +4,57 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Indian National Congress"
+        "value" : "http://www.wikidata.org/entity/statement/Q1010258-53F856FE-8794-45CC-A042-1031110631A3"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1010258"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maharashtra"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "बी. जी .खेर"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "B. G. Kher"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "बी. जी .खेर"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1010258-53F856FE-8794-45CC-A042-1031110631A3"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
+        "value" : "http://www.wikidata.org/entity/Q10225"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bharatiya Janata Party"
+        "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16728896"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -152,38 +64,126 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "देवेन्द्र फडणवीस"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Devendra Fadnavis"
+        "value" : "मुख्यमन्त्री"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Maharashtra"
       },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q16728896-BCD97421-88AC-4917-81E4-81B015945CD4"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16728896"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Devendra Fadnavis"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "देवेन्द्र फडणवीस"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maharashtra"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221922"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Maharashtra"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र के मुख्यमंत्री"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -195,145 +195,57 @@
         "value" : "2014-10-31T00:00:00Z"
       }
     }, {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Indian National Congress"
+        "value" : "http://www.wikidata.org/entity/statement/Q3504490-FE32C297-16A3-449F-BB20-DD4954C2AB96"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3504490"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Maharashtra"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सुशील कुमार शिंदे"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sushilkumar Shinde"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "सुशील कुमार शिंदे"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3504490-FE32C297-16A3-449F-BB20-DD4954C2AB96"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3520217"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -343,90 +255,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "पृथ्वीराज चह्वाण"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3520217-3F9E138E-1B43-4AD2-8546-8288EB9BCE40"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3520217"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Prithviraj Chavan"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "पृथ्वीराज चह्वाण"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3520217-3F9E138E-1B43-4AD2-8546-8288EB9BCE40"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3595206"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -436,90 +348,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "अब्दुल रहमान अन्तुले"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3595206-9E188B98-DC4A-4CAB-B3A0-8B4213E633BB"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3595206"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "A. R. Antulay"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "अब्दुल रहमान अन्तुले"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3595206-9E188B98-DC4A-4CAB-B3A0-8B4213E633BB"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6002332"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -529,90 +441,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "वसंतराव नाईक"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6002332-95F2974C-63A1-4090-AFA8-B30F7CF14CDF"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6002332"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Vasantrao Naik"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "वसंतराव नाईक"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6002332-95F2974C-63A1-4090-AFA8-B30F7CF14CDF"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6772400"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -622,90 +534,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "मारोतराव कन्नमवार"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6772400-3F59745A-CD84-4660-AE29-B7F9AD9DB682"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6772400"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Marotrao Kannamwar"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "मारोतराव कन्नमवार"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6772400-3F59745A-CD84-4660-AE29-B7F9AD9DB682"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7405828"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -715,90 +627,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "वसंतदादा पाटील"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7405828-8648BE68-A4D4-40D8-84E5-071E4FD5FAB1"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7405828"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Vasantdada Patil"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "वसंतदादा पाटील"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7405828-8648BE68-A4D4-40D8-84E5-071E4FD5FAB1"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7406163"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -808,90 +720,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "सुधाकरराव नाईक"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7406163-881EC247-7A9F-40A1-8191-D09200E621AB"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7406163"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Sudhakarrao Naik"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "सुधाकरराव नाईक"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7406163-881EC247-7A9F-40A1-8191-D09200E621AB"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7406368"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -901,90 +813,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "शिवाजीराव पाटील निलंगेकर"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7406368-716E2D9F-9634-42DA-B056-F28C6406F4E3"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7406368"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Shivajirao Patil Nilangekar"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "शिवाजीराव पाटील निलंगेकर"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7406368-716E2D9F-9634-42DA-B056-F28C6406F4E3"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q797584"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -994,90 +906,90 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "बाबासाहेब भोसले"
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q797584-D2CC49CB-2632-4D98-B19B-BB5EDEF4E70F"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q797584"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Babasaheb Bhosale"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
+        "value" : "बाबासाहेब भोसले"
       },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Maharashtra"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q797584-D2CC49CB-2632-4D98-B19B-BB5EDEF4E70F"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1191"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Indian National Congress"
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q982817"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
       },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1191"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Maharashtra"
       },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
       "role" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q221922"
       },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q221922"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
+      "role_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Maharashtra"
@@ -1087,38 +999,126 @@
         "type" : "literal",
         "value" : "महाराष्ट्र के मुख्यमंत्री"
       },
-      "role_en" : {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chief Minister of Maharashtra"
+        "value" : "Chief Minister"
       },
-      "name_hi" : {
+      "role_superclass_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "विलासराव देशमुख"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Vilasrao Deshmukh"
+        "value" : "मुख्यमन्त्री"
       },
       "org" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q55147384"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "महाराष्ट्र विधान सभा"
       },
       "org_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Council of Ministers of Maharashtra"
       },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      }
+    }, {
       "statement" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q982817-D8B3166A-05A0-4BBA-B4A0-4491E3704A3B"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q982817"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Vilasrao Deshmukh"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "विलासराव देशमुख"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10225"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian National Congress"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1191"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Maharashtra"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q221922"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Maharashtra"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र के मुख्यमंत्री"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147384"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Maharashtra"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "महाराष्ट्र विधान सभा"
       },
       "org_jurisdiction" : {
         "type" : "uri",

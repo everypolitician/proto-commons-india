@@ -4,83 +4,65 @@
   },
   "results" : {
     "bindings" : [ {
-      "party" : {
+      "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q129844"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "आम आदमी पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Aam Aadmi Party"
+        "value" : "http://www.wikidata.org/entity/statement/Q59155-cc6e7753-4ce2-136f-370d-182b9f1bf1ff"
       },
       "item" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q59155"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1790154"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "दिल्ली के मुख्यमंत्री"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Delhi"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1790154"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "दिल्ली के मुख्यमंत्री"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Delhi"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "अरविंद केजरीवाल"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Arvind Kejriwal"
       },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147400"
-      },
-      "org_hi" : {
+      "name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "दिल्ली विधान सभा"
+        "value" : "अरविंद केजरीवाल"
       },
-      "org_en" : {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q129844"
+      },
+      "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Council of Ministers of Delhi"
+        "value" : "Aam Aadmi Party"
       },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q59155-cc6e7753-4ce2-136f-370d-182b9f1bf1ff"
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "आम आदमी पार्टी"
       },
-      "org_jurisdiction" : {
+      "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1353"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Delhi"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "दिल्ली"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1790154"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Delhi"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "दिल्ली के मुख्यमंत्री"
       },
       "start" : {
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
@@ -90,6 +72,38 @@
       "facebook" : {
         "type" : "literal",
         "value" : "AAPkaArvind"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147400"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Delhi"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "दिल्ली विधान सभा"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1353"
       }
     } ]
   }

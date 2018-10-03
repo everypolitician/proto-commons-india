@@ -6,7 +6,7 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
   {
     VALUES (?adminArea ?primarySort ?adminAreaType) { (wd:Q668 1 wd:Q6256) }
   } UNION {
-    # Find FLACSen of this country
+    # Find regional admin areas of this country (generally FLACSen)
     ?adminArea wdt:P17 wd:Q668 ;
           wdt:P31/wdt:P279* wd:Q10864048
     VALUES (?primarySort ?adminAreaType) { (2 wd:Q10864048) }
@@ -22,6 +22,9 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
     VALUES (?adminArea ?primarySort ?adminAreaType) {
     }
   }
+
+  # Remove admin areas that have ended
+  FILTER NOT EXISTS { ?adminArea wdt:P582|wdt:P576 ?adminAreaEnd . FILTER (?adminAreaEnd < NOW()) }
 } GROUP BY ?adminArea ORDER BY ?primarySort ?adminArea
 
   }
@@ -30,7 +33,15 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
 
   VALUES ?legislatureType { wd:Q11204 wd:Q10553309 }
   ?legislature wdt:P31/wdt:P279* ?legislatureType .
-  FILTER (?legislatureType != wd:Q11204 || NOT EXISTS { ?legislature wdt:P527 ?legislaturePart . ?legislaturePart  wdt:P31/wdt:P279* wd:Q10553309 })
+
+  # Exclude legislatures (but never legislative houses) that "has part"
+  # legislative houses or other legislatures. This happens with UK councils
+  # (see e.g. Q17021809).
+  FILTER (?legislatureType != wd:Q11204 || NOT EXISTS {
+    VALUES ?subLegislatureType { wd:Q10553309 wd:Q11204 }
+    ?legislature wdt:P527 ?legislaturePart .
+    ?legislaturePart  wdt:P31/wdt:P279* ?subLegislatureType .
+  })
 
   # Attempt to find the position for members of the legislature
   OPTIONAL {
@@ -41,6 +52,15 @@ SELECT DISTINCT ?legislature ?legislatureLabel ?adminArea ?adminAreaLabel ?admin
     FILTER EXISTS {
       VALUES ?legislaturePostSuperType { wd:Q4175034 wd:Q708492 }
       ?legislaturePost wdt:P279+ ?legislaturePostSuperType .
+    }
+    # Some legislatures, e.g. Q633872 have multiple 'has part's pointing at
+    # posts, where one subclasses the other. In this case, we want to only
+    # return the parent, and then consider superclasses in the legislative
+    # membership query, so that we don't end up with duplicate legislature
+    # entries in the legislative index.
+    FILTER NOT EXISTS {
+      ?legislature wdt:P527|wdt:P2670 ?legislaturePostOther .
+      ?legislaturePost wdt:P279+ ?legislaturePostOther .
     }
   }
   OPTIONAL {
