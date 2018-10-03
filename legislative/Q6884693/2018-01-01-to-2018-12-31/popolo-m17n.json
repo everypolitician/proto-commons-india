@@ -48,6 +48,51 @@
     },
     {
       "name": {
+        "lang:en": "Lal Thanzara"
+      },
+      "id": "Q24952293",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24952293"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Zosiama Pachuau"
+      },
+      "id": "Q28794158",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28794158"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "K. Beichhua"
+      },
+      "id": "Q28842094",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28842094"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Pu Laldenga"
       },
       "id": "Q457664",
@@ -110,7 +155,8 @@
     },
     {
       "name": {
-        "lang:en": "Ṭhenphunga Sailo"
+        "lang:en": "Ṭhenphunga Sailo",
+        "lang:hi": "थेन्फुन्गा सैलो"
       },
       "id": "Q7668693",
       "identifiers": [
@@ -184,7 +230,7 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -213,7 +259,7 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -242,7 +288,94 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24952293-680a98d2-d82f-4df5-9080-fb39d189952e",
+      "person_id": "Q24952293",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24952293-680a98d2-d82f-4df5-9080-fb39d189952e",
+      "person_id": "Q24952293",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28794158-9082e9e9-b732-462f-86e6-73884c4130d6",
+      "person_id": "Q28794158",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28794158-9082e9e9-b732-462f-86e6-73884c4130d6",
+      "person_id": "Q28794158",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a",
+      "person_id": "Q28842094",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a",
+      "person_id": "Q28842094",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -271,7 +404,21 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5006649-6C5D5E00-2190-4F5C-AE5D-F03D21015484",
+      "person_id": "Q5006649",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -287,20 +434,6 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
-      },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5006649-6C5D5E00-2190-4F5C-AE5D-F03D21015484",
-      "person_id": "Q5006649",
-      "organization_id": "Q6884693",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -329,7 +462,21 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA",
+      "person_id": "Q5094693",
+      "organization_id": "Q6884693",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -345,20 +492,6 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
-      },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA",
-      "person_id": "Q5094693",
-      "organization_id": "Q6884693",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -387,7 +520,7 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
@@ -416,7 +549,7 @@
       "organization_id": "Q6884693",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of a Legislative Assembly of India"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
