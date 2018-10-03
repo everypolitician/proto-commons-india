@@ -131,6 +131,71 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1416013"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Jagadish Shettar"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q1416013-C59784DB-114E-433B-A232-15496C5E1D6E"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "जगदीश शेट्टार"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -224,71 +289,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1416013"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Jagadish Shettar"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q1416013-C59784DB-114E-433B-A232-15496C5E1D6E"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "जगदीश शेट्टार"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q14922951"
       },
       "name_en" : {
@@ -322,11 +322,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -336,12 +331,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -392,6 +387,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -8784,6 +8784,71 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q251790"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "H. D. Kumaraswamy"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q251790-1158A5D1-8085-48BD-89CF-1D2BB40A8731"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "एच॰ डी॰ कुमारस्वामी"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -8845,71 +8910,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एच॰ डी॰ कुमारस्वामी"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q251790"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "H. D. Kumaraswamy"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q251790-1158A5D1-8085-48BD-89CF-1D2BB40A8731"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -9294,6 +9294,66 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q2721714"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Ambareesh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q2721714-67E85112-2684-4078-81EF-8B02422CA3C4"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -9355,66 +9415,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2721714"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Ambareesh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q2721714-67E85112-2684-4078-81EF-8B02422CA3C4"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
       }
     }, {
       "role_superclass" : {
@@ -10544,6 +10544,71 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3519659"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Veerappa Moily"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3519659-536E7C36-9E3B-4E56-9FA7-962AFA90A549"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "एम. वीरप्पा मोइली"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -10637,12 +10702,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3519659"
+        "value" : "http://www.wikidata.org/entity/Q3536460"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Veerappa Moily"
+        "value" : "Sarekoppa Bangarappa"
       },
       "org" : {
         "type" : "uri",
@@ -10660,7 +10725,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3519659-536E7C36-9E3B-4E56-9FA7-962AFA90A549"
+        "value" : "http://www.wikidata.org/entity/statement/Q3536460-A2040C94-3CF2-4347-A0E1-C343A30E2439"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -10670,11 +10735,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एम. वीरप्पा मोइली"
       }
     }, {
       "role_superclass" : {
@@ -10750,66 +10810,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3536460"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sarekoppa Bangarappa"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q3536460-A2040C94-3CF2-4347-A0E1-C343A30E2439"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -10860,11 +10860,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -10874,12 +10869,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -10930,6 +10925,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -11939,71 +11939,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4783709"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Araga Jnanendra"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4783709-6C58E48B-D097-4055-9337-CBC0ED8DF031"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -12087,12 +12022,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4832688"
+        "value" : "http://www.wikidata.org/entity/Q4783709"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Aziz Sait"
+        "value" : "Araga Jnanendra"
       },
       "org" : {
         "type" : "uri",
@@ -12110,7 +12045,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4832688-BC0DB9A7-FAF8-4F0B-B501-BD76AA2B5FC1"
+        "value" : "http://www.wikidata.org/entity/statement/Q4783709-6C58E48B-D097-4055-9337-CBC0ED8DF031"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12212,12 +12147,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4833894"
+        "value" : "http://www.wikidata.org/entity/Q4832688"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B.Z. Zameer Ahmed Khan"
+        "value" : "Aziz Sait"
       },
       "org" : {
         "type" : "uri",
@@ -12235,7 +12170,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4833894-A42D2749-8B57-4B7D-A7E3-4657BC75812D"
+        "value" : "http://www.wikidata.org/entity/statement/Q4832688-BC0DB9A7-FAF8-4F0B-B501-BD76AA2B5FC1"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12337,12 +12272,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4833936"
+        "value" : "http://www.wikidata.org/entity/Q4833894"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B. C. Patil"
+        "value" : "B.Z. Zameer Ahmed Khan"
       },
       "org" : {
         "type" : "uri",
@@ -12360,7 +12295,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4833936-47824332-3776-435A-9853-442EEDAF084A"
+        "value" : "http://www.wikidata.org/entity/statement/Q4833894-A42D2749-8B57-4B7D-A7E3-4657BC75812D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12375,11 +12310,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "बी.सी. पाटील"
       }
     }, {
       "role_superclass" : {
@@ -12472,6 +12402,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4833936"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "B. C. Patil"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4833936-47824332-3776-435A-9853-442EEDAF084A"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "बी.सी. पाटील"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4834129"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "B. Nagaraja Shetty"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4834129-E5B6AB6C-C144-47E7-8D6D-D278FA464751"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q4834129"
       },
       "name_en" : {
@@ -12537,12 +12597,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4834129"
+        "value" : "http://www.wikidata.org/entity/Q4834168"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B. Nagaraja Shetty"
+        "value" : "B. Rachaiah"
       },
       "org" : {
         "type" : "uri",
@@ -12560,7 +12620,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4834129-E5B6AB6C-C144-47E7-8D6D-D278FA464751"
+        "value" : "http://www.wikidata.org/entity/statement/Q4834168-395C39BA-1AA4-4158-A8A6-F91DCDAF4737"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12662,12 +12722,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4834168"
+        "value" : "http://www.wikidata.org/entity/Q4834176"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B. Rachaiah"
+        "value" : "B. Ramanath Rai"
       },
       "org" : {
         "type" : "uri",
@@ -12685,7 +12745,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4834168-395C39BA-1AA4-4158-A8A6-F91DCDAF4737"
+        "value" : "http://www.wikidata.org/entity/statement/Q4834176-F783DB11-469F-4D1E-9715-A1E5049439D3"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12787,12 +12847,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4834176"
+        "value" : "http://www.wikidata.org/entity/Q4834222"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B. Ramanath Rai"
+        "value" : "B. Subbayya Shetty"
       },
       "org" : {
         "type" : "uri",
@@ -12810,7 +12870,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4834176-F783DB11-469F-4D1E-9715-A1E5049439D3"
+        "value" : "http://www.wikidata.org/entity/statement/Q4834222-0738AC15-587F-42D3-A44B-712EEBC0C477"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -12912,12 +12972,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4834222"
+        "value" : "http://www.wikidata.org/entity/Q4834251"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B. Subbayya Shetty"
+        "value" : "B. Vittaldas Shetty"
       },
       "org" : {
         "type" : "uri",
@@ -12935,7 +12995,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4834222-0738AC15-587F-42D3-A44B-712EEBC0C477"
+        "value" : "http://www.wikidata.org/entity/statement/Q4834251-73B504DF-05CA-4D42-8516-47CFBCBF7FD1"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13037,12 +13097,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4834251"
+        "value" : "http://www.wikidata.org/entity/Q4866288"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "B. Vittaldas Shetty"
+        "value" : "Basavaraj Bommai"
       },
       "org" : {
         "type" : "uri",
@@ -13060,7 +13120,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4834251-73B504DF-05CA-4D42-8516-47CFBCBF7FD1"
+        "value" : "http://www.wikidata.org/entity/statement/Q4866288-19FA0405-0FFD-4C55-BF26-614995AA80B8"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13162,12 +13222,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4866288"
+        "value" : "http://www.wikidata.org/entity/Q4901576"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Basavaraj Bommai"
+        "value" : "Bhavurao Deshpande"
       },
       "org" : {
         "type" : "uri",
@@ -13185,7 +13245,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4866288-19FA0405-0FFD-4C55-BF26-614995AA80B8"
+        "value" : "http://www.wikidata.org/entity/statement/Q4901576-FA766DD3-774D-4EE8-AB7C-13A77C2F33CD"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13287,12 +13347,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4901576"
+        "value" : "http://www.wikidata.org/entity/Q4925311"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Bhavurao Deshpande"
+        "value" : "Blasius D'Souza"
       },
       "org" : {
         "type" : "uri",
@@ -13310,7 +13370,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4901576-FA766DD3-774D-4EE8-AB7C-13A77C2F33CD"
+        "value" : "http://www.wikidata.org/entity/statement/Q4925311-13922C44-22FC-4911-B7F6-2E9EB76A8180"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13385,66 +13445,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4925311"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Blasius D'Souza"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4925311-13922C44-22FC-4911-B7F6-2E9EB76A8180"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
       }
     }, {
       "role_superclass" : {
@@ -13574,6 +13574,66 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5006173"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "C.N. Ashwath Narayan"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5006173-5787be3c-8d23-4e42-bd2f-22a02cbd6a5a"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -13662,12 +13722,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5006173"
+        "value" : "http://www.wikidata.org/entity/Q5006337"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "C.N. Ashwath Narayan"
+        "value" : "C. C. Patil"
       },
       "org" : {
         "type" : "uri",
@@ -13685,7 +13745,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5006173-5787be3c-8d23-4e42-bd2f-22a02cbd6a5a"
+        "value" : "http://www.wikidata.org/entity/statement/Q5006337-4e93ade9-c260-4d1e-b1c1-45cfccabfb5e"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -13770,66 +13830,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5006337"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "C. C. Patil"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5006337-4e93ade9-c260-4d1e-b1c1-45cfccabfb5e"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -13880,11 +13880,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -13894,12 +13889,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -13950,6 +13945,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -14459,71 +14459,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5203357"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "D.B. Chandre Gowda"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5203357-D08E9E2F-2A90-4F41-95FD-D769E7489999"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -14607,12 +14542,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5203561"
+        "value" : "http://www.wikidata.org/entity/Q5203357"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "D. Devaraj Urs"
+        "value" : "D.B. Chandre Gowda"
       },
       "org" : {
         "type" : "uri",
@@ -14630,7 +14565,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5203561-C4D41901-8716-4244-891F-A9BE904EA1BB"
+        "value" : "http://www.wikidata.org/entity/statement/Q5203357-D08E9E2F-2A90-4F41-95FD-D769E7489999"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -14732,12 +14667,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5243045"
+        "value" : "http://www.wikidata.org/entity/Q5203561"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Dayanand S. Nadkarni"
+        "value" : "D. Devaraj Urs"
       },
       "org" : {
         "type" : "uri",
@@ -14755,7 +14690,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5243045-285790CB-71D2-4399-98A8-430AC516E351"
+        "value" : "http://www.wikidata.org/entity/statement/Q5203561-C4D41901-8716-4244-891F-A9BE904EA1BB"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -14830,6 +14765,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5243045"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Dayanand S. Nadkarni"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5243045-285790CB-71D2-4399-98A8-430AC516E351"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -15084,6 +15084,75 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5512393"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "G. Parameshwara"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5512393-C6DE4E14-8AA5-42F8-94F4-BF1654DCB1B3"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "जी. परमेश्वर"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "DrGParameshwara"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -15181,12 +15250,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5512393"
+        "value" : "http://www.wikidata.org/entity/Q5512484"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "G. Parameshwara"
+        "value" : "G. Somashekara Reddy"
       },
       "org" : {
         "type" : "uri",
@@ -15204,7 +15273,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5512393-C6DE4E14-8AA5-42F8-94F4-BF1654DCB1B3"
+        "value" : "http://www.wikidata.org/entity/statement/Q5512484-7A173F93-CF93-4E11-B106-9CBF92258D61"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -15214,15 +15283,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "जी. परमेश्वर"
-      },
-      "facebook" : {
-        "type" : "literal",
-        "value" : "DrGParameshwara"
       }
     }, {
       "role_superclass" : {
@@ -15315,12 +15375,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5512484"
+        "value" : "http://www.wikidata.org/entity/Q562303"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "G. Somashekara Reddy"
+        "value" : "N. Dharam Singh"
       },
       "org" : {
         "type" : "uri",
@@ -15338,7 +15398,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5512484-7A173F93-CF93-4E11-B106-9CBF92258D61"
+        "value" : "http://www.wikidata.org/entity/statement/Q562303-58BDAAE7-3C05-4398-96B1-2A68532E819D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -15348,6 +15408,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "एन. धरम सिंह"
       }
     }, {
       "role_superclass" : {
@@ -15445,136 +15510,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q562303"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "N. Dharam Singh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q562303-58BDAAE7-3C05-4398-96B1-2A68532E819D"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एन. धरम सिंह"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5628006"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "H.S.Prakash"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5628006-4A087E4A-B7AD-413F-9D88-52272F333E6C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5628006"
       },
       "name_en" : {
@@ -15635,12 +15570,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5628154"
+        "value" : "http://www.wikidata.org/entity/Q5628006"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "H. D. Revanna"
+        "value" : "H.S.Prakash"
       },
       "org" : {
         "type" : "uri",
@@ -15658,7 +15593,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5628154-E81F44C1-7DC5-47AE-B5E9-14D38CD79A3E"
+        "value" : "http://www.wikidata.org/entity/statement/Q5628006-4A087E4A-B7AD-413F-9D88-52272F333E6C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -15760,12 +15695,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5628493"
+        "value" : "http://www.wikidata.org/entity/Q5628154"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "H. R. Manjanath"
+        "value" : "H. D. Revanna"
       },
       "org" : {
         "type" : "uri",
@@ -15783,7 +15718,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q5628493-45F60FF9-881C-436F-B1C6-22A1A552B5DC"
+        "value" : "http://www.wikidata.org/entity/statement/Q5628154-E81F44C1-7DC5-47AE-B5E9-14D38CD79A3E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -15858,6 +15793,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5628493"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "H. R. Manjanath"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q5628493-45F60FF9-881C-436F-B1C6-22A1A552B5DC"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -15987,71 +15987,6 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6323077"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "K. Amarnath Shetty"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6323077-1FB00215-E88D-483D-8584-0B339BB37C6C"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
@@ -16135,12 +16070,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6323284"
+        "value" : "http://www.wikidata.org/entity/Q6323077"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. D. Purso"
+        "value" : "K. Amarnath Shetty"
       },
       "org" : {
         "type" : "uri",
@@ -16158,7 +16093,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6323284-BB167100-1DFD-4A69-9CA0-4EA96751B8E4"
+        "value" : "http://www.wikidata.org/entity/statement/Q6323077-1FB00215-E88D-483D-8584-0B339BB37C6C"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -16260,12 +16195,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6323340"
+        "value" : "http://www.wikidata.org/entity/Q6323284"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. G. Bopaiah"
+        "value" : "K. D. Purso"
       },
       "org" : {
         "type" : "uri",
@@ -16283,7 +16218,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6323340-C3981C30-153C-476F-892E-A04569A2A165"
+        "value" : "http://www.wikidata.org/entity/statement/Q6323284-BB167100-1DFD-4A69-9CA0-4EA96751B8E4"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -16298,11 +16233,6 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "सांसद"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "के॰ जी॰ बोपैय्या"
       }
     }, {
       "role_superclass" : {
@@ -16395,6 +16325,136 @@
       },
       "item" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6323340"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "K. G. Bopaiah"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6323340-C3981C30-153C-476F-892E-A04569A2A165"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "के॰ जी॰ बोपैय्या"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6323381"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "K. H. Sreenivasa"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q6323381-8C4F0469-C741-41B7-B166-D26861A2F482"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6323381"
       },
       "name_en" : {
@@ -16460,12 +16520,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6323381"
+        "value" : "http://www.wikidata.org/entity/Q6350789"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "K. H. Sreenivasa"
+        "value" : "Kalastavadi Puttaswamy"
       },
       "org" : {
         "type" : "uri",
@@ -16483,7 +16543,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6323381-8C4F0469-C741-41B7-B166-D26861A2F482"
+        "value" : "http://www.wikidata.org/entity/statement/Q6350789-456D423D-0E64-4EDE-AB92-A1ED12E54618"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -16585,12 +16645,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6350789"
+        "value" : "http://www.wikidata.org/entity/Q6401191"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kalastavadi Puttaswamy"
+        "value" : "Khedinji Kanthappa Hegde"
       },
       "org" : {
         "type" : "uri",
@@ -16608,7 +16668,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6350789-456D423D-0E64-4EDE-AB92-A1ED12E54618"
+        "value" : "http://www.wikidata.org/entity/statement/Q6401191-C390C35B-20DB-4A26-83DD-EE738DD4CEAB"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -16710,12 +16770,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6401191"
+        "value" : "http://www.wikidata.org/entity/Q6410165"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Khedinji Kanthappa Hegde"
+        "value" : "Kimmane Rathnakar"
       },
       "org" : {
         "type" : "uri",
@@ -16733,7 +16793,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6401191-C390C35B-20DB-4A26-83DD-EE738DD4CEAB"
+        "value" : "http://www.wikidata.org/entity/statement/Q6410165-8EE7AC0F-2A4A-44A3-B145-BA2CB9D3F95E"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -16835,12 +16895,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6410165"
+        "value" : "http://www.wikidata.org/entity/Q6437387"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Kimmane Rathnakar"
+        "value" : "Krishna Byre Gowda"
       },
       "org" : {
         "type" : "uri",
@@ -16858,7 +16918,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6410165-8EE7AC0F-2A4A-44A3-B145-BA2CB9D3F95E"
+        "value" : "http://www.wikidata.org/entity/statement/Q6437387-3B2A345B-5FF5-4538-BDDB-4FA26D9DCE35"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -16960,12 +17020,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6437387"
+        "value" : "http://www.wikidata.org/entity/Q6456629"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Krishna Byre Gowda"
+        "value" : "L. S. Naik"
       },
       "org" : {
         "type" : "uri",
@@ -16983,7 +17043,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6437387-3B2A345B-5FF5-4538-BDDB-4FA26D9DCE35"
+        "value" : "http://www.wikidata.org/entity/statement/Q6456629-B581DA09-B180-44AD-AA9B-4F3AE7D26BDC"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -17085,12 +17145,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6456629"
+        "value" : "http://www.wikidata.org/entity/Q6712635"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "L. S. Naik"
+        "value" : "M. H. Jayaprakashanarayan"
       },
       "org" : {
         "type" : "uri",
@@ -17108,7 +17168,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6456629-B581DA09-B180-44AD-AA9B-4F3AE7D26BDC"
+        "value" : "http://www.wikidata.org/entity/statement/Q6712635-CC4CE563-CA5E-4AE6-873C-FC1522510267"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -17210,12 +17270,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6712635"
+        "value" : "http://www.wikidata.org/entity/Q6712965"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. H. Jayaprakashanarayan"
+        "value" : "M. P. Renukacharya"
       },
       "org" : {
         "type" : "uri",
@@ -17233,7 +17293,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6712635-CC4CE563-CA5E-4AE6-873C-FC1522510267"
+        "value" : "http://www.wikidata.org/entity/statement/Q6712965-9099BCAB-41B0-4679-92D2-A9CE98690D01"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -17335,12 +17395,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6712965"
+        "value" : "http://www.wikidata.org/entity/Q6713040"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. P. Renukacharya"
+        "value" : "M. R. Seetharam"
       },
       "org" : {
         "type" : "uri",
@@ -17358,7 +17418,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6712965-9099BCAB-41B0-4679-92D2-A9CE98690D01"
+        "value" : "http://www.wikidata.org/entity/statement/Q6713040-665F571E-B1D7-4F20-A1AE-0E9944D50A80"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -17460,12 +17520,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6713040"
+        "value" : "http://www.wikidata.org/entity/Q6713280"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. R. Seetharam"
+        "value" : "M. Y. Ghorpade"
       },
       "org" : {
         "type" : "uri",
@@ -17483,7 +17543,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6713040-665F571E-B1D7-4F20-A1AE-0E9944D50A80"
+        "value" : "http://www.wikidata.org/entity/statement/Q6713280-F88C4DFE-9B90-4868-B37C-4F188A2E61D9"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -17585,12 +17645,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6713280"
+        "value" : "http://www.wikidata.org/entity/Q6744197"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "M. Y. Ghorpade"
+        "value" : "Mallikarjun Kharge"
       },
       "org" : {
         "type" : "uri",
@@ -17608,7 +17668,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6713280-F88C4DFE-9B90-4868-B37C-4F188A2E61D9"
+        "value" : "http://www.wikidata.org/entity/statement/Q6744197-1A160E8C-4B69-420F-9ADE-FA14A46B4715"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -17618,6 +17678,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मल्लिकार्जुन खड़गे"
       }
     }, {
       "role_superclass" : {
@@ -17715,136 +17780,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6744197"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mallikarjun Kharge"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6744197-1A160E8C-4B69-420F-9ADE-FA14A46B4715"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मल्लिकार्जुन खड़गे"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6933515"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mukhyamantri Chandru"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6933515-BB9DCD9D-137B-4231-98AA-24FB3B10ED56"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q6933515"
       },
       "name_en" : {
@@ -17905,12 +17840,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6951655"
+        "value" : "http://www.wikidata.org/entity/Q6933515"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "N. H. Gouda"
+        "value" : "Mukhyamantri Chandru"
       },
       "org" : {
         "type" : "uri",
@@ -17928,7 +17863,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6951655-78346194-6912-42E4-BE7B-DB65344C2761"
+        "value" : "http://www.wikidata.org/entity/statement/Q6933515-BB9DCD9D-137B-4231-98AA-24FB3B10ED56"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18030,12 +17965,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6951702"
+        "value" : "http://www.wikidata.org/entity/Q6951655"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "N. M. Adyanthaya"
+        "value" : "N. H. Gouda"
       },
       "org" : {
         "type" : "uri",
@@ -18053,7 +17988,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q6951702-AF7412C3-1DD2-47F1-B20F-F3185BE272A0"
+        "value" : "http://www.wikidata.org/entity/statement/Q6951655-78346194-6912-42E4-BE7B-DB65344C2761"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18155,12 +18090,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7266408"
+        "value" : "http://www.wikidata.org/entity/Q6951702"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Qamar ul Islam"
+        "value" : "N. M. Adyanthaya"
       },
       "org" : {
         "type" : "uri",
@@ -18178,7 +18113,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7266408-2D725DC0-95F2-49DC-A1C2-B18EF817F390"
+        "value" : "http://www.wikidata.org/entity/statement/Q6951702-AF7412C3-1DD2-47F1-B20F-F3185BE272A0"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18280,12 +18215,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7273461"
+        "value" : "http://www.wikidata.org/entity/Q7266408"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "R. Ashok"
+        "value" : "Qamar ul Islam"
       },
       "org" : {
         "type" : "uri",
@@ -18303,7 +18238,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7273461-9A714498-A6C5-41AE-A87F-24087EA33A8D"
+        "value" : "http://www.wikidata.org/entity/statement/Q7266408-2D725DC0-95F2-49DC-A1C2-B18EF817F390"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18405,12 +18340,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7273962"
+        "value" : "http://www.wikidata.org/entity/Q7273461"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "R. Roshan Baig"
+        "value" : "R. Ashok"
       },
       "org" : {
         "type" : "uri",
@@ -18428,7 +18363,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7273962-513F9818-3C6C-4822-B272-AAC47B6D56CD"
+        "value" : "http://www.wikidata.org/entity/statement/Q7273461-9A714498-A6C5-41AE-A87F-24087EA33A8D"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18530,12 +18465,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7289295"
+        "value" : "http://www.wikidata.org/entity/Q7273962"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ramchandra Veerappa"
+        "value" : "R. Roshan Baig"
       },
       "org" : {
         "type" : "uri",
@@ -18553,7 +18488,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7289295-563F8F86-9051-4B08-9B14-AD1D165642CC"
+        "value" : "http://www.wikidata.org/entity/statement/Q7273962-513F9818-3C6C-4822-B272-AAC47B6D56CD"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18655,12 +18590,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7295872"
+        "value" : "http://www.wikidata.org/entity/Q7289295"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Ratnavarma Heggade"
+        "value" : "Ramchandra Veerappa"
       },
       "org" : {
         "type" : "uri",
@@ -18678,7 +18613,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7295872-29B81331-116F-430F-A283-77271B19F521"
+        "value" : "http://www.wikidata.org/entity/statement/Q7289295-563F8F86-9051-4B08-9B14-AD1D165642CC"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18780,12 +18715,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7387570"
+        "value" : "http://www.wikidata.org/entity/Q7295872"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "S. K. Amin"
+        "value" : "Ratnavarma Heggade"
       },
       "org" : {
         "type" : "uri",
@@ -18803,7 +18738,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7387570-1FE2BF22-64FC-4422-BAEA-F2B09D61F62F"
+        "value" : "http://www.wikidata.org/entity/statement/Q7295872-29B81331-116F-430F-A283-77271B19F521"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -18905,12 +18840,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7387781"
+        "value" : "http://www.wikidata.org/entity/Q7387570"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "S. R. Bommai"
+        "value" : "S. K. Amin"
       },
       "org" : {
         "type" : "uri",
@@ -18928,7 +18863,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7387781-8F9CE48E-D007-423C-A13E-2DD85EB304B7"
+        "value" : "http://www.wikidata.org/entity/statement/Q7387570-1FE2BF22-64FC-4422-BAEA-F2B09D61F62F"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -19030,12 +18965,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7420659"
+        "value" : "http://www.wikidata.org/entity/Q7387781"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Santosh Lad"
+        "value" : "S. R. Bommai"
       },
       "org" : {
         "type" : "uri",
@@ -19053,7 +18988,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7420659-B39EFAD6-6BF5-4C10-AB28-F2CBC7257D93"
+        "value" : "http://www.wikidata.org/entity/statement/Q7387781-8F9CE48E-D007-423C-A13E-2DD85EB304B7"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -19155,12 +19090,12 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7487424"
+        "value" : "http://www.wikidata.org/entity/Q7420659"
       },
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Shamanur Mallikarjun"
+        "value" : "Santosh Lad"
       },
       "org" : {
         "type" : "uri",
@@ -19178,7 +19113,7 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7487424-59FFE0A7-A601-4AFC-8C43-59392F501F05"
+        "value" : "http://www.wikidata.org/entity/statement/Q7420659-B39EFAD6-6BF5-4C10-AB28-F2CBC7257D93"
       },
       "org_jurisdiction" : {
         "type" : "uri",
@@ -19253,6 +19188,71 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q7487424"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Shamanur Mallikarjun"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q7487424-59FFE0A7-A601-4AFC-8C43-59392F501F05"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       }
     }, {
       "role_superclass" : {
@@ -19382,12 +19382,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of a Legislative Assembly of India"
       },
       "role" : {
         "type" : "uri",
@@ -19438,11 +19438,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -19452,12 +19447,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -19508,6 +19503,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -19767,6 +19767,71 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24525419"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधान सभा के सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Karnataka Legislative Assembly"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q795241"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "B. S. Yeddyurappa"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q6372858"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "कर्नाटक विधानसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Karnataka Legislative Assembly"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q795241-48C13AA5-FA41-4317-BE79-1BA44C554824"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1185"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "225"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "बी एस येदियुरप्पा"
+      }
+    }, {
+      "role_superclass" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
@@ -19860,71 +19925,6 @@
       },
       "item" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q795241"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "B. S. Yeddyurappa"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q6372858"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधानसभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Karnataka Legislative Assembly"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q795241-48C13AA5-FA41-4317-BE79-1BA44C554824"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "225"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "बी एस येदियुरप्पा"
-      }
-    }, {
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q24525419"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "कर्नाटक विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the Karnataka Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q982824"
       },
       "name_en" : {
@@ -19958,11 +19958,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -19972,12 +19967,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -20028,6 +20023,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -20162,12 +20162,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
+        "value" : "http://www.wikidata.org/entity/Q3526627"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "member of parliament"
+        "value" : "Member of a Legislative Assembly of India"
       },
       "role" : {
         "type" : "uri",
@@ -20218,11 +20218,6 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
@@ -20232,12 +20227,12 @@
     }, {
       "role_superclass" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
+        "value" : "http://www.wikidata.org/entity/Q486839"
       },
       "role_superclass_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
+        "value" : "member of parliament"
       },
       "role" : {
         "type" : "uri",
@@ -20288,6 +20283,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
         "type" : "literal",
         "value" : "225"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
       },
       "name_hi" : {
         "xml:lang" : "hi",
