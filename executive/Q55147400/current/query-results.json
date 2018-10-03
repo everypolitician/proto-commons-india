@@ -22,6 +22,24 @@
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q59155"
       },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1353"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "दिल्ली"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Delhi"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1790154"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1790154"
@@ -35,10 +53,6 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Delhi"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1790154"
       },
       "role_hi" : {
         "xml:lang" : "hi",
