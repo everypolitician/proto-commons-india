@@ -1,0 +1,30 @@
+#!/usr/bin/env python3
+
+import argparse
+
+from utils import join_csv_attributes_to_shp
+
+parser = argparse.ArgumentParser(
+    description='Add Hindi Names and Wikidata ids from csv to shp')
+
+
+parser.add_argument('-d', '--src_dir', metavar='SOURCE_DIRECTORY')
+parser.add_argument('-s', '--src_csv', metavar='SOURCE_CSV')
+parser.add_argument('-g', '--src_shp', metavar='SOURCE_SHP')
+parser.add_argument('-o', '--out_shp', metavar='OUTPUT_SHP')
+
+args = parser.parse_args()
+
+if args.src_dir:
+    csv_path = args.src_dir + args.src_dir.split('/')[-2] + '-reconciled.csv'
+    shp_src_path = csv_path.replace('-reconciled.csv', '-ur.shp')
+    shp_out_path = shp_src_path.replace('-ur.shp', '.shp')
+else:
+    csv_path = args.src_csv
+    shp_src_path = args.src_shp
+    shp_out_path = args.out_shp
+
+
+join_csv_attributes_to_shp(csv_path, shp_src_path, shp_out_path,
+                           join_fields=['WIKIDATA', 'NAME_HI'],
+                           key_field='MS_FB')
