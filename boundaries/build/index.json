@@ -13,7 +13,21 @@
       "lang:en": "NAME"
     }
   },
-    {
+  {
+    "directory": "lok-sabha-constituencies",
+    "area_type_wikidata_item_id": "Q47481352",
+    "associations": [
+      {
+        "comment": "member of the Lok Sabha",
+        "position_item_id": "Q16556694"
+      }
+    ],
+    "name_columns": {
+      "lang:hi": "NAME_HI",
+      "lang:en": "PC_NAME"
+    }
+  },
+  {
     "directory": "states",
     "area_type_wikidata_item_id": "Q13390680",
     "associations": [
