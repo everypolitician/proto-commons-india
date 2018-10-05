@@ -1,0 +1,35 @@
+admin2.shp
+	url
+		https://github.com/datameet/maps/tree/master/States
+		(commit 0fa9fd850eda3d2062e66f2caabc65872639c85a)
+
+India_AC.shp
+	url
+		https://github.com/datameet/maps/blob/master/assembly-constituencies
+		(commit b2f56f6bd8fdead64f0210c133ab467d26e3621e)
+	readme
+		The Assembly Constituencies of India, Scraped from ECI's Poling Station Locations Website.
+
+		Before using this data, please note the following:
+
+		    The Assembly Constituencies for the states of Jammu And Kashmir, Jharkhand, Assam, Manipur, Nagaland & Arunachal Pradesh, appear to be pre-delimitation boundaries.
+		    There is some shift in the data.
+		    Some Assemblies Constituency Names seem to be incorrect or Missing.
+		    The Assembly Constituencies in the State of Telengana are still marked as belonging to Andhra Pradesh
+		    The Union Territories of Andaman and Nicobar Islands, Chandigarh, Dadra and Nagar Haveli, Daman and Diu, and Lakshadweep do not have a state assembly.
+
+	License
+		The dataset is shared under Creative Commons Attribution 2.5 India license.
+
+india_pc_2014.shp
+	url
+		https://github.com/datameet/maps/tree/master/parliamentary-constituencies
+		(commit 09ed6b2e7ed9fb30668fe7cc0a560fedee4c15d7)
+
+	readme
+		India - Map of Parliamentary Constituencies, 2014
+
+		Parliamentary constituency boundaries data generated, cleaned, and verified at the [OpenDataCamp Bangalore Hackathon, 2014](http://odc.datameet.org/odcblr2014).
+
+	licence
+		The dataset is created by the DataMeet Trust, Bangalore, India, and is shared under [Creative Commons Attribution-ShareAlike 2.5 India](http://creativecommons.org/licenses/by-sa/2.5/in/) license.
