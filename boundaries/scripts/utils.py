@@ -37,6 +37,14 @@ def item_claim_target(item_id, claim_id, qualifier_id=''):
         raise e
 
 
+def get_official_language_code(item_id):
+    located_in_id = item_claim_target(item_id, 'P131')
+    official_language_id = item_claim_target(located_in_id, 'P37')
+    lang_json = requests.get(WIKIDATA_PATH + official_language_id).json()
+    claims = lang_json['entities'][official_language_id]['claims']
+    return claims['P424'][0]['mainsnak']['datavalue']['value']
+
+
 def get_names(src_csv, dst_csv, lang, qid_field='WIKIDATA'):
     rows = []
     with open(src_csv, 'r', newline='') as csv_in:

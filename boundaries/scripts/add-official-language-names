@@ -1,0 +1,21 @@
+#!/usr/bin/env python3
+
+import argparse
+import csv
+
+from utils import get_names, get_official_language_code
+
+parser = argparse.ArgumentParser(
+    description="Add names from state's official language to reconciled csv")
+
+parser.add_argument('in_csv', metavar='INPUT_CSV')
+parser.add_argument('out_csv', metavar='OUTPUT_CSV')
+
+args = parser.parse_args()
+
+f = open(args.in_csv, 'r', newline='')
+reader = csv.DictReader(f)
+lang_code = get_official_language_code(next(reader)['WIKIDATA'])
+f.close
+
+get_names(args.in_csv, args.out_csv, lang_code)
