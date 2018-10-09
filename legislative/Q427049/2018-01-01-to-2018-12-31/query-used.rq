@@ -7,9 +7,9 @@ SELECT ?statement
        ?start ?end ?facebook
        ?org ?org_en ?org_hi ?org_jurisdiction ?org_seat_count
 WHERE {
-  BIND(wd:Q18055586 as ?role) .
-  BIND(wd:Q18055586 as ?specific_role) .
-  BIND(wd:Q3633627 as ?org) .
+  BIND(wd:Q24456735 as ?role) .
+  BIND(wd:Q24456735 as ?specific_role) .
+  BIND(wd:Q427049 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_en
   FILTER(LANG(?org_en) = "en")
@@ -31,22 +31,7 @@ OPTIONAL {
   ?statement ps:P39/wdt:P279* ?specific_role .
   OPTIONAL { ?statement pq:P580 ?start }
   OPTIONAL { ?statement pq:P582 ?end }
-  OPTIONAL { wd:Q57153216 wdt:P571|wdt:P580 ?termStart }
-  OPTIONAL { wd:Q57153216 wdt:P576|wdt:P582 ?termEnd }
-  # A P39 is relevant if it's directly related to the term with a "parliamentary term" qualifier (1), or
-  # it overlaps it. In the latter case, the P39 and term must each have a start date (2), and either
-  #  * starts before it and either doesn't end, or ends after the term start (3), or
-  #  * starts after the term, and if the term ends, starts before it ends (4)
-  FILTER (
-    (EXISTS { ?statement pq:P2937 wd:Q57153216 })               # (1)
-    ||
-    (BOUND(?start) && BOUND(?termStart) && (                             # (2)
-      (?start <= ?termStart && (!BOUND(?end) || ?end > ?termStart))      # (4)
-      ||
-      (?start > ?termStart && (!BOUND(?termEnd) || ?start < ?termEnd))   # (5)
-    ))
-  )
-
+  
   OPTIONAL {
   ?item rdfs:label ?name_en
   FILTER(LANG(?name_en) = "en")
@@ -108,5 +93,9 @@ OPTIONAL {
 
   }
   OPTIONAL { ?item wdt:P2013 ?facebook }
-  
-} ORDER BY ?item ?role ?term ?start ?end ?role_superclass ?party ?org ?district
+  BIND(COALESCE(?start, "1000-01-01T00:00:00Z"^^xsd:dateTime) AS ?start_or_sentinel)
+BIND(COALESCE(?end, "9999-12-31T00:00:00Z"^^xsd:dateTime) AS ?end_or_sentinel)
+FILTER (?end_or_sentinel >= "2018-01-01"^^xsd:dateTime)
+FILTER (?start_or_sentinel <= "2018-12-31"^^xsd:dateTime)
+
+} ORDER BY ?item ?role ?start ?end ?role_superclass ?party ?org ?district
