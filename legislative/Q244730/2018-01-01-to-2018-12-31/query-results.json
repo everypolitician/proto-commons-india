@@ -23257,7 +23257,7 @@
       "name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chiranjeevi"
+        "value" : "Chiranjeev"
       },
       "org" : {
         "type" : "uri",
@@ -26949,6 +26949,29 @@
       "facebook" : {
         "type" : "literal",
         "value" : "ArunJaitley"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57156533"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Uttar Pradesh"
       }
     }, {
       "statement" : {
@@ -52011,6 +52034,33 @@
         "xml:lang" : "hi",
         "type" : "literal",
         "value" : "आनंद शर्मा"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Anand.Sharma.INC"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10225"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian National Congress"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57156457"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Himachal Pradesh"
       }
     }, {
       "statement" : {

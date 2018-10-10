@@ -1,0 +1,107 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Pushpalata Das",
+        "lang:hi": "पुष्पलता दास"
+      },
+      "id": "Q24285755",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24285755"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा"
+      },
+      "id": "Q4808385",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4808385"
+        }
+      ],
+      "area_id": "Q1164",
+      "seat_counts": {
+        "Q21191662": "126"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24285755-8BE0D942-6EA7-45E6-A0F1-8C7D74C37C47",
+      "person_id": "Q24285755",
+      "organization_id": "Q4808385",
+      "start_date": "1951-01-01",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24285755-8BE0D942-6EA7-45E6-A0F1-8C7D74C37C47",
+      "person_id": "Q24285755",
+      "organization_id": "Q4808385",
+      "start_date": "1951-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24285755-8BE0D942-6EA7-45E6-A0F1-8C7D74C37C47",
+      "person_id": "Q24285755",
+      "organization_id": "Q4808385",
+      "start_date": "1961-01-01",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24285755-8BE0D942-6EA7-45E6-A0F1-8C7D74C37C47",
+      "person_id": "Q24285755",
+      "organization_id": "Q4808385",
+      "start_date": "1961-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

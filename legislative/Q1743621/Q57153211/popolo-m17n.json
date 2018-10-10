@@ -1,0 +1,123 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Jitu Vaghani"
+      },
+      "id": "Q26868738",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26868738"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Paresh Dhanani",
+        "lang:hi": "परेश धानाणी"
+      },
+      "id": "Q47244545",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47244545"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vijay Rupani",
+        "lang:hi": "विजय रूपाणी"
+      },
+      "id": "Q7929316",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7929316"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Gujarat Legislative Assembly",
+        "lang:hi": "गुजरात विधान सभा"
+      },
+      "id": "Q1743621",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1743621"
+        }
+      ],
+      "area_id": "Q1061",
+      "seat_counts": {
+        "Q17582810": "182"
+      }
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q26868738-7cba7450-4d52-32cb-eba3-c267818be3a1",
+      "person_id": "Q26868738",
+      "organization_id": "Q1743621",
+      "start_date": "2012-01-01",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17582810",
+      "role": {
+        "lang:en": "Member of the Gujarat Legislative Assembly",
+        "lang:hi": "गुजरात विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q47244545-20173556-43d9-798c-ee3c-5afdfc4dbce3",
+      "person_id": "Q47244545",
+      "organization_id": "Q1743621",
+      "area_id": "Q18109621",
+      "start_date": "2017-01-01",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17582810",
+      "role": {
+        "lang:en": "Member of the Gujarat Legislative Assembly",
+        "lang:hi": "गुजरात विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7929316-D4210F86-63EE-4DA0-8583-9A2C687BA87D",
+      "person_id": "Q7929316",
+      "organization_id": "Q1743621",
+      "area_id": "Q17199169",
+      "start_date": "2014-10-19",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17582810",
+      "role": {
+        "lang:en": "Member of the Gujarat Legislative Assembly",
+        "lang:hi": "गुजरात विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

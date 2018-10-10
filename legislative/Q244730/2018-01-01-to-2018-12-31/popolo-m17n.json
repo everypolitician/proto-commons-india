@@ -5800,7 +5800,7 @@
     },
     {
       "name": {
-        "lang:en": "Chiranjeevi",
+        "lang:en": "Chiranjeev",
         "lang:hi": "चिरंजीवी"
       },
       "id": "Q313243",
@@ -13059,7 +13059,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Anand.Sharma.INC"
+        }
       ]
     },
     {
@@ -14150,6 +14153,34 @@
       "seat_counts": {
         "Q17324844": "245"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
@@ -20307,7 +20338,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q3629480-C6BEB665-6F8E-4BF9-A5CE-CB74F82D2670",
       "person_id": "Q3629480",
+      "on_behalf_of_id": "Q10230",
       "organization_id": "Q244730",
+      "area_id": "Q57156533",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -26049,7 +26082,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q755831-9EDC8C6A-DAB4-4130-9097-92393985D620",
       "person_id": "Q755831",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q244730",
+      "area_id": "Q57156457",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
