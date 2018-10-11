@@ -268,4 +268,9 @@ for name in sorted(os.listdir('boundaries/build')):
     git('add', index_fn)
     git('commit', '-m', 'Add metadata for {} assembly constituencies'.format(name))
 
+    with open('build_output.txt', 'w') as f:
+        subprocess.check_call(['bundle', 'exec', 'build', 'build'], stdout=f)
+    git('add', 'build_output.txt')
+    git('commit', '-m', 'Rebuild with boundary data for {} assembly constituencies'.format(name))
+
     git('checkout', 'reconciling')
