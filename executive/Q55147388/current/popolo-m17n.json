@@ -49,7 +49,56 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018648"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Nagaland",
+        "lang:hi": "नागालैण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
