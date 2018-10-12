@@ -13,7 +13,21 @@
       "lang:en": "NAME"
     }
   },
-    {
+  {
+    "directory": "rajya-sabha-constituencies",
+    "area_type_wikidata_item_id": "Q57156205",
+    "associations": [
+      {
+        "comment": "member of the Rajya Sabha",
+        "position_item_id": "Q17324844"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
     "directory": "states",
     "area_type_wikidata_item_id": "Q13390680",
     "associations": [
