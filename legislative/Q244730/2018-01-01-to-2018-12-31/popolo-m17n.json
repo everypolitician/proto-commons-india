@@ -14184,7 +14184,775 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q57156441",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156441"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Andhra Pradesh",
+        "lang:hi": "आन्ध्र प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Arunachal Pradesh",
+        "lang:hi": "अरुणाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:as"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Assam",
+        "lang:hi": "असम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Bihar",
+        "lang:hi": "बिहार"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Goa",
+        "lang:hi": "गोआ"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:gj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Gujarat",
+        "lang:hi": "गुजरात"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156453",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:hr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156453"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Haryana",
+        "lang:hi": "हरियाणा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156457",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:hp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156457"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:jk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Jammu and Kashmir",
+        "lang:hi": "जम्मू और कश्मीर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:jh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Jharkhand",
+        "lang:hi": "झारखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Karnataka",
+        "lang:hi": "कर्नाटक"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156475",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:kl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156475"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Kerala",
+        "lang:hi": "केरल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156477",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:mp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156477"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Madhya Pradesh",
+        "lang:hi": "मध्य प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:mh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Maharashtra",
+        "lang:hi": "महाराष्ट्र"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:mn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Manipur",
+        "lang:hi": "मणिपुर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156483",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156483"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Meghalaya",
+        "lang:hi": "मेघालय"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156484",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:mz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156484"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Mizoram",
+        "lang:hi": "मिज़ोरम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Nagaland",
+        "lang:hi": "नागालैण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Delhi",
+        "lang:hi": "दिल्ली"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:or"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Odisha",
+        "lang:hi": "ओडिशा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156506",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156506"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Puducherry",
+        "lang:hi": "पुदुच्चेरी"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Punjab",
+        "lang:hi": "पंजाब"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Rajasthan",
+        "lang:hi": "राजस्थान"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:sk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Sikkim",
+        "lang:hi": "सिक्किम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:tn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Tamil Nadu",
+        "lang:hi": "तमिल नाडु"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:tg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Telangana",
+        "lang:hi": "तेलंगाना"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:tr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Tripura",
+        "lang:hi": "त्रिपुरा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:up"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Uttar Pradesh",
+        "lang:hi": "उत्तर प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:ut"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "Uttarakhand",
+        "lang:hi": "उत्तराखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q57156537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/rajya-sabha-constituency:wb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57156537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17324844"
+      ],
+      "type": {
+        "lang:en": "constituency of the Rajya Sabha, India"
+      },
+      "name": {
+        "lang:en": "West Bengal",
+        "lang:hi": "पश्चिम बंगाल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
