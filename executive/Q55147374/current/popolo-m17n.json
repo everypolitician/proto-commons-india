@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Raman Singh",
+        "lang:hi": "रमन सिंह"
+      },
+      "id": "Q3521181",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3521181"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q1168"
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
@@ -72,6 +101,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3521181-c9f2c185-42d0-21df-ea72-107b0b404b60",
+      "person_id": "Q3521181",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147374",
+      "area_id": "Q1168",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q38772867",
+      "role": {
+        "lang:en": "Chief Minister of Chhattisgarh"
+      }
+    }
   ]
 }
