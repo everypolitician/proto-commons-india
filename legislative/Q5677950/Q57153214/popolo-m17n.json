@@ -30,6 +30,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Abhimanyu Sindhu"
+      },
+      "id": "Q4667422",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4667422"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -50,6 +65,20 @@
       "seat_counts": {
         "Q24497178": "90"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
@@ -111,6 +140,39 @@
       "area_id": "Q55377670",
       "start_date": "2009-01-01",
       "end_date": "2018-08-26",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24497178",
+      "role": {
+        "lang:en": "Member of the Haryana Legislative Assembly",
+        "lang:hi": "हरयाणा विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4667422-3F1C478D-1106-42F6-B254-5E00102C8E34",
+      "person_id": "Q4667422",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q5677950",
+      "area_id": "Q25241422",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24497178",
+      "role": {
+        "lang:en": "Member of the Haryana Legislative Assembly",
+        "lang:hi": "हरयाणा विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4667422-3F1C478D-1106-42F6-B254-5E00102C8E34",
+      "person_id": "Q4667422",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q5677950",
+      "area_id": "Q25241422",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
