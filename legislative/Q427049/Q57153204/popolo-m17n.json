@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Japu Deru"
+      },
+      "id": "Q27063202",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27063202"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -20,12 +34,58 @@
       "seat_counts": {
         "Q24456735": "60"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063202-362B602F-A2F2-46C6-957C-7B1F9D593E3E",
+      "person_id": "Q27063202",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q427049",
+      "area_id": "Q55261571",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24456735",
+      "role": {
+        "lang:en": "Member of the Arunachal Pradesh Legislative Assembly",
+        "lang:hi": "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27063202-362B602F-A2F2-46C6-957C-7B1F9D593E3E",
+      "person_id": "Q27063202",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q427049",
+      "area_id": "Q55261571",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24456735",
+      "role": {
+        "lang:en": "Member of the Arunachal Pradesh Legislative Assembly",
+        "lang:hi": "अरुणाचल प्रदेश विधान सभा के सदस्य"
+      }
+    }
   ]
 }

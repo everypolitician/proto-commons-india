@@ -15,6 +15,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Aminul Haque Laskar"
+      },
+      "id": "Q27947596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27947596"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -35,6 +50,20 @@
       "seat_counts": {
         "Q21191662": "126"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
@@ -92,6 +121,39 @@
       "person_id": "Q24285755",
       "organization_id": "Q4808385",
       "start_date": "1961-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27947596-8100B8D4-88D1-45C2-90BE-91B155157C9E",
+      "person_id": "Q27947596",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q4808385",
+      "area_id": "Q25212207",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27947596-8100B8D4-88D1-45C2-90BE-91B155157C9E",
+      "person_id": "Q27947596",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q4808385",
+      "area_id": "Q25212207",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",

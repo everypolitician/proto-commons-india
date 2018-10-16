@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Rathod Bapurao"
+      },
+      "id": "Q52246697",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q52246697"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -20,12 +34,58 @@
       "seat_counts": {
         "Q24331572": "120"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Telangana Rashtra Samithi",
+        "lang:hi": "तेलंगाना राष्ट्र समिति"
+      },
+      "id": "Q3518390",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3518390"
+        }
+      ]
     }
   ],
   "areas": [
 
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52246697-D9CBD7A0-B21B-49C4-AA84-B5D4A739237B",
+      "person_id": "Q52246697",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4931521",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52246697-D9CBD7A0-B21B-49C4-AA84-B5D4A739237B",
+      "person_id": "Q52246697",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4931521",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    }
   ]
 }

@@ -107,7 +107,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/KapilSibal"
+        }
       ]
     },
     {
@@ -1077,21 +1080,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16011342"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Fathema Ismail"
-      },
-      "id": "Q16011883",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16011883"
         }
       ],
       "links": [
@@ -2295,22 +2283,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q16736873"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Ram Nath Kovind",
-        "lang:hi": "राम नाथ कोविन्द"
-      },
-      "id": "Q16845347",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q16845347"
         }
       ],
       "links": [
@@ -9069,21 +9041,6 @@
     },
     {
       "name": {
-        "lang:en": "E. M. Sudarsana Natchiappan"
-      },
-      "id": "Q5322044",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5322044"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "E. R. Krishnan"
       },
       "id": "Q5322105",
@@ -12494,6 +12451,21 @@
     },
     {
       "name": {
+        "lang:en": "S. Thangavelu"
+      },
+      "id": "Q7387942",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7387942"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Sahib Singh Sokhey"
       },
       "id": "Q7399608",
@@ -13984,7 +13956,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/JairamRameshOfficial"
+        }
       ]
     },
     {
@@ -14083,7 +14058,10 @@
         }
       ],
       "links": [
-
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/PawarSpeaks"
+        }
       ]
     },
     {
@@ -14179,6 +14157,20 @@
         {
           "scheme": "wikidata",
           "identifier": "Q10230"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Nationalist Congress Party",
+        "lang:hi": "राष्ट्रवादी कांग्रेस पार्टी"
+      },
+      "id": "Q1561861",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1561861"
         }
       ]
     }
@@ -14645,7 +14637,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/territory:dl"
+          "identifier": "country:in/rajya-sabha-constituency:dl"
         },
         {
           "scheme": "wikidata",
@@ -14693,7 +14685,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/territory:py"
+          "identifier": "country:in/rajya-sabha-constituency:py"
         },
         {
           "scheme": "wikidata",
@@ -15042,7 +15034,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q1206954-AF8F3412-6396-440F-8565-AB0EF4FF2A09",
       "person_id": "Q1206954",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q244730",
+      "area_id": "Q57156533",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -15924,20 +15918,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16011342-B8C84FD8-04F7-4215-979B-9023F6023160",
       "person_id": "Q16011342",
-      "organization_id": "Q244730",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17324844",
-      "role": {
-        "lang:en": "member of the Rajya Sabha"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16011883-CDE67F8D-839B-42D2-B13A-2963E786BA34",
-      "person_id": "Q16011883",
       "organization_id": "Q244730",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -17044,20 +17024,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q16736873-E64AA1A6-3FE7-4BF9-A16A-BD81340BF306",
       "person_id": "Q16736873",
-      "organization_id": "Q244730",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17324844",
-      "role": {
-        "lang:en": "member of the Rajya Sabha"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16845347-4F9CD986-002A-4EFD-88BA-85CFB0AF2AF2",
-      "person_id": "Q16845347",
       "organization_id": "Q244730",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -21109,6 +21075,7 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q244730",
       "area_id": "Q57156533",
+      "start_date": "2018-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -23209,20 +23176,6 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q5321996-AA500185-ED1A-4C8D-A0F0-F157D7CA8BD4",
       "person_id": "Q5321996",
-      "organization_id": "Q244730",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17324844",
-      "role": {
-        "lang:en": "member of the Rajya Sabha"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5322044-8BB31428-7447-47D8-AEAC-381ECF3A4C09",
-      "person_id": "Q5322044",
       "organization_id": "Q244730",
       "role_superclass_code": "Q486839",
       "role_superclass": {
@@ -26344,6 +26297,20 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q7387942-2a192a72-c2b7-4c04-9605-83344e9174e8",
+      "person_id": "Q7387942",
+      "organization_id": "Q244730",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q17324844",
+      "role": {
+        "lang:en": "member of the Rajya Sabha"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q7399608-30FF2B4B-9B2D-44C4-A798-D7FE16D8B4D3",
       "person_id": "Q7399608",
       "organization_id": "Q244730",
@@ -27692,7 +27659,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q907912-F2D803D4-111B-4D78-9434-84ABBC70FC4D",
       "person_id": "Q907912",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q244730",
+      "area_id": "Q57156474",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -27777,7 +27746,9 @@
     {
       "id": "http://www.wikidata.org/entity/statement/Q982813-2E87D61F-3EE0-4A44-A8FF-00B272A24D5F",
       "person_id": "Q982813",
+      "on_behalf_of_id": "Q1561861",
       "organization_id": "Q244730",
+      "area_id": "Q57156481",
       "start_date": "2014-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
