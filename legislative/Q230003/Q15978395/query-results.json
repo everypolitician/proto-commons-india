@@ -1588,17 +1588,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q107960"
+        "value" : "http://www.wikidata.org/entity/Q5328213"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "पूर्व दिल्ली"
+        "value" : "पूर्वी दिल्ली लोकसभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "East Delhi district"
+        "value" : "East Delhi"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -1672,17 +1672,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q107960"
+        "value" : "http://www.wikidata.org/entity/Q5328213"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "पूर्व दिल्ली"
+        "value" : "पूर्वी दिल्ली लोकसभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "East Delhi district"
+        "value" : "East Delhi"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -73878,174 +73878,6 @@
         "value" : "2004-01-01T00:00:00Z"
       }
     }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q377358-861ab341-4768-172c-96a7-48eaadf1f25c"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1025396"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sivaganga"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16556694"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोकसभा सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Lok Sabha"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q377358"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पी. चिदंबरम"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "P. Chidambaram"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q230003"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोक सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lok Sabha"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q668"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "545"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2004-01-01T00:00:00Z"
-      }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q377358-861ab341-4768-172c-96a7-48eaadf1f25c"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1025396"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Sivaganga"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16556694"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोकसभा सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Lok Sabha"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q377358"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पी. चिदंबरम"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "P. Chidambaram"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q230003"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोक सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lok Sabha"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q668"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "545"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2004-01-01T00:00:00Z"
-      }
-    }, {
       "party" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1601619"
@@ -77810,17 +77642,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q579205"
+        "value" : "http://www.wikidata.org/entity/Q4756549"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "उत्तर कन्नड़ ज़िला"
+        "value" : "उत्तर कन्नड़ लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Uttara Kannada District"
+        "value" : "Uttara Kannada"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -77899,17 +77731,17 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q579205"
+        "value" : "http://www.wikidata.org/entity/Q4756549"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "उत्तर कन्नड़ ज़िला"
+        "value" : "उत्तर कन्नड़ लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Uttara Kannada District"
+        "value" : "Uttara Kannada"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -84676,12 +84508,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q200713"
+        "value" : "http://www.wikidata.org/entity/Q3763786"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "औरंगाबाद"
+        "value" : "औरंगाबाद लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -84765,12 +84597,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q200713"
+        "value" : "http://www.wikidata.org/entity/Q3763786"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "औरंगाबाद"
+        "value" : "औरंगाबाद लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -100926,12 +100758,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2355868"
+        "value" : "http://www.wikidata.org/entity/Q3630009"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "नगरकुरनूल"
+        "value" : "नगर कुरनूल लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -101010,12 +100842,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q2355868"
+        "value" : "http://www.wikidata.org/entity/Q3630009"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "नगरकुरनूल"
+        "value" : "नगर कुरनूल लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -115274,12 +115106,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q858304"
+        "value" : "http://www.wikidata.org/entity/Q4940018"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "बोलपुर पश्चिम बंगाल"
+        "value" : "बोलपुर लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
@@ -115358,12 +115190,12 @@
       },
       "district" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q858304"
+        "value" : "http://www.wikidata.org/entity/Q4940018"
       },
       "district_name_hi" : {
         "xml:lang" : "hi",
         "type" : "literal",
-        "value" : "बोलपुर पश्चिम बंगाल"
+        "value" : "बोलपुर लोक सभा निर्वाचन क्षेत्र"
       },
       "district_name_en" : {
         "xml:lang" : "en",
