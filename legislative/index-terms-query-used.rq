@@ -8,6 +8,7 @@ WHERE {
   VALUES (?house ?position) {
     (wd:Q230003 wd:Q16556694)
     (wd:Q244730 wd:Q17324844)
+    (wd:Q3391663 wd:Q24340546)
   }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
