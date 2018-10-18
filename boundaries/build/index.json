@@ -607,5 +607,19 @@
       "match": "country:in/state:ap",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "sikkim-ac",
+    "area_type_wikidata_item_id": "Q54375505",
+    "associations": [
+      {
+        "comment": "Member of the Sikkim Legislative Assembly",
+        "position_item_id": "Q24547509"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
   }
 ]
