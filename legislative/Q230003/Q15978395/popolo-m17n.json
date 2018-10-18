@@ -11312,6 +11312,31 @@
       "parent_id": null
     },
     {
+      "id": "Q1505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018650"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Sikkim",
+        "lang:hi": "सिक्किम"
+      },
+      "parent_id": "Q668"
+    },
+    {
       "id": "Q15649259",
       "identifiers": [
         {
@@ -11784,7 +11809,7 @@
         "lang:hi": "सिक्किम लोक सभा निर्वाचन क्षेत्र",
         "lang:en": "Sikkim"
       },
-      "parent_id": null
+      "parent_id": "Q1505"
     },
     {
       "id": "Q1659329",
@@ -20780,6 +20805,31 @@
       "name": {
         "lang:hi": "लोहरदगा लोक सभा निर्वाचन क्षेत्र",
         "lang:en": "Lohardaga"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
       },
       "parent_id": null
     },
