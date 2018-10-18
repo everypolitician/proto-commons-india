@@ -58,5 +58,18 @@
       "match": "country:in/territory:py",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "territory-puducherry",
+    "area_type_wikidata_item_id": "Q6750715",
+    "associations": [
+      {
+        "comment": "Member of the Puducherry Legislative Assembly",
+        "position_item_id": "Q24340546"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "NAME"
+    }
   }
 ]
