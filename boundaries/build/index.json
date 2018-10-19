@@ -75,5 +75,23 @@
       "lang:hi": "NAME_HI",
       "lang:en": "ST_NM"
     }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of goa",
+        "position_item_id": "Q55018632"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ga",
+      "column": "MS_FB"
+    }
   }
 ]
