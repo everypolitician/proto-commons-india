@@ -40,5 +40,40 @@
       "lang:hi": "NAME_HI",
       "lang:en": "PC_NAME"
     }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [],
+    "name_columns": {
+      "lang:hi": "NAME_HI",
+      "lang:en": "ST_NM"
+    },
+    "filter": {
+      "match": "country:in/state",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q467745",
+    "associations": [],
+    "name_columns": {
+      "lang:hi": "NAME_HI",
+      "lang:en": "ST_NM"
+    },
+    "filter": {
+      "match": "country:in/territory",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "territories",
+    "area_type_wikidata_item_id": "Q467745",
+    "associations": [],
+    "name_columns": {
+      "lang:hi": "NAME_HI",
+      "lang:en": "ST_NM"
+    }
   }
 ]
