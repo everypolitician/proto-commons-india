@@ -73,6 +73,24 @@
     }
   },
   {
+    "role_id": "Q24461695",
+    "role_name": {
+      "lang:en": "Member of the Goa Legislative Assembly",
+      "lang:hi": "गोवा विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5575081",
+    "organization_name": {
+      "lang:en": "Goa Legislative Assembly",
+      "lang:hi": "गोवा विधान सभा"
+    }
+  },
+  {
     "role_id": "Q24546266",
     "role_name": {
       "lang:en": "Member of the Odisha Legislative Assembly",
@@ -87,6 +105,25 @@
     "organization_id": "Q3526627",
     "organization_name": {
       "lang:en": "Member of a Legislative Assembly of India"
+    }
+  },
+  {
+    "role_id": "Q55018632",
+    "role_name": {
+      "lang:en": "Chief Minister of Goa",
+      "lang:hi": "गोवा के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147375",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Goa",
+      "lang:hi": "गोवा विधान सभा"
     }
   }
 ]
