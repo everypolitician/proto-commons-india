@@ -247,6 +247,66 @@
     }, {
       "position" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24461695"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of the Goa Legislative Assembly"
+      },
+      "position_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गोवा विधान सभा के सदस्य"
+      },
+      "positionType" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4175034"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1171"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Goa"
+      },
+      "admin_area_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गोआ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3526627"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Member of a Legislative Assembly of India"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5575081"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Goa Legislative Assembly"
+      },
+      "body_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गोवा विधान सभा"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q24546266"
       },
       "position_name_en" : {
@@ -298,6 +358,67 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Member of a Legislative Assembly of India"
+      }
+    }, {
+      "position" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55018632"
+      },
+      "position_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister of Goa"
+      },
+      "position_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गोवा के मुख्यमंत्री"
+      },
+      "adminAreaTypes" : {
+        "type" : "literal",
+        "value" : "Q10864048"
+      },
+      "adminArea" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q1171"
+      },
+      "admin_area_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Goa"
+      },
+      "admin_area_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गोआ"
+      },
+      "positionSuperclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q5096847"
+      },
+      "position_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chief Minister"
+      },
+      "position_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मुख्यमन्त्री"
+      },
+      "body" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q55147375"
+      },
+      "body_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Council of Ministers of Goa"
+      },
+      "body_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "गोवा विधान सभा"
       }
     } ]
   }
