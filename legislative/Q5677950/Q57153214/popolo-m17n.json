@@ -156,7 +156,2131 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018634"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Haryana",
+        "lang:hi": "हरियाणा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q15694356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15694356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rewari",
+        "lang:hi": "रेवाड़ी विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q18391534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18391534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nalwa Chaudhry"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q19882334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19882334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhiwani"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q19892546",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19892546"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karnal"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q20065340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20065340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gurgaon"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25205675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25205675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambala City"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25208573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambala Cantonment"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25208579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naraingarh"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25208583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mulana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25209411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhajjar"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25209415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rohtak"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25209417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pataudi"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25209684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalanwali"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badhra"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hisar"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hansi"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Uchana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Adampur"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Uklana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barwala"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narnaund"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ladwa"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q25241424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panchkula"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q30600415",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600415"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Assandh"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q39078567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39078567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalka"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q4873763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4873763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bawani Khera",
+        "lang:hi": "बवानी खेड़ा विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q5208117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5208117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dadri",
+        "lang:hi": "दादरी विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sadhaura"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jagadhri"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yamunanagar"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Radaur"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahbad"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thanesar"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pehowa"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Guhla"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalayat"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kaithal"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pundri"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nilokheri"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indri"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gharaunda"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panipat Rural"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panipat City"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Israna"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Samalkha"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ganaur"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rai"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kharkhauda"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sonipat"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377663",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377663"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gohana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baroda"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Julana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Safidon"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jind"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narwana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tohana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Fatehabad"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ratia"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dabwali"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rania"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sirsa"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ellenabad"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Meham"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Garhi Sampla-Kiloi"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalanaur"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bahadurgarh"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badli"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Beri"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ateli"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahendragarh"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377720",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377720"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narnaul"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nangal chaudhry"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bawal"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377739",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377739"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kosli"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badshahpur"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sohna"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nuh"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ferozepur Jhirka"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Punahana"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hathin"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hodal"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palwal"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Prithla"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Faridabad NIT"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badkhal"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ballabhgarh"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377774",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377774"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Faridabad"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q55377776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55377776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tigaon"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q6667978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6667978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Loharu",
+        "lang:hi": "लोहारू विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q7827605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7827605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24497178"
+      ],
+      "type": {
+        "lang:en": "constituency of the Haryana Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tosham",
+        "lang:hi": "तोशाम विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+      },
+      "parent_id": "Q1174"
+    }
   ],
   "memberships": [
     {
@@ -164,10 +2288,9 @@
       "person_id": "Q18388395",
       "organization_id": "Q5677950",
       "start_date": "2004-01-01",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24497178",
       "role": {
@@ -180,9 +2303,10 @@
       "person_id": "Q18388395",
       "organization_id": "Q5677950",
       "start_date": "2004-01-01",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24497178",
       "role": {
@@ -263,10 +2387,9 @@
       "area_id": "Q55377670",
       "start_date": "2009-01-01",
       "end_date": "2018-08-26",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24497178",
       "role": {
@@ -281,9 +2404,10 @@
       "area_id": "Q55377670",
       "start_date": "2009-01-01",
       "end_date": "2018-08-26",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24497178",
       "role": {
