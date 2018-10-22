@@ -271,22 +271,23 @@ for name in sorted(os.listdir('boundaries/build')):
     index_fn = 'boundaries/build/index.json'
     with open(index_fn) as f:
         index_data = json.load(f)
-    index_data.append({
-        'directory': name,
-        'area_type_wikidata_item_id': state_metadata['area_type'],
-        'associations': [{
-            'comment': state_metadata['position_comment'],
-            'position_item_id': state_metadata['position'],
-        }],
-        'name_columns': {
-            'lang:en': 'AC_NAME',
-            **{'lang:' + v: k for k, v in lang_mapping.items()},
-        }
-    })
-    with open(index_fn, 'w') as f:
-        json.dump(index_data, f, indent=2)
-    git('add', index_fn)
-    git('commit', '-m', 'Add metadata for {} assembly constituencies'.format(name))
+    if not any(entry['directory'] == name for entry in index_data):
+        index_data.append({
+            'directory': name,
+            'area_type_wikidata_item_id': state_metadata['area_type'],
+            'associations': [{
+                'comment': state_metadata['position_comment'],
+                'position_item_id': state_metadata['position'],
+            }],
+            'name_columns': {
+                'lang:en': 'AC_NAME',
+                **{'lang:' + v: k for k, v in lang_mapping.items()},
+            }
+        })
+        with open(index_fn, 'w') as f:
+            json.dump(index_data, f, indent=2)
+        git('add', index_fn)
+        git('commit', '-m', 'Add metadata for {} assembly constituencies'.format(name))
 
     with open('build_output.txt', 'w') as f:
         subprocess.check_call(['bundle', 'exec', 'build', 'build'], stdout=f)
