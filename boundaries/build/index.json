@@ -607,5 +607,19 @@
       "match": "country:in/state:ap",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "jharkhand-ac",
+    "area_type_wikidata_item_id": "Q54375455",
+    "associations": [
+      {
+        "comment": "Member of the Jharkhand Legislative Assembly",
+        "position_item_id": "Q24525324"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
   }
 ]
