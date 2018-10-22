@@ -137,9 +137,9 @@ state_ids = {
 git('fetch')
 
 for name in sorted(os.listdir('boundaries/build')):
-    print("Trying", name)
     if not os.path.isdir(os.path.join('boundaries/build', name)) or not name.endswith('-ac'):
         continue
+    print("Trying", name)
     reconciled_csv_fn = os.path.join('boundaries', 'build', name, name + '-reconciled.csv')
     try:
         with open(reconciled_csv_fn) as f:
