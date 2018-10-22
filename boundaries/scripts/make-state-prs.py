@@ -339,4 +339,3 @@ for name in sorted(os.listdir('boundaries/build')):
 
     git('checkout', 'reconciling')
 
-    break
