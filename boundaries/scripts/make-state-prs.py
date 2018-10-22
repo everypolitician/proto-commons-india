@@ -6,6 +6,7 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import textwrap
 
 import fiona
 import requests
@@ -267,7 +268,11 @@ for name in sorted(os.listdir('boundaries/build')):
 
     license_fn = os.path.join(boundary_dir, name + '-COPYRIGHT')
     with open(license_fn, 'w') as f:
-        f.write("The dataset is shared under Creative Commons Attribution 2.5 India license.\n")
+        f.write(textwrap.dedent("""
+            The dataset is shared under Creative Commons Attribution 2.5 India license.
+            
+            https://github.com/datameet/maps/tree/master/assembly-constituencies
+        """))
     git('add', license_fn)
     git('commit', license_fn, '-m', 'Add license for {} assembly constituencies'.format(state_metadata['label']))
 
