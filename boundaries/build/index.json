@@ -607,5 +607,20 @@
       "match": "country:in/state:ap",
       "column": "MS_FB"
     }
+  },
+  {
+    "directory": "uttar-pradesh-ac",
+    "area_type_wikidata_item_id": "Q26685543",
+    "associations": [
+      {
+        "comment": "Member of the Uttar Pradesh Legislative Assembly",
+        "position_item_id": "Q18039836"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI",
+      "lang:ur": "NAME_UR"
+    }
   }
 ]
