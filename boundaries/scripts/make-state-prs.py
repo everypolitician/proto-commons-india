@@ -330,8 +330,12 @@ for name in sorted(os.listdir('boundaries/build')):
             }),
             headers=github_headers,
         )
-        response.raise_for_status()
-        sys.stderr.write("Pull request created: {}\n".format(response.json()['html_url']))
+        try:
+            response.raise_for_status()
+        except requests.HTTPError as e:
+            sys.stderr.write("Couldn't create pull request ({}).\n".format(e.response.status_code))
+        else:
+            sys.stderr.write("Pull request created: {}\n".format(response.json()['html_url']))
 
     git('checkout', 'reconciling')
 
