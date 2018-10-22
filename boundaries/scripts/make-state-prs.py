@@ -292,7 +292,13 @@ for name in sorted(os.listdir('boundaries/build')):
         subprocess.check_call(['bundle', 'exec', 'build', 'build'], stdout=f)
     git('add', 'build_output.txt')
     git('commit', '-a', '-m', 'Rebuild with boundary data for {} assembly constituencies'.format(name))
-    git('push', '-u', 'origin', branch_name)
+
+    try:
+        git('rev-parse', '--verify', branch_name + '@{u}')
+    except subprocess.CalledProcessError:  # retcode 128 if no known remote branch
+        git('push', '-u', 'origin', branch_name)
+    else:  # there's a remote branch, so --force-with-lease to it
+        git('push', 'origin', branch_name, '--force-with-lease')
 
     try:
         git('rev-parse', '--verify', branch_name + '@{u}')
