@@ -255,17 +255,17 @@ for name in sorted(os.listdir('boundaries/build')):
 
     # Commit everything
     git('add', os.path.join(boundary_dir, name + '.csv'))
-    git('commit', '-m', 'Add CSV for {} assembly constituencies'.format(name))
+    git('commit', '-m', 'Add CSV for {} assembly constituencies'.format(state_metadata['label']))
 
     git('add', *[os.path.join(boundary_dir, name + ext)
                  for ext in ('.cpg', '.dbf', '.prj', '.shp', '.shx')])
-    git('commit', '-m', 'Add shapefile for {} assembly constituencies'.format(name))
+    git('commit', '-m', 'Add shapefile for {} assembly constituencies'.format(state_metadata['label']))
 
     license_fn = os.path.join(boundary_dir, name + '-COPYRIGHT')
     with open(license_fn, 'w') as f:
         f.write("The dataset is shared under Creative Commons Attribution 2.5 India license.\n")
     git('add', license_fn)
-    git('commit', license_fn, '-m', 'Add license for {} assembly constituencies'.format(name))
+    git('commit', license_fn, '-m', 'Add license for {} assembly constituencies'.format(state_metadata['label']))
 
     # Add metadata entry
     index_fn = 'boundaries/build/index.json'
@@ -287,12 +287,12 @@ for name in sorted(os.listdir('boundaries/build')):
         with open(index_fn, 'w') as f:
             json.dump(index_data, f, indent=2)
         git('add', index_fn)
-        git('commit', '-m', 'Add metadata for {} assembly constituencies'.format(name))
+        git('commit', '-m', 'Add metadata for {} assembly constituencies'.format(state_metadata['label']))
 
     with open('build_output.txt', 'w') as f:
         subprocess.check_call(['bundle', 'exec', 'build', 'build'], stdout=f)
     git('add', 'build_output.txt')
-    git('commit', '-a', '-m', 'Rebuild with boundary data for {} assembly constituencies'.format(name))
+    git('commit', '-a', '-m', 'Rebuild with boundary data for {} assembly constituencies'.format(state_metadata['label']))
 
     try:
         git('rev-parse', '--verify', branch_name + '@{u}')
