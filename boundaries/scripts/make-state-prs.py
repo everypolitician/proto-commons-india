@@ -101,6 +101,16 @@ for result in query_wikidata(metadata_query)['results']['bindings']:
         metadata[id]['position'] = item_uri_to_id(result['position'])
         metadata[id]['position_comment'] = result['positionLabel']['value']
 
+states_to_skip = {
+    'gujarat-ac',  # Not yet fully reconciled
+    'jammu-&-kashmir-ac',  # Not yet fully reconciled
+    'madhya-pradesh-ac',  # Not yet fully reconciled
+    'karnataka-ac',  # Not yet fully reconciled
+    'maharashtra-ac',  # Not yet fully reconciled
+    'sikkim-ac',  # Not yet fully reconciled
+    'tamil-nadu-ac',  # Not yet fully reconciled
+}
+
 state_ids = {
     'andhra-pradesh-ac': 'Q1159',
     'arunachal-pradesh-ac': 'Q1162',
@@ -141,6 +151,10 @@ for name in sorted(os.listdir('boundaries/build')):
     if not os.path.isdir(os.path.join('boundaries/build', name)) or not name.endswith('-ac'):
         continue
     print("Trying", name)
+    if name in states_to_skip:
+        sys.stderr.write("Directory {} explicitly excluded; skipping.\n".format(name))
+        continue
+
     reconciled_csv_fn = os.path.join('boundaries', 'build', name, name + '-reconciled.csv')
     try:
         with open(reconciled_csv_fn) as f:
