@@ -44,6 +44,24 @@ def fix_india_id(id):
 
     return id
 
+try:
+    github_access_token = os.environ['GITHUB_ACCESS_TOKEN']
+except KeyError:
+    raise AssertionError('No GITHUB_ACCESS_TOKEN found in environment; '
+                         'set one up at https://github.com/settings/tokens and add it to your environment.')
+
+
+github_headers = {
+    'Authorization': 'Token ' + github_access_token,
+    'Content-Type': 'application/json',
+    'Accept': 'application/vnd.github.mercy-preview+json',
+}
+pulls_url = 'https://api.github.com/repos/everypolitician/proto-commons-india/pulls'
+
+response = requests.get(pulls_url) #, headers=github_headers)
+response.raise_for_status()
+pull_heads = {pull['head']['ref'] for pull in response.json()}
+
 metadata_query = """\
 SELECT ?id ?language ?idLabel ?house ?houseLabel ?areaType ?areaTypeLabel ?position ?positionLabel {
   ?id wdt:P31/wdt:P279* wd:Q131541 .
@@ -72,6 +90,8 @@ SELECT ?id ?language ?idLabel ?house ?houseLabel ?areaType ?areaTypeLabel ?posit
 metadata = collections.defaultdict(lambda: {'languages': {'hi'}})
 for result in query_wikidata(metadata_query)['results']['bindings']:
     id = item_uri_to_id(result['id'])
+    if 'idLabel' in result:
+        metadata[id]['label'] = result['idLabel']['value']
     if 'language' in result and result['language']['value'] != 'en':
         metadata[id]['languages'].add(result['language']['value'])
     if 'areaType' in result:
@@ -140,7 +160,7 @@ for name in sorted(os.listdir('boundaries/build')):
     state_metadata = metadata[state_ids[name]]
     ms_fb_to_wikidata = {}
 
-    git('checkout', '--no-track', '-B', branch_name, 'origin/master')
+    git('checkout', '--no-track', '-B', branch_name, 'origin/add-states')
     git('checkout', 'reconciling', '--',
         *[os.path.join(boundary_dir, name + ext)
           for ext in ('.cpg', '.csv', '.dbf', '.prj', '.shp', '.shx', '-reconciled.csv')])
@@ -271,6 +291,32 @@ for name in sorted(os.listdir('boundaries/build')):
     with open('build_output.txt', 'w') as f:
         subprocess.check_call(['bundle', 'exec', 'build', 'build'], stdout=f)
     git('add', 'build_output.txt')
-    git('commit', '-m', 'Rebuild with boundary data for {} assembly constituencies'.format(name))
+    git('commit', '-a', '-m', 'Rebuild with boundary data for {} assembly constituencies'.format(name))
+    git('push', '-u', 'origin', branch_name)
+
+    try:
+        git('rev-parse', '--verify', branch_name + '@{u}')
+    except subprocess.CalledProcessError:  # retcode 128 if branch doesn't exist
+        git('push', '-u', 'origin', branch_name)
+    else:  # branch exists, so let's push with --force-with-lease
+        git('push', 'origin', branch_name, '--force-with-lease')
+
+    if branch_name in pull_heads:
+        sys.stderr.write("Pull request already exists.\n")
+    else:
+        response = requests.post(
+            pulls_url,
+            json.dumps({
+                'title': 'State: {} [auto-generated]'.format(state_metadata['label']),
+                'head': branch_name,
+                'base': 'add-states',
+                'body': 'Add states data for {}'.format(state_metadata['label']),
+            }),
+            headers=github_headers,
+        )
+        response.raise_for_status()
+        sys.stderr.write("Pull request created: {}\n".format(response.json()['html_url']))
 
     git('checkout', 'reconciling')
+
+    break
