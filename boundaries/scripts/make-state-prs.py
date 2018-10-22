@@ -11,6 +11,8 @@ import textwrap
 import fiona
 import requests
 
+with_shapefiles = False
+
 def git(*args):
     return subprocess.check_call(['git'] + list(args))
 
@@ -180,15 +182,19 @@ for name in sorted(os.listdir('boundaries/build')):
         sys.stderr.write("State {} already on add-states branch ({}); skipping.\n".format(state_metadata['label'], name))
         git('checkout', 'reconciling')
         continue
-    git('checkout', 'reconciling', '--',
-        *[os.path.join(boundary_dir, name + ext)
-          for ext in ('.cpg', '.csv', '.dbf', '.prj', '.shp', '.shx', '-reconciled.csv')])
+    if with_shapefiles:
+        git('checkout', 'reconciling', '--',
+            *[os.path.join(boundary_dir, name + ext)
+              for ext in ('.cpg', '.csv', '.dbf', '.prj', '.shp', '.shx', '-reconciled.csv')])
+    else:
+        git('checkout', 'reconciling', '--', os.path.join(boundary_dir, name + '-reconciled.csv'))
     git('reset')
 
-    # Add '-ur' to unreconciled files
-    for ext in ('.cpg', '.csv', '.dbf', '.prj', '.shp', '.shx'):
-        shutil.move(os.path.join(boundary_dir, name + ext),
-                    os.path.join(boundary_dir, name + '-ur' + ext))
+    if with_shapefiles:
+        # Add '-ur' to unreconciled files
+        for ext in ('.cpg', '.csv', '.dbf', '.prj', '.shp', '.shx'):
+            shutil.move(os.path.join(boundary_dir, name + ext),
+                        os.path.join(boundary_dir, name + '-ur' + ext))
 
     # Move '-reconciled.csv' to the standard place
     shutil.move(os.path.join(boundary_dir, name + '-reconciled.csv'),
@@ -249,36 +255,39 @@ for name in sorted(os.listdir('boundaries/build')):
                 writer.writerow(row)
     shutil.move(g.name, os.path.join(boundary_dir, name + '.csv'))
 
-    # Rewrite shapefiles with fixed IDs and Wikidata IDs
-    with fiona.open(os.path.join(boundary_dir, name + '-ur.shp'), 'r') as old_shp:
-        meta = old_shp.meta
-        if 'WIKIDATA' not in meta['schema']['properties']:
-            meta['schema']['properties']['WIKIDATA'] = 'str:254'
-        for fieldname in sorted(lang_mapping):
-            if fieldname not in meta['schema']['properties']:
-                meta['schema']['properties'][fieldname] = 'str:254'
-
-        with fiona.open(os.path.join(boundary_dir, name + '.shp'), 'w', encoding='utf-8', **meta) as new_shp:
-            for feature in old_shp:
-                feature['properties']['MS_FB'] = fix_india_id(feature['properties']['MS_FB'])
-                feature['properties']['MS_FB_PARE'] = fix_india_id(feature['properties']['MS_FB_PARE'])
-                try:
-                    wikidata_id = ms_fb_to_wikidata[feature['properties']['MS_FB']]
-                except KeyError:
-                    wikidata_id = ''
-                    sys.stderr.write("Missing {} from CSV for {}\n".format(feature['properties']['MS_FB'], name))
-                feature['properties']['WIKIDATA'] = wikidata_id
-                for fieldname, language in lang_mapping.items():
-                    feature['properties'][fieldname] = item_labels[wikidata_id].get(language, '')
-                new_shp.write(feature)
+    if with_shapefiles:
+        # Rewrite shapefiles with fixed IDs and Wikidata IDs
+        with fiona.open(os.path.join(boundary_dir, name + '-ur.shp'), 'r') as old_shp:
+            meta = old_shp.meta
+            if 'WIKIDATA' not in meta['schema']['properties']:
+                meta['schema']['properties']['WIKIDATA'] = 'str:254'
+            for fieldname in sorted(lang_mapping):
+                if fieldname not in meta['schema']['properties']:
+                    meta['schema']['properties'][fieldname] = 'str:254'
+    
+            with fiona.open(os.path.join(boundary_dir, name + '.shp'), 'w', encoding='utf-8', **meta) as new_shp:
+                for feature in old_shp:
+                    feature['properties']['MS_FB'] = fix_india_id(feature['properties']['MS_FB'])
+                    feature['properties']['MS_FB_PARE'] = fix_india_id(feature['properties']['MS_FB_PARE'])
+                    try:
+                        wikidata_id = ms_fb_to_wikidata[feature['properties']['MS_FB']]
+                    except KeyError:
+                        wikidata_id = ''
+                        sys.stderr.write("Missing {} from CSV for {}\n".format(feature['properties']['MS_FB'], name))
+                    feature['properties']['WIKIDATA'] = wikidata_id
+                    for fieldname, language in lang_mapping.items():
+                        feature['properties'][fieldname] = item_labels[wikidata_id].get(language, '')
+                    new_shp.write(feature)
 
     # Commit everything
     git('add', os.path.join(boundary_dir, name + '.csv'))
     git('commit', '-m', 'Add CSV for {} assembly constituencies'.format(state_metadata['label']))
 
-    git('add', *[os.path.join(boundary_dir, name + ext)
-                 for ext in ('.cpg', '.dbf', '.prj', '.shp', '.shx')])
-    git('commit', '-m', 'Add shapefile for {} assembly constituencies'.format(state_metadata['label']))
+
+    if with_shapefiles:
+        git('add', *[os.path.join(boundary_dir, name + ext)
+                     for ext in ('.cpg', '.dbf', '.prj', '.shp', '.shx')])
+        git('commit', '-m', 'Add shapefile for {} assembly constituencies'.format(state_metadata['label']))
 
     license_fn = os.path.join(boundary_dir, name + '-COPYRIGHT')
     with open(license_fn, 'w') as f:
