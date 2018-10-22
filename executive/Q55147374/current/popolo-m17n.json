@@ -1,0 +1,122 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Raman Singh",
+        "lang:hi": "रमन सिंह"
+      },
+      "id": "Q3521181",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3521181"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़ विधान सभा"
+      },
+      "id": "Q55147374",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147374"
+        }
+      ],
+      "area_id": "Q1168"
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38772867"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3521181-c9f2c185-42d0-21df-ea72-107b0b404b60",
+      "person_id": "Q3521181",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147374",
+      "area_id": "Q1168",
+      "start_date": "2003-01-01",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q38772867",
+      "role": {
+        "lang:en": "Chief Minister of Chhattisgarh"
+      }
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "N. Chandrababu Naidu",
+        "lang:hi": "चंद्रबाबू नायडू"
+      },
+      "id": "Q3518013",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3518013"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Ashok Bendalam"
+      },
+      "id": "Q57264918",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57264918"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Andhra Pradesh Legislative Assembly",
+        "lang:hi": "आन्ध्र प्रदेश विधान सभा"
+      },
+      "id": "Q16915317",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16915317"
+        }
+      ],
+      "area_id": "Q1159",
+      "seat_counts": {
+        "Q17598882": "176"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Telugu Desam Party",
+        "lang:hi": "तेलुगु देशम पार्टी"
+      },
+      "id": "Q2279320",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2279320"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3518013-EDF4075C-63DD-4E42-B991-562E3D7F97DD",
+      "person_id": "Q3518013",
+      "organization_id": "Q16915317",
+      "start_date": "1989-01-01",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17598882",
+      "role": {
+        "lang:en": "Member of the Andhra Pradesh Legislative Assembly",
+        "lang:hi": "आंध्र प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3518013-EDF4075C-63DD-4E42-B991-562E3D7F97DD",
+      "person_id": "Q3518013",
+      "organization_id": "Q16915317",
+      "start_date": "1989-01-01",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q17598882",
+      "role": {
+        "lang:en": "Member of the Andhra Pradesh Legislative Assembly",
+        "lang:hi": "आंध्र प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57264918-84C9FD3F-4F13-40D8-A763-26438376235D",
+      "person_id": "Q57264918",
+      "on_behalf_of_id": "Q2279320",
+      "organization_id": "Q16915317",
+      "area_id": "Q5986062",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17598882",
+      "role": {
+        "lang:en": "Member of the Andhra Pradesh Legislative Assembly",
+        "lang:hi": "आंध्र प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57264918-84C9FD3F-4F13-40D8-A763-26438376235D",
+      "person_id": "Q57264918",
+      "on_behalf_of_id": "Q2279320",
+      "organization_id": "Q16915317",
+      "area_id": "Q5986062",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q17598882",
+      "role": {
+        "lang:en": "Member of the Andhra Pradesh Legislative Assembly",
+        "lang:hi": "आंध्र प्रदेश विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

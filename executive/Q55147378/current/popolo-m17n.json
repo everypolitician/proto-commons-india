@@ -1,0 +1,77 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Jammu and Kashmir",
+        "lang:hi": "जम्मू और कश्मीर विधान सभा"
+      },
+      "id": "Q55147378",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147378"
+        }
+      ],
+      "area_id": "Q1180"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38882023"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Jammu and Kashmir",
+        "lang:hi": "जम्मू और कश्मीर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
