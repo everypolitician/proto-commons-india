@@ -23,7 +23,1437 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018648"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Nagaland",
+        "lang:hi": "नागालैण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q23197995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23197995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Noksen"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q30599887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dimapur-I"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q30599894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wokha"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q30600263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Northern Angami - I"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q48735047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48735047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Northern Angami -II",
+        "lang:hi": "उत्तरी अंगामी-२"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dimapur-II"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dimapur-III"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghaspani-I"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghaspani-II"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tenning"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Peren"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Western Angami"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kohima Town"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tseminyu"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pughoboto"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Southern Angami-I"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Southern Angami-II"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593990",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593990"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pfutsero"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chizami"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chazouba"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phek"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Meluri"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tuli"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arkakong"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Impur"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Angetyongpang"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55593999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55593999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Monguya"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aonglenden"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mokokchung Town"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Koridang"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jangpetkong"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alungtaki"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akuluto"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Atoizu"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Suruhuto"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aghunato"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Zunheboto"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Satakha"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tyui"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanis"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhandari"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tizit"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594015",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594015"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wakching"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tapi"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phomching"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tehok"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mon Town"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aboi"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Moka"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594022",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594022"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tamlu"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Longleng"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Longkhim Chare"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tuensang Sadar-I"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tuensang Sadar-II"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594027",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594027"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tobu"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Noklak"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thonoknyu"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shamtorr-Chessore"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Siyuchong-Sitimi"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q55594033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55594033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24541525"
+      ],
+      "type": {
+        "lang:en": "constituency of the Nagaland Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pungro-Kiphire"
+      },
+      "parent_id": "Q1599"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
