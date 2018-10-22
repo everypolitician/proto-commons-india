@@ -161,6 +161,10 @@ for name in sorted(os.listdir('boundaries/build')):
     ms_fb_to_wikidata = {}
 
     git('checkout', '--no-track', '-B', branch_name, 'origin/add-states')
+    if os.path.exists(os.path.join(boundary_dir, name + '.csv')):
+        sys.stderr.write("State {} already on add-states branch ({}); skipping.\n".format(state_metadata['label'], name))
+        git('checkout', 'reconciling')
+        continue
     git('checkout', 'reconciling', '--',
         *[os.path.join(boundary_dir, name + ext)
           for ext in ('.cpg', '.csv', '.dbf', '.prj', '.shp', '.shx', '-reconciled.csv')])
