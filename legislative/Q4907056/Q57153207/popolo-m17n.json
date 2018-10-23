@@ -23,7 +23,5649 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55020138"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Bihar",
+        "lang:hi": "बिहार"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q15194012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15194012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aurai"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15223222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15223222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hasanpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15234074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15234074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kasba"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15254568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15254568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mohiuddinnagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15265651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15265651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patepur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15271652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15271652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramnagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15273328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15273328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rosera"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15277767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15277767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sikta"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q15957707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15957707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16058217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16058217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Agiaon"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16833870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16833870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arrah"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16845767",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16845767"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Brahampur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16869009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16869009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bakhtiarpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16891248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16891248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Fatuha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16893718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16893718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kumhrar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16894567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16894567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maner"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16894736",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16894736"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Masaurhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16898340",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16898340"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phulwari"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16900946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16900946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sursand"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q16901981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16901981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Triveniganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17012101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17012101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amarpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17013649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17013649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Asthawan"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17015466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17015466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Banka"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17015633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17015633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barbigha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17015759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17015759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barh"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17015776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17015776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barhara"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17016928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17016928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belhar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17017800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17017800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhagalpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17018425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17018425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Biharsharif"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17018442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17018442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bihpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17018571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17018571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bikram"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17049574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17049574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bankipur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17051294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17051294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Danapur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17051833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17051833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhauraiya"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17051887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17051887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Digha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17053761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17053761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gopalpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17054568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17054568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harnaut"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17054922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17054922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hilsa"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17058303",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17058303"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Islampur, Nalanda"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17058472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17058472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jagdishpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17058640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17058640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamalpur, Munger"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17061497",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17061497"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kahalgaon"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17064307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17064307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katoria (ST)"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17068387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17068387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lakhisarai"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17074306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17074306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mokama"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17076838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17076838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nalanda"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17077582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17077582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nathnagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17081460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17081460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Paliganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17083166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17083166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pirpainti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17085631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17085631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajgir"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17088499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17088499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sandesh"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17089762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17089762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sheikhpura"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17097297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17097297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sultanganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17097367",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17097367"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Suryagarha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17097923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17097923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tarapur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q17097940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17097940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tarari"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q18125890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18125890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Imamganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q18342269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18342269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Buxar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q19892205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19892205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhanjharpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q25203541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25203541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gaya Town"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q25203717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25203717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Warsaliganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q25241397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghosi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q25351893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25351893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karakat",
+        "lang:hi": "काराकाट विधानसभा निर्वाचन क्षेत्र, बिहार"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q28178711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nawada"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q30600384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nokha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q30678400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30678400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jahanabad"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4705939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4705939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alamnagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4708852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4708852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4726735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4726735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alinagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4747428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4747428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amnour"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4747993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4747993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amour"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4784280",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4784280"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Araria"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4838070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4838070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Babubarhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4838860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4838860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bachhwara"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4841408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bagaha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4842266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4842266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bahadurganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4842278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4842278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bahadurpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4843269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4843269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baikunthpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4848698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4848698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baisi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4848934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4848934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bajpatti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4849387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4849387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bakhri"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4852519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4852519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Balrampur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4855755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4855755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baniapur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4856828",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4856828"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Banmankhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4858440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4858440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barari"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4858502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4858502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4860650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barharia"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4865922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4865922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baruraj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4869047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4869047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bathnaha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dumraon"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramgarh"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mohania"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhabua"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chainpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chenari"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q48732772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48732772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sasaram"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4880637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4880637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Begusarai"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4882112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Beldaur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4884669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4884669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belsand"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4888063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4888063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Benipatti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4888065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4888065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Benipur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4898593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4898593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bettiah"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4902045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4902045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhorey"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4903009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4903009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bibhutipur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4907103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4907103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bihariganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4917307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4917307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bisfi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4936216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4936216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bochaha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5072571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5072571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chanpatia"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5073418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5073418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chapra"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5091927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5091927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Cheria Bariarpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5094790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chhatapur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5101805",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5101805"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chiraia"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5222114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5222114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Darauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5222115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5222115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Daraundha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5222213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5222213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Darbhanga"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5222220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5222220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Darbhanga Rural"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5268709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5268709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhaka",
+        "lang:hi": "ढाका विधान सभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5268825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5268825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhamdaha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5350505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5350505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ekma"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5467282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5467282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Forbesganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5517016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5517016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gaighat"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5523387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5523387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Garkha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5527729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5527729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gaura Bauram"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kargahar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337464",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337464"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dinara"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337465",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337465"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dehri"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337467",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337467"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arwal"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337468",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337468"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kurtha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337470",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337470"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Makhadumapur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Goh"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337473",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337473"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Obra"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nabinagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kutumba"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aurangabad"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337487",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337487"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rafiganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gurua"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sherghati"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337491",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337491"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barachatti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337492",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337492"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bodh Gaya"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tikari"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belaganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Atri"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wazirganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hisua"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gobindpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamui"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhajha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55337521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55337521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chakai"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q55739461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sikandra"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5584228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5584228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gopalganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5586433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5586433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Goriakothi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5589915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5589915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Govindganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5640003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5640003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hajipur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5658261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5658261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harlakhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5673928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5673928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harsidhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5681553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5681553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hathua"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q5685946",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5685946"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hayaghat"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6126715",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6126715"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jale"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6269772",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6269772"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jokihat"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6345810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6345810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kadwa"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6354998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6354998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalyanpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6355002",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6355002"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalyanpur, Samastipur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6365460",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6365460"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kanti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6377593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6377593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katihar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6393065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6393065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Keoti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6394875",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6394875"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kesaria"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6398961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6398961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khagaria"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6399137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6399137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khajauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6416545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6416545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kishanganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6424780",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6424780"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kochadhaman"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6432244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6432244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Korha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6441397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6441397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kuchaikote"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6445935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6445935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kurhani"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6447923",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6447923"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kusheshwar Asthan"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6480282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6480282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lalganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6498263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6498263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Laukaha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6501909",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6501909"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lauriya"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6727341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madhepura"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6727440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madhuban"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6727447",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727447"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madhubani"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6733271",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6733271"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maharajganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6734121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6734121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahishi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6734684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6734684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahnar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6734950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6734950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahua"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6749583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6749583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manihari (ST)"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6750379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6750379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manjhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6760860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6760860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Marhaura"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6787450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6787450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Matihani"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6863176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6863176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Minapur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6915183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6915183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Morwa"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6917691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6917691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Motihari"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6936004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6936004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Munger"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6944364",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6944364"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Muzaffarpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6966012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6966012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narkatiaganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6966013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6966013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narkatia"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6966145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6966145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narpatganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q6981455",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6981455"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nautan"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7040058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7040058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nirmali"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7136344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7136344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parbatta"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7137074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7137074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parihar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7139442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7139442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Paroo"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7139921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7139921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parsa",
+        "lang:hi": "परसा"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7145112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7145112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patna Sahib"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7188332",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7188332"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phulparas"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7197500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7197500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pipra"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7197501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7197501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pipra, Supaul"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7238395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7238395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pranpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7261350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7261350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Purnia"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7282978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7282978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raghopur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7283042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7283042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raghunathpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7285508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7285508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raja Pakar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7286327",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286327"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajnagar, Madhubani"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7293039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7293039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raniganj, Araria"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7297090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7297090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raxaul"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7333320",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7333320"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Riga"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7380064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7380064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Runnisaidpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7380216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7380216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rupauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7399528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saharsa",
+        "lang:hi": "सहरसा विधानसभा निर्वाचन क्षेत्र, बिहार"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7399569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sahebganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7399572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sahebpur Kamal"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7403071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7403071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sakra"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7408885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7408885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Samastipur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7422968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7422968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sarairanjan"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7494392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7494392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sheohar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7513972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7513972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sikti"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7521205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7521205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Simri Bakhtiarpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7523496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7523496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Singheshwar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7531636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7531636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sitamarhi"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7532529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7532529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Siwan"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7560862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7560862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sonbarsha"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7560930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7560930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sonepur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7635076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7635076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sugauli"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7641919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7641919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Supaul"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7685312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7685312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Taraiya"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7694737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7694737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Teghra"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7709433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7709433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thakurganj"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7878192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7878192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ujiarpur"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7908855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7908855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vaishali"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7912495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7912495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Valmiki Nagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q7969452",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7969452"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Warisnagar"
+      },
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q8072714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8072714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457068"
+      ],
+      "type": {
+        "lang:en": "constituency of the Bihar Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ziradei"
+      },
+      "parent_id": "Q1165"
+    }
   ],
   "memberships": [
 

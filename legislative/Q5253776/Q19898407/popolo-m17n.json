@@ -23,7 +23,1736 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1790154"
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:en": "Delhi",
+        "lang:hi": "दिल्ली"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q15222498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15222498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narela",
+        "lang:hi": "नरेला विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15384979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15384979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karawal Nagar",
+        "lang:hi": "‎करावल नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15384998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15384998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mustafabad",
+        "lang:hi": "‎मुस्तफाबाद"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Laxmi Nagar",
+        "lang:hi": "लक्ष्मी नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patparganj",
+        "lang:hi": "‎पटपड़गंज"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalkaji",
+        "lang:hi": "‎कालका जी"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "New Delhi",
+        "lang:hi": "नई दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tilak Nagar",
+        "lang:hi": "तिलक नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Model Town",
+        "lang:hi": "मॉडल टाउन"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badli",
+        "lang:hi": "‎बादली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bawana",
+        "lang:hi": "बवाना"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rithala",
+        "lang:hi": "रिठाला"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Adarsh Nagar",
+        "lang:hi": "आदर्श नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Burari",
+        "lang:hi": "बुराड़ी"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15385677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15385677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Timarpur",
+        "lang:hi": "तिमारपुर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15401708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15401708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nangloi Jat",
+        "lang:hi": "नांगलोई जाट"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15401709",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15401709"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mundka",
+        "lang:hi": "मुंडका"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15401712",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15401712"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sultan Pur Majra",
+        "lang:hi": "सुलतान पुर माजरा"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15401714",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15401714"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kirari",
+        "lang:hi": "किराड़ी"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15550660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15550660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jangpura",
+        "lang:hi": "जंगपुरा विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15644815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15644815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "R K Puram",
+        "lang:hi": "आर के पुरम विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15645598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15645598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Okhla",
+        "lang:hi": "ओखला विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15645880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15645880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karol Bagh",
+        "lang:hi": "करोल बाग विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15645981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15645981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kasturba Nagar",
+        "lang:hi": "कस्तूरबा नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15646379",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15646379"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Krishna Nagar",
+        "lang:hi": "कृष्णा नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15646544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15646544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kondli",
+        "lang:hi": "कोंडली विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15647113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15647113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandhi Nagar",
+        "lang:hi": "गांधी नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15647221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15647221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gokalpur",
+        "lang:hi": "गोकलपुर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15647323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15647323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Greater Kailash",
+        "lang:hi": "ग्रेटर कैलाश विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15647385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15647385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghonda",
+        "lang:hi": "घोंडा विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15647536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15647536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandni Chowk",
+        "lang:hi": "चांदनी चौक विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15648147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15648147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tri Nagar",
+        "lang:hi": "त्रिनगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15648149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15648149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Trilokpuri",
+        "lang:hi": "त्रिलोकपुरी विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15648776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15648776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Delhi Cantt",
+        "lang:hi": "दिल्ली कैंट"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15651350",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15651350"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patel Nagar",
+        "lang:hi": "पटेल नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15663519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15663519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ballimaran",
+        "lang:hi": "बल्लीमारान विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15664934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15664934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Babarpur",
+        "lang:hi": "बाबरपुर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15672562",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15672562"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangol Puri",
+        "lang:hi": "मंगोल पुरी विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15676692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15676692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malviya Nagar",
+        "lang:hi": "मालवीय नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15679196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15679196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Moti Nagar",
+        "lang:hi": "मोती नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15681732",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15681732"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajinder Nagar",
+        "lang:hi": "राजिंदर नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15689910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15689910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Matia Mahal",
+        "lang:hi": "मटिया महल विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15694552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15694552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rohtas Nagar",
+        "lang:hi": "रोहतास नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15694561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15694561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rohini",
+        "lang:hi": "रोहिणी विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15695324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15695324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wazirpur",
+        "lang:hi": "वज़ीरपुर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15695850",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15695850"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vishwas Nagar",
+        "lang:hi": "विश्वास नगर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15696285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15696285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shakur Basti",
+        "lang:hi": "शकूर बस्ती विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15696431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15696431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shalimar Bagh",
+        "lang:hi": "शालीमार बाग विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15696466",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15696466"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahdara",
+        "lang:hi": "शाहदरा विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15697032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15697032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sadar Bazar",
+        "lang:hi": "सदर बाज़ार विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15697588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15697588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Seemapuri",
+        "lang:hi": "सीमापुरी विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q15697593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15697593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Seelampur",
+        "lang:hi": "सीलमपुर विधानसभा निर्वाचन क्षेत्र, दिल्ली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q4741187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4741187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambedkar Nagar",
+        "lang:hi": "‎अम्बेडकर नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q4840628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4840628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badarpur",
+        "lang:hi": "बदरपुर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q4907295",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4907295"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bijwasan",
+        "lang:hi": "‎बिजवासन"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q5094803",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094803"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chhatarpur",
+        "lang:hi": "छत्तरपुर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q5259982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5259982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deoli",
+        "lang:hi": "देवली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q5317937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5317937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dwarka",
+        "lang:hi": "द्वारका"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q5657153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5657153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hari Nagar",
+        "lang:hi": "‎हरि नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q6150734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6150734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Janakpuri",
+        "lang:hi": "जनकपुरी"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6727809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madipur",
+        "lang:hi": "मादीपुर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q6787400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6787400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Matiala",
+        "lang:hi": "‎मटियाला"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q6809812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6809812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mehrauli",
+        "lang:hi": "‎महरौली"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q6959906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Najafgarh",
+        "lang:hi": "नजफ़गढ़"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q7126647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7126647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palam",
+        "lang:hi": "‎पालम"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q7286380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajouri Garden",
+        "lang:hi": "राजौरी गार्डन"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q7417795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7417795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sangam Vihar",
+        "lang:hi": "‎संगम विहार"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q7851650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7851650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tughlakabad",
+        "lang:hi": "‎तुगलकाबाद"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q7903306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7903306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Uttam Nagar",
+        "lang:hi": "उत्तम नगर"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q7929409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7929409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461612"
+      ],
+      "type": {
+        "lang:en": "constituency of the Delhi Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vikaspuri",
+        "lang:hi": "विकासपुरी"
+      },
+      "parent_id": "Q1353"
+    }
   ],
   "memberships": [
 
