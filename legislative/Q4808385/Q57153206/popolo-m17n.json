@@ -67,7 +67,2954 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018631"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Assam",
+        "lang:hi": "असम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q24703172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24703172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamunamukh"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q24850646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24850646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nalbari"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25203362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25203362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patharkandi"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dispur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jalukbari"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Majuli"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208555",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208555"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gauhati East"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gauhati West"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Moran"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kokrajhar East"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Batadroba"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dholai"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kaliabor"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Titabar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Salmara South"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mankachar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25208995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hajo"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tezpur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barhampur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sorbhog"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhemaji"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jonai"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bijni"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hojai"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lumding"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Digboi"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Doom Dooma"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sadiya"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Margherita"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tinsukia"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Haflong"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barpeta"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naharkatia"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nowgong"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amguri"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25209770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Silchar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25212207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25212207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sonai"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25212446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25212446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Goalpara West"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25241412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangaldoi"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25241434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Goalpara East"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25241435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Udharbond"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25352542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25352542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naoboicha"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q25352554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25352554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nazira"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q26789471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26789471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Golakganj"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28169250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28169250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barkhola"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28169252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28169252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katigorah"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28169336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28169336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Algapur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28171718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28171718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kokrajhar West"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28171720",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28171720"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sidli"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jaleswar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Abhayapuri South (SC)"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178735",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178735"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karimganj North"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karimganj South"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178742",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178742"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badarpur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178745",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178745"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hailakandi"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178751",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178751"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katlichera"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bokajan"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Howraghat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Diphu"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baithalangso"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhubri"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gauripur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178935",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178935"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BILASIPARA WEST"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BILASIPARA EAST"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gossaigaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bongaigaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dudhnai"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhabanipur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patacharkuchi"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jania"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baghbar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sarukhetri"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chenga"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Boko SC"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chaygaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28178988",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28178988"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palasbari"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kamalpur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rangia"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tamulpur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barkhetry"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharmapur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barama"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chapaguri"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panery"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalaigaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sipajhar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dalgaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Udalguri"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Majbat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhekiajuli"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barchalla"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rangapara"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sootea"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Biswanath"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Behali"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gohpur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jagiroad"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179088",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179088"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Marigaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Laharighat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raha"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhing"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rupohihat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179111",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179111"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Samaguri"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bokakhat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sarupathar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Golaghat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khumtai"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dergaon"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jorhat"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mariani"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Teok"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahmara"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sonari"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thowra"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sibsagar"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bihpuria"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhakuakhana"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lahowal"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179182",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179182"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Duliajan"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tingkhong"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q28179192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chabua"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q4667357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4667357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Abhayapuri North"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q55261901",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261901"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lakhipur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q55263073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55263073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lakhimpur"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q55263074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55263074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dibrugarh"
+      },
+      "parent_id": "Q1164"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q7295426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7295426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191662"
+      ],
+      "type": {
+        "lang:en": "constituency of the Assam Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ratabari"
+      },
+      "parent_id": "Q1164"
+    }
   ],
   "memberships": [
     {
