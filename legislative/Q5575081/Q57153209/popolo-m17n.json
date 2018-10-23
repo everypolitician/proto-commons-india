@@ -1,0 +1,1000 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Goa Legislative Assembly",
+        "lang:hi": "गोवा विधान सभा"
+      },
+      "id": "Q5575081",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5575081"
+        }
+      ],
+      "area_id": "Q1171",
+      "seat_counts": {
+        "Q24461695": "40"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018632"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Goa",
+        "lang:hi": "गोआ"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q25208230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25208230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mapusa"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q25241333",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241333"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panaji"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q25241382",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241382"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "St. Cruz"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q25241414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vasco Da Gama"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandrem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pernem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bicholim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tivim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Siolim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179507",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179507"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saligao"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Calangute"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Porvorim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aldona"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179523",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179523"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Taleigao"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "St. Andre"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Cumbarjua"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanquelim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Poriem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179550",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179550"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Valpoi"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Priol"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ponda"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Siroda"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Marcaim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mormugao"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dabolim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179576",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179576"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Cortalim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nuvem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Curtorim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Fatorda"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Margao"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Benaulim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Navelim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Cuncolim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Velim"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Quepem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Curchorem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanvordem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanguem"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q28179635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24461695"
+      ],
+      "type": {
+        "lang:en": "constituency of the Goa Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Canacona"
+      },
+      "parent_id": "Q1171"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

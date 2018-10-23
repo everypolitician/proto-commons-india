@@ -1,0 +1,126 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Arvind Kejriwal",
+        "lang:hi": "अरविंद केजरीवाल"
+      },
+      "id": "Q59155",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59155"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/AAPkaArvind"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Delhi",
+        "lang:hi": "दिल्ली विधान सभा"
+      },
+      "id": "Q55147400",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147400"
+        }
+      ],
+      "area_id": "Q1353"
+    },
+    {
+      "name": {
+        "lang:en": "Aam Aadmi Party",
+        "lang:hi": "आम आदमी पार्टी"
+      },
+      "id": "Q129844",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q129844"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1790154"
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:en": "Delhi",
+        "lang:hi": "दिल्ली"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59155-cc6e7753-4ce2-136f-370d-182b9f1bf1ff",
+      "person_id": "Q59155",
+      "on_behalf_of_id": "Q129844",
+      "organization_id": "Q55147400",
+      "area_id": "Q1353",
+      "start_date": "2015-02-14",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q1790154",
+      "role": {
+        "lang:en": "Chief Minister of Delhi",
+        "lang:hi": "दिल्ली के मुख्यमंत्री"
+      }
+    }
+  ]
+}

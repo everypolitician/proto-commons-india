@@ -1,0 +1,122 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Prem Kumar Dhumal",
+        "lang:hi": "प्रेम कुमार धूमल"
+      },
+      "id": "Q3520354",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3520354"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश विधान सभा"
+      },
+      "id": "Q55147377",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147377"
+        }
+      ],
+      "area_id": "Q1177"
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018635"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3520354-1D1BF843-0DB8-425F-8090-B190F654AA78",
+      "person_id": "Q3520354",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147377",
+      "area_id": "Q1177",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018635",
+      "role": {
+        "lang:en": "Chief Minister of Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश के मुख्यमंत्री"
+      }
+    }
+  ]
+}

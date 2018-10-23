@@ -1,0 +1,1820 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mukesh Singh Koli"
+      },
+      "id": "Q57264919",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q57264919"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Uttarakhand Legislative Assembly",
+        "lang:hi": "उत्तराखण्ड विधानसभा"
+      },
+      "id": "Q664403",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q664403"
+        }
+      ],
+      "area_id": "Q1499",
+      "seat_counts": {
+        "Q18055681": "71"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018653"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Uttarakhand",
+        "lang:hi": "उत्तराखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q15889312",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15889312"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dehradun Cantt.",
+        "lang:hi": "देहरादून कैंट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q15922514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15922514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Purola (SC)",
+        "lang:hi": "पुरोला विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Almora",
+        "lang:hi": "अल्मोड़ा विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rishikesh",
+        "lang:hi": "ऋषिकेश विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karnprayag",
+        "lang:hi": "कर्णप्रयाग विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kaladhungi",
+        "lang:hi": "कालाढूँगी विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kashipur",
+        "lang:hi": "काशीपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kichha",
+        "lang:hi": "किच्छा विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kedarnath",
+        "lang:hi": "केदारनाथ विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kotdwar",
+        "lang:hi": "कोटद्वार विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khatima",
+        "lang:hi": "खटीमा विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035129",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035129"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khanpur",
+        "lang:hi": "खानपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035135",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035135"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gangotri",
+        "lang:hi": "गंगोत्री विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035137",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035137"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gangolihat (SC)",
+        "lang:hi": "गंगोलीहाट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gadarpur",
+        "lang:hi": "गदरपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghanshali (SC)",
+        "lang:hi": "घनशाली विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chakrata (ST)",
+        "lang:hi": "चकराता विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Champawat",
+        "lang:hi": "चम्पावत विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chaubattakhal",
+        "lang:hi": "चौबट्टाखाल विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jaspur",
+        "lang:hi": "जसपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jageshwar",
+        "lang:hi": "जागेश्वर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jwalapur (SC)",
+        "lang:hi": "ज्वालापुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhabrera (SC)",
+        "lang:hi": "झबरेड़ा विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tehri",
+        "lang:hi": "टिहरी विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Doiwala",
+        "lang:hi": "डोईवाला विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tharali (SC)",
+        "lang:hi": "थराली विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Didihat",
+        "lang:hi": "दीदीहाट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035224",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035224"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deoprayag",
+        "lang:hi": "देवप्रयाग विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dwarahat",
+        "lang:hi": "द्वाराहाट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhanolti",
+        "lang:hi": "धनोल्टी विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharchula",
+        "lang:hi": "धारचूला विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narendranagar",
+        "lang:hi": "नरेन्द्र नगर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nanak Matta (ST",
+        "lang:hi": "नानकमत्ता विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nainital (SC)",
+        "lang:hi": "नैनीताल विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pithoragarh",
+        "lang:hi": "पिथौरागढ़ विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pirankaliyar",
+        "lang:hi": "पिरान कलियर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pauri (SC)",
+        "lang:hi": "पौड़ी विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pratapnagar",
+        "lang:hi": "प्रतापनगर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16035298",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16035298"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badrinath",
+        "lang:hi": "बद्रीनाथ विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bajpur (SC)",
+        "lang:hi": "बाजपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhagwanpur (SC)",
+        "lang:hi": "भगवानपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhimtal",
+        "lang:hi": "भीमताल विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "B.H.E.L. Ranipu",
+        "lang:hi": "भेल रानीपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manglaur",
+        "lang:hi": "मंगलौर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271538",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271538"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mussoorie",
+        "lang:hi": "मसूरी विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271539",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271539"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yamkeshwar",
+        "lang:hi": "यमकेश्वर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yamunotri",
+        "lang:hi": "यमुनोत्री विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajpur Road (SC",
+        "lang:hi": "राजपुर रोड विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271542",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271542"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ranikhet",
+        "lang:hi": "रानीखेत विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramnagar",
+        "lang:hi": "रामनगर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271544",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271544"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raipur",
+        "lang:hi": "रायपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Roorkee",
+        "lang:hi": "रुड़की विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271546",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271546"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rudrapur",
+        "lang:hi": "रुद्रपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rudraprayag",
+        "lang:hi": "रूद्रप्रयाग विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271548",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271548"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Laksar",
+        "lang:hi": "लक्सर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271550",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271550"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lalkuwa",
+        "lang:hi": "लालकुआँ विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271551",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271551"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lansdowne",
+        "lang:hi": "लैंसडाउन विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lohaghat",
+        "lang:hi": "लोहाघाट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vikasnagar",
+        "lang:hi": "विकासनगर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Srinagar",
+        "lang:hi": "श्रीनगर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Salt",
+        "lang:hi": "सल्ट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sahaspur",
+        "lang:hi": "सहसपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sitarganj",
+        "lang:hi": "सितारगंज विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Someshwar (SC)",
+        "lang:hi": "सोमेश्वर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hardwar Rural",
+        "lang:hi": "हरिद्वार ग्रामीण विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hardwar",
+        "lang:hi": "हरिद्वार विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q16271568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16271568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Haldwani",
+        "lang:hi": "हल्द्वानी विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q25624095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25624095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kapkote",
+        "lang:hi": "कपकोट विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q28169152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28169152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharampur",
+        "lang:hi": "धर्मपुर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q39070290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q39070290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055681"
+      ],
+      "type": {
+        "lang:en": "constituency of the Uttarakhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bageshwar (SC)",
+        "lang:hi": "बागेश्वर विधानसभा निर्वाचन क्षेत्र, उत्तराखण्ड"
+      },
+      "parent_id": "Q1499"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57264919-DF288D7E-D2B6-4EF3-AC55-0A94192315C0",
+      "person_id": "Q57264919",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q664403",
+      "area_id": "Q16035282",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q18055681",
+      "role": {
+        "lang:en": "Member of the Uttarakhand Legislative Assembly",
+        "lang:hi": "उत्तराखंड विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q57264919-DF288D7E-D2B6-4EF3-AC55-0A94192315C0",
+      "person_id": "Q57264919",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q664403",
+      "area_id": "Q16035282",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q18055681",
+      "role": {
+        "lang:en": "Member of the Uttarakhand Legislative Assembly",
+        "lang:hi": "उत्तराखंड विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

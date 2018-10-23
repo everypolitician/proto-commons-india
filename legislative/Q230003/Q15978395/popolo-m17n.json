@@ -10412,6 +10412,31 @@
   ],
   "areas": [
     {
+      "id": "Q1061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22337580"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Gujarat",
+        "lang:hi": "गुजरात"
+      },
+      "parent_id": "Q668"
+    },
+    {
       "id": "Q11031937",
       "identifiers": [
         {
@@ -10431,10 +10456,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सलेमपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सलेमपुर",
         "lang:en": "Salempur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q11032972",
@@ -10456,10 +10481,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कानपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कानपुर",
         "lang:en": "Kanpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q11059079",
@@ -10481,10 +10506,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "क्योंझर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "क्योंझर",
         "lang:en": "Keonjhar"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q11222818",
@@ -10506,10 +10531,110 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राजकोट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राजकोट",
         "lang:en": "Rajkot"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q1159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ap"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1813083"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Andhra Pradesh",
+        "lang:hi": "आन्ध्र प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018630"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Arunachal Pradesh",
+        "lang:hi": "अरुणाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018631"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Assam",
+        "lang:hi": "असम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55020138"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Bihar",
+        "lang:hi": "बिहार"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q11679513",
@@ -10531,10 +10656,310 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कंधमाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कंधमाल",
         "lang:en": "Kandhamal"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
+    },
+    {
+      "id": "Q1168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38772867"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ga"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018632"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Goa",
+        "lang:hi": "गोआ"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018634"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Haryana",
+        "lang:hi": "हरियाणा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018635"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38882023"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Jammu and Kashmir",
+        "lang:hi": "जम्मू और कश्मीर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018637"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Jharkhand",
+        "lang:hi": "झारखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53761260"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Karnataka",
+        "lang:hi": "कर्नाटक"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:kl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26218416"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Kerala",
+        "lang:hi": "केरल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018639"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Madhya Pradesh",
+        "lang:hi": "मध्य प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q221922"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Maharashtra",
+        "lang:hi": "महाराष्ट्र"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018640"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Manipur",
+        "lang:hi": "मणिपुर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018641"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Meghalaya",
+        "lang:hi": "मेघालय"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q12413298",
@@ -10556,10 +10981,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अट्टिंगल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अट्टिंगल",
         "lang:en": "Attingal"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q12416142",
@@ -10581,10 +11006,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उत्तर गोवा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उत्तर गोवा",
         "lang:en": "North Goa"
       },
-      "parent_id": null
+      "parent_id": "Q1171"
     },
     {
       "id": "Q12418036",
@@ -10606,10 +11031,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कन्नौज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कन्नौज",
         "lang:en": "Kannauj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q12418045",
@@ -10631,10 +11056,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कन्याकुमारी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कन्याकुमारी",
         "lang:en": "Kanyakumari"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q12418918",
@@ -10656,10 +11081,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कांकेर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कांकेर",
         "lang:en": "Kanker"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q12418931",
@@ -10681,10 +11106,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कांचीपुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कांचीपुरम",
         "lang:en": "Kancheepuram"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q12419668",
@@ -10706,10 +11131,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "किशनगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "किशनगंज",
         "lang:en": "Kishanganj"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q12420304",
@@ -10731,10 +11156,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कुशीनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कुशीनगर",
         "lang:en": "Kushi Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q12420818",
@@ -10756,10 +11181,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कैराना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कैराना",
         "lang:en": "Kairana"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q12423118",
@@ -10781,10 +11206,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गढ़चिरौली-चिमूर (लोक सभा निर्वाचन क्षेत्र)",
+        "lang:hi": "गढ़चिरौली-चिमूर",
         "lang:en": "Gadchiroli-Chimur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q12424329",
@@ -10806,10 +11231,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गोंडा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गोंडा",
         "lang:en": "Gonda"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q12428079",
@@ -10831,10 +11256,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जमुई लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जमुई",
         "lang:en": "Jamui"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q12428505",
@@ -10856,10 +11281,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जहानाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जहानाबाद",
         "lang:en": "Jahanabad"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q12428678",
@@ -10884,7 +11309,7 @@
         "lang:hi": "यादवपुर",
         "lang:en": "Jadavpur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q12433303",
@@ -10906,10 +11331,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दमोह लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दमोह",
         "lang:en": "Damoh"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q12434696",
@@ -10931,10 +11356,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धौरहरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धौरहरा",
         "lang:en": "Dhaurahra"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q12446106",
@@ -10956,10 +11381,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "महासमुन्द लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "महासमुन्द",
         "lang:en": "Mahasamund"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q12446954",
@@ -10981,10 +11406,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुंबई - दक्षिण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुंबई - दक्षिण",
         "lang:en": "Mumbai South"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q12447565",
@@ -11006,10 +11431,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मेरठ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मेरठ",
         "lang:en": "Meerut"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q12448769",
@@ -11031,10 +11456,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रत्नागिरि-सिंधुदुर्ग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रत्नागिरि-सिंधुदुर्ग",
         "lang:en": "Ratnagiri-Sindhudurg"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q12449852",
@@ -11056,10 +11481,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रायगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रायगंज",
         "lang:en": "Raiganj"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q12449885",
@@ -11081,10 +11506,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रायपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रायपुर",
         "lang:en": "Raipur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q12453868",
@@ -11106,10 +11531,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शहडोल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शहडोल",
         "lang:en": "Shahdol"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q12455246",
@@ -11134,7 +11559,7 @@
         "lang:hi": "सतना",
         "lang:en": "Satna"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q12457988",
@@ -11156,10 +11581,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सुपौल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सुपौल",
         "lang:en": "Supaul"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q12460207",
@@ -11181,10 +11606,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हातकणंगले लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हातकणंगले",
         "lang:en": "Hatkanangle"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q12460611",
@@ -11206,10 +11631,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हिसार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हिसार",
         "lang:en": "Hisar"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q12460669",
@@ -11231,10 +11656,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हुगली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हुगली",
         "lang:en": "Hooghly"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q13118215",
@@ -11259,7 +11684,7 @@
         "lang:hi": "नई दिल्ली लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "New Delhi"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q13512172",
@@ -11281,10 +11706,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोल्हापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोल्हापुर",
         "lang:en": "Kolhapur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q13512175",
@@ -11306,10 +11731,235 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खीरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खीरी",
         "lang:en": "Kheri"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
+    },
+    {
+      "id": "Q1353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1790154"
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:en": "Delhi",
+        "lang:hi": "दिल्ली"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018654"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "West Bengal",
+        "lang:hi": "पश्चिम बंगाल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018652"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Tripura",
+        "lang:hi": "त्रिपुरा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018649"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Rajasthan",
+        "lang:hi": "राजस्थान"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24040821"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Tamil Nadu",
+        "lang:hi": "तमिल नाडु"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:up"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28966983"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Uttar Pradesh",
+        "lang:hi": "उत्तर प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ut"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018653"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Uttarakhand",
+        "lang:hi": "उत्तराखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018647"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Mizoram",
+        "lang:hi": "मिज़ोरम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q1505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018650"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Sikkim",
+        "lang:hi": "सिक्किम"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q15649259",
@@ -11331,10 +11981,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "देवास लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "देवास",
         "lang:en": "Dewas"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q1599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:nl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018648"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Nagaland",
+        "lang:hi": "नागालैण्ड"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q1606595",
@@ -11356,10 +12031,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नौगांव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नौगांव",
         "lang:en": "Nowgong"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606606",
@@ -11381,10 +12056,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बारपेटा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बारपेटा",
         "lang:en": "Barpeta"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606616",
@@ -11406,10 +12081,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धुबरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धुबरी",
         "lang:en": "Dhubri"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606626",
@@ -11431,10 +12106,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सिल्चर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सिल्चर",
         "lang:en": "Silchar"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606633",
@@ -11456,10 +12131,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गुवाहाटी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गुवाहाटी",
         "lang:en": "Gauhati"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606642",
@@ -11481,10 +12156,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कलियाबोर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कलियाबोर",
         "lang:en": "Kaliabor"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606654",
@@ -11506,10 +12181,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मंगलदोई लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मंगलदोई",
         "lang:en": "Mangaldoi"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606665",
@@ -11531,10 +12206,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "करीमगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "करीमगंज",
         "lang:en": "Karimganj"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606670",
@@ -11556,10 +12231,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोकराझार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोकराझार",
         "lang:en": "Kokrajhar"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606679",
@@ -11581,10 +12256,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "स्वशासी जिला-असम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "स्वशासी जिला-असम",
         "lang:en": "Autonomous District"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606690",
@@ -11606,10 +12281,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "डिब्रुगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "डिब्रुगढ़",
         "lang:en": "Dibrugarh"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1606703",
@@ -11631,10 +12306,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तेजपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तेजपुर",
         "lang:en": "Tezpur"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q1609659",
@@ -11656,10 +12331,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लखीमपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लखीमपुर",
         "lang:en": "Lakhimpur"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q16193457",
@@ -11681,10 +12356,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आज़मगढ़ लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Azamgarh (Lok Sabha constituency)"
+        "lang:hi": "आज़मगढ़",
+        "lang:en": "Azamgarh"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q1659299",
@@ -11706,10 +12381,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मिज़ोरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मिज़ोरम",
         "lang:en": "Mizoram"
       },
-      "parent_id": null
+      "parent_id": "Q1502"
     },
     {
       "id": "Q1659305",
@@ -11731,10 +12406,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अरुणाचल पश्चिम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अरुणाचल पश्चिम",
         "lang:en": "Arunachal West"
       },
-      "parent_id": null
+      "parent_id": "Q1162"
     },
     {
       "id": "Q1659313",
@@ -11756,10 +12431,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नागालैंड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नागालैंड",
         "lang:en": "Nagaland"
       },
-      "parent_id": null
+      "parent_id": "Q1599"
     },
     {
       "id": "Q1659321",
@@ -11781,10 +12456,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सिक्किम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सिक्किम",
         "lang:en": "Sikkim"
       },
-      "parent_id": null
+      "parent_id": "Q1505"
     },
     {
       "id": "Q1659329",
@@ -11806,10 +12481,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अरुणाचल पूर्व लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अरुणाचल पूर्व",
         "lang:en": "Arunachal East"
       },
-      "parent_id": null
+      "parent_id": "Q1162"
     },
     {
       "id": "Q1780136",
@@ -11831,10 +12506,60 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बांदा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बांदा",
         "lang:en": "Banda"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
+    },
+    {
+      "id": "Q22048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:or"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q39271481"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Odisha",
+        "lang:hi": "ओडिशा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q22424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1516776"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Punjab",
+        "lang:hi": "पंजाब"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q255234",
@@ -11856,10 +12581,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सरगुजा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सरगुजा",
         "lang:en": "Surguja"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q26927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:ld"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q26927"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:hi": "लक्षद्वीप",
+        "lang:en": "Lakshadweep"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q2738086",
@@ -11881,10 +12631,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उस्मानाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उस्मानाबाद",
         "lang:en": "Osmanabad"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q2738103",
@@ -11906,10 +12656,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अहमदनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अहमदनगर",
         "lang:en": "Ahmednagar"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q279102",
@@ -11931,10 +12681,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खरगोन लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खरगोन",
         "lang:en": "Khargone"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q2912408",
@@ -11956,10 +12706,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चन्द्रपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चन्द्रपुर",
         "lang:en": "Chandrapur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q2912894",
@@ -11981,10 +12731,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हिंगोली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हिंगोली",
         "lang:en": "Hingoli"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3348171",
@@ -12006,10 +12756,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोलकाता दक्षिण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोलकाता दक्षिण",
         "lang:en": "Kolkata Dakshin"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3348198",
@@ -12031,10 +12781,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जलपाईगुड़ी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जलपाईगुड़ी",
         "lang:en": "Jalpaiguri"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3348210",
@@ -12056,10 +12806,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उलूबेरिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उलूबेरिया",
         "lang:en": "Uluberia"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3348243",
@@ -12081,10 +12831,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हावड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हावड़ा",
         "lang:en": "Howrah"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3351410",
@@ -12106,10 +12856,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कांथी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कांथी",
         "lang:en": "Kanthi"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3351420",
@@ -12131,10 +12881,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कूचबिहार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कूचबिहार",
         "lang:en": "Cooch Behar"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3351485",
@@ -12156,10 +12906,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तामलुक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तामलुक",
         "lang:en": "Tamluk"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q3521014",
@@ -12181,10 +12931,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बेल्लारी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बेल्लारी",
         "lang:en": "Bellary"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q3530684",
@@ -12206,10 +12956,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अण्डमान और निकोबार द्वीपसमूह लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अण्डमान और निकोबार द्वीपसमूह",
         "lang:en": "Andaman and Nicobar Islands"
       },
-      "parent_id": null
+      "parent_id": "Q40888"
     },
     {
       "id": "Q3532420",
@@ -12231,10 +12981,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरुचिरापल्ली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरुचिरापल्ली",
         "lang:en": "Tiruchirappalli"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532431",
@@ -12256,10 +13006,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चेन्नई दक्षिण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चेन्नई दक्षिण",
         "lang:en": "Chennai South"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532436",
@@ -12281,10 +13031,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धर्मपुरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धर्मपुरी",
         "lang:en": "Dharmapuri"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532474",
@@ -12306,10 +13056,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चेन्नई मध्य लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चेन्नई मध्य",
         "lang:en": "Chennai Central"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532480",
@@ -12331,10 +13081,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "करूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "करूर",
         "lang:en": "Karur"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532492",
@@ -12356,10 +13106,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रामनाथपुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रामनाथपुरम",
         "lang:en": "Ramanathapuram"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532545",
@@ -12381,10 +13131,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चेन्नई उत्तर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चेन्नई उत्तर",
         "lang:en": "Chennai North"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532551",
@@ -12406,10 +13156,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विलुपुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विलुपुरम",
         "lang:en": "Viluppuram"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532557",
@@ -12431,10 +13181,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पुदुच्चेरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पुदुच्चेरी",
         "lang:en": "Puducherry"
       },
-      "parent_id": null
+      "parent_id": "Q66743"
     },
     {
       "id": "Q3532565",
@@ -12456,10 +13206,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "डिंडीगुल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "डिंडीगुल",
         "lang:en": "Dindigul"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532569",
@@ -12481,10 +13231,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सेलम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सेलम",
         "lang:en": "Salem"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3532578",
@@ -12506,10 +13256,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तेनकासी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तेनकासी",
         "lang:en": "Tenkasi"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3533589",
@@ -12531,10 +13281,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अरानी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अरानी",
         "lang:en": "Arani"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3533967",
@@ -12556,10 +13306,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नागापट्टिनम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नागापट्टिनम",
         "lang:en": "Nagapattinam"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3533974",
@@ -12581,10 +13331,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चिदंबरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चिदंबरम",
         "lang:en": "Chidambaram"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3533981",
@@ -12606,10 +13356,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरुनेलवेली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरुनेलवेली",
         "lang:en": "Tirunelveli"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534013",
@@ -12631,10 +13381,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मदुरै लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मदुरै",
         "lang:en": "Madurai"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534043",
@@ -12656,10 +13406,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कृष्णागिरि लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कृष्णागिरि",
         "lang:en": "Krishnagiri"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534088",
@@ -12681,10 +13431,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अर्कोनम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अर्कोनम",
         "lang:en": "Arakkonam"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534098",
@@ -12706,10 +13456,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वेल्लौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वेल्लौर",
         "lang:en": "Vellore"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534106",
@@ -12731,10 +13481,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मयिलादुतुरई लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मयिलादुतुरई",
         "lang:en": "Mayiladuturai"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534118",
@@ -12756,10 +13506,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोयम्बटूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोयम्बटूर",
         "lang:en": "Coimbatore"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534127",
@@ -12781,10 +13531,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विरुधुनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विरुधुनगर",
         "lang:en": "Virudhunagar"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534136",
@@ -12806,10 +13556,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिवगंगा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शिवगंगा",
         "lang:en": "Sivaganga"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534177",
@@ -12831,10 +13581,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नीलगिरि लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नीलगिरि",
         "lang:en": "Nilgiris"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534197",
@@ -12856,10 +13606,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "श्रीपेरूम्बुदूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "श्रीपेरूम्बुदूर",
         "lang:en": "Sriperumbudur"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534206",
@@ -12881,10 +13631,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "थूथुक्कुडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "थूथुक्कुडी",
         "lang:en": "Thoothukudi"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534214",
@@ -12906,10 +13656,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पैरम्बलूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पैरम्बलूर",
         "lang:en": "Perambalur"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534217",
@@ -12931,10 +13681,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पोल्लाची लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पोल्लाची",
         "lang:en": "Pollachi"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534221",
@@ -12956,10 +13706,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कुड्डालोर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कुड्डालोर",
         "lang:en": "Cuddalore"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3534230",
@@ -12981,10 +13731,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तंजावूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तंजावूर",
         "lang:en": "Thanjavur"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q3595199",
@@ -13006,10 +13756,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "त्रिस्सूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "त्रिस्सूर",
         "lang:en": "Thrissur"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595235",
@@ -13031,10 +13781,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पोन्नानी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पोन्नानी",
         "lang:en": "Ponnani"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595239",
@@ -13056,10 +13806,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोष़िक्कोड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोष़िक्कोड",
         "lang:en": "Kozhikode"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595248",
@@ -13081,10 +13831,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चालाकुडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चालाकुडी",
         "lang:en": "Chalakudy"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595257",
@@ -13106,10 +13856,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कासरगोड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कासरगोड",
         "lang:en": "Kasaragod"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595261",
@@ -13131,10 +13881,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कन्नूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कन्नूर",
         "lang:en": "Kannur"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595264",
@@ -13156,10 +13906,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वडकरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वडकरा",
         "lang:en": "Vadakara"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595286",
@@ -13181,10 +13931,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोल्लम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोल्लम",
         "lang:en": "Kollam"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595483",
@@ -13206,10 +13956,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मवेलीकारा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मवेलीकारा",
         "lang:en": "Mavelikara"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595497",
@@ -13231,10 +13981,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "एर्णाकुलम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "एर्णाकुलम",
         "lang:en": "Ernakulam"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595503",
@@ -13256,10 +14006,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "इदुक्की लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "इदुक्की",
         "lang:en": "Idukki"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595510",
@@ -13281,10 +14031,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अलप्पुझा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अलप्पुझा",
         "lang:en": "Alappuzha"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595511",
@@ -13306,10 +14056,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पलक्काड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पलक्काड",
         "lang:en": "Palakkad"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3595519",
@@ -13331,10 +14081,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोट्टायम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोट्टायम",
         "lang:en": "Kottayam"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q3630009",
@@ -13356,10 +14106,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नगर कुरनूल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नगर कुरनूल",
         "lang:en": "Nagarkurnool"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3630014",
@@ -13381,10 +14131,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अदीलाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अदीलाबाद",
         "lang:en": "Adilabad"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3630032",
@@ -13406,10 +14156,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बापतला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बापतला",
         "lang:en": "Bapatla"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3630204",
@@ -13431,10 +14181,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अमलापुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अमलापुरम",
         "lang:en": "Amalapuram"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3630208",
@@ -13458,7 +14208,7 @@
       "name": {
         "lang:en": "Mahabubnagar"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3630236",
@@ -13480,10 +14230,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अनकापल्ली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अनकापल्ली",
         "lang:en": "Anakapalli"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3630239",
@@ -13505,10 +14255,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अनन्तपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अनन्तपुर",
         "lang:en": "Anantapuramu"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3630669",
@@ -13530,10 +14280,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुजफ्फरनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुजफ्फरनगर",
         "lang:en": "Muzaffarnagar"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3630705",
@@ -13555,10 +14305,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वाराणसी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वाराणसी",
         "lang:en": "Varanasi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3630725",
@@ -13580,10 +14330,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उज्जैन लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उज्जैन",
         "lang:en": "Ujjain"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3630763",
@@ -13605,10 +14355,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मण्डला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मण्डला",
         "lang:en": "Mandla"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3630783",
@@ -13630,10 +14380,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सीतापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सीतापुर",
         "lang:en": "Sitapur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3632253",
@@ -13655,10 +14405,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राजगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राजगढ़",
         "lang:en": "Rajgarh"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3632303",
@@ -13680,10 +14430,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सिंहभूम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सिंहभूम",
         "lang:en": "Singhbhum"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q3632585",
@@ -13705,10 +14455,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हजारीबाग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हजारीबाग",
         "lang:en": "Hazaribagh"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q3632592",
@@ -13730,10 +14480,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अल्मोड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अल्मोड़ा",
         "lang:en": "Almora"
       },
-      "parent_id": null
+      "parent_id": "Q1499"
     },
     {
       "id": "Q3632604",
@@ -13755,10 +14505,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आरा",
         "lang:en": "Arrah"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3632618",
@@ -13780,10 +14530,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गढ़वाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गढ़वाल",
         "lang:en": "Garhwal"
       },
-      "parent_id": null
+      "parent_id": "Q1499"
     },
     {
       "id": "Q3632662",
@@ -13805,10 +14555,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दुर्ग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दुर्ग",
         "lang:en": "Durg"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q3632686",
@@ -13830,10 +14580,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पलामू लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पलामू",
         "lang:en": "Palamu"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q3632704",
@@ -13855,10 +14605,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मधुबनी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मधुबनी",
         "lang:en": "Madhubani"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3632717",
@@ -13880,10 +14630,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अररिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अररिया",
         "lang:en": "Araria"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633068",
@@ -13905,10 +14655,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अराकु लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अराकु",
         "lang:en": "Araku"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3633148",
@@ -13930,10 +14680,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हाजीपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हाजीपुर",
         "lang:en": "Hajipur"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633170",
@@ -13955,10 +14705,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गया",
         "lang:en": "Gaya"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633217",
@@ -13980,10 +14730,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गोपालगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गोपालगंज",
         "lang:en": "Gopalganj"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633242",
@@ -14005,10 +14755,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुंगेर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुंगेर",
         "lang:en": "Munger"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633257",
@@ -14030,10 +14780,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भागलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भागलपुर",
         "lang:en": "Bhagalpur"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633289",
@@ -14055,10 +14805,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कटिहार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कटिहार",
         "lang:en": "Katihar"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633305",
@@ -14080,10 +14830,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुजफ्फरपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुजफ्फरपुर",
         "lang:en": "Muzaffarpur"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633316",
@@ -14105,10 +14855,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अकबरपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अकबरपुर",
         "lang:en": "Akbarpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3633321",
@@ -14130,10 +14880,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नवादा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नवादा",
         "lang:en": "Nawada"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633352",
@@ -14155,10 +14905,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बागपत लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बागपत",
         "lang:en": "Baghpat"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3633377",
@@ -14180,10 +14930,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सासाराम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सासाराम",
         "lang:en": "Sasaram"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633391",
@@ -14205,10 +14955,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बिजनौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बिजनौर",
         "lang:en": "Bijnor"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3633418",
@@ -14230,10 +14980,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अमरोहा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अमरोहा",
         "lang:en": "Amroha"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3633423",
@@ -14255,10 +15005,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पूर्णिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पूर्णिया",
         "lang:en": "Purnia"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q3633461",
@@ -14280,10 +15030,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बाराबंकी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बाराबंकी",
         "lang:en": "Barabanki"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3633465",
@@ -14305,10 +15055,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बालाघाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बालाघाट",
         "lang:en": "Balaghat"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634165",
@@ -14330,10 +15080,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "ग्वालियर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "ग्वालियर",
         "lang:en": "Gwalior"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634168",
@@ -14355,10 +15105,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गुना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गुना",
         "lang:en": "Guna"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634171",
@@ -14380,10 +15130,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "झांसी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "झांसी",
         "lang:en": "Jhansi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3634176",
@@ -14405,10 +15155,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "देवरिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "देवरिया",
         "lang:en": "Deoria"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3634185",
@@ -14430,10 +15180,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धार",
         "lang:en": "Dhar"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634190",
@@ -14455,10 +15205,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बुलन्दशहर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बुलन्दशहर",
         "lang:en": "Bulandshahr"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3634194",
@@ -14480,10 +15230,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "इन्दौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "इन्दौर",
         "lang:en": "Indore"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634204",
@@ -14505,10 +15255,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कैसरगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कैसरगंज",
         "lang:en": "Kaiserganj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3634216",
@@ -14530,10 +15280,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खंडवा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खंडवा",
         "lang:en": "Khandwa"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634234",
@@ -14555,10 +15305,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मथुरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मथुरा",
         "lang:en": "Mathura"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3634240",
@@ -14580,10 +15330,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "होशंगाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "होशंगाबाद",
         "lang:en": "Hoshangabad"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634246",
@@ -14605,10 +15355,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भिण्ड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भिण्ड",
         "lang:en": "Bhind"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3634262",
@@ -14630,10 +15380,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "एटा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "एटा",
         "lang:en": "Etah"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3634359",
@@ -14655,10 +15405,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खजुराहो लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खजुराहो",
         "lang:en": "Khajuraho"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q3635773",
@@ -14680,10 +15430,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुरादाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुरादाबाद",
         "lang:en": "Moradabad"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3663904",
@@ -14705,10 +15455,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुरैना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुरैना",
         "lang:en": "Morena"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q371869",
@@ -14730,10 +15480,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अलीगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अलीगढ़",
         "lang:en": "Aligarh"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3763762",
@@ -14755,10 +15505,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिरडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शिरडी",
         "lang:en": "Shirdi"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3763786",
@@ -14780,10 +15530,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "औरंगाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "औरंगाबाद",
         "lang:en": "Aurangabad"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3763828",
@@ -14805,10 +15555,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "परभनी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "परभनी",
         "lang:en": "Parbhani"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3763840",
@@ -14830,10 +15580,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कुरनूल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कुरनूल",
         "lang:en": "Kurnool"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3763879",
@@ -14855,10 +15605,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नरसापुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नरसापुरम",
         "lang:en": "Narsapuram"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3763885",
@@ -14880,10 +15630,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चित्तूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चित्तूर",
         "lang:en": "Chittoor"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3763891",
@@ -14905,10 +15655,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सतारा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सतारा",
         "lang:en": "Satara"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3763938",
@@ -14930,10 +15680,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वारंगल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वारंगल",
         "lang:en": "Warangal"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3763943",
@@ -14955,10 +15705,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कल्याण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कल्याण",
         "lang:en": "Kalyan"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3763969",
@@ -14980,10 +15730,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नालगौंडा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नालगौंडा",
         "lang:en": "Nalgonda"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3763974",
@@ -15005,10 +15755,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विशाखापत्तनम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विशाखापत्तनम",
         "lang:en": "Visakhapatnam"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764021",
@@ -15030,10 +15780,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नांदेड़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नांदेड़",
         "lang:en": "Nanded"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764026",
@@ -15055,10 +15805,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "ओंगोले लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "ओंगोले",
         "lang:en": "Ongole"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764036",
@@ -15080,10 +15830,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मेडक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मेडक",
         "lang:en": "Medak"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764050",
@@ -15105,10 +15855,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "काकीनाड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "काकीनाड़ा",
         "lang:en": "Kakinada"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764062",
@@ -15130,10 +15880,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "एलूरू लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "एलूरू",
         "lang:en": "Eluru"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764091",
@@ -15155,10 +15905,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खम्माम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खम्माम",
         "lang:en": "Khammam"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764307",
@@ -15180,10 +15930,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हैदराबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हैदराबाद",
         "lang:en": "Hyderabad"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764327",
@@ -15205,10 +15955,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सिकन्दराबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सिकन्दराबाद",
         "lang:en": "Secunderabad"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764335",
@@ -15230,10 +15980,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "निजामाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "निजामाबाद",
         "lang:en": "Nizamabad"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764342",
@@ -15255,10 +16005,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राजामुन्दरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राजामुन्दरी",
         "lang:en": "Rajahmundry"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764353",
@@ -15280,10 +16030,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "करीमनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "करीमनगर",
         "lang:en": "Karimnagar"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764361",
@@ -15305,10 +16055,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रामटेक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रामटेक",
         "lang:en": "Ramtek"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764367",
@@ -15330,10 +16080,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नांदयाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नांदयाल",
         "lang:en": "Nandyal"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764387",
@@ -15355,10 +16105,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बनासकांठा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बनासकांठा",
         "lang:en": "Banaskantha"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q3764391",
@@ -15380,10 +16130,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अकोला (लोक सभा निर्वाचन क्षेत्र)",
-        "lang:en": "Akola (Lok Sabha Constituency)"
+        "lang:hi": "अकोला",
+        "lang:en": "Akola"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764398",
@@ -15405,10 +16155,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बारामती लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बारामती",
         "lang:en": "Baramati"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764405",
@@ -15430,10 +16180,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कडापा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कडापा",
         "lang:en": "Kadapa"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764410",
@@ -15455,10 +16205,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गुंटूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गुंटूर",
         "lang:en": "Guntur"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764429",
@@ -15480,10 +16230,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हिन्दुपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हिन्दुपुर",
         "lang:en": "Hindupur"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764433",
@@ -15505,10 +16255,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भन्डारा गोंदिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भन्डारा गोंदिया",
         "lang:en": "Bhandara-Gondiya"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764439",
@@ -15530,10 +16280,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शोलापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शोलापुर",
         "lang:en": "Solapur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764443",
@@ -15555,10 +16305,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नरसारावपेट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नरसारावपेट",
         "lang:en": "Narasaraopet"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764455",
@@ -15580,10 +16330,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नागपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नागपुर",
         "lang:en": "Nagpur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764461",
@@ -15605,10 +16355,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लातूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लातूर",
         "lang:en": "Latur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764468",
@@ -15630,10 +16380,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अहमदाबाद पश्चिम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अहमदाबाद पश्चिम",
         "lang:en": "Ahmedabad West"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q3764476",
@@ -15658,7 +16408,7 @@
         "lang:hi": "राजमपेट",
         "lang:en": "Rajampet"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764479",
@@ -15680,10 +16430,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वर्धा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वर्धा",
         "lang:en": "Wardha"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764487",
@@ -15705,10 +16455,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "श्रीकाकुलम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "श्रीकाकुलम",
         "lang:en": "Srikakulam"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764491",
@@ -15730,10 +16480,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अमरावती लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अमरावती",
         "lang:en": "Amravati"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q3764496",
@@ -15755,10 +16505,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पेड्डापल्ले लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पेड्डापल्ले",
         "lang:en": "Peddapalli"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q3764509",
@@ -15780,10 +16530,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नेल्लौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नेल्लौर",
         "lang:en": "Nellore"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3764514",
@@ -15805,10 +16555,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरुपति लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरुपति",
         "lang:en": "Tirupati"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3765227",
@@ -15830,10 +16580,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अमरेली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अमरेली",
         "lang:en": "Amreli"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q3765236",
@@ -15855,10 +16605,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विजयवाड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विजयवाड़ा",
         "lang:en": "Vijayawada"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3765244",
@@ -15880,10 +16630,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मछलीपत्तनम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मछलीपत्तनम",
         "lang:en": "Machilipatnam"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q3823603",
@@ -15905,10 +16655,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मोहनलाल गंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मोहनलाल गंज",
         "lang:en": "Mohanlalganj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q3883318",
@@ -15930,10 +16680,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बीदर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बीदर",
         "lang:en": "Bidar"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q3939251",
@@ -15955,10 +16705,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चिक्कोडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चिक्कोडी",
         "lang:en": "Chikkodi"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q3995921",
@@ -15980,10 +16730,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बेलगाम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बेलगाम",
         "lang:en": "Belagavi"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q40888",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:an"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q40888"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:hi": "अण्डमान और निकोबार द्वीपसमूह",
+        "lang:en": "Andaman and Nicobar Islands"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q4172532",
@@ -16005,10 +16780,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गुलबर्गा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गुलबर्गा",
         "lang:en": "Gulbarga"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4172533",
@@ -16030,10 +16805,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रायचूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रायचूर",
         "lang:en": "Raichur"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4252512",
@@ -16055,10 +16830,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लद्दाख लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लद्दाख",
         "lang:en": "Ladakh"
       },
-      "parent_id": null
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q43433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:ch"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q43433"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:hi": "चण्डीगढ़",
+        "lang:en": "Chandigarh"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q4348317",
@@ -16080,10 +16880,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोप्पल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोप्पल",
         "lang:en": "Koppal"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q46107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q46107"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:hi": "दादर और नागर हवेली",
+        "lang:en": "Dadra and Nagar Haveli"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q4628043",
@@ -16105,10 +16930,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कावेरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कावेरी",
         "lang:en": "Haveri"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4693670",
@@ -16133,7 +16958,7 @@
         "lang:hi": "आगरा लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "Agra"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4696121",
@@ -16155,10 +16980,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अहमदाबाद पूर्व लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अहमदाबाद पूर्व",
         "lang:en": "Ahmedabad East"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q4699904",
@@ -16180,10 +17005,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अजमेर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अजमेर",
         "lang:en": "Ajmer"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4708818",
@@ -16205,10 +17030,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अलथूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अलथूर",
         "lang:en": "Alathur"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q4726846",
@@ -16230,10 +17055,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अलीपुरद्वार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अलीपुरद्वार",
         "lang:en": "Alipurduars"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4730342",
@@ -16255,10 +17080,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "इलाहाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "इलाहाबाद",
         "lang:en": "Allahabad"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4738368",
@@ -16280,10 +17105,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अलवर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अलवर",
         "lang:en": "Alwar"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4740955",
@@ -16305,10 +17130,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अम्बाला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अम्बाला",
         "lang:en": "Ambala"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q4741186",
@@ -16330,10 +17155,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अम्बेडकर नगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अम्बेडकर नगर",
         "lang:en": "Ambedkar Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4745924",
@@ -16355,10 +17180,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अमेठी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अमेठी",
         "lang:en": "Amethi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4748702",
@@ -16380,10 +17205,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अमृतसर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अमृतसर",
         "lang:en": "Amritsar"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q4751232",
@@ -16405,10 +17230,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आनन्द लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आनन्द",
         "lang:en": "Anand"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q4751375",
@@ -16430,10 +17255,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आनंदपुर साहिब लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आनंदपुर साहिब",
         "lang:en": "Anandpur Sahib"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q4751497",
@@ -16455,10 +17280,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "अनंतनाग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "अनंतनाग",
         "lang:en": "Anantnag"
       },
-      "parent_id": null
+      "parent_id": "Q1180"
     },
     {
       "id": "Q4756549",
@@ -16480,10 +17305,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उत्तर कन्नड़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उत्तर कन्नड़",
         "lang:en": "Uttara Kannada"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4778703",
@@ -16505,10 +17330,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आंवला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आंवला",
         "lang:en": "Aonla"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4783993",
@@ -16530,10 +17355,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आरामबाग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आरामबाग",
         "lang:en": "Arambagh"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4803541",
@@ -16555,10 +17380,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आसनसोल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आसनसोल",
         "lang:en": "Asansol"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4807113",
@@ -16580,10 +17405,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आस्का लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आस्का",
         "lang:en": "Aska"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q4822111",
@@ -16605,10 +17430,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "औरंगाबाद (बिहार) लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Aurangabad (Bihar)"
+        "lang:hi": "औरंगाबाद (बिहार)",
+        "lang:en": "Aurangabad"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
+    },
+    {
+      "id": "Q4840644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:up/lok-sabha:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4840644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q16556694"
+      ],
+      "type": {
+        "lang:en": "Lok Sabha constituency",
+        "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:hi": "बदायूं",
+        "lang:en": "Badaun"
+      },
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4841427",
@@ -16630,10 +17480,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बागलकोट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बागलकोट",
         "lang:en": "Bagalkot"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4842446",
@@ -16655,10 +17505,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बहरामपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बहरामपुर",
         "lang:en": "Baharampur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4842725",
@@ -16680,10 +17530,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बहराइच लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बहराइच",
         "lang:en": "Bahraich"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4850118",
@@ -16705,10 +17555,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बालासोर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बालासोर",
         "lang:en": "Balasore"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q4851665",
@@ -16730,10 +17580,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बलिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बलिया",
         "lang:en": "Ballia"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4853085",
@@ -16755,10 +17605,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बलूरघाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बलूरघाट",
         "lang:en": "Balurghat"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4855038",
@@ -16780,10 +17630,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बंगलौर केन्द्रीय लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बंगलौर केन्द्रीय",
         "lang:en": "Bangalore Central"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4855069",
@@ -16805,10 +17655,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बंगलौर उत्तर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बंगलौर उत्तर",
         "lang:en": "Bangalore North"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4855074",
@@ -16830,10 +17680,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बंगलौर ग्रामीण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बंगलौर ग्रामीण",
         "lang:en": "Bangalore Rural Lok Sabha constituency"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4855093",
@@ -16855,10 +17705,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बनगाँव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बनगाँव",
         "lang:en": "Bangaon"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4856235",
@@ -16880,10 +17730,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बांका लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बांका",
         "lang:en": "Banka"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q4856799",
@@ -16905,10 +17755,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बांकुरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बांकुरा",
         "lang:en": "Bankura"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4857123",
@@ -16930,10 +17780,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बांसगांव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बांसगांव",
         "lang:en": "Bansgaon"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4857164",
@@ -16955,10 +17805,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बांसवाड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बांसवाड़ा",
         "lang:en": "Banswara"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4858316",
@@ -16980,10 +17830,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बारामूला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बारामूला",
         "lang:en": "Baramulla"
       },
-      "parent_id": null
+      "parent_id": "Q1180"
     },
     {
       "id": "Q4858448",
@@ -17005,10 +17855,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बारासाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बारासाट",
         "lang:en": "Barasat"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4860137",
@@ -17030,10 +17880,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बर्धमान-दुर्गापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बर्धमान-दुर्गापुर",
         "lang:en": "Bardhaman-Durgapur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4860138",
@@ -17055,10 +17905,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बर्धमान-पूर्बा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बर्धमान-पूर्बा",
         "lang:en": "Bardhaman Purba"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4860193",
@@ -17080,10 +17930,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बारडोली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बारडोली",
         "lang:en": "Bardoli"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q4860392",
@@ -17105,10 +17955,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बरेली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बरेली",
         "lang:en": "Bareilly"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4860546",
@@ -17130,10 +17980,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बरगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बरगढ़",
         "lang:en": "Bargarh"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q4861268",
@@ -17155,10 +18005,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बाड़मेर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बाड़मेर",
         "lang:en": "Barmer"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4863171",
@@ -17180,10 +18030,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बैरकपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बैरकपुर",
         "lang:en": "Barrackpore"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4867561",
@@ -17205,10 +18055,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बसीरहाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बसीरहाट",
         "lang:en": "Basirhat"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4868222",
@@ -17230,10 +18080,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बस्तर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बस्तर",
         "lang:en": "Bastar"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q4868265",
@@ -17255,10 +18105,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बस्ती लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बस्ती",
         "lang:en": "Basti"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4869032",
@@ -17280,10 +18130,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भटिंडा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भटिंडा",
         "lang:en": "Bathinda"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q4876992",
@@ -17305,10 +18155,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिमोगा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शिमोगा",
         "lang:en": "Shimoga"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4877000",
@@ -17330,10 +18180,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दावणगेरे लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दावणगेरे",
         "lang:en": "Davangere"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4879723",
@@ -17355,10 +18205,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बीड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बीड",
         "lang:en": "Beed"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q4880639",
@@ -17380,10 +18230,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बेगूसराय लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बेगूसराय",
         "lang:en": "Begusarai"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q4899044",
@@ -17405,10 +18255,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बेतूल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बेतूल",
         "lang:en": "Betul"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q4900529",
@@ -17430,10 +18280,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भदोही लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भदोही",
         "lang:en": "Bhadohi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q4900550",
@@ -17455,10 +18305,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भद्रक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भद्रक",
         "lang:en": "Bhadrak"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q4901252",
@@ -17480,10 +18330,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भरतपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भरतपुर",
         "lang:en": "Bharatpur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4901329",
@@ -17505,10 +18355,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भरूच लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भरूच",
         "lang:en": "Bharuch"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q4901564",
@@ -17530,10 +18380,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भावनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भावनगर",
         "lang:en": "Bhavnagar"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q4901736",
@@ -17555,10 +18405,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भीलवाड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भीलवाड़ा",
         "lang:en": "Bhilwara"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4901856",
@@ -17580,10 +18430,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भिवानी महेन्द्रगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भिवानी महेन्द्रगढ़",
         "lang:en": "Bhiwani-Mahendragarh"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q4901857",
@@ -17605,10 +18455,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भिवंडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भिवंडी",
         "lang:en": "Bhiwandi"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q4901952",
@@ -17630,10 +18480,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भोंगीर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भोंगीर",
         "lang:en": "Bhuvanagiri"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q4901994",
@@ -17655,10 +18505,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भोपाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भोपाल",
         "lang:en": "Bhopal"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q4902092",
@@ -17680,10 +18530,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "भुवनेश्वर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "भुवनेश्वर",
         "lang:en": "Bhubaneswar"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q4907176",
@@ -17705,10 +18555,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बीजापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बीजापुर",
         "lang:en": "Bijapur"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q4907311",
@@ -17730,10 +18580,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बीकानेर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बीकानेर",
         "lang:en": "Bikaner"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q4907564",
@@ -17755,10 +18605,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बिलासपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बिलासपुर",
         "lang:en": "Bilaspur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q4915625",
@@ -17780,10 +18630,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बीरभूम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बीरभूम",
         "lang:en": "Birbhum"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4917381",
@@ -17805,10 +18655,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विष्णुपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विष्णुपुर",
         "lang:en": "Bishnupur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4938935",
@@ -17830,10 +18680,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बलांगिर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बलांगिर",
         "lang:en": "Bolangir"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q4940018",
@@ -17855,10 +18705,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बोलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बोलपुर",
         "lang:en": "Bolpur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q4996106",
@@ -17880,34 +18730,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बुलढाना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बुलढाना",
         "lang:en": "Buldhana"
       },
-      "parent_id": null
-    },
-    {
-      "id": "Q4998317",
-      "identifiers": [
-        {
-          "scheme": "MS_FB",
-          "identifier": "country:in/state:up/lok-sabha:23"
-        },
-        {
-          "scheme": "wikidata",
-          "identifier": "Q4998317"
-        }
-      ],
-      "associated_wikidata_positions": [
-        "Q16556694"
-      ],
-      "type": {
-        "lang:en": "Lok Sabha constituency",
-        "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
-      },
-      "name": {
-        "lang:en": "Burdwan"
-      },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q5003234",
@@ -17929,10 +18755,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बक्सर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बक्सर",
         "lang:en": "Buxar"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q5069470",
@@ -17954,10 +18780,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चामराजनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चामराजनगर",
         "lang:en": "Chamarajanagar"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5070983",
@@ -17979,10 +18805,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चन्दौली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चन्दौली",
         "lang:en": "Chandauli"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5071061",
@@ -18006,7 +18832,7 @@
       "name": {
         "lang:en": "Chandigarh"
       },
-      "parent_id": null
+      "parent_id": "Q43433"
     },
     {
       "id": "Q5071226",
@@ -18031,7 +18857,7 @@
         "lang:hi": "चाँदनी चौक लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "Chandni Chowk"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q5087772",
@@ -18053,10 +18879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चतरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चतरा",
         "lang:en": "Chatra"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q5094314",
@@ -18078,10 +18904,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चेवेल्ला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चेवेल्ला",
         "lang:en": "Chevella"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q5094902",
@@ -18103,10 +18929,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "छिंदवाड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "छिंदवाड़ा",
         "lang:en": "Chhindwara"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q5094957",
@@ -18128,10 +18954,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "छोटा उदयपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "छोटा उदयपुर",
         "lang:en": "Chhota Udaipur"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q5097405",
@@ -18153,10 +18979,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चिकबलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चिकबलपुर",
         "lang:en": "Chikballapur"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5102316",
@@ -18178,10 +19004,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चित्रदुर्ग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चित्रदुर्ग",
         "lang:en": "Chitradurga"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5102518",
@@ -18203,10 +19029,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चित्तौड़गढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चित्तौड़गढ़",
         "lang:en": "Chittorgarh"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q5118333",
@@ -18228,10 +19054,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "चूरू लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "चूरू",
         "lang:en": "Churu"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q5121423",
@@ -18253,10 +19079,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दक्षिण कन्नड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दक्षिण कन्नड",
         "lang:en": "Dakshina Kannada"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5187868",
@@ -18278,10 +19104,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मांडया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मांडया",
         "lang:en": "Mandya"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5196922",
@@ -18303,10 +19129,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कटक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कटक",
         "lang:en": "Cuttack"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q5208111",
@@ -18328,10 +19154,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दादरा और नगर हवेली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दादरा और नगर हवेली",
         "lang:en": "Dadra and Nagar Haveli"
       },
-      "parent_id": null
+      "parent_id": "Q46107"
     },
     {
       "id": "Q5208930",
@@ -18353,10 +19179,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दोहद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दोहद",
         "lang:en": "Dahod"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q5211945",
@@ -18378,10 +19204,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दमन और दीव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दमन और दीव",
         "lang:en": "Daman and Diu"
       },
-      "parent_id": null
+      "parent_id": "Q66710"
     },
     {
       "id": "Q5222212",
@@ -18403,10 +19229,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दरभंगा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दरभंगा",
         "lang:en": "Darbhanga"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q5223069",
@@ -18428,10 +19254,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दार्जिलिंग लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दार्जिलिंग",
         "lang:en": "Darjeeling"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q5228102",
@@ -18453,10 +19279,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दौसा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दौसा",
         "lang:en": "Dausa"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q5245318",
@@ -18478,10 +19304,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तुमकुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तुमकुर",
         "lang:en": "Tumkur"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5268930",
@@ -18503,10 +19329,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धनबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धनबाद",
         "lang:en": "Dhanbad"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q5269410",
@@ -18528,10 +19354,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धारवाड़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धारवाड़",
         "lang:en": "Dharwad"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5269512",
@@ -18553,10 +19379,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "ढेंकानाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "ढेंकानाल",
         "lang:en": "Dhenkanal"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q5269854",
@@ -18578,10 +19404,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "धुले लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "धुले",
         "lang:en": "Dhule"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q5270807",
@@ -18603,10 +19429,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "डायमंड हार्बर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "डायमंड हार्बर",
         "lang:en": "Diamond Harbour"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q5278011",
@@ -18628,10 +19454,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दिन्डोरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दिन्डोरी",
         "lang:en": "Dindori"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q5289934",
@@ -18653,10 +19479,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "डुमरियागंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "डुमरियागंज",
         "lang:en": "Domariyaganj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5313570",
@@ -18678,10 +19504,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दमदम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दमदम",
         "lang:en": "Dum Dum"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q5313895",
@@ -18703,10 +19529,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दुमका लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दुमका",
         "lang:en": "Dumka"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q5328213",
@@ -18731,7 +19557,7 @@
         "lang:hi": "पूर्वी दिल्ली लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "East Delhi"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q5332086",
@@ -18756,7 +19582,7 @@
         "lang:hi": "मैसूर",
         "lang:en": "Mysore"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5395251",
@@ -18778,10 +19604,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "इरोड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "इरोड",
         "lang:en": "Erode"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q5402455",
@@ -18803,10 +19629,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "इटावा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "इटावा",
         "lang:en": "Etawah"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5431351",
@@ -18828,10 +19654,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फैजाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फैजाबाद",
         "lang:en": "Faizabad"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5435282",
@@ -18853,10 +19679,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फरीदाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फरीदाबाद",
         "lang:en": "Faridabad"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q5435297",
@@ -18878,10 +19704,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फरीदकोट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फरीदकोट",
         "lang:en": "Faridkot"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q5436365",
@@ -18903,10 +19729,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फरुखाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फरुखाबाद",
         "lang:en": "Farrukhabad"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5437417",
@@ -18928,10 +19754,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फतेहगढ़ साहिब लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फतेहगढ़ साहिब",
         "lang:en": "Fatehgarh Sahib"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q5437428",
@@ -18953,10 +19779,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फतेहपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फतेहपुर",
         "lang:en": "Fatehpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5437430",
@@ -18978,10 +19804,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फतेहपुर सीकरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फतेहपुर सीकरी",
         "lang:en": "Fatehpur Sikri"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5452174",
@@ -19003,10 +19829,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फिरोजाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फिरोजाबाद",
         "lang:en": "Firozabad"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5452175",
@@ -19028,10 +19854,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फिरोजपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फिरोजपुर",
         "lang:en": "Firozepur"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q5520735",
@@ -19053,10 +19879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गांधीनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गांधीनगर",
         "lang:en": "Gandhinagar"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q5521052",
@@ -19078,10 +19904,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "श्रीगंगानगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "श्रीगंगानगर",
         "lang:en": "Ganganagar"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q5527870",
@@ -19103,10 +19929,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गौतम बुद्ध नगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गौतम बुद्ध नगर",
         "lang:en": "Gautam Buddha Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5555886",
@@ -19128,10 +19954,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "घाटल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "घाटल",
         "lang:en": "Ghatal"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q5556091",
@@ -19153,10 +19979,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गाज़ियाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गाज़ियाबाद",
         "lang:en": "Ghaziabad"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5556103",
@@ -19178,10 +20004,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गाजीपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गाजीपुर",
         "lang:en": "Ghazipur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5557002",
@@ -19203,10 +20029,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "घोसी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "घोसी",
         "lang:en": "Ghosi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5564263",
@@ -19228,10 +20054,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गिरिडीह लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गिरिडीह",
         "lang:en": "Giridih"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q5576233",
@@ -19253,10 +20079,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गोड्डा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गोड्डा",
         "lang:en": "Godda"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q5584396",
@@ -19278,10 +20104,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गोरखपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गोरखपुर",
         "lang:en": "Gorakhpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5619909",
@@ -19303,10 +20129,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गुरदासपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गुरदासपुर",
         "lang:en": "Gurdaspur"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q5620004",
@@ -19328,10 +20154,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "गुड़गांव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "गुड़गांव",
         "lang:en": "Gurgaon"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q5645332",
@@ -19353,10 +20179,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हमीरपुर (उत्तर प्रदेश) लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हमीरपुर (उत्तर प्रदेश)",
         "lang:en": "Hamirpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5645333",
@@ -19378,10 +20204,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हमीरपुर (उत्तर प्रदेश) लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हमीरपुर (उत्तर प्रदेश)",
         "lang:en": "Hamirpur"
       },
-      "parent_id": null
+      "parent_id": "Q1177"
     },
     {
       "id": "Q5656282",
@@ -19403,10 +20229,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हरदोई लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हरदोई",
         "lang:en": "Hardoi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5657364",
@@ -19428,10 +20254,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हरिद्वार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हरिद्वार",
         "lang:en": "Haridwar"
       },
-      "parent_id": null
+      "parent_id": "Q1499"
     },
     {
       "id": "Q5679532",
@@ -19453,10 +20279,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हसन लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हसन",
         "lang:en": "Haasan"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q5681557",
@@ -19478,10 +20304,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "हाथरस लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "हाथरस",
         "lang:en": "Hathras"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q5908015",
@@ -19503,10 +20329,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "होशियारपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "होशियारपुर",
         "lang:en": "Hoshiarpur"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q6035471",
@@ -19528,10 +20354,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "आंतरिक मणिपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "आंतरिक मणिपुर",
         "lang:en": "Inner Manipur"
       },
-      "parent_id": null
+      "parent_id": "Q1193"
     },
     {
       "id": "Q6109952",
@@ -19553,10 +20379,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जबलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जबलपुर",
         "lang:en": "Jabalpur"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q6122268",
@@ -19578,10 +20404,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जगतसिंहपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जगतसिंहपुर",
         "lang:en": "Jagatsinghpur"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6124117",
@@ -19603,10 +20429,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जयपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जयपुर",
         "lang:en": "Jaipur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6124137",
@@ -19628,10 +20454,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जयपुर ग्रामीण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जयपुर ग्रामीण",
         "lang:en": "Jaipur Rural"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6124378",
@@ -19653,10 +20479,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जाजपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जाजपुर",
         "lang:en": "Jajpur"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6126633",
@@ -19678,10 +20504,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जलंधर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जलंधर",
         "lang:en": "Jalandhar"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q6126683",
@@ -19703,10 +20529,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जालौन लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जालौन",
         "lang:en": "Jalaun"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6126754",
@@ -19728,10 +20554,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जलगांव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जलगांव",
         "lang:en": "Jalgaon"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6126930",
@@ -19753,10 +20579,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जालना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जालना",
         "lang:en": "Jalna"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6126953",
@@ -19778,10 +20604,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जालौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जालौर",
         "lang:en": "Jalore"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6147990",
@@ -19803,10 +20629,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जम्मू लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जम्मू",
         "lang:en": "Jammu"
       },
-      "parent_id": null
+      "parent_id": "Q1180"
     },
     {
       "id": "Q6148068",
@@ -19828,10 +20654,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जामनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जामनगर",
         "lang:en": "Jamnagar"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q6148213",
@@ -19853,10 +20679,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जमशेदपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जमशेदपुर",
         "lang:en": "Jamshedpur"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q6154054",
@@ -19878,10 +20704,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जंगीपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जंगीपुर",
         "lang:en": "Jangipur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6154769",
@@ -19903,10 +20729,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जांजगीर-चंपा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जांजगीर-चंपा",
         "lang:en": "Janjgir"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q6164852",
@@ -19928,10 +20754,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जौनपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जौनपुर",
         "lang:en": "Jaunpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6167862",
@@ -19953,10 +20779,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जयनगर लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Jaynagar (Lok Sabha constituency)"
+        "lang:hi": "जयनगर",
+        "lang:en": "Jaynagar"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6190793",
@@ -19978,10 +20804,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "झालावाड़-बारां लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "झालावाड़-बारां",
         "lang:en": "Jhalawar-Baran"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6190886",
@@ -20003,10 +20829,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "झंझारपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "झंझारपुर",
         "lang:en": "Jhanjharpur"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q6190927",
@@ -20028,10 +20854,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "झाड़ग्राम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "झाड़ग्राम",
         "lang:en": "Jhargram"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6191216",
@@ -20053,10 +20879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "झुंझुनू लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "झुंझुनू",
         "lang:en": "Jhunjhunu"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6207835",
@@ -20078,10 +20904,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जोधपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जोधपुर",
         "lang:en": "Jodhpur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6278852",
@@ -20103,10 +20929,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जोरहाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जोरहाट",
         "lang:en": "Jorhat"
       },
-      "parent_id": null
+      "parent_id": "Q1164"
     },
     {
       "id": "Q6311592",
@@ -20128,10 +20954,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "जूनागढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "जूनागढ़",
         "lang:en": "Junagadh"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q6344634",
@@ -20153,10 +20979,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कच्छ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कच्छ",
         "lang:en": "Kachchh"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q6350138",
@@ -20178,10 +21004,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कलाहांडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कलाहांडी",
         "lang:en": "Kalahandi"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6353510",
@@ -20203,10 +21029,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कल्लाकुरिची लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कल्लाकुरिची",
         "lang:en": "Kallakurichi"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q6362861",
@@ -20228,10 +21054,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कांगड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कांगड़ा",
         "lang:en": "Kangra"
       },
-      "parent_id": null
+      "parent_id": "Q1177"
     },
     {
       "id": "Q6368090",
@@ -20253,10 +21079,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "काराकाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "काराकाट",
         "lang:en": "Karakat"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q6368815",
@@ -20278,10 +21104,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "करौली-धौलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "करौली-धौलपुर",
         "lang:en": "Karauli–Dholpur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6372812",
@@ -20303,10 +21129,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "करनाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "करनाल",
         "lang:en": "Karnal"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q6378946",
@@ -20328,10 +21154,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कौशांबी लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Kaushambi (Lok Sabha constituency)"
+        "lang:hi": "कौशांबी",
+        "lang:en": "Kaushambi"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6389017",
@@ -20353,10 +21179,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "केन्द्रपाड़ा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "केन्द्रपाड़ा",
         "lang:en": "Kendrapara"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6398926",
@@ -20378,10 +21204,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खडूर साहिब लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खडूर साहिब",
         "lang:en": "Khadoor Sahib"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q6398963",
@@ -20403,10 +21229,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खगड़िया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खगड़िया",
         "lang:en": "Khagaria"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q6401180",
@@ -20428,10 +21254,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खेडा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खेडा",
         "lang:en": "Kheda"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q6403035",
@@ -20453,10 +21279,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "खूँटी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "खूँटी",
         "lang:en": "Khunti"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q6425227",
@@ -20478,10 +21304,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोडरमा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोडरमा",
         "lang:en": "Kodarma"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q6427060",
@@ -20503,10 +21329,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोलार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोलार",
         "lang:en": "Kolar"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q6427315",
@@ -20528,10 +21354,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोलकाता उत्तर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोलकाता उत्तर",
         "lang:en": "Kolkata Uttar"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6431426",
@@ -20553,10 +21379,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोरापुट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोरापुट",
         "lang:en": "Koraput"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6431463",
@@ -20578,10 +21404,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोरबा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोरबा",
         "lang:en": "Korba"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q6433781",
@@ -20603,10 +21429,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कोटा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कोटा",
         "lang:en": "Kota"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6437565",
@@ -20628,10 +21454,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "कृषनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "कृषनगर",
         "lang:en": "Krishnanagar"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6447358",
@@ -20656,7 +21482,7 @@
         "lang:hi": "कुरुक्षेत्र",
         "lang:en": "Kurukshetra"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q6479803",
@@ -20678,10 +21504,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लक्षद्वीप लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लक्षद्वीप",
         "lang:en": "Lakshadweep"
       },
-      "parent_id": null
+      "parent_id": "Q26927"
     },
     {
       "id": "Q6480280",
@@ -20703,10 +21529,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लालगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लालगंज",
         "lang:en": "Lalganj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6509948",
@@ -20728,10 +21554,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बंगलौर दक्षिण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बंगलौर दक्षिण",
         "lang:en": "Bangalore South"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q6528588",
@@ -20753,10 +21579,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पुरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पुरी",
         "lang:en": "Puri"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6667970",
@@ -20778,8 +21604,83 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लोहरदगा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लोहरदगा",
         "lang:en": "Lohardaga"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q66710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dd"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q66710"
+        }
+      ],
+      "associated_wikidata_positions": [
+
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:hi": "दमन और दीव",
+        "lang:en": "Daman and Diu"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q66743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q66743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55139200"
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:en": "Puducherry",
+        "lang:hi": "पुदुच्चेरी"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
       },
       "parent_id": null
     },
@@ -20803,10 +21704,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लखनऊ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लखनऊ",
         "lang:en": "Lucknow"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6698772",
@@ -20828,10 +21729,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "लुधियाना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "लुधियाना",
         "lang:en": "Ludhiana"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q6723526",
@@ -20853,10 +21754,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मछलीशहर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मछलीशहर",
         "lang:en": "Machhlishahr"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6727220",
@@ -20878,10 +21779,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "माधा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "माधा",
         "lang:en": "Madha"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6727343",
@@ -20903,10 +21804,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मधेपुरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मधेपुरा",
         "lang:en": "Madhepura"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q6732720",
@@ -20928,10 +21829,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "महबूबाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "महबूबाबाद",
         "lang:en": "Mahabubabad"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q6733273",
@@ -20954,9 +21855,9 @@
       },
       "name": {
         "lang:hi": "महराजगंज (बिहार) लोकसभा निर्वाचन क्षेत्र",
-        "lang:en": "Maharajganj (Bihar)"
+        "lang:en": "Maharajganj"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q6733274",
@@ -20978,10 +21879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "महाराजगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "महाराजगंज",
         "lang:en": "Maharajganj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6733840",
@@ -21003,10 +21904,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मेहसाना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मेहसाना",
         "lang:en": "Mahesana"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q6736725",
@@ -21028,10 +21929,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मैनपुरी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मैनपुरी",
         "lang:en": "Mainpuri"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6741311",
@@ -21053,10 +21954,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मलप्पुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मलप्पुरम",
         "lang:en": "Malappuram"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q6742775",
@@ -21078,10 +21979,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मालदह दक्षिण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मालदह दक्षिण",
         "lang:en": "Maldaha Dakshin"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6742776",
@@ -21103,10 +22004,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मालदह उत्तर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मालदह उत्तर",
         "lang:en": "Maldaha Uttar"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6743862",
@@ -21128,10 +22029,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मल्काजगिरि लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मल्काजगिरि",
         "lang:en": "Malkajgiri"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     },
     {
       "id": "Q6748042",
@@ -21153,10 +22054,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मंडी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मंडी",
         "lang:en": "Mandi"
       },
-      "parent_id": null
+      "parent_id": "Q1177"
     },
     {
       "id": "Q6748216",
@@ -21178,10 +22079,35 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मंदसौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मंदसौर",
         "lang:en": "Mandsaur"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q677037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q677037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018651"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Telangana",
+        "lang:hi": "तेलंगाना"
+      },
+      "parent_id": "Q668"
     },
     {
       "id": "Q6787367",
@@ -21203,10 +22129,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मथुरापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मथुरापुर",
         "lang:en": "Mathurapur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6794117",
@@ -21228,10 +22154,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मावल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मावल",
         "lang:en": "Maval"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6798125",
@@ -21253,10 +22179,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मयूरभंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मयूरभंज",
         "lang:en": "Mayurbhanj"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6806969",
@@ -21278,10 +22204,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मेदिनीपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मेदिनीपुर",
         "lang:en": "Medinipur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6874958",
@@ -21303,10 +22229,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मिर्जापुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मिर्जापुर",
         "lang:en": "Mirzapur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6875956",
@@ -21328,10 +22254,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मिसरिख लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मिसरिख",
         "lang:en": "Misrikh"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6935304",
@@ -21353,10 +22279,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुम्बई-उत्तर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुम्बई-उत्तर",
         "lang:en": "Mumbai North"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6935308",
@@ -21378,10 +22304,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुम्बई उत्तर-मध्य लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुम्बई उत्तर-मध्य",
         "lang:en": "Mumbai North Central"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6935309",
@@ -21403,10 +22329,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुम्बई उत्तर-पूर्व लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुम्बई उत्तर-पूर्व",
         "lang:en": "Mumbai North East"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6935311",
@@ -21428,10 +22354,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुंबई उत्तर-पश्चिम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुंबई उत्तर-पश्चिम",
         "lang:en": "Mumbai North West"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6935325",
@@ -21453,10 +22379,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुम्बई दक्षिण-मध्य लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुम्बई दक्षिण-मध्य",
         "lang:en": "Mumbai South Central"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6939683",
@@ -21478,10 +22404,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "मुर्शिदाबाद लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "मुर्शिदाबाद",
         "lang:en": "Murshidabad"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q6956755",
@@ -21503,10 +22429,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नबरंगपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नबरंगपुर",
         "lang:en": "Nabarangpur"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q6958697",
@@ -21528,10 +22454,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नागौर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नागौर",
         "lang:en": "Nagaur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q6958833",
@@ -21553,10 +22479,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नगीना लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नगीना",
         "lang:en": "Nagina"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q6959714",
@@ -21578,10 +22504,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नैनीताल-ऊधमसिंह नगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नैनीताल-ऊधमसिंह नगर",
         "lang:en": "Nainital-Udhamsingh Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1499"
     },
     {
       "id": "Q6960794",
@@ -21603,10 +22529,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नालन्दा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नालन्दा",
         "lang:en": "Nalanda"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q6961238",
@@ -21628,10 +22554,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नामाक्कल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नामाक्कल",
         "lang:en": "Namakkal"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q6963393",
@@ -21653,10 +22579,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नन्दुरबार लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नन्दुरबार",
         "lang:en": "Nandurbar"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6966848",
@@ -21678,10 +22604,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नासिक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नासिक",
         "lang:en": "Nashik"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q6982569",
@@ -21703,10 +22629,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "नवसारी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "नवसारी",
         "lang:en": "Navsari"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7055185",
@@ -21731,7 +22657,7 @@
         "lang:hi": "उत्तर पूर्वी दिल्ली लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "North East Delhi"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q7057245",
@@ -21756,7 +22682,7 @@
         "lang:hi": "उत्तर पश्चिम दिल्ली लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "North West Delhi"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q7111989",
@@ -21778,10 +22704,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बाहरी मणिपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बाहरी मणिपुर",
         "lang:en": "Outer Manipur"
       },
-      "parent_id": null
+      "parent_id": "Q1193"
     },
     {
       "id": "Q7127479",
@@ -21803,10 +22729,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पालघर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पालघर",
         "lang:en": "Palghar"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7127504",
@@ -21828,10 +22754,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पाली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पाली",
         "lang:en": "Pali"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q7130343",
@@ -21853,10 +22779,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पंचमहल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पंचमहल",
         "lang:en": "Panchmahal"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7141801",
@@ -21878,10 +22804,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पश्चिम चम्पारण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पश्चिम चम्पारण",
         "lang:en": "Paschim Champaran"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7144222",
@@ -21903,10 +22829,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पाटलिपुत्र लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पाटलिपुत्र",
         "lang:en": "Pataliputra"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7144231",
@@ -21928,10 +22854,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पाटन लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पाटन",
         "lang:en": "Patan"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7144692",
@@ -21953,10 +22879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पथनमथीट्टा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पथनमथीट्टा",
         "lang:en": "Pathanamthitta"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q7144911",
@@ -21978,10 +22904,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पटियाला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पटियाला",
         "lang:en": "Patiala"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q7145114",
@@ -22003,10 +22929,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पटना साहिब लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Patna Sahib (Lok Sabha constituency)"
+        "lang:hi": "पटना साहिब",
+        "lang:en": "Patna Sahib"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7188338",
@@ -22028,10 +22954,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "फूलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "फूलपुर",
         "lang:en": "Phulpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7193997",
@@ -22053,10 +22979,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पीलीभीत लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पीलीभीत",
         "lang:en": "Pilibhit"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7229961",
@@ -22078,10 +23004,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पोरबंदर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पोरबंदर",
         "lang:en": "Porbandar"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7238619",
@@ -22103,10 +23029,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "प्रतापगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "प्रतापगढ़",
         "lang:en": "Pratapgarh"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7255284",
@@ -22128,10 +23054,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "बरहमपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "बरहमपुर",
         "lang:en": "Berhampur"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q7255845",
@@ -22153,10 +23079,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सम्बलपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सम्बलपुर",
         "lang:en": "Sambalpur"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q7260097",
@@ -22178,10 +23104,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पुणे लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पुणे",
         "lang:en": "Pune"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7261625",
@@ -22203,10 +23129,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पुरूलिया लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पुरूलिया",
         "lang:en": "Purulia"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q7261669",
@@ -22228,10 +23154,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "पूर्वी चम्पारण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "पूर्वी चम्पारण",
         "lang:en": "Purvi Champaran"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7281907",
@@ -22253,10 +23179,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रायबरेली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रायबरेली",
         "lang:en": "Rae Bareli"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7283812",
@@ -22278,10 +23204,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रायगड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रायगड",
         "lang:en": "Raigad"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7283824",
@@ -22303,10 +23229,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रायगड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रायगड",
         "lang:en": "Raigarh"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q7286307",
@@ -22328,10 +23254,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राजमहल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राजमहल",
         "lang:en": "Rajmahal"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q7286332",
@@ -22353,10 +23279,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राजनन्दगांव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राजनन्दगांव",
         "lang:en": "Rajnandgaon"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q7286417",
@@ -22378,10 +23304,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राजसमन्द लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राजसमन्द",
         "lang:en": "Rajsamand"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q7290061",
@@ -22403,10 +23329,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रामपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रामपुर",
         "lang:en": "Rampur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7290693",
@@ -22428,10 +23354,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राणाघाट लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राणाघाट",
         "lang:en": "Ranaghat"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q7290802",
@@ -22453,10 +23379,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "राँची लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "राँची",
         "lang:en": "Ranchi"
       },
-      "parent_id": null
+      "parent_id": "Q1184"
     },
     {
       "id": "Q7295816",
@@ -22478,10 +23404,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रतलाम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रतलाम",
         "lang:en": "Ratlam"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q7296597",
@@ -22503,10 +23429,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रावेर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रावेर",
         "lang:en": "Raver"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7319005",
@@ -22528,10 +23454,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रीवा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रीवा",
         "lang:en": "Rewa"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q7352073",
@@ -22553,10 +23479,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रॉबर्ट्सगंज लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रॉबर्ट्सगंज",
         "lang:en": "Robertsganj"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7359839",
@@ -22578,10 +23504,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "रोहतक लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "रोहतक",
         "lang:en": "Rohtak"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q7395911",
@@ -22603,10 +23529,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "साबरकंठा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "साबरकंठा",
         "lang:en": "Sabarkantha"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7399007",
@@ -22628,10 +23554,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सागर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सागर",
         "lang:en": "Sagar"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q7399517",
@@ -22653,10 +23579,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सहारनपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सहारनपुर",
         "lang:en": "Saharanpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7408890",
@@ -22678,10 +23604,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "समस्तीपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "समस्तीपुर",
         "lang:en": "Samastipur"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7409031",
@@ -22703,10 +23629,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "संभल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "संभल",
         "lang:en": "Sambhal"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7418045",
@@ -22728,10 +23654,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सांगली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सांगली",
         "lang:en": "Sangli"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7418135",
@@ -22753,10 +23679,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "संगरूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "संगरूर",
         "lang:en": "Sangrur"
       },
-      "parent_id": null
+      "parent_id": "Q22424"
     },
     {
       "id": "Q7419095",
@@ -22778,10 +23704,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सन्त कबीर नगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सन्त कबीर नगर",
         "lang:en": "Sant Kabir Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7423046",
@@ -22803,10 +23729,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सारण लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सारण",
         "lang:en": "Saran"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7461799",
@@ -22828,10 +23754,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शाहजहाँपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शाहजहाँपुर",
         "lang:en": "Shahjahanpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7494394",
@@ -22853,10 +23779,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिवहर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शिवहर",
         "lang:en": "Sheohar"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7496680",
@@ -22878,10 +23804,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिलांग लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Shillong (Lok Sabha constituency)"
+        "lang:hi": "शिलांग",
+        "lang:en": "Shillong"
       },
-      "parent_id": null
+      "parent_id": "Q1195"
     },
     {
       "id": "Q7496887",
@@ -22903,10 +23829,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिमला लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शिमला",
         "lang:en": "Shimla"
       },
-      "parent_id": null
+      "parent_id": "Q1177"
     },
     {
       "id": "Q7499000",
@@ -22928,10 +23854,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "शिरूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "शिरूर",
         "lang:en": "Shirur"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7503442",
@@ -22953,10 +23879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "श्रावस्ती लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "श्रावस्ती",
         "lang:en": "Shrawasti"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7508585",
@@ -22978,10 +23904,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सीधी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सीधी",
         "lang:en": "Sidhi"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q7513596",
@@ -23003,10 +23929,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सीकर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सीकर",
         "lang:en": "Sikar"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q7530618",
@@ -23028,10 +23954,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सिरसा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सिरसा",
         "lang:en": "Sirsa"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q7531640",
@@ -23053,10 +23979,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सीतामढ़ी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सीतामढ़ी",
         "lang:en": "Sitamarhi"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7532526",
@@ -23078,10 +24004,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सीवान लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सीवान",
         "lang:en": "Siwan"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7561886",
@@ -23103,10 +24029,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सोनीपत लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सोनीपत",
         "lang:en": "Sonipat"
       },
-      "parent_id": null
+      "parent_id": "Q1174"
     },
     {
       "id": "Q7567023",
@@ -23131,7 +24057,7 @@
         "lang:hi": "दक्षिण दिल्ली",
         "lang:en": "South Delhi"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q7567370",
@@ -23153,10 +24079,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "दक्षिण गोवा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "दक्षिण गोवा",
         "lang:en": "South Goa"
       },
-      "parent_id": null
+      "parent_id": "Q1171"
     },
     {
       "id": "Q7585738",
@@ -23178,10 +24104,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सेरमपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सेरमपुर",
         "lang:en": "Sreerampur"
       },
-      "parent_id": null
+      "parent_id": "Q1356"
     },
     {
       "id": "Q7586418",
@@ -23203,10 +24129,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "श्रीनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "श्रीनगर",
         "lang:en": "Srinagar"
       },
-      "parent_id": null
+      "parent_id": "Q1180"
     },
     {
       "id": "Q7636812",
@@ -23228,10 +24154,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सुल्तानपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सुल्तानपुर",
         "lang:en": "Sultanpur"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7639274",
@@ -23253,10 +24179,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सुन्दरगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सुन्दरगढ़",
         "lang:en": "Sundargarh"
       },
-      "parent_id": null
+      "parent_id": "Q22048"
     },
     {
       "id": "Q7645435",
@@ -23278,10 +24204,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सूरत लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सूरत",
         "lang:en": "Surat"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7645700",
@@ -23303,10 +24229,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "सुरेन्द्रनगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "सुरेन्द्रनगर",
         "lang:en": "Surendranagar"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7694914",
@@ -23328,10 +24254,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "टिहरी गढ़वाल लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "टिहरी गढ़वाल",
         "lang:en": "Tehri Garhwal"
       },
-      "parent_id": null
+      "parent_id": "Q1499"
     },
     {
       "id": "Q7710231",
@@ -23353,10 +24279,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "ठाणे लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "ठाणे",
         "lang:en": "Thane"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q7781368",
@@ -23378,10 +24304,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "थेनी लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "थेनी",
         "lang:en": "Theni"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q7785493",
@@ -23403,10 +24329,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरुवल्लूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरुवल्लूर",
         "lang:en": "Thiruvallur"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q7785502",
@@ -23428,10 +24354,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरुवनन्तपुरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरुवनन्तपुरम",
         "lang:en": "Thiruvananthapuram"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q7801879",
@@ -23453,10 +24379,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "टीकमगढ़ लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "टीकमगढ़",
         "lang:en": "Tikamgarh"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q7809406",
@@ -23478,10 +24404,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरूप्पुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरूप्पुर",
         "lang:en": "Tiruppur"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q7809457",
@@ -23503,10 +24429,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तिरुवन्नामलाई लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "तिरुवन्नामलाई",
         "lang:en": "Tiruvannamalai"
       },
-      "parent_id": null
+      "parent_id": "Q1445"
     },
     {
       "id": "Q7821522",
@@ -23528,10 +24454,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "टोंक-सवाई माधोपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "टोंक-सवाई माधोपुर",
         "lang:en": "Tonk-Sawai Madhopur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q7843852",
@@ -23553,10 +24479,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "त्रिपुरा पूर्व लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "त्रिपुरा पूर्व",
         "lang:en": "Tripura East"
       },
-      "parent_id": null
+      "parent_id": "Q1363"
     },
     {
       "id": "Q7843879",
@@ -23578,10 +24504,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "त्रिपुरा पश्चिम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "त्रिपुरा पश्चिम",
         "lang:en": "Tripura West"
       },
-      "parent_id": null
+      "parent_id": "Q1363"
     },
     {
       "id": "Q7853631",
@@ -23603,10 +24529,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "तुरा लोक सभा निर्वाचन क्षेत्र",
-        "lang:en": "Tura (Lok Sabha constituency)"
+        "lang:hi": "तुरा",
+        "lang:en": "Tura"
       },
-      "parent_id": null
+      "parent_id": "Q1195"
     },
     {
       "id": "Q7876885",
@@ -23628,10 +24554,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उदयपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उदयपुर",
         "lang:en": "Udaipur"
       },
-      "parent_id": null
+      "parent_id": "Q1437"
     },
     {
       "id": "Q7877193",
@@ -23653,10 +24579,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उधमपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उधमपुर",
         "lang:en": "Udhampur"
       },
-      "parent_id": null
+      "parent_id": "Q1180"
     },
     {
       "id": "Q7877355",
@@ -23678,10 +24604,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उदुपी चिकमगलूर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उदुपी चिकमगलूर",
         "lang:en": "Udupi Chikmagalur"
       },
-      "parent_id": null
+      "parent_id": "Q1185"
     },
     {
       "id": "Q7878191",
@@ -23703,10 +24629,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उजियारपुर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उजियारपुर",
         "lang:en": "Ujiarpur"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7897148",
@@ -23728,10 +24654,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "उन्नाव लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "उन्नाव",
         "lang:en": "Unnao"
       },
-      "parent_id": null
+      "parent_id": "Q1498"
     },
     {
       "id": "Q7908337",
@@ -23753,10 +24679,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वडोदरा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वडोदरा",
         "lang:en": "Vadodara"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7908854",
@@ -23778,10 +24704,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वैशाली लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वैशाली",
         "lang:en": "Vaishali"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7912496",
@@ -23803,10 +24729,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वाल्मीकि नगर लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वाल्मीकि नगर",
         "lang:en": "Valmiki Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1165"
     },
     {
       "id": "Q7912607",
@@ -23828,10 +24754,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वलसाड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वलसाड",
         "lang:en": "Valsad"
       },
-      "parent_id": null
+      "parent_id": "Q1061"
     },
     {
       "id": "Q7928100",
@@ -23853,10 +24779,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विदिशा लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विदिशा",
         "lang:en": "Vidisha"
       },
-      "parent_id": null
+      "parent_id": "Q1188"
     },
     {
       "id": "Q7938017",
@@ -23878,10 +24804,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "विजियानगरम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "विजियानगरम",
         "lang:en": "Vizianagaram"
       },
-      "parent_id": null
+      "parent_id": "Q1159"
     },
     {
       "id": "Q7975848",
@@ -23903,10 +24829,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "वयनाड लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "वयनाड",
         "lang:en": "Wayanad"
       },
-      "parent_id": null
+      "parent_id": "Q1186"
     },
     {
       "id": "Q7984938",
@@ -23931,7 +24857,7 @@
         "lang:hi": "पश्चिम दिल्ली लोकसभा निर्वाचन क्षेत्र",
         "lang:en": "West Delhi"
       },
-      "parent_id": null
+      "parent_id": "Q1353"
     },
     {
       "id": "Q8050386",
@@ -23953,10 +24879,10 @@
         "lang:hi": "लोक सभा निर्वाचन क्षेत्र"
       },
       "name": {
-        "lang:hi": "यवतमाल-वाशिम लोक सभा निर्वाचन क्षेत्र",
+        "lang:hi": "यवतमाल-वाशिम",
         "lang:en": "Yavatmal-Washim"
       },
-      "parent_id": null
+      "parent_id": "Q1191"
     },
     {
       "id": "Q8064692",
@@ -23981,7 +24907,7 @@
         "lang:hi": "ज़हीराबाद लोक सभा निर्वाचन क्षेत्र सम्पादन",
         "lang:en": "Zahirabad"
       },
-      "parent_id": null
+      "parent_id": "Q677037"
     }
   ],
   "memberships": [

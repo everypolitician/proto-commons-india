@@ -1,0 +1,172 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Tarun Gogoi"
+      },
+      "id": "Q3349343",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3349343"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sarbananda Sonowal",
+        "lang:hi": "सर्बानन्दा सोनवाल"
+      },
+      "id": "Q7423486",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7423486"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/SarbanandaSonowal"
+        }
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Council of Ministers of Assam",
+        "lang:hi": "असम विधान सभा"
+      },
+      "id": "Q55147372",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55147372"
+        }
+      ],
+      "area_id": "Q1164"
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:as"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018631"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Assam",
+        "lang:hi": "असम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q3349343-E55381BD-4545-4111-9B61-75500646CAF8",
+      "person_id": "Q3349343",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147372",
+      "area_id": "Q1164",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018631",
+      "role": {
+        "lang:en": "Chief Minister of Assam",
+        "lang:hi": "असम के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7423486-b42275c5-4867-a5c7-4c40-13ad70db5e8a",
+      "person_id": "Q7423486",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147372",
+      "area_id": "Q1164",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018631",
+      "role": {
+        "lang:en": "Chief Minister of Assam",
+        "lang:hi": "असम के मुख्यमंत्री"
+      }
+    }
+  ]
+}

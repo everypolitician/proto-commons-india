@@ -1,0 +1,1578 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय विधान सभा"
+      },
+      "id": "Q6809008",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6809008"
+        }
+      ],
+      "area_id": "Q1195",
+      "seat_counts": {
+        "Q21191665": "60"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018641"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Meghalaya",
+        "lang:hi": "मेघालय"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q28179924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Songsak (ST)",
+        "lang:hi": "सोंगसाक विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q28179930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mendipathar (ST)",
+        "lang:hi": "मेंदीपत्थर विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q30600162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Chokpot (ST)",
+        "lang:hi": "चोकपोट विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50383611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50383611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Pynthorumkhrah",
+        "lang:hi": "प्यंथोरूमखरह विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50391160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50391160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Raksamgre (ST)",
+        "lang:hi": "रकसमग्रे विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50604351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50604351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "South Shillong",
+        "lang:hi": "दक्षिण शिलांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50670480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50670480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "East Shillong (ST)",
+        "lang:hi": "पूर्व शिलांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50809806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "North Shillong (ST)",
+        "lang:hi": "उत्तर शिलांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50809864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mylliem (ST)",
+        "lang:hi": "मायल्लिएम विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50809873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50809873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "West Shillong",
+        "lang:hi": "पश्चिम शिलांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50825597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50825597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Nartiang (ST)",
+        "lang:hi": "नर्टियांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50825599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50825599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Jowai (ST)",
+        "lang:hi": "जोवाई विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q50825987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q50825987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Nongpoh (ST)",
+        "lang:hi": "नोंगपोह विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q51077140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51077140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mowkaiaw (ST)",
+        "lang:hi": "मोकैअव विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q51077204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51077204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Sutnga-Saipung (ST)",
+        "lang:hi": "सुतंगा साइपुंग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q51077220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51077220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Khliehriat (ST)",
+        "lang:hi": "खलीहृयत विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q51077231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51077231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Amlarem (ST)",
+        "lang:hi": "अमलारेम विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q51077239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51077239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawhati (ST)",
+        "lang:hi": "मवहाटी विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q51077319",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q51077319"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Raliang (ST)",
+        "lang:hi": "रालिआंग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Jirang (ST)",
+        "lang:hi": "जिरांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Umsning (ST)",
+        "lang:hi": "उमस्निंग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Umroi (ST)",
+        "lang:hi": "उमरोई विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawryngkneng(ST)",
+        "lang:hi": "मवर्यांगकनेंग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawlai (ST)",
+        "lang:hi": "मवलाई विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Nongthymmai (ST)",
+        "lang:hi": "नोंगथईममाय विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Nongkrem (ST)",
+        "lang:hi": "नोंगक्रेम विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Sohing (ST)",
+        "lang:hi": "सोहिओंग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589576",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589576"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawphlang (ST)",
+        "lang:hi": "मावफलांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawsynram (ST)",
+        "lang:hi": "मासिनराम विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Shella (ST)",
+        "lang:hi": "शेल्ला विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Pynursla (ST)",
+        "lang:hi": "प्यनुर्सला विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Sohra (ST)",
+        "lang:hi": "सोहरा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589587",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589587"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawkynrew (ST)",
+        "lang:hi": "मावक्यनरेव विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mairang (ST)",
+        "lang:hi": "मैरांग विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawthadraishan (ST)",
+        "lang:hi": "मावथाद्राईशन विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Nongstoin (ST)",
+        "lang:hi": "नोंग्सटोइन विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Rambrai Jyrngam (ST",
+        "lang:hi": "रामब्राइ ज्यर्नगाम विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawshynrut (ST)",
+        "lang:hi": "मवश्यान्रुत विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Ranikor (ST)",
+        "lang:hi": "रानिकोर विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mawkyrwat (ST)",
+        "lang:hi": "मवक्यर्वत विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Kharkutta (ST)",
+        "lang:hi": "खरकुत्ता विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Resubelpara (ST)",
+        "lang:hi": "रेसुबेलपाड़ा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Bajengdoba (ST)",
+        "lang:hi": "बाजेंगदोबा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Rongjeng (ST)"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "William Nagar (ST)"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Tikrikila (ST)",
+        "lang:hi": "टिकरीकिल्ला विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Phulbari",
+        "lang:hi": "फुलबारी विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Rajabala",
+        "lang:hi": "राजाबाला विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Selsella (ST)",
+        "lang:hi": "सेलसेल्ला विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Dadenggre (ST)",
+        "lang:hi": "देदेंगग्रे विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "North Tura (ST)",
+        "lang:hi": "उत्तर तुरा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "SouthTura (ST)",
+        "lang:hi": "दक्षिण तुरा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Rangsakona (ST)",
+        "lang:hi": "रंगसाकोना विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Ampathi (ST)",
+        "lang:hi": "अम्पति विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Mahendraganj (ST)",
+        "lang:hi": "महेन्द्रगंज विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Salmanpara (ST)",
+        "lang:hi": "सलमनपाड़ा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Gambegre (ST)",
+        "lang:hi": "गैमबेग्रे विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Dalu (ST)",
+        "lang:hi": "डालु विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Rongara-Siju (ST)",
+        "lang:hi": "रोंगारा सिजु विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q55589635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ml/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55589635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q21191665"
+      ],
+      "type": {
+        "lang:en": "constituency of the Meghalaya Legislative Assembly",
+        "lang:hi": "मेघालय के विधानसभा निर्वाचन क्षेत्र"
+      },
+      "name": {
+        "lang:en": "Baghmara (ST)",
+        "lang:hi": "बाघमारा विधानसभा निर्वाचन क्षेत्र"
+      },
+      "parent_id": "Q1195"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
