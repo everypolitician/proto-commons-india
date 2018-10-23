@@ -51,7 +51,1437 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018630"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Arunachal Pradesh",
+        "lang:hi": "अरुणाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q25209190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hayuliang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q25209201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Itanagar"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q25209450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mariyang-geku"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q28179939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palin"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q28179977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khonsa East"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q28180074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28180074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nampong"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q28419661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28419661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rumgong"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q28419662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28419662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pangin"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q28419665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28419665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pongchau Wakka"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q30598171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30598171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pakke Kessang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q30600955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tawang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q30600956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Along West"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q30600959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lumla"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q427049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q427049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tuting-yingkiong (ST)",
+        "lang:hi": "अरुणाचल प्रदेश विधान सभा"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q48725958",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48725958"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Likabali"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261568",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261568"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dirang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261569",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261569"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalaktang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thrizino-buragaon"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bomdila"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bameng"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chayangtajo"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Seppa East"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Seppa West"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261576",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261576"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Doimukh"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sagalee"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yachuli"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261580",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261580"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ziro Hapoli"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nyapin"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tali"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261583",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261583"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Koloriang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nacho"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Taliha"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261586",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261586"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Daporijo"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261591",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261591"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raga"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261592",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261592"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Damporijo (ST)"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Liromoba"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basar"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Along East"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mechuka"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nari-koyu"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pasighat West"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pasighat East"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261602",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261602"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mebo"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anini"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dambuk"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Roing"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tezu"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chowkham"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Namsai"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lekang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261614",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261614"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bordumsa - Diyun"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Miao"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Changlang South"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Changlang North"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Namsang"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khonsa West"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Borduria Bogapani"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kanubari"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q55261623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55261623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Longding Pumao"
+      },
+      "parent_id": "Q1162"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6933629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ar/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6933629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24456735"
+      ],
+      "type": {
+        "lang:en": "constituency of the Arunachal Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mukto"
+      },
+      "parent_id": "Q1162"
+    }
   ],
   "memberships": [
     {
