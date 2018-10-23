@@ -2180,7 +2180,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chikkodi"
+        "value" : "Chikodi"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -2278,7 +2278,7 @@
       "district_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "Chikkodi"
+        "value" : "Chikodi"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -111810,6 +111810,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2009-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PartapSBajwa"
       }
     }, {
       "statement" : {
@@ -111894,6 +111898,10 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2009-01-01T00:00:00Z"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "PartapSBajwa"
       }
     }, {
       "party" : {
