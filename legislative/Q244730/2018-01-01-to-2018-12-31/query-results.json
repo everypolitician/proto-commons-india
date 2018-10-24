@@ -20864,6 +20864,93 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q24952517-E68ED6C1-CE9B-4ADB-9AC4-526E1D624363"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17324844"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Rajya Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q24952517"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chhaya Verma"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244730"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राज्यसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rajya Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "245"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10225"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Indian National Congress"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57156448"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Chhattisgarh"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "ChhayaVermaCG"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q2497083-c07c222d-cf92-4465-b956-c7626c3c7c9b"
       },
       "role_superclass" : {
@@ -34113,6 +34200,98 @@
     }, {
       "statement" : {
         "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q3630136-E86C8C98-86DB-4A17-903E-14ABDB60C30A"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17324844"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Rajya Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q3630136"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Subhash Chandra"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244730"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राज्यसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rajya Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "245"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सुभाष चंद्रा"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q327591"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "स्वतंत्र"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "independent politician"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57156453"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Haryana"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "baheriasc"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q3630345-F93EBC8E-FCF1-4E53-BFB6-3E63C6B9C49A"
       },
       "role_superclass" : {
@@ -42929,6 +43108,98 @@
       "facebook" : {
         "type" : "literal",
         "value" : "rajmanipatelrewainc"
+      }
+    }, {
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q50591974-974A9B36-4E2F-443B-9213-2394C8996975"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q17324844"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Rajya Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q50591974"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Madan Lal Saini"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q244730"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "राज्यसभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rajya Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "245"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "मदनलाल सैनी"
+      },
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q57156509"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Rajasthan"
+      },
+      "facebook" : {
+        "type" : "literal",
+        "value" : "Madan-Lal-Saini-1444842072439448"
       }
     }, {
       "statement" : {
