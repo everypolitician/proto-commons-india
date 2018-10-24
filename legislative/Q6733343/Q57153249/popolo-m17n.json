@@ -23,7 +23,6680 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q221922"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Maharashtra",
+        "lang:hi": "महाराष्ट्र"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q13115301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Andheri East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13115534",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115534"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arjuni Morgaon(SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13115858",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115858"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13115883",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115883"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ichalkaranji"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13115934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Islampur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Umred (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aurangabad Central"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116279",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116279"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karad North"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karad South"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karjat Jamkhed"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalyan Rural"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalyan West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116316",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116316"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalwan (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116459",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116459"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kinwat"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kolhapur North"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kolhapur South"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116768",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116768"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khamgaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13116784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gangakhed"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13117039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghatkopar East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13117185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chimur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13117380",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117380"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jalna"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13117399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jintur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13117675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dombivali"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13117789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tirora"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Daund"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagpur North"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagpur South"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagpur Central"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naigaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nashik West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pandharpur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118556",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118556"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Partur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parbhani"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patan"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parner"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118704",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118704"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pimpri (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13118784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13118784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Purandar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phaltan (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119134",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119134"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badnapur (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ballarpur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barshi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhiwandi Rural(ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhiwandi East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13119985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malegaon Central"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13120074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13120074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Murbad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13120655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13120655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rahuri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13120898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13120898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Loha"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13120906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13120906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vadgaon Sheri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13120965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13120965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vasai"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13121474",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121474"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shirur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13121604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shrigonda"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13121632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shrirampur(SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13121865",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121865"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sangole"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13121872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sakri (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13121986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sillod"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13122179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13122179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Solapur City Central"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13122180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13122180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Solapur South"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13122181",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13122181"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Solapur City North"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13634031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13634031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhule Rural"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q13640601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13640601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kagal"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q15189336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15189336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arni (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q15994149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15994149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalamnuri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q17065561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17065561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q17081490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:285"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17081490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palus-Kadegaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18327344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18327344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hingna"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18327346",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18327346"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kamthi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18377942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18377942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Andheri West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18378505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18378505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhandup West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18379147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18379147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nanded North"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18379426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18379426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jogeshwari East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18391527",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18391527"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagpur South West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18392050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18392050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sion Koliwada"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18395952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wadala"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18534411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18534411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phulambri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q18552488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18552488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shevgaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19804211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19804211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aheri (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19805358",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19805358"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AurangabadWest(SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19805360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19805360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aurangabad East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19805499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19805499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karvir"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19805579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19805579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalyan East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19806220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19806220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khadakwasala"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19806269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19806269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khed Alandi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19806357",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19806357"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gadchiroli (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19806526",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19806526"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gondiya"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19806657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19806657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghansawangi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19806716",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19806716"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandrapur (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19807107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19807107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Junnar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19807995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19807995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deglur (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19808297",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808297"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nanded South"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19808308",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808308"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagpur East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19808402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nalasopara"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19808403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nashik East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19808773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parvati"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19808870",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808870"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palghar (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19809050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19809050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Paithan"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19809701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19809701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Brahmapuri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19809968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19809968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhiwandi West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19810018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19810018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhor"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19810038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19810038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhosari"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19811330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19811330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Man"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19811672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19811672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mukhed"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q19813938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19813938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wai"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q20579433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20579433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahuwadi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q20585845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20585845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hadapsar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q20585948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20585948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hadgaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q20586381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20586381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hatkanangle(SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q20586564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q20586564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hingoli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q25203331",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25203331"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akkalkot"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q25241345",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241345"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Boisar (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q25241354",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241354"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambernath (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4673439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4673439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Achalpur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4696134",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4696134"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ahmednagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4696139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4696139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ahmadpur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4698844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4698844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Airoli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4701313",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4701313"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akkalkuwa (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4701513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4701513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akola East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4701519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4701519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akola West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4701522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4701522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akole (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4701547",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4701547"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akot"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4725623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4725623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alibag"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4739429",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4739429"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amalner"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4741191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4741191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambegaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4745993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4745993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amgaon (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4748630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4748630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amravati"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4777921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4777921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anushakti Nagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4793728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4793728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Armori (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4802399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4802399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arvi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4805970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4805970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ashti"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4822703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4822703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ausa"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4841059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badnera"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4841966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baglan (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4850069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4850069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Balapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4858307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4858307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baramati"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4867801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4867801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basmath"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4879724",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4879724"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Beed"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4881906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4881906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4900967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4900967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhandara (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4901920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhokar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4901922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhokardan"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4902219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4902219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhusawal (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4945510",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4945510"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Borivali"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q4996104",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4996104"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Buldhana"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5003981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5003981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Byculla"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5068773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5068773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chalisgaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5071029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandgad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5071113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandivali"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5071522",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071522"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandvad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5074579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5074579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Charkop"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5090351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5090351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chembur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5097418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5097418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chikhli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5100315",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5100315"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chinchwad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5101613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5101613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chiplun"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5104825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5104825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chopda (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5141857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5141857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Colaba"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5208776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5208776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dahanu (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5208847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5208847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dahisar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5221790",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5221790"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dapoli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5226126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5226126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Daryapur (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5259978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5259978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deolali (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5259983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5259983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deoli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5268819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5268819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhamangaon Railway"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5269173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5269173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharavi (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5269856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5269856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhule City"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5276366",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5276366"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Digras"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5278013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5278013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dindori (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5278014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5278014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dindoshi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5384880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5384880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Erandol"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5521058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5521058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gangapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5535598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5535598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Georai"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5555930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5555930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghatkopar West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5586151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5586151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Goregaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5615301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5615301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Guhagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5767095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5767095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hinganghat"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q5991528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5991528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Igatpuri (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6126749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6126749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jalgaon (Jamod)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6126756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6126756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jalgaon City"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6126757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6126757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jalgaon Rural"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6148076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6148076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamner"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6164439",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:288"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6164439"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jat"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6347718",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6347718"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kaij (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6352811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6352811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalina"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6361553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6361553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kandivali East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6363700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6363700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kankavli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6363866",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6363866"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kannad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6368481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6368481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karanja"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6371234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6371234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karjat"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6372699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6372699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karmala"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6374071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6374071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kasba Peth"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6377775",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6377775"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katol"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6400167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:286"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khanapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6431010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6431010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kopargaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6431195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6431195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kopri-Pachpakhadi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6432109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6432109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Koregaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6434036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6434036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kothrud"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6441630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6441630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kudal"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6446145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6446145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kurla (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6497198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6497198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Latur City"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6497212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6497212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Latur Rural"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6727222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madha"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6729734",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6729734"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Magathane"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6733995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6733995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahim"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6737421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6737421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Majalgaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6740741",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6740741"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malabar Hill"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6740939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6740939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malad West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6742985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6742985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malegaon Outer"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6743869",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6743869"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malkapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6744628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6744628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malshiras (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6750524",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6750524"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mankhurd Shivaji Nagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6794119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6794119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maval"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6809505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6809505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mehkar (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6812245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6812245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Melghat (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6872192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6872192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mira Bhayandar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6872634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:281"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6872634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Miraj (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6894282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6894282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mohol (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6914288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6914288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Morshi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6933597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6933597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Muktainagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6935229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6935229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mulund"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6935261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6935261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mumbadevi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6935370",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6935370"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mumbra-Kalwa"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6939744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6939744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Murtizapur (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6959026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagpur West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6963216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6963216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nandgaon"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6963392",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6963392"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nandurbar (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6966845",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6966845"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nashik Central"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q6982086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6982086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nawapur (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7003759",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7003759"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nevasa"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7036884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7036884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nilanga"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7039445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7039445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Niphad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7107119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7107119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Osmanabad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7113219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7113219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ovala ?Majiwada"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7122071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7122071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pachora"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7131978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7131978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panvel"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7135451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7135451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Paranda"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7138892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7138892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7144852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7144852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pathri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7162081",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7162081"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pen"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7260099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7260099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pune Cantonment (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7261692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7261692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pusad"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7280217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7280217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Radhanagari"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7285769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7285769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7286489",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286489"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajura"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7286872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ralegaon (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7290323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramtek"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7295844",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7295844"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ratnagiri"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7296596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7296596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raver"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7336330",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7336330"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Risod"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7403048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7403048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sakoli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7417811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7417811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sangamner"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7418043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7418043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sangli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7425945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7425945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Satara"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7428378",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7428378"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Savner"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7428585",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7428585"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sawantwadi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7461422",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7461422"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahada (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7461450",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7461450"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahapur (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7498253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:284"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7498253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shirala"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7498344",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7498344"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shirdi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7498933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7498933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shirol"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7498970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7498970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shirpur (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7499267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7499267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shivadi"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7499294",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7499294"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shivajinagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7504208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7504208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shrivardhan"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7522287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7522287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sindkhed Raja"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7522299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7522299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sindkheda"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7524658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7524658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sinnar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7687144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:287"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7687144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tasgaon-Kavathe Mahankal"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7701195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7701195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Teosa"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7710232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7710232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thane"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7852109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7852109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tuljapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7852702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7852702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tumsar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7877185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7877185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Udgir (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7878930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7878930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ulhasnagar"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7881152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7881152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Umarga (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7881163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7881163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Umarkhed (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7899626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7899626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Uran"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7908727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7908727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vaijapur"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7914552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7914552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vandre East"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7914553",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7914553"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vandre West"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7922711",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7922711"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Versova"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7929428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7929428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vikhroli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7929603",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7929603"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vikramgad (ST)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7930144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7930144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vile Parle"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7967933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7967933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wani"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7969157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7969157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wardha"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7969852",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7969852"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Warora"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q7971499",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7971499"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Washim (SC)"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q8036829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8036829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Worli"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q8050385",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8050385"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yavatmal"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q8053338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q8053338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18055379"
+      ],
+      "type": {
+        "lang:en": "constituency of the Maharashtra Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yevla"
+      },
+      "parent_id": "Q1191"
+    }
   ],
   "memberships": [
 
