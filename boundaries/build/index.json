@@ -967,6 +967,71 @@
     }
   },
   {
+    "directory": "gujarat-ac",
+    "area_type_wikidata_item_id": "Q54375438",
+    "associations": [
+      {
+        "comment": "Member of the Gujarat Legislative Assembly",
+        "position_item_id": "Q17582810"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "jammu-and-kashmir-ac",
+    "area_type_wikidata_item_id": "Q54375453",
+    "associations": [
+      {
+        "comment": "member of the Jammu and Kashmir Legislative Assembly",
+        "position_item_id": "Q18171423"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "karnataka-ac",
+    "area_type_wikidata_item_id": "Q54375457",
+    "associations": [
+      {
+        "comment": "Member of the Karnataka Legislative Assembly",
+        "position_item_id": "Q24525419"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "mizoram-ac",
+    "area_type_wikidata_item_id": "Q16773343",
+    "associations": [
+      {
+        "comment": "Member of the Mizoram Legislative Assembly",
+        "position_item_id": "Q24540202"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }  
+  },
+  {
+    "directory": "tamil-nadu-ac",
+    "area_type_wikidata_item_id": "Q54375510",
+    "associations": [
+      {
+        "comment": "Member of the Tamil Nadu Legislative Assembly",
+        "position_item_id": "Q24558764"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
     "directory": "odisha-ac",
     "area_type_wikidata_item_id": "Q54375487",
     "associations": [
@@ -977,6 +1042,6 @@
     ],
     "name_columns": {
       "lang:en": "AC_NAME"
-    }
+    }  
   }
 ]
