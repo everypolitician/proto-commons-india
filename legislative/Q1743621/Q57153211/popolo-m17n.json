@@ -69,7 +69,4242 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22337580"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Gujarat",
+        "lang:hi": "गुजरात"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q13115448",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115448"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Abdasa"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13115950",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13115950"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Unjha"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13116222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13116222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kadi (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13117125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chanasma"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13117640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13117640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deesa"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13119351",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119351"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bechraji"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13119825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13119825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandvi (Surat)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13121039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vav"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13121969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13121969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sidhpur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q13122348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13122348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Himatnagar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q15649677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15649677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharampur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q17071864",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17071864"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maninagar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q17198918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17198918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ellisbridge"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q17199169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17199169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajkot Pashchim"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q17509707",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17509707"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhiloda (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18109619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18109619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amraiwadi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18109621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18109621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amreli"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18109690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18109690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anklav"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18109834",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18109834"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Asarwa (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bapunagar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bayad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhavnagar Gramya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhavnagar Pashchim"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhavnagar Purva"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110710",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110710"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Borsad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18110713",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18110713"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Botad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chotila"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111500",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111500"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dahegam"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Danilimda (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Danta (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111558",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111558"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dariapur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111582",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111582"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Daskroi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deodar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111747",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111747"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhandhuka"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhanera"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhangadhra"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111773",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111773"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhari"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111808",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111808"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dholka"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18111820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18111820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhoraji"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18112107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18112107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dwarka"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18124961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18124961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gadhada (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18124992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18124992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandhidham"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18124994",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18124994"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandhinagar Dakshin"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18124996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18124996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandhinagar Uttar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18125031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18125031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gariadhar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18125095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18125095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghatlodiya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18125180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18125180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gondal"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18125848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18125848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Idar (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamalpur-Khadia"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamjodhpur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamnagar Dakshin"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamnagar Gramya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamnagar Uttar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126236",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126236"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jasdan"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126267",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126267"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jetpur (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Junagadh"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126486",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126486"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalavad (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126561",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126561"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kankrej"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126749",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126749"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Keshod"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khambhaliya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khambhat"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khedbrahma"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kheralu"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18126871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18126871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kodinar (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kutiyana"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lathi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Limdi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahesana"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahuva Surat(Vidhan Sabha constituency)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manavadar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangrol"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18127814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18127814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mansa"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18128112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18128112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Modasa"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18128193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18128193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Morbi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18128512",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18128512"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naranpura"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18128517",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18128517"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naroda"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18128729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18128729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nikol"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18129118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18129118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palanpur (Vidhan Sabha constituency)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18129139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18129139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Palitana"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18129254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18129254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patan"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18343652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18343652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Porbandar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18344126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18344126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Prantij"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18348090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18348090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Halol"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18349937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18349937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dabhoi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18349956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18349956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dahod (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18350678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18350678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akota"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18350838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18350838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lunawada"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18351482",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18351482"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Devgadhbariya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18351689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18351689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahudha"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18351894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18351894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anand"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18352302",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18352302"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manjalpur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18353776",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18353776"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nizar (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18353951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18353951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Limbayat"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18354040",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18354040"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Limkheda (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18354529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18354529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanand"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18354791",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18354791"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sankheda"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18354830",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18354830"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Fatepura (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18355047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18355047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Santrampur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18355629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18355629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Savarkundla"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18355692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18355692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Savli"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Balasinor"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahuva (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Umargam"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356281",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356281"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Majura"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Umreth"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandvi (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangrol (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bardoli (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18356998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18356998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandevi (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Garbada (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shehra"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vadgam (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vaghodiya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357856",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357856"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bharuch"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Matar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18357911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18357911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhuj"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18358276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18358276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vansda (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18358284",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18358284"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Varachha Road"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18358416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18358416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vatva"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18358696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18358696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jalalpore"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18358746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18358746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jambusar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18378036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18378036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sayajigunj"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18378744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18378744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jetpur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18378811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18378811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhagadia (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18378816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18378816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhalod (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18378981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18378981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nadiad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18379076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18379076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sojitra"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18379164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18379164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nandod (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18379248",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18379248"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Somnath"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18379738",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18379738"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Navsari"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18385227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18385227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ankleshwar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18385426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18385426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Olpad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18385971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18385971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Padra"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Surat West"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386519",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386519"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalol"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386521",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386521"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Surat North"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pardi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalol"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kamrej"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kapadvanj"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18386983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18386983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kaprada (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karanj"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chhota Udaipur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katargam"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Choryasi"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387723",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387723"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Talaja"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387726",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387726"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Talala"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18387908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18387908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tankara"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18388068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18388068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dangs (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18388261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18388261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dediapada"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18388952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18388952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thakkarbapa Nagar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18389035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18389035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tharad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18389052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18389052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thasra"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18390495",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18390495"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mehmedabad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18391213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18391213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Morva Hadaf"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18391847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18391847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sabarmati"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18392381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18392381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Godhara"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18392541",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18392541"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Petlad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Radhanpur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Surat Purva"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393287",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393287"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajkot Dakshin"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393289",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393289"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajkot Gramya"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393290",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393290"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajkot Purva"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393299",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393299"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajula"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393488",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393488"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raopura"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18393490",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18393490"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rapar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18394461",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18394461"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wankaner"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18394917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18394917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Udhna"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vadodara Shaher"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vagra"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Valsad"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395283",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395283"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vejalpur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vijapur"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Viramgam"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395511",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395511"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Visavadar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395564",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395564"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Visnagar"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vyara (ST)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q18395968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q18395968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wadhwan"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q19459124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19459124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dasada (SC)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q19892536",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19892536"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karjan"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q47457139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47457139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Una (Vidhan Sabha constituency)"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6959817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q17582810"
+      ],
+      "type": {
+        "lang:en": "constituency of the Gujarat Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anjar"
+      },
+      "parent_id": "Q1061"
+    }
   ],
   "memberships": [
     {
