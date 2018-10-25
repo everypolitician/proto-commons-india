@@ -37,7 +37,5208 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53761260"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Karnataka",
+        "lang:hi": "कर्नाटक"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q17017113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17017113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belthangady"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q17101795",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17101795"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Virajpet"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q24932099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24932099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "K.R.Pura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q28173543",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28173543"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangalore City South"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q28173545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28173545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangalore City North"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q28179428",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179428"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangalore"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q28180272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28180272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gundlupet"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q30599617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gulbarga Rural(SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q47468171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47468171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aland"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q47468176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q47468176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arabhavi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48724529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48724529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shikaripura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bailhongal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basavanagudi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726787",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726787"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arkalgud"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726797",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726797"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sarvagnanagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shivajinagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726802",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726802"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belgaum Rural"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Athani"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nargund"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chittapur (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Aurad (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48726819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bommanahalli"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q48727026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yelahanka"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nippani"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434894",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434894"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chikkodi-Sadalga"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kagwad"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kudachi (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raybag (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hukkeri"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gokak"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434900",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434900"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yemkanmardi (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434902",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434902"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belgaum Uttar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434903",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434903"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belgaum Dakshin"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khanapur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kittur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434906",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434906"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saundatti Yellamma"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434907",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434907"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramdurg"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434909",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434909"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mudhol (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434910",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434910"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Terdal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jamkhandi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434912",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434912"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bilgi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434914",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434914"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badami"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434915",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434915"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bagalkot"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hungund"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Muddebihal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434918",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434918"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Devar Hippargi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basavana Bagevadi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434920",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434920"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Babaleshwar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434921",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434921"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bijapur City"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagthan (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sindgi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Afzalpur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jevargi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shorapur (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434930",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434930"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yadgir"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434931",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434931"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gurmitkal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434932",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434932"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sedam"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chincholi (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434936",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434936"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gulbarga Dakshin"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434937",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434937"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gulbarga Uttar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basavakalyan"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434940",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434940"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Homnabad"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bidar South"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bidar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhalki"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raichur Rural (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434945",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434945"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raichur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434948",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434948"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manvi (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Devadurga (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lingsugur (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sindhanur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maski (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434954",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434954"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kushtagi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kanakagiri (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gangawati"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434957",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434957"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yelburga"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Koppal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434961",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434961"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shirahatti (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gadag"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434963",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434963"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ron"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Navalgund"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kundgol"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharwad"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hubli-Dharwad-East(SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hubli-Dharwad-Central"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hubli-Dharwad- West"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434971",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434971"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalghatgi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434972",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434972"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Haliyal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karwar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kumta"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434975",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434975"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhatkal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434976",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434976"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sirsi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434977",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434977"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yellapur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434978",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434978"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hangal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434979",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434979"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shiggaon"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434980",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434980"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Haveri (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434981",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434981"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Byadgi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hirekerur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ranibennur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hadagalli (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434986",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434986"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hagaribommanahalli(SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434987",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434987"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vijayanagara"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kampli (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Siruguppa (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bellary (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434993",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434993"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bellary City"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434995",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434995"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sandur (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kudligi (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Molakalmuru (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Challakere (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55434999",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55434999"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chitradurga"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hiriyur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hosadurga"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Holalkere (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435008",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435008"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jagalur (ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435009",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435009"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harapanahalli"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435010",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435010"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harihar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Davanagere North"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Davanagere South"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mayakonda (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435014",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435014"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Channagiri"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435016",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435016"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Honnali"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shimoga Rural (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhadravati"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shimoga"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435020",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435020"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tirthahalli"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435021",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435021"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sorab"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435023",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435023"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Byndoor"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435025",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435025"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kundapura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435028",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435028"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Udupi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435029",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435029"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kapu"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karkal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435031",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435031"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sringeri"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mudigere (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435033",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435033"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chikmagalur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tarikere"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435035",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435035"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kadur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435036",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435036"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chiknayakanhalli"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435038",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435038"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tiptur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Turuvekere"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kunigal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tumkur City"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435043",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435043"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tumkur Rural"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435044",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435044"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Koratagere (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gubbi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435046",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435046"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sira"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435047",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435047"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pavagada (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madhugiri"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435049",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435049"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gauribidanur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bagepalli"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chikkaballapur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sidlaghatta"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chintamani"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Srinivaspur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mulbagal (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kolar Gold Field(SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bangarapet (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kolar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Byatarayanapura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yeshvanthapura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajarajeshwarinagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dasarahalli"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahalakshmi Layout"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malleshwaram"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hebbal"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pulakeshinagar(SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "C.V. Raman Nagar(SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shanti Nagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajaji Nagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Govindraj Nagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vijay Nagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chamrajpet"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chickpet"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Padmanaba Nagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435083",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435083"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "B.T.M Layout"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435085",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435085"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jayanagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahadevapura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bangalore South"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435089",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435089"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anekal (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435090",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435090"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hosakote"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435091",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435091"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Devanahalli (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Doddaballapur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435093",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435093"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nelamangala (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Magadi"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramanagaram"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kanakapura"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435099",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435099"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Channapatna"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435100",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435100"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malavalli (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435101",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435101"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maddur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435102",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435102"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Melukote"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435103",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435103"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandya"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shrirangapattana"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagamangala"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Krishnarajpet"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435108",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435108"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shravanabelagola"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435109",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435109"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arsikere"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Belur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hassan"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Holenarasipur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sakleshpur (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435115",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435115"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Moodabidri"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bantval"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435117",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435117"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Puttur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sullia (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435119",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435119"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Madikeri"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Piriyapatna"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435121",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435121"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Krishnarajanagara"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435122",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435122"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hunsur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435123",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435123"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Heggadadevankote(ST)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nanjangud (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435126",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435126"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chamundeshwari"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435127",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435127"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Krishnaraja"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435128",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435128"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chamaraja"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435130",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435130"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narasimharaja"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435131",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435131"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Varuna"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435132",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435132"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "T.Narasipur (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435133",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435133"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hanur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435134",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435134"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kollegal (SC)"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chamarajanagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahapur"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q55435324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55435324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525419"
+      ],
+      "type": {
+        "lang:en": "constituency of the Karnataka Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandhi Nagar"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {
