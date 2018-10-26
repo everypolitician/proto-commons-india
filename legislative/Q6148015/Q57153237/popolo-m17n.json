@@ -23,7 +23,2057 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38882023"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Jammu and Kashmir",
+        "lang:hi": "जम्मू और कश्मीर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q19459070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19459070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMMU WEST"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q19843125",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19843125"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BILLAWAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q25209003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ANANTNAG"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q25209138",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209138"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAGROTA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30594229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30594229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJPORA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599374",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599374"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SUCHET GARH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANBIR SINGH PURA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599384",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599384"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MARH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599386",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599386"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMMU EAST"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAFIABAD"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GULABGARH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BISHNAH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30599616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "UDHAMPUR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30600168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HIRA NAGAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30600172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BASOHLI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30600179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GANDHI NAGAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30600184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAM NAGAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q30600185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30600185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHENANI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q48727616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PAHALGAM"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KARNAH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432141",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432141"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KUPWARA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LOLAB"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HANDWARA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LANGATE"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432145",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432145"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "URI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432146",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432146"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SOPORE"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432147",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432147"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GUREZ"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANDIPORA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SONAWARI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SANGRAMA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARAMULA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432153",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432153"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GULMARG"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432154",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432154"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PATTAN"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KANGAN"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GANDERBAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HAZRATBAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ZADIBAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "EIDGAH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432163",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432163"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHANIYAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HABBA KADA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AMIRA KADA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432166",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432166"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SONAWAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BATAMALOO"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHADOORA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432170",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432170"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BADGAM"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432171",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432171"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BEERWAH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432172",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432172"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHAN SAHEB"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHRAR SHAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TRAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432175",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432175"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PAMPORE"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PULWAMA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "WACHI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SHOPIAN"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432179",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432179"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NOORABAD"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432180",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432180"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KULGAM"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HOM SHALI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DEVSAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DORU"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KOKERNAG"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432187",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432187"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SHANGUS"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BIJBEHARA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NURBRA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LEH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KARGIL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ZANSKAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KISHTWAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "INDERWAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DODA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHADERWAH"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAMBAN"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANIHAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "REASI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOOL-ARNAS"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432204",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432204"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KATHUA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SAMBA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "VIJAYPUR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAIPUR DOMANA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AKHNOOR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHHAMB"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAUSHEHRA"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DARHAL"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJAURI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432217",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432217"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALA KOTE"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SURAN KOTE"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MENDHAR"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q55432220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jk/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55432220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q18171423"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jammu and Kashmir Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "POONCH HAVELI"
+      },
+      "parent_id": "Q1180"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

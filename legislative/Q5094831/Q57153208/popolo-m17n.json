@@ -24,11 +24,36 @@
   ],
   "areas": [
     {
+      "id": "Q1168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38772867"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़"
+      },
+      "parent_id": "Q668"
+    },
+    {
       "id": "Q16837064",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:3"
+          "identifier": "country:in/state:ct/assembly-constituency:3"
         },
         {
           "scheme": "wikidata",
@@ -44,14 +69,14 @@
       "name": {
         "lang:en": "Baikunthpur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q16938381",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:47"
+          "identifier": "country:in/state:ct/assembly-constituency:47"
         },
         {
           "scheme": "wikidata",
@@ -67,14 +92,14 @@
       "name": {
         "lang:en": "Dharsiwa"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q16938827",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:84"
+          "identifier": "country:in/state:ct/assembly-constituency:84"
         },
         {
           "scheme": "wikidata",
@@ -90,14 +115,14 @@
       "name": {
         "lang:en": "Narayanpur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q25209106",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:24"
+          "identifier": "country:in/state:ct/assembly-constituency:24"
         },
         {
           "scheme": "wikidata",
@@ -113,14 +138,14 @@
       "name": {
         "lang:en": "Marwahi (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q25209107",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:54"
+          "identifier": "country:in/state:ct/assembly-constituency:54"
         },
         {
           "scheme": "wikidata",
@@ -136,14 +161,14 @@
       "name": {
         "lang:en": "Rajim"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q25209159",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:27"
+          "identifier": "country:in/state:ct/assembly-constituency:27"
         },
         {
           "scheme": "wikidata",
@@ -159,14 +184,14 @@
       "name": {
         "lang:en": "Mungeli (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q25209168",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:32"
+          "identifier": "country:in/state:ct/assembly-constituency:32"
         },
         {
           "scheme": "wikidata",
@@ -182,14 +207,14 @@
       "name": {
         "lang:en": "Masturi (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q25209529",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:75"
+          "identifier": "country:in/state:ct/assembly-constituency:75"
         },
         {
           "scheme": "wikidata",
@@ -205,14 +230,14 @@
       "name": {
         "lang:en": "Rajnandgaon"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q25209531",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:42"
+          "identifier": "country:in/state:ct/assembly-constituency:42"
         },
         {
           "scheme": "wikidata",
@@ -228,14 +253,14 @@
       "name": {
         "lang:en": "Mahasamund"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q30599537",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:61"
+          "identifier": "country:in/state:ct/assembly-constituency:61"
         },
         {
           "scheme": "wikidata",
@@ -251,14 +276,14 @@
       "name": {
         "lang:en": "Gunderdehi"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q48726686",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:36"
+          "identifier": "country:in/state:ct/assembly-constituency:36"
         },
         {
           "scheme": "wikidata",
@@ -274,14 +299,14 @@
       "name": {
         "lang:en": "Chandrapur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339183",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:1"
+          "identifier": "country:in/state:ct/assembly-constituency:1"
         },
         {
           "scheme": "wikidata",
@@ -297,14 +322,14 @@
       "name": {
         "lang:en": "Bharatpur-Sonhat (S"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339184",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:2"
+          "identifier": "country:in/state:ct/assembly-constituency:2"
         },
         {
           "scheme": "wikidata",
@@ -320,14 +345,14 @@
       "name": {
         "lang:en": "Manendragarh"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339185",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:4"
+          "identifier": "country:in/state:ct/assembly-constituency:4"
         },
         {
           "scheme": "wikidata",
@@ -343,14 +368,14 @@
       "name": {
         "lang:en": "Premnagar"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339186",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:5"
+          "identifier": "country:in/state:ct/assembly-constituency:5"
         },
         {
           "scheme": "wikidata",
@@ -366,14 +391,14 @@
       "name": {
         "lang:en": "Bhatgaon"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339188",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:6"
+          "identifier": "country:in/state:ct/assembly-constituency:6"
         },
         {
           "scheme": "wikidata",
@@ -389,14 +414,14 @@
       "name": {
         "lang:en": "Pratappur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339189",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:7"
+          "identifier": "country:in/state:ct/assembly-constituency:7"
         },
         {
           "scheme": "wikidata",
@@ -412,14 +437,14 @@
       "name": {
         "lang:en": "Ramanujganj (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339190",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:8"
+          "identifier": "country:in/state:ct/assembly-constituency:8"
         },
         {
           "scheme": "wikidata",
@@ -435,14 +460,14 @@
       "name": {
         "lang:en": "Samri (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339191",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:9"
+          "identifier": "country:in/state:ct/assembly-constituency:9"
         },
         {
           "scheme": "wikidata",
@@ -458,14 +483,14 @@
       "name": {
         "lang:en": "Lundra (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339192",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:10"
+          "identifier": "country:in/state:ct/assembly-constituency:10"
         },
         {
           "scheme": "wikidata",
@@ -481,14 +506,14 @@
       "name": {
         "lang:en": "Ambikapur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339194",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:11"
+          "identifier": "country:in/state:ct/assembly-constituency:11"
         },
         {
           "scheme": "wikidata",
@@ -504,14 +529,14 @@
       "name": {
         "lang:en": "Sitapur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339195",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:12"
+          "identifier": "country:in/state:ct/assembly-constituency:12"
         },
         {
           "scheme": "wikidata",
@@ -527,14 +552,14 @@
       "name": {
         "lang:en": "Jashpur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339196",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:13"
+          "identifier": "country:in/state:ct/assembly-constituency:13"
         },
         {
           "scheme": "wikidata",
@@ -550,14 +575,14 @@
       "name": {
         "lang:en": "Kunkuri (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339197",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:14"
+          "identifier": "country:in/state:ct/assembly-constituency:14"
         },
         {
           "scheme": "wikidata",
@@ -573,14 +598,14 @@
       "name": {
         "lang:en": "Pathalgaon (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339198",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:15"
+          "identifier": "country:in/state:ct/assembly-constituency:15"
         },
         {
           "scheme": "wikidata",
@@ -596,14 +621,14 @@
       "name": {
         "lang:en": "Lailunga (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339199",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:16"
+          "identifier": "country:in/state:ct/assembly-constituency:16"
         },
         {
           "scheme": "wikidata",
@@ -619,14 +644,14 @@
       "name": {
         "lang:en": "Raigarh"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339200",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:17"
+          "identifier": "country:in/state:ct/assembly-constituency:17"
         },
         {
           "scheme": "wikidata",
@@ -642,14 +667,14 @@
       "name": {
         "lang:en": "Sarangarh (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339201",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:18"
+          "identifier": "country:in/state:ct/assembly-constituency:18"
         },
         {
           "scheme": "wikidata",
@@ -665,14 +690,14 @@
       "name": {
         "lang:en": "Kharsia"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339202",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:19"
+          "identifier": "country:in/state:ct/assembly-constituency:19"
         },
         {
           "scheme": "wikidata",
@@ -688,14 +713,14 @@
       "name": {
         "lang:en": "Dharamjaigarh (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339205",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:20"
+          "identifier": "country:in/state:ct/assembly-constituency:20"
         },
         {
           "scheme": "wikidata",
@@ -711,14 +736,14 @@
       "name": {
         "lang:en": "Rampur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339206",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:21"
+          "identifier": "country:in/state:ct/assembly-constituency:21"
         },
         {
           "scheme": "wikidata",
@@ -734,14 +759,14 @@
       "name": {
         "lang:en": "Korba"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339207",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:22"
+          "identifier": "country:in/state:ct/assembly-constituency:22"
         },
         {
           "scheme": "wikidata",
@@ -757,14 +782,14 @@
       "name": {
         "lang:en": "Katghora"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339208",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:23"
+          "identifier": "country:in/state:ct/assembly-constituency:23"
         },
         {
           "scheme": "wikidata",
@@ -780,14 +805,14 @@
       "name": {
         "lang:en": "Pali-Tanakhar (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339209",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:25"
+          "identifier": "country:in/state:ct/assembly-constituency:25"
         },
         {
           "scheme": "wikidata",
@@ -803,14 +828,14 @@
       "name": {
         "lang:en": "Kota"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339210",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:26"
+          "identifier": "country:in/state:ct/assembly-constituency:26"
         },
         {
           "scheme": "wikidata",
@@ -826,14 +851,14 @@
       "name": {
         "lang:en": "Lormi"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339211",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:28"
+          "identifier": "country:in/state:ct/assembly-constituency:28"
         },
         {
           "scheme": "wikidata",
@@ -849,14 +874,14 @@
       "name": {
         "lang:en": "Takhatpur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339212",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:29"
+          "identifier": "country:in/state:ct/assembly-constituency:29"
         },
         {
           "scheme": "wikidata",
@@ -872,14 +897,14 @@
       "name": {
         "lang:en": "Bilha"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339213",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:30"
+          "identifier": "country:in/state:ct/assembly-constituency:30"
         },
         {
           "scheme": "wikidata",
@@ -895,14 +920,14 @@
       "name": {
         "lang:en": "Bilaspur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339214",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:31"
+          "identifier": "country:in/state:ct/assembly-constituency:31"
         },
         {
           "scheme": "wikidata",
@@ -918,14 +943,14 @@
       "name": {
         "lang:en": "Beltara"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339215",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:33"
+          "identifier": "country:in/state:ct/assembly-constituency:33"
         },
         {
           "scheme": "wikidata",
@@ -941,14 +966,14 @@
       "name": {
         "lang:en": "Akaltara"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339216",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:34"
+          "identifier": "country:in/state:ct/assembly-constituency:34"
         },
         {
           "scheme": "wikidata",
@@ -964,14 +989,14 @@
       "name": {
         "lang:en": "Janjgir-Champa"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339218",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:35"
+          "identifier": "country:in/state:ct/assembly-constituency:35"
         },
         {
           "scheme": "wikidata",
@@ -987,14 +1012,14 @@
       "name": {
         "lang:en": "Sakti"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339219",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:37"
+          "identifier": "country:in/state:ct/assembly-constituency:37"
         },
         {
           "scheme": "wikidata",
@@ -1010,14 +1035,14 @@
       "name": {
         "lang:en": "Jaijaipur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339220",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:38"
+          "identifier": "country:in/state:ct/assembly-constituency:38"
         },
         {
           "scheme": "wikidata",
@@ -1033,14 +1058,14 @@
       "name": {
         "lang:en": "Pamgarh (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339221",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:39"
+          "identifier": "country:in/state:ct/assembly-constituency:39"
         },
         {
           "scheme": "wikidata",
@@ -1056,14 +1081,14 @@
       "name": {
         "lang:en": "Saraipali (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339222",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:40"
+          "identifier": "country:in/state:ct/assembly-constituency:40"
         },
         {
           "scheme": "wikidata",
@@ -1079,14 +1104,14 @@
       "name": {
         "lang:en": "Basna"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339223",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:41"
+          "identifier": "country:in/state:ct/assembly-constituency:41"
         },
         {
           "scheme": "wikidata",
@@ -1102,14 +1127,14 @@
       "name": {
         "lang:en": "Khallari"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339226",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:43"
+          "identifier": "country:in/state:ct/assembly-constituency:43"
         },
         {
           "scheme": "wikidata",
@@ -1125,14 +1150,14 @@
       "name": {
         "lang:en": "Bilaigarh (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339227",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:44"
+          "identifier": "country:in/state:ct/assembly-constituency:44"
         },
         {
           "scheme": "wikidata",
@@ -1148,14 +1173,14 @@
       "name": {
         "lang:en": "Kasdol"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339229",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:45"
+          "identifier": "country:in/state:ct/assembly-constituency:45"
         },
         {
           "scheme": "wikidata",
@@ -1171,14 +1196,14 @@
       "name": {
         "lang:en": "Baloda Bazar"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339230",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:46"
+          "identifier": "country:in/state:ct/assembly-constituency:46"
         },
         {
           "scheme": "wikidata",
@@ -1194,14 +1219,14 @@
       "name": {
         "lang:en": "Bhatapara"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339231",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:48"
+          "identifier": "country:in/state:ct/assembly-constituency:48"
         },
         {
           "scheme": "wikidata",
@@ -1217,14 +1242,14 @@
       "name": {
         "lang:en": "Raipur Rural"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339232",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:49"
+          "identifier": "country:in/state:ct/assembly-constituency:49"
         },
         {
           "scheme": "wikidata",
@@ -1240,14 +1265,14 @@
       "name": {
         "lang:en": "Raipur City West"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339233",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:50"
+          "identifier": "country:in/state:ct/assembly-constituency:50"
         },
         {
           "scheme": "wikidata",
@@ -1263,14 +1288,14 @@
       "name": {
         "lang:en": "Raipur City North"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339234",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:51"
+          "identifier": "country:in/state:ct/assembly-constituency:51"
         },
         {
           "scheme": "wikidata",
@@ -1286,14 +1311,14 @@
       "name": {
         "lang:en": "Raipur City South"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339235",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:52"
+          "identifier": "country:in/state:ct/assembly-constituency:52"
         },
         {
           "scheme": "wikidata",
@@ -1309,14 +1334,14 @@
       "name": {
         "lang:en": "Arang (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339239",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:53"
+          "identifier": "country:in/state:ct/assembly-constituency:53"
         },
         {
           "scheme": "wikidata",
@@ -1332,14 +1357,14 @@
       "name": {
         "lang:en": "Abhanpur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339240",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:55"
+          "identifier": "country:in/state:ct/assembly-constituency:55"
         },
         {
           "scheme": "wikidata",
@@ -1355,14 +1380,14 @@
       "name": {
         "lang:en": "Bindranawagarh (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339241",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:56"
+          "identifier": "country:in/state:ct/assembly-constituency:56"
         },
         {
           "scheme": "wikidata",
@@ -1378,14 +1403,14 @@
       "name": {
         "lang:en": "Sihawa (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339242",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:57"
+          "identifier": "country:in/state:ct/assembly-constituency:57"
         },
         {
           "scheme": "wikidata",
@@ -1401,14 +1426,14 @@
       "name": {
         "lang:en": "Kurud"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339243",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:58"
+          "identifier": "country:in/state:ct/assembly-constituency:58"
         },
         {
           "scheme": "wikidata",
@@ -1424,14 +1449,14 @@
       "name": {
         "lang:en": "Dhamtari"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339244",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:59"
+          "identifier": "country:in/state:ct/assembly-constituency:59"
         },
         {
           "scheme": "wikidata",
@@ -1447,14 +1472,14 @@
       "name": {
         "lang:en": "Sanjari Balod"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339245",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:60"
+          "identifier": "country:in/state:ct/assembly-constituency:60"
         },
         {
           "scheme": "wikidata",
@@ -1470,14 +1495,14 @@
       "name": {
         "lang:en": "Dondi Lohara (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339246",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:62"
+          "identifier": "country:in/state:ct/assembly-constituency:62"
         },
         {
           "scheme": "wikidata",
@@ -1493,14 +1518,14 @@
       "name": {
         "lang:en": "Patan"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339247",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:63"
+          "identifier": "country:in/state:ct/assembly-constituency:63"
         },
         {
           "scheme": "wikidata",
@@ -1516,14 +1541,14 @@
       "name": {
         "lang:en": "Durg-Rural"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339250",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:64"
+          "identifier": "country:in/state:ct/assembly-constituency:64"
         },
         {
           "scheme": "wikidata",
@@ -1539,14 +1564,14 @@
       "name": {
         "lang:en": "Durg City"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339251",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:66"
+          "identifier": "country:in/state:ct/assembly-constituency:66"
         },
         {
           "scheme": "wikidata",
@@ -1562,14 +1587,14 @@
       "name": {
         "lang:en": "Vaishali Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339252",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:67"
+          "identifier": "country:in/state:ct/assembly-constituency:67"
         },
         {
           "scheme": "wikidata",
@@ -1585,14 +1610,14 @@
       "name": {
         "lang:en": "Ahiwara (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339253",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:68"
+          "identifier": "country:in/state:ct/assembly-constituency:68"
         },
         {
           "scheme": "wikidata",
@@ -1608,14 +1633,14 @@
       "name": {
         "lang:en": "Saja"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339254",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:69"
+          "identifier": "country:in/state:ct/assembly-constituency:69"
         },
         {
           "scheme": "wikidata",
@@ -1631,14 +1656,14 @@
       "name": {
         "lang:en": "Bemetara"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339255",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:70"
+          "identifier": "country:in/state:ct/assembly-constituency:70"
         },
         {
           "scheme": "wikidata",
@@ -1654,14 +1679,14 @@
       "name": {
         "lang:en": "Nawagarh (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339256",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:71"
+          "identifier": "country:in/state:ct/assembly-constituency:71"
         },
         {
           "scheme": "wikidata",
@@ -1677,14 +1702,14 @@
       "name": {
         "lang:en": "Pandariya"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339257",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:72"
+          "identifier": "country:in/state:ct/assembly-constituency:72"
         },
         {
           "scheme": "wikidata",
@@ -1700,14 +1725,14 @@
       "name": {
         "lang:en": "Kawardha"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339258",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:73"
+          "identifier": "country:in/state:ct/assembly-constituency:73"
         },
         {
           "scheme": "wikidata",
@@ -1723,14 +1748,14 @@
       "name": {
         "lang:en": "Khairagarh"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339261",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:74"
+          "identifier": "country:in/state:ct/assembly-constituency:74"
         },
         {
           "scheme": "wikidata",
@@ -1746,14 +1771,14 @@
       "name": {
         "lang:en": "Dongargarh (SC)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339262",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:76"
+          "identifier": "country:in/state:ct/assembly-constituency:76"
         },
         {
           "scheme": "wikidata",
@@ -1769,14 +1794,14 @@
       "name": {
         "lang:en": "Dongargaon"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339263",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:77"
+          "identifier": "country:in/state:ct/assembly-constituency:77"
         },
         {
           "scheme": "wikidata",
@@ -1792,14 +1817,14 @@
       "name": {
         "lang:en": "Khujji"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339264",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:78"
+          "identifier": "country:in/state:ct/assembly-constituency:78"
         },
         {
           "scheme": "wikidata",
@@ -1815,14 +1840,14 @@
       "name": {
         "lang:en": "Mohla-Manpur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339265",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:79"
+          "identifier": "country:in/state:ct/assembly-constituency:79"
         },
         {
           "scheme": "wikidata",
@@ -1838,14 +1863,14 @@
       "name": {
         "lang:en": "Antagarh (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339266",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:80"
+          "identifier": "country:in/state:ct/assembly-constituency:80"
         },
         {
           "scheme": "wikidata",
@@ -1861,14 +1886,14 @@
       "name": {
         "lang:en": "Bhanupratappur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339268",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:81"
+          "identifier": "country:in/state:ct/assembly-constituency:81"
         },
         {
           "scheme": "wikidata",
@@ -1884,14 +1909,14 @@
       "name": {
         "lang:en": "Kanker (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339269",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:82"
+          "identifier": "country:in/state:ct/assembly-constituency:82"
         },
         {
           "scheme": "wikidata",
@@ -1907,14 +1932,14 @@
       "name": {
         "lang:en": "Keshkal (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339270",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:83"
+          "identifier": "country:in/state:ct/assembly-constituency:83"
         },
         {
           "scheme": "wikidata",
@@ -1930,14 +1955,14 @@
       "name": {
         "lang:en": "Kondagaon (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339272",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:85"
+          "identifier": "country:in/state:ct/assembly-constituency:85"
         },
         {
           "scheme": "wikidata",
@@ -1953,14 +1978,14 @@
       "name": {
         "lang:en": "Bastar (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339273",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:86"
+          "identifier": "country:in/state:ct/assembly-constituency:86"
         },
         {
           "scheme": "wikidata",
@@ -1976,14 +2001,14 @@
       "name": {
         "lang:en": "Jagdalpur"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339274",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:87"
+          "identifier": "country:in/state:ct/assembly-constituency:87"
         },
         {
           "scheme": "wikidata",
@@ -1999,14 +2024,14 @@
       "name": {
         "lang:en": "Chitrakot (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339275",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:88"
+          "identifier": "country:in/state:ct/assembly-constituency:88"
         },
         {
           "scheme": "wikidata",
@@ -2022,14 +2047,14 @@
       "name": {
         "lang:en": "Dantewada (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339276",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:89"
+          "identifier": "country:in/state:ct/assembly-constituency:89"
         },
         {
           "scheme": "wikidata",
@@ -2045,14 +2070,14 @@
       "name": {
         "lang:en": "Bijapur (ST)"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     },
     {
       "id": "Q55339278",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:90"
+          "identifier": "country:in/state:ct/assembly-constituency:90"
         },
         {
           "scheme": "wikidata",
@@ -2068,6 +2093,31 @@
       "name": {
         "lang:en": "Konta (ST)"
       },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
       "parent_id": null
     },
     {
@@ -2075,7 +2125,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:cg/assembly-constituency:65"
+          "identifier": "country:in/state:ct/assembly-constituency:65"
         },
         {
           "scheme": "wikidata",
@@ -2091,7 +2141,7 @@
       "name": {
         "lang:en": "Bhilai Nagar"
       },
-      "parent_id": null
+      "parent_id": "Q1168"
     }
   ],
   "memberships": [
