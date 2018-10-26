@@ -1,0 +1,2023 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Jharkhand Legislative Assembly",
+        "lang:hi": "झारखण्ड विधानसभा"
+      },
+      "id": "Q12429757",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q12429757"
+        }
+      ],
+      "area_id": "Q1184",
+      "seat_counts": {
+        "Q24525324": "82"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018637"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Jharkhand",
+        "lang:hi": "झारखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q16916549",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16916549"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SIMARIA (SC)",
+        "lang:hi": "सिमरिया"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q16916552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16916552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHUNTI (ST)",
+        "lang:hi": "खूंटी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q16917210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16917210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HUSSAINABAD",
+        "lang:hi": "हुसैनाबाद"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q25202952",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25202952"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAHAGAMA"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4841896",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841896"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGHMARA",
+        "lang:hi": "बाघमारा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4842061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4842061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGODAR",
+        "lang:hi": "बगोदर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4842436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4842436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAHARAGORA",
+        "lang:hi": "बहरागोड़ा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4860642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARHAIT (ST)",
+        "lang:hi": "बरहैट"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4860656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARHI",
+        "lang:hi": "बरही"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4860884",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860884"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARKAGAON",
+        "lang:hi": "बड़कागांव"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4860905",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860905"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARKATHA",
+        "lang:hi": "बरकठा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4892575",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4892575"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BERMO",
+        "lang:hi": "बेरमो"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4901589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHAWANATHPUR",
+        "lang:hi": "भवनाथपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4918139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4918139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BISHRAMPUR",
+        "lang:hi": "बिश्रामपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4918150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4918150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BISHNUPUR (ST)",
+        "lang:hi": "बिशुनपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4938728",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4938728"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BOKARO",
+        "lang:hi": "बोकारो"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q4945161",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4945161"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BORIO (ST)",
+        "lang:hi": "बोरियो"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5067763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5067763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHAIBASA (ST)",
+        "lang:hi": "चाईबासा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5068395",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5068395"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHAKRADHARPUR (ST)",
+        "lang:hi": "चक्रधरपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5070960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5070960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANDANKIYARI (SC)",
+        "lang:hi": "चन्दनकियारी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5087771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5087771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHATRA (SC)",
+        "lang:hi": "चतरा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5094799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHHATARPUR (SC)",
+        "lang:hi": "छतरपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5211729",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5211729"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DALTONGANJ",
+        "lang:hi": "डालटेनगंज"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5259959",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5259959"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DEOGHAR (SC)",
+        "lang:hi": "देवघर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5268928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5268928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DHANBAD",
+        "lang:hi": "धनबाद"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5269051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5269051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DHANWAR",
+        "lang:hi": "धनवार"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5313897",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5313897"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DUMKA (ST)",
+        "lang:hi": "दुमका"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5313997",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5313997"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DUMRI",
+        "lang:hi": "डुमरी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5520642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5520642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GANDEY",
+        "lang:hi": "गाण्डे"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5523252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5523252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GARHWA",
+        "lang:hi": "गढ़वा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5555939",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5555939"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GHATSILA (ST)",
+        "lang:hi": "घाटशिला"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5564260",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5564260"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GIRIDIH",
+        "lang:hi": "गिरिडीह"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5576226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5576226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GODDA",
+        "lang:hi": "गोड्डा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5581190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5581190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOMIA",
+        "lang:hi": "गोमिया"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5618143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5618143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GUMLA (ST)",
+        "lang:hi": "गुमला"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5681579",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5681579"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HATIA",
+        "lang:hi": "हटिया"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5687763",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5687763"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HAZARIBAGH",
+        "lang:hi": "हजारीबाग"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q5986030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5986030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ICHAGARH",
+        "lang:hi": "ईचागढ़"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6122124",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6122124"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAGANATHPUR (ST)",
+        "lang:hi": "जगन्नाथपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6127142",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6127142"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMA (ST)",
+        "lang:hi": "जामा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6148211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6148211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMSHEDPUR EAST",
+        "lang:hi": "जमशेदपुर पूर्व"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6148214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6148214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMSHEDPUR WEST",
+        "lang:hi": "जमशेदपुर पश्चिम"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6148278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6148278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMTARA",
+        "lang:hi": "जामताड़ा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6148286",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6148286"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMUA (SC)",
+        "lang:hi": "जमुआ"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6160388",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6160388"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JARMUNDI",
+        "lang:hi": "जरमुण्डी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6190933",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6190933"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JHARIA",
+        "lang:hi": "झरिया"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6304955",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6304955"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JUGSALAI (SC)",
+        "lang:hi": "जुगसलाई विधानसभा क्षेत्र झारखंड"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6363703",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6363703"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KANKE (SC)",
+        "lang:hi": "कांके"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6400757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHARASAWAN (ST)",
+        "lang:hi": "खरसांवा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6401593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6401593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHIJRI (ST)",
+        "lang:hi": "खिजरी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6425229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6425229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KODARMA",
+        "lang:hi": "कोडरमा विधानसभा क्षेत्र झारखंड"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6427162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6427162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KOLEBIRA (ST)",
+        "lang:hi": "कोलेबिरा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6495434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6495434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LATEHAR (SC)",
+        "lang:hi": "लातेहार"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6648560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6648560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LITIPARA (ST)",
+        "lang:hi": "लिट्टीपाड़ा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6667967",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6667967"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LOHARDAGA (ST)",
+        "lang:hi": "लोहरदगा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6727503",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727503"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MADHUPUR",
+        "lang:hi": "मधुपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6733878",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6733878"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAHESHPUR (ST)",
+        "lang:hi": "महेशपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6737762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6737762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAJHGAON (ST)",
+        "lang:hi": "मझगांव"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6747825",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6747825"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANDAR (ST)",
+        "lang:hi": "मान्डर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6748218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6748218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANDU",
+        "lang:hi": "मांडू"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6749608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6749608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANIKA (ST)",
+        "lang:hi": "मनिका"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6751143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6751143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANOHARPUR (ST)",
+        "lang:hi": "मनोहरपुर"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q6960770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6960770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NALA",
+        "lang:hi": "नाला"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7040096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7040096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NIRSA",
+        "lang:hi": "निरसा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7125437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7125437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PAKAUR",
+        "lang:hi": "पाकुड़"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7131321",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7131321"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANKI",
+        "lang:hi": "पांकी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7230062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7230062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "POREYAHAT",
+        "lang:hi": "पोड़ैयाहाट"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7234962",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7234962"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "POTKA (ST)",
+        "lang:hi": "पोटका"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7286305",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286305"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJMAHAL",
+        "lang:hi": "राजमहल"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7289496",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7289496"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAMGARH",
+        "lang:hi": "रामगढ़"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7290800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANCHI",
+        "lang:hi": "रांची"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7423307",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7423307"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SARATH",
+        "lang:hi": "सारठ"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7452653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7452653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SERAIKELLA (ST)",
+        "lang:hi": "सरायकेला"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7513598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7513598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SIKARIPARA (ST)",
+        "lang:hi": "शिकारीपाड़ा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7515360",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7515360"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SILLI",
+        "lang:hi": "सिल्ली"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7517516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7517516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SIMDEGA (ST)",
+        "lang:hi": "सिमडेगा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7522338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7522338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SINDRI",
+        "lang:hi": "सिन्दरी"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7530750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7530750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SISAI (ST)",
+        "lang:hi": "सिसई"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7680722",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7680722"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TAMAR (ST)",
+        "lang:hi": "तमाड़"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7826717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7826717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TORPA (ST)",
+        "lang:hi": "तोरपा"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q7852886",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7852886"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24525324"
+      ],
+      "type": {
+        "lang:en": "constituency of the Jharkhand Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TUNDI",
+        "lang:hi": "टुन्डी"
+      },
+      "parent_id": "Q1184"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

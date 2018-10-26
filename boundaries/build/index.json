@@ -42,32 +42,6 @@
     }
   },
   {
-    "directory": "states",
-    "area_type_wikidata_item_id": "Q13390680",
-    "associations": [],
-    "name_columns": {
-      "lang:hi": "NAME_HI",
-      "lang:en": "ST_NM"
-    },
-    "filter": {
-      "match": "country:in/state",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "states",
-    "area_type_wikidata_item_id": "Q467745",
-    "associations": [],
-    "name_columns": {
-      "lang:hi": "NAME_HI",
-      "lang:en": "ST_NM"
-    },
-    "filter": {
-      "match": "country:in/territory",
-      "column": "MS_FB"
-    }
-  },
-  {
     "directory": "territories",
     "area_type_wikidata_item_id": "Q467745",
     "associations": [],
@@ -75,5 +49,999 @@
       "lang:hi": "NAME_HI",
       "lang:en": "ST_NM"
     }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of arunachal pradesh",
+        "position_item_id": "Q55018630"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of assam",
+        "position_item_id": "Q55018631"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:as",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of bihar",
+        "position_item_id": "Q55020138"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:br",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of chhattisgarh",
+        "position_item_id": "Q38772867"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ct",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of goa",
+        "position_item_id": "Q55018632"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ga",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of gujarat",
+        "position_item_id": "Q22337580"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:gj",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of haryana",
+        "position_item_id": "Q55018634"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:hr",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of himachal pradesh",
+        "position_item_id": "Q55018635"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:hp",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of jammu and kashmir",
+        "position_item_id": "Q38882023"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:jk",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of jharkhand",
+        "position_item_id": "Q55018637"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:jh",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of karnataka",
+        "position_item_id": "Q53761260"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ka",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of kerala",
+        "position_item_id": "Q26218416"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:kl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of madhya pradesh",
+        "position_item_id": "Q55018639"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:mp",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of maharashtra",
+        "position_item_id": "Q221922"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:mh",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of manipur",
+        "position_item_id": "Q55018640"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:mn",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of meghalaya",
+        "position_item_id": "Q55018641"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ml",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of mizoram",
+        "position_item_id": "Q55018647"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:mz",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of nagaland",
+        "position_item_id": "Q55018648"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:nl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q467745",
+    "associations": [
+      {
+        "comment": "chief minister of delhi",
+        "position_item_id": "Q1790154"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/territory:dl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q467745",
+    "associations": [
+      {
+        "comment": "chief minister of puducherry",
+        "position_item_id": "Q55139200"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/territory:py",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of punjab",
+        "position_item_id": "Q1516776"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:pb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of rajasthan",
+        "position_item_id": "Q55018649"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:rj",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of sikkim",
+        "position_item_id": "Q55018650"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:sk",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of tamil nadu",
+        "position_item_id": "Q24040821"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:tn",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of telangana",
+        "position_item_id": "Q55018651"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:tg",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of tripura",
+        "position_item_id": "Q55018652"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:tr",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of uttar pradesh",
+        "position_item_id": "Q28966983"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:up",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of uttarakhand",
+        "position_item_id": "Q55018653"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ut",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of west bengal",
+        "position_item_id": "Q55018654"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:wb",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of odisha",
+        "position_item_id": "Q39271481"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:or",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "states",
+    "area_type_wikidata_item_id": "Q13390680",
+    "associations": [
+      {
+        "comment": "chief minister of andhra pradesh",
+        "position_item_id": "Q1813083"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "ST_NM",
+      "lang:hi": "NAME_HI"
+    },
+    "filter": {
+      "match": "country:in/state:ap",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "sikkim-ac",
+    "area_type_wikidata_item_id": "Q54375505",
+    "associations": [
+      {
+        "comment": "Member of the Sikkim Legislative Assembly",
+        "position_item_id": "Q24547509"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "andhra-pradesh-ac",
+    "area_type_wikidata_item_id": "Q54375413",
+    "associations": [
+      {
+        "comment": "Member of the Andhra Pradesh Legislative Assembly",
+        "position_item_id": "Q17598882"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:te": "NAME_TE",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "assam-ac",
+    "area_type_wikidata_item_id": "Q54375419",
+    "associations": [
+      {
+        "comment": "Member of the Assam Legislative Assembly",
+        "position_item_id": "Q21191662"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "chhattisgarh-ac",
+    "area_type_wikidata_item_id": "Q54375427",
+    "associations": [
+      {
+        "comment": "Member of the Chhattisgarh Legislative Assembly",
+        "position_item_id": "Q24457183"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "haryana-ac",
+    "area_type_wikidata_item_id": "Q54375446",
+    "associations": [
+      {
+        "comment": "Member of the Haryana Legislative Assembly",
+        "position_item_id": "Q24497178"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "jharkhand-ac",
+    "area_type_wikidata_item_id": "Q54375455",
+    "associations": [
+      {
+        "comment": "Member of the Jharkhand Legislative Assembly",
+        "position_item_id": "Q24525324"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "manipur-ac",
+    "area_type_wikidata_item_id": "Q54375470",
+    "associations": [
+      {
+        "comment": "Member of the Manipur Legislative Assembly",
+        "position_item_id": "Q19464087"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "puducherry-ac",
+    "area_type_wikidata_item_id": "Q54375490",
+    "associations": [
+      {
+        "comment": "Member of the Puducherry Legislative Assembly",
+        "position_item_id": "Q24340546"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:ta": "NAME_TA",
+      "lang:te": "NAME_TE",
+      "lang:hi": "NAME_HI",
+      "lang:ml": "NAME_ML"
+    }
+  },
+  {
+    "directory": "rajasthan-ac",
+    "area_type_wikidata_item_id": "Q54375498",
+    "associations": [
+      {
+        "comment": "Member of the Rajasthan Legislative Assembly",
+        "position_item_id": "Q17599276"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "bihar-ac",
+    "area_type_wikidata_item_id": "Q54375424",
+    "associations": [
+      {
+        "comment": "Member of the Bihar Legislative Assembly",
+        "position_item_id": "Q24457068"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "delhi-ac",
+    "area_type_wikidata_item_id": "Q54375430",
+    "associations": [
+      {
+        "comment": "Member of the Delhi Legislative Assembly",
+        "position_item_id": "Q24461612"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:pa": "NAME_PA",
+      "lang:ur": "NAME_UR",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "west-bengal-ac",
+    "area_type_wikidata_item_id": "Q47490604",
+    "associations": [
+      {
+        "comment": "Member of the West Bengal Legislative Assembly",
+        "position_item_id": "Q19007052"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "kerala-ac",
+    "area_type_wikidata_item_id": "Q54375461",
+    "associations": [
+      {
+        "comment": "Member of the Kerala Legislative Assembly",
+        "position_item_id": "Q19468152"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI",
+      "lang:ml": "NAME_ML"
+    }
+  },
+  {
+    "directory": "meghalaya-ac",
+    "area_type_wikidata_item_id": "Q50394563",
+    "associations": [
+      {
+        "comment": "Member of the Meghalaya Legislative Assembly",
+        "position_item_id": "Q21191665"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI",
+      "lang:kha": "NAME_KHA"
+    }
+  },
+  {
+    "directory": "punjab-ac",
+    "area_type_wikidata_item_id": "Q54375496",
+    "associations": [
+      {
+        "comment": "Member of the Punjab Legislative Assembly",
+        "position_item_id": "Q24340550"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:pa": "NAME_PA",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "uttar-pradesh-ac",
+    "area_type_wikidata_item_id": "Q26685543",
+    "associations": [
+      {
+        "comment": "Member of the Uttar Pradesh Legislative Assembly",
+        "position_item_id": "Q18039836"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI",
+      "lang:ur": "NAME_UR"
+    }
+  },
+  {
+    "directory": "telangana-ac",
+    "area_type_wikidata_item_id": "Q54375514",
+    "associations": [
+      {
+        "comment": "Member of the Telangana Legislative Assembly",
+        "position_item_id": "Q24331572"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "goa-ac",
+    "area_type_wikidata_item_id": "Q54375434",
+    "associations": [
+      {
+        "comment": "Member of the Goa Legislative Assembly",
+        "position_item_id": "Q24461695"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "himachal-pradesh-ac",
+    "area_type_wikidata_item_id": "Q54375449",
+    "associations": [
+      {
+        "comment": "Member of the Himachal Pradesh Legislative Assembly",
+        "position_item_id": "Q18055586"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "uttarkhand-ac",
+    "area_type_wikidata_item_id": "Q54375527",
+    "associations": [
+      {
+        "comment": "Member of the Uttarakhand Legislative Assembly",
+        "position_item_id": "Q18055681"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "tripura-ac",
+    "area_type_wikidata_item_id": "Q54375518",
+    "associations": [
+      {
+        "comment": "Member of the Tripura Legislative Assembly",
+        "position_item_id": "Q24559639"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "nagaland-ac",
+    "area_type_wikidata_item_id": "Q54375482",
+    "associations": [
+      {
+        "comment": "Member of the Nagaland Legislative Assembly",
+        "position_item_id": "Q24541525"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "arunachal-pradesh-ac",
+    "area_type_wikidata_item_id": "Q54375418",
+    "associations": [
+      {
+        "comment": "Member of the Arunachal Pradesh Legislative Assembly",
+        "position_item_id": "Q24456735"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME",
+      "lang:hi": "NAME_HI"
+    }
+  },
+  {
+    "directory": "madhya-pradesh-ac",
+    "area_type_wikidata_item_id": "Q54375465",
+    "associations": [
+      {
+        "comment": "Member of the Madhya Pradesh Legislative Assembly",
+        "position_item_id": "Q24529702"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "maharashtra-ac",
+    "area_type_wikidata_item_id": "Q54375467",
+    "associations": [
+      {
+        "comment": "Member of the Maharashtra Legislative Assembly",
+        "position_item_id": "Q18055379"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "gujarat-ac",
+    "area_type_wikidata_item_id": "Q54375438",
+    "associations": [
+      {
+        "comment": "Member of the Gujarat Legislative Assembly",
+        "position_item_id": "Q17582810"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "jammu-and-kashmir-ac",
+    "area_type_wikidata_item_id": "Q54375453",
+    "associations": [
+      {
+        "comment": "member of the Jammu and Kashmir Legislative Assembly",
+        "position_item_id": "Q18171423"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "karnataka-ac",
+    "area_type_wikidata_item_id": "Q54375457",
+    "associations": [
+      {
+        "comment": "Member of the Karnataka Legislative Assembly",
+        "position_item_id": "Q24525419"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "mizoram-ac",
+    "area_type_wikidata_item_id": "Q16773343",
+    "associations": [
+      {
+        "comment": "Member of the Mizoram Legislative Assembly",
+        "position_item_id": "Q24540202"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }  
+  },
+  {
+    "directory": "tamil-nadu-ac",
+    "area_type_wikidata_item_id": "Q54375510",
+    "associations": [
+      {
+        "comment": "Member of the Tamil Nadu Legislative Assembly",
+        "position_item_id": "Q24558764"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }
+  },
+  {
+    "directory": "odisha-ac",
+    "area_type_wikidata_item_id": "Q54375487",
+    "associations": [
+      {
+        "comment": "Member of the Odisha Legislative Assembly",
+        "position_item_id": "Q24546266"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "AC_NAME"
+    }  
   }
 ]

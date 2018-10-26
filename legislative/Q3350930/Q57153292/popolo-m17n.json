@@ -1,0 +1,6888 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Mamata Banerjee",
+        "lang:hi": "ममता बनर्जी"
+      },
+      "id": "Q465041",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q465041"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "West Bengal Legislative Assembly",
+        "lang:hi": "पश्चिम बंगाल विधान सभा"
+      },
+      "id": "Q3350930",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3350930"
+        }
+      ],
+      "area_id": "Q1356",
+      "seat_counts": {
+        "Q19007052": "295"
+      }
+    },
+    {
+      "name": {
+        "lang:en": "All India Trinamool Congress",
+        "lang:hi": "सर्वभारतीय तृणमूल कांग्रेस"
+      },
+      "id": "Q912899",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q912899"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018654"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "West Bengal",
+        "lang:hi": "पश्चिम बंगाल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q15209588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:248"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15209588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHHATNA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15213911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15213911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DHUPGURI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15226164",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15226164"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HOWRAH DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15228636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:257"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15228636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "INDUS (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15228911",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15228911"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ITAHAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15229218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15229218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JALANGI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15229301",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:279"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15229301"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMURIA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15229462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15229462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAYNAGAR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15232991",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15232991"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALCHINI (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15233006",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15233006"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALIAGANJ (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15233011",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15233011"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALIMPONG"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15233060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:264"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15233060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALNA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15233573",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15233573"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KANTHI DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15233574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15233574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KANTHI UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15236155",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:259"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15236155"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHANDAGHOSH (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15236919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15236919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHEJURI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15240885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15240885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KUSHMANDI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15243472",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15243472"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MADHYAMGRAM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15244139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15244139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MALDAHA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15244855",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15244855"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANIKCHAK"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15261230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15261230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAYAGRAM (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15265311",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15265311"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANIHATI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15266116",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15266116"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PHANSIDEWA (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q15271679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:291"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q15271679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAMPURHAT"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q16899107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16899107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJARHAT NEW TOWN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q16900943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16900943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SUTI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4726843",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4726843"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ALIPURDUARS"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4742057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4742057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AMDANGA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4748873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4748873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AMTA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4783982",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4783982"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ARAMBAG (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4803540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:280"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4803540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ASANSOL DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4803545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:281"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4803545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ASANSOL UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4805818",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4805818"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ASHOKNAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4822744",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:273"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4822744"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AUSGRAM (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4841176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BADURIA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4841502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGDA (SC)",
+        "lang:hi": "bagda"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4841899",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:240"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4841899"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGHMUNDI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4842012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4842012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGNAN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4842440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4842440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAHARAMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4848702",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4848702"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAISNABNAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4849801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4849801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BALAGARH (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4850087",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:239"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4850087"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BALARAMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4851969",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4851969"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BALLY"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4852150",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4852150"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BALLYGUNGE"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4853082",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4853082"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BALURGHAT"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4854755",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:238"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4854755"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANDWAN (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4855097",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4855097"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANGAON DAKSHIN (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4855098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4855098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANGAON UTTAR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4856798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:252"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4856798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANKURA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4858073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:283"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4858073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARABANI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4858329",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4858329"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARANAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4858446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4858446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARASAT"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4860139",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:260"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860139"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARDHAMAN DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4860144",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:266"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860144"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARDHAMAN UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4860848",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:253"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4860848"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARJORA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4863167",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4863167"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARRACKPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4865892",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4865892"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARUIPUR PASCHIM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4865893",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4865893"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARUIPUR PURBA(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4866246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4866246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BASANTI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4867559",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4867559"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BASIRHAT DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4867563",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4867563"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BASIRHAT UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4880664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4880664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BEHALA PASCHIM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4880666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4880666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BEHALA PURBA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4882105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BELDANGA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4882151",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4882151"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BELEGHATA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4900478",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4900478"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHABANIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4900577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4900577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHAGABANPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4900578",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4900578"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHAGABANGOLA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4900998",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4900998"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHANGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4901250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHARATPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4901389",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:267"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901389"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHATAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4901425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BHATPARA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4904152",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4904152"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BIDHANNAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4907277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4907277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BIJPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4914502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:237"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4914502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BINPUR (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4917375",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:255"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4917375"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BISHNUPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4917377",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4917377"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BISHNUPUR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4940017",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:286"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4940017"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BOLPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q4985007",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4985007"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BUDGE BUDGE"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5001032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5001032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BURWAN (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5032694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5032694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CANNING PASCHIM(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5032695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5032695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CANNING PURBA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5068304",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5068304"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHAKDAHA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5068442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5068442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHAKULIA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5069938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5069938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHAMPDANI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5070846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5070846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANCHAL"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5070964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5070964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANDANNAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5071098",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071098"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANDIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5071107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANDITALA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5071387",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:232"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071387"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANDRAKONA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5073416",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5073416"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHAPRA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5104871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5104871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHOPRA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5105574",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5105574"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHOWRANGEE"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5116251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5116251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHUNCHURA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5166806",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5166806"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "COOCHBEHAR DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5166816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5166816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "COOCHBEHAR UTTAR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5207469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5207469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DABGRAM-PHULBARI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5221114",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5221114"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DANTAN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5223068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5223068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DARJEELING"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5226820",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5226820"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DASPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5248427",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5248427"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DEBRA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5251752",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5251752"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DEGANGA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5268941",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5268941"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DHANEKHALI(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5270804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5270804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DIAMOND HARBOUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5278309",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5278309"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DINHATA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5291259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5291259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DOMJUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5291263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5291263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DOMKAL"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5311106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:284"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5311106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DUBRAJPUR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5313572",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5313572"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DUM DUM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5313581",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5313581"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DUM DUM UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5316420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:277"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5316420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DURGAPUR PASCHIM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5316421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:276"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5316421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DURGAPUR PURBA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5348249",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5348249"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "EGRA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5378188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5378188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ENGLISH BAZAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5380086",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5380086"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ENTALLY"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5431635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5431635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "FALAKATA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5432812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5432812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "FALTA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5434786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5434786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "FARAKKA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5517018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5517018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GAIGHATA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5519325",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:274"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5519325"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GALSI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5521068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5521068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GANGARAMPUR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5522019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:233"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5522019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GARBETA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5529176",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5529176"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GAZOLE (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5555885",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:231"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5555885"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GHATAL (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5575216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5575216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOALPOKHAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5577362",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5577362"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOGHAT (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5584288",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5584288"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOPIBALLAVPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5587118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5587118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOSABA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5636837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5636837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HABIBPUR (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5636925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5636925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HABRA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5641265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5641265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HALDIA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5650943",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:292"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5650943"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HANSAN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5657421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5657421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HARIHARPARA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5657635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5657635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HARINGHATA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5657667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5657667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HARIPAL"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5657727",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5657727"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HARIRAMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5657938",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5657938"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HARISCHANDRAPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5659810",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5659810"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HAROA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5712812",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5712812"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HEMTABAD (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5767069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5767069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HINGALGANJ (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5922501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5922501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HOWRAH MADHYA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q5922520",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5922520"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HOWRAH UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6082919",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6082919"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ISLAMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6121210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6121210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JADAVPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6122228",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6122228"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAGATBALLAVPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6122235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6122235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAGATDAL"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6126966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6126966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JALPAIGURI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6127693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:262"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6127693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JAMALPUR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6154045",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6154045"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JANGIPARA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6154052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6154052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JANGIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6190922",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6190922"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JHARGRAM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6276263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6276263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JORASANKO"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6297788",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:241"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6297788"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JOYPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6349334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6349334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KAKDWIP"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6352577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6352577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALIGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6354953",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6354953"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALYANI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6356030",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6356030"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KAMARHATI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6361449",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6361449"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KANDI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6368446",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6368446"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KARANDIGHI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6370785",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6370785"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KARIMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6374064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6374064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KASBA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6374341",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6374341"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KASHIPURBELGACHHIA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6374342",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:244"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6374342"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KASHIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6378414",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:256"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6378414"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KATULPUR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6378462",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:270"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6378462"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KATWA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6395039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6395039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KESHIARY (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6395055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:235"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6395055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KESHPUR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6395588",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:271"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6395588"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KETUGRAM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6400149",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400149"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHANAKUL"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6400528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHARAGPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6400535",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400535"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHARAGPUR SADAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6400613",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400613"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHARDAHA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6400643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHARGRAM (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6427310",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6427310"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KOLKATA PORT"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6437509",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6437509"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KRISHNAGANJ (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6437567",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6437567"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KRISHNANAGAR DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6437571",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6437571"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KRISHNANAGAR UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6443207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6443207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KULPI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6443225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6443225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KULTALI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6443241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:282"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6443241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KULTI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6443584",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6443584"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KUMARGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6443589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6443589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KUMARGRAM (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6446528",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6446528"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KURSEONG"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6467577",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:288"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6467577"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LABPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6480292",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6480292"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "LALGOLA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6726513",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6726513"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MADARIHAT (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6732435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6732435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAGRAHAT PASCHIM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6732437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6732437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAGRAHAT PURBA(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6733890",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6733890"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAHESHTALA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6734107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6734107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAHISADAL"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6740570",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6740570"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAL (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6741399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6741399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MALATIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6747174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:243"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6747174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANBAZAR (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6748095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6748095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANDIRBAZAR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6748706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:272"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6748706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANGALKOT"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6749639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6749639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANIKTALA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6752041",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:263"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6752041"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MONTESWAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6786783",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6786783"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MATHABHANGA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6787437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6787437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MATIGARA-NAXALBARI(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6797371",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6797371"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAYNAGURI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6798120",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:290"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6798120"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAYURESWAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6806964",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:236"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6806964"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MEDINIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6810589",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6810589"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MEKLIGANJ (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6814186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:265"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6814186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MEMARI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6824073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6824073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "METIABURUZ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6862786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6862786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MINAKHAN (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6917213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6917213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MOTHABARI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6927717",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6927717"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MOYNA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6937338",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:294"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6937338"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MURARAI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6939681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6939681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MURSHIDABAD"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6956706",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6956706"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NABADWIP"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6956721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6956721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NABAGRAM (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6959039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAGRAKATA (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6959557",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6959557"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAIHATI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6960323",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6960323"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAKASHIPARA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6960879",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:293"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6960879"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NALHATI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6963156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6963156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NANDAKUMAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6963306",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6963306"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NANDIGRAM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6964094",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:287"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6964094"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NANOOR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6964514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6964514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NAODA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6965554",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6965554"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NARAYANGARH"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q6967917",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6967917"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NATABARI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7045540",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7045540"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NOAPARA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7092140",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:254"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7092140"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ONDA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7126754",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7126754"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PALASHIPARA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7130337",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7130337"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANCHLA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7130530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:275"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7130530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANDABESWAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7130760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7130760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANDUA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7131593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7131593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANSKURA PURBA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7131594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7131594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANSKURA PASCHIM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7133639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:245"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7133639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PARA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7144273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7144273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PATASHPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7144725",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7144725"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PATHARPRATIMA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7195786",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7195786"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PINGLA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7260868",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:268"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7260868"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PURBASTHALI DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7260872",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:269"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7260872"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PURBASTHALI UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7261595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7261595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PURSURAH"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7261624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:242"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7261624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PURULIA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7283032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7283032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAGHUNATHGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7283039",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:246"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7283039"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAGHUNATHPUR(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7283796",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7283796"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAIDIGHI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7283816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7283816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAIGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7284531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:261"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7284531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAINA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7285034",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:250"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7285034"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAIPUR (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7285794",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7285794"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJARHAT GOPALPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7286113",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286113"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJGANJ (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7289762",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7289762"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAMNAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7290695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANAGHAT DAKSHIN (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7290698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANAGHAT UTTAR PASCHIM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7290699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANAGHAT UTTAR PURBA(SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7293018",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:249"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7293018"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANIBANDH (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7293042",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:278"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7293042"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANIGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7293059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7293059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RANINAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7294816",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7294816"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RASHBEHARI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7296062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7296062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RATUA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7310552",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7310552"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "REJINAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7395887",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7395887"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SABANG"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7399005",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399005"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7399051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SAGARDIGHI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7402383",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:289"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7402383"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SAINTHIA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7403748",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:234"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7403748"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SALBONI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7406183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:247"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7406183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SALTORA (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7410334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7410334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SAMSERGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7416178",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7416178"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SANDESHKHALI (ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7418746",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7418746"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SANKRAIL (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7420440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7420440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SANTIPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7421136",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7421136"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SAPTAGRAM"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7426110",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7426110"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SATGACHHIA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7496076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7496076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SHIBPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7505989",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7505989"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SHYAMPUKUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7505992",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7505992"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SHYAMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7515054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7515054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SILIGURI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7524282",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7524282"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SINGUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7531601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7531601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SITAI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7531633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7531633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SITALKUCHI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7560784",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:258"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7560784"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SONAMUKHI (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7560813",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7560813"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SONARPUR DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7560817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7560817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SONARPUR UTTAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7585737",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7585737"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SREERAMPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7635622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7635622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SUJAPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7646240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:285"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7646240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SURI"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7653965",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7653965"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SWARUPNAGAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7679092",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:251"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7679092"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TALDANGRA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7681518",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7681518"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TAMLUK"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7684419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7684419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TAPAN(ST)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7685336",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7685336"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TARAKESWAR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7694838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7694838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TEHATTA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7814420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7814420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TOLLYGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7851451",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7851451"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TUFANGANJ"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7877032",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7877032"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "UDAYNARAYANPUR"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7880766",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7880766"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ULUBERIA DAKSHIN"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7880770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7880770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ULUBERIA PURBA"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7880771",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7880771"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ULUBERIA UTTAR (SC)"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q7903412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7903412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19007052"
+      ],
+      "type": {
+        "lang:en": "constituency of the West Bengal Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "UTTARPARA"
+      },
+      "parent_id": "Q1356"
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q465041-22E2A83F-EA85-49AD-BEF4-D22327890E7C",
+      "person_id": "Q465041",
+      "on_behalf_of_id": "Q912899",
+      "organization_id": "Q3350930",
+      "area_id": "Q4900478",
+      "start_date": "2011-09-28",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q19007052",
+      "role": {
+        "lang:en": "Member of the West Bengal Legislative Assembly",
+        "lang:hi": "पश्चिम बंगाल विधान सभा के सदस्य"
+      }
+    }
+  ]
+}

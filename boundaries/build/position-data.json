@@ -1,5 +1,24 @@
 [
   {
+    "role_id": "Q1516776",
+    "role_name": {
+      "lang:en": "Chief Minister of Punjab",
+      "lang:hi": "पंजाब (भारत) के मुख्यमंत्रियों की सूची"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147393",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Punjab",
+      "lang:hi": "पंजाब विधान सभा"
+    }
+  },
+  {
     "role_id": "Q16556694",
     "role_name": {
       "lang:en": "member of the Lok Sabha",
@@ -37,6 +56,205 @@
     }
   },
   {
+    "role_id": "Q17582810",
+    "role_name": {
+      "lang:en": "Member of the Gujarat Legislative Assembly",
+      "lang:hi": "गुजरात विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q1743621",
+    "organization_name": {
+      "lang:en": "Gujarat Legislative Assembly",
+      "lang:hi": "गुजरात विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q17598882",
+    "role_name": {
+      "lang:en": "Member of the Andhra Pradesh Legislative Assembly",
+      "lang:hi": "आंध्र प्रदेश विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16915317",
+    "organization_name": {
+      "lang:en": "Andhra Pradesh Legislative Assembly",
+      "lang:hi": "आन्ध्र प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q17599276",
+    "role_name": {
+      "lang:en": "Member of the Rajasthan Legislative Assembly",
+      "lang:hi": "राजस्थान विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7285832",
+    "organization_name": {
+      "lang:en": "Rajasthan Legislative Assembly",
+      "lang:hi": "राजस्थान विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q1790154",
+    "role_name": {
+      "lang:en": "Chief Minister of Delhi",
+      "lang:hi": "दिल्ली के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048 Q515",
+    "role_type": null,
+    "organization_id": "Q55147400",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Delhi",
+      "lang:hi": "दिल्ली विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q18039836",
+    "role_name": {
+      "lang:en": "Member of the Uttar Pradesh Legislative Assembly",
+      "lang:hi": "उत्तर प्रदेश विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7903333",
+    "organization_name": {
+      "lang:en": "Uttar Pradesh Legislative Assembly",
+      "lang:hi": "उत्तर प्रदेश विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q18055379",
+    "role_name": {
+      "lang:en": "Member of the Maharashtra Legislative Assembly",
+      "lang:hi": "महाराष्ट्र विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6733343",
+    "organization_name": {
+      "lang:en": "Maharashtra Legislative Assembly",
+      "lang:hi": "महाराष्ट्र विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q18055586",
+    "role_name": {
+      "lang:en": "Member of the Himachal Pradesh Legislative Assembly",
+      "lang:hi": "हिमाचल प्रदेश विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3633627",
+    "organization_name": {
+      "lang:en": "Himachal Pradesh Legislative Assembly",
+      "lang:hi": "हिमाचल प्रदेश विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q18055681",
+    "role_name": {
+      "lang:en": "Member of the Uttarakhand Legislative Assembly",
+      "lang:hi": "उत्तराखंड विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q664403",
+    "organization_name": {
+      "lang:en": "Uttarakhand Legislative Assembly",
+      "lang:hi": "उत्तराखण्ड विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q1813083",
+    "role_name": {
+      "lang:en": "Chief Minister of Andhra Pradesh",
+      "lang:hi": "आंध्र प्रदेश के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147370",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Andhra Pradesh"
+    }
+  },
+  {
+    "role_id": "Q18171423",
+    "role_name": {
+      "lang:en": "member of the Jammu and Kashmir Legislative Assembly",
+      "lang:hi": "जम्मू और कश्मीर विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6148015",
+    "organization_name": {
+      "lang:en": "Jammu and Kashmir Legislative Assembly",
+      "lang:hi": "जम्मू और कश्मीर विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q19007052",
+    "role_name": {
+      "lang:en": "Member of the West Bengal Legislative Assembly",
+      "lang:hi": "पश्चिम बंगाल विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3350930",
+    "organization_name": {
+      "lang:en": "West Bengal Legislative Assembly",
+      "lang:hi": "पश्चिम बंगाल विधान सभा"
+    }
+  },
+  {
     "role_id": "Q192711",
     "role_name": {
       "lang:en": "Prime Minister of India",
@@ -56,6 +274,241 @@
     }
   },
   {
+    "role_id": "Q19464087",
+    "role_name": {
+      "lang:en": "Member of the Manipur Legislative Assembly",
+      "lang:hi": "मणिपुर विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6749828",
+    "organization_name": {
+      "lang:en": "Manipur Legislative Assembly",
+      "lang:hi": "मणिपुर विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q19468152",
+    "role_name": {
+      "lang:en": "Member of the Kerala Legislative Assembly",
+      "lang:hi": "केरल विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3462542",
+    "organization_name": {
+      "lang:en": "Kerala Legislative Assembly",
+      "lang:hi": "केरल विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q21191662",
+    "role_name": {
+      "lang:en": "Member of the Assam Legislative Assembly",
+      "lang:hi": "असम विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4808385",
+    "organization_name": {
+      "lang:en": "Assam Legislative Assembly",
+      "lang:hi": "असम विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q21191665",
+    "role_name": {
+      "lang:en": "Member of the Meghalaya Legislative Assembly",
+      "lang:hi": "मेघालय विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6809008",
+    "organization_name": {
+      "lang:en": "Meghalaya Legislative Assembly",
+      "lang:hi": "मेघालय विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q221922",
+    "role_name": {
+      "lang:en": "Chief Minister of Maharashtra",
+      "lang:hi": "महाराष्ट्र के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147384",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Maharashtra",
+      "lang:hi": "महाराष्ट्र विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q22337580",
+    "role_name": {
+      "lang:en": "Chief Minister of Gujarat"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q17054110",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Gujarat",
+      "lang:hi": "गुजरात विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24040821",
+    "role_name": {
+      "lang:en": "Chief Minister of Tamil Nadu"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q25154",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Tamil Nadu",
+      "lang:hi": "तमिलनाडु विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24331572",
+    "role_name": {
+      "lang:en": "Member of the Telangana Legislative Assembly",
+      "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17152219",
+    "organization_name": {
+      "lang:en": "Telangana Legislative Assembly",
+      "lang:hi": "तेलंगाना विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24340546",
+    "role_name": {
+      "lang:en": "Member of the Puducherry Legislative Assembly",
+      "lang:hi": "पुडुचेरी विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q3391663",
+    "organization_name": {
+      "lang:en": "Puducherry Legislative Assembly",
+      "lang:hi": "पुडुचेरी विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24340550",
+    "role_name": {
+      "lang:en": "Member of the Punjab Legislative Assembly",
+      "lang:hi": "पंजाब विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7260271",
+    "organization_name": {
+      "lang:en": "Punjab Legislative Assembly",
+      "lang:hi": "पंजाब विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24456735",
+    "role_name": {
+      "lang:en": "Member of the Arunachal Pradesh Legislative Assembly",
+      "lang:hi": "अरुणाचल प्रदेश विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q427049",
+    "organization_name": {
+      "lang:en": "Arunachal Pradesh Legislative Assembly",
+      "lang:hi": "अरुणाचल प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24457068",
+    "role_name": {
+      "lang:en": "Member of the Bihar Legislative Assembly",
+      "lang:hi": "बिहार विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4907056",
+    "organization_name": {
+      "lang:en": "Bihar Legislative Assembly",
+      "lang:hi": "बिहार विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q24457183",
+    "role_name": {
+      "lang:en": "Member of the Chhattisgarh Legislative Assembly",
+      "lang:hi": "छत्तीसगढ़ विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5094831",
+    "organization_name": {
+      "lang:en": "Chhattisgarh Legislative Assembly",
+      "lang:hi": "छत्तीसगढ़ विधान सभा"
+    }
+  },
+  {
     "role_id": "Q24461612",
     "role_name": {
       "lang:en": "Member of the Delhi Legislative Assembly",
@@ -65,11 +518,138 @@
     "generic_role_name": {
       "lang:en": "Member of a Legislative Assembly of India"
     },
-    "role_level": "Q6256",
+    "role_level": "Q10864048 Q515",
     "role_type": "Q4175034",
-    "organization_id": "Q3526627",
+    "organization_id": "Q5253776",
     "organization_name": {
+      "lang:en": "Delhi Legislative Assembly",
+      "lang:hi": "दिल्ली विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q24461695",
+    "role_name": {
+      "lang:en": "Member of the Goa Legislative Assembly",
+      "lang:hi": "गोवा विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
       "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5575081",
+    "organization_name": {
+      "lang:en": "Goa Legislative Assembly",
+      "lang:hi": "गोवा विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24497178",
+    "role_name": {
+      "lang:en": "Member of the Haryana Legislative Assembly",
+      "lang:hi": "हरयाणा विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q5677950",
+    "organization_name": {
+      "lang:en": "Haryana Legislative Assembly",
+      "lang:hi": "हरियाणा विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q24525324",
+    "role_name": {
+      "lang:en": "Member of the Jharkhand Legislative Assembly",
+      "lang:hi": "झारखंड विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q12429757",
+    "organization_name": {
+      "lang:en": "Jharkhand Legislative Assembly",
+      "lang:hi": "झारखण्ड विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q24525419",
+    "role_name": {
+      "lang:en": "Member of the Karnataka Legislative Assembly",
+      "lang:hi": "कर्नाटक विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6372858",
+    "organization_name": {
+      "lang:en": "Karnataka Legislative Assembly",
+      "lang:hi": "कर्नाटक विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q24529702",
+    "role_name": {
+      "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+      "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6727600",
+    "organization_name": {
+      "lang:en": "Madhya Pradesh Legislative Assembly",
+      "lang:hi": "मध्य प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24540202",
+    "role_name": {
+      "lang:en": "Member of the Mizoram Legislative Assembly",
+      "lang:hi": "मिजोरम विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6884693",
+    "organization_name": {
+      "lang:en": "Mizoram Legislative Assembly",
+      "lang:hi": "मिजोरम विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24541525",
+    "role_name": {
+      "lang:en": "Member of the Nagaland Legislative Assembly",
+      "lang:hi": "नगालैंड विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q16056691",
+    "organization_name": {
+      "lang:en": "Nagaland Legislative Assembly",
+      "lang:hi": "नागालैण्ड विधानसभा"
     }
   },
   {
@@ -82,11 +662,662 @@
     "generic_role_name": {
       "lang:en": "Member of a Legislative Assembly of India"
     },
-    "role_level": "Q6256",
+    "role_level": "Q10864048",
     "role_type": "Q4175034",
-    "organization_id": "Q3526627",
+    "organization_id": "Q5471613",
     "organization_name": {
+      "lang:en": "Odisha Legislative Assembly",
+      "lang:hi": "ओड़िशा  विधानसभा"
+    }
+  },
+  {
+    "role_id": "Q24547509",
+    "role_name": {
+      "lang:en": "Member of the Sikkim Legislative Assembly",
+      "lang:hi": "सिक्किम विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
       "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7513808",
+    "organization_name": {
+      "lang:en": "Sikkim Legislative Assembly",
+      "lang:hi": "सिक्किम विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24558764",
+    "role_name": {
+      "lang:en": "Member of the Tamil Nadu Legislative Assembly",
+      "lang:hi": "तमिलनाडु विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7681292",
+    "organization_name": {
+      "lang:en": "Tamil Nadu Legislative Assembly",
+      "lang:hi": "तमिलनाडु विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q24559639",
+    "role_name": {
+      "lang:en": "Member of the Tripura Legislative Assembly",
+      "lang:hi": "त्रिपुरा विधान सभा के सदस्य"
+    },
+    "generic_role_id": "Q3526627",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Assembly of India"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7843860",
+    "organization_name": {
+      "lang:en": "Tripura Legislative Assembly",
+      "lang:hi": "त्रिपुरा विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q26218416",
+    "role_name": {
+      "lang:en": "Chief Minister of Kerala"
+    },
+    "generic_role_id": "Q2285706",
+    "generic_role_name": {
+      "lang:en": "head of government",
+      "lang:hi": "शासनप्रमुख"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q13111578",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Kerala",
+      "lang:hi": "केरल विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q28966983",
+    "role_name": {
+      "lang:en": "Chief Minister of Uttar Pradesh"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q29467206",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Uttar Pradesh",
+      "lang:hi": "उत्तर प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q38772867",
+    "role_name": {
+      "lang:en": "Chief Minister of Chhattisgarh"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147374",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Chhattisgarh",
+      "lang:hi": "छत्तीसगढ़ विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q38882023",
+    "role_name": {
+      "lang:en": "Chief Minister of Jammu and Kashmir"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147378",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Jammu and Kashmir",
+      "lang:hi": "जम्मू और कश्मीर विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q39271481",
+    "role_name": {
+      "lang:en": "Chief Minister of Odisha",
+      "lang:hi": "ओड़िशा के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147389",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Odisha",
+      "lang:hi": "ओडिशा विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q53761260",
+    "role_name": {
+      "lang:en": "Chief Minister of Karnataka"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147382",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Karnataka",
+      "lang:hi": "कर्नाटक विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018630",
+    "role_name": {
+      "lang:en": "Chief Minister of Arunachal Pradesh",
+      "lang:hi": "अरुणाचल प्रदेश के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147371",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Arunachal Pradesh",
+      "lang:hi": "अरुणाचल प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018631",
+    "role_name": {
+      "lang:en": "Chief Minister of Assam",
+      "lang:hi": "असम के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147372",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Assam",
+      "lang:hi": "असम विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018632",
+    "role_name": {
+      "lang:en": "Chief Minister of Goa",
+      "lang:hi": "गोवा के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147375",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Goa",
+      "lang:hi": "गोवा विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018634",
+    "role_name": {
+      "lang:en": "Chief Minister of Haryana",
+      "lang:hi": "हरियाणा के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147376",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Haryana",
+      "lang:hi": "हरयाणा विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018635",
+    "role_name": {
+      "lang:en": "Chief Minister of Himachal Pradesh",
+      "lang:hi": "हिमाचल प्रदेश के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147377",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Himachal Pradesh",
+      "lang:hi": "हिमाचल प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018637",
+    "role_name": {
+      "lang:en": "Chief Minister of Jharkhand",
+      "lang:hi": "झारखंड के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147381",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Jharkhand",
+      "lang:hi": "झारखंड विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018639",
+    "role_name": {
+      "lang:en": "Chief Minister of Madhya Pradesh",
+      "lang:hi": "मध्य प्रदेश के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147383",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Madhya Pradesh",
+      "lang:hi": "मध्य प्रदेश विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018640",
+    "role_name": {
+      "lang:en": "Chief Minister of Manipur",
+      "lang:hi": "मणिपुर के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147385",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Manipur",
+      "lang:hi": "मणिपुर विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018641",
+    "role_name": {
+      "lang:en": "Chief Minister of Meghalaya",
+      "lang:hi": "मेघालय के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147386",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Meghalaya",
+      "lang:hi": "मेघालय विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018647",
+    "role_name": {
+      "lang:en": "Chief Minister of Mizoram",
+      "lang:hi": "मिजोरम के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147387",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Mizoram",
+      "lang:hi": "मिजोरम विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018648",
+    "role_name": {
+      "lang:en": "Chief Minister of Nagaland",
+      "lang:hi": "नागालैंड के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147388",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Nagaland",
+      "lang:hi": "नगालैंड विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018649",
+    "role_name": {
+      "lang:en": "Chief Minister of Rajasthan",
+      "lang:hi": "राजस्थान के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147394",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Rajasthan",
+      "lang:hi": "राजस्थान विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018650",
+    "role_name": {
+      "lang:en": "Chief Minister of Sikkim",
+      "lang:hi": "सिक्किम के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147396",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Sikkim",
+      "lang:hi": "सिक्किम विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018651",
+    "role_name": {
+      "lang:en": "Chief Minister of Telangana",
+      "lang:hi": "तेलंगाना के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147397",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Telangana",
+      "lang:hi": "तेलंगाना विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018652",
+    "role_name": {
+      "lang:en": "Chief Minister of Tripura",
+      "lang:hi": "त्रिपुरा के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147398",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Tripura",
+      "lang:hi": "त्रिपुरा विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018653",
+    "role_name": {
+      "lang:en": "Chief Minister of Uttarakhand",
+      "lang:hi": "उत्तराखंड के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q18110833",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Uttarakhand",
+      "lang:hi": "उत्तराखंड विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55018654",
+    "role_name": {
+      "lang:en": "Chief Minister of West Bengal",
+      "lang:hi": "पश्चिम बंगाल के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147399",
+    "organization_name": {
+      "lang:en": "Council of Ministers of West Bengal",
+      "lang:hi": "पश्चिम बंगाल विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55020138",
+    "role_name": {
+      "lang:en": "Chief Minister of Bihar",
+      "lang:hi": "बिहार के मुख्यमंत्री"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147373",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Bihar",
+      "lang:hi": "बिहार विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55139200",
+    "role_name": {
+      "lang:en": "Chief minister of Puducherry"
+    },
+    "generic_role_id": "Q5096847",
+    "generic_role_name": {
+      "lang:en": "Chief Minister",
+      "lang:hi": "मुख्यमन्त्री"
+    },
+    "role_level": "Q10864048",
+    "role_type": null,
+    "organization_id": "Q55147401",
+    "organization_name": {
+      "lang:en": "Council of Ministers of Puducherry",
+      "lang:hi": "पुडुचेरी विधान सभा"
+    }
+  },
+  {
+    "role_id": "Q55192418",
+    "role_name": {
+      "lang:en": "Member of Andhra Pradesh Legislative Council",
+      "lang:hi": "आंध्र प्रदेश विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4754369",
+    "organization_name": {
+      "lang:en": "Andhra Pradesh Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q55192419",
+    "role_name": {
+      "lang:en": "Member of Bihar Legislative Council",
+      "lang:hi": "बिहार विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q4907067",
+    "organization_name": {
+      "lang:en": "Bihar Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q55192420",
+    "role_name": {
+      "lang:en": "Member of Jammu and Kashmir Legislative Council",
+      "lang:hi": "जम्मू और कश्मीर विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6148013",
+    "organization_name": {
+      "lang:en": "Jammu and Kashmir Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q55192421",
+    "role_name": {
+      "lang:en": "Member of Karnataka Legislative Council",
+      "lang:hi": "कर्नाटक विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q15717249",
+    "organization_name": {
+      "lang:en": "Karnataka Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q55192422",
+    "role_name": {
+      "lang:en": "Member of Maharashtra Legislative Council",
+      "lang:hi": "महाराष्ट्र विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q6733344",
+    "organization_name": {
+      "lang:en": "Maharashtra Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q55192423",
+    "role_name": {
+      "lang:en": "Member of Telangana Legislative Council",
+      "lang:hi": "तेलंगाना विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q17152221",
+    "organization_name": {
+      "lang:en": "Telangana Legislative Council"
+    }
+  },
+  {
+    "role_id": "Q55192424",
+    "role_name": {
+      "lang:en": "Member of Uttar Pradesh Legislative Council",
+      "lang:hi": "उत्तर प्रदेश विधान परिषद के सदस्य"
+    },
+    "generic_role_id": "Q55192405",
+    "generic_role_name": {
+      "lang:en": "Member of a Legislative Council",
+      "lang:hi": "विधान परिषद के सदस्य"
+    },
+    "role_level": "Q10864048",
+    "role_type": "Q4175034",
+    "organization_id": "Q7903335",
+    "organization_name": {
+      "lang:en": "Uttar Pradesh Legislative Council",
+      "lang:hi": "उत्तर प्रदेश विधान परिषद"
     }
   }
 ]

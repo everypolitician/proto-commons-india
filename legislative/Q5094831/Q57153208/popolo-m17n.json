@@ -1,0 +1,2150 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Chhattisgarh Legislative Assembly",
+        "lang:hi": "छत्तीसगढ़ विधान सभा"
+      },
+      "id": "Q5094831",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094831"
+        }
+      ],
+      "area_id": "Q1168",
+      "seat_counts": {
+        "Q24457183": "91"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38772867"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q16837064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16837064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baikunthpur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q16938381",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16938381"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharsiwa"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q16938827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16938827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narayanpur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q25209106",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209106"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Marwahi (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q25209107",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209107"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajim"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q25209159",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209159"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mungeli (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q25209168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Masturi (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q25209529",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209529"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajnandgaon"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q25209531",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209531"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahasamund"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q30599537",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599537"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gunderdehi"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q48726686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48726686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandrapur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339183",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339183"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bharatpur-Sonhat (S"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manendragarh"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Premnagar"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhatgaon"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pratappur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339189",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339189"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ramanujganj (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339190",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339190"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Samri (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lundra (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339192",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339192"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambikapur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339194",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339194"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sitapur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339195",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339195"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jashpur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339196",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339196"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kunkuri (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339197",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339197"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pathalgaon (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339198",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339198"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lailunga (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339199",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339199"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raigarh"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339200",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339200"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sarangarh (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339201",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339201"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kharsia"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339202",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339202"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharamjaigarh (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339205",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339205"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rampur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339206",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339206"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Korba"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339207",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339207"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katghora"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339208",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339208"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pali-Tanakhar (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339209",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339209"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kota"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lormi"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339211",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339211"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Takhatpur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339212",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339212"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bilha"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339213",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339213"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bilaspur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Beltara"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339215",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339215"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Akaltara"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339216",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339216"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Janjgir-Champa"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339218",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339218"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sakti"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339219",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339219"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jaijaipur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339220",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339220"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pamgarh (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339221",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339221"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saraipali (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339222",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339222"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basna"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339223",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339223"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khallari"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339226",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339226"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bilaigarh (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339227",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339227"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kasdol"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339229",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339229"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baloda Bazar"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhatapara"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339231",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339231"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raipur Rural"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339232",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339232"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raipur City West"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339233",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339233"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raipur City North"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339234",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339234"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raipur City South"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339235",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339235"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arang (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Abhanpur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339240",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339240"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bindranawagarh (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339241",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339241"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sihawa (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339242",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339242"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kurud"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339243",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339243"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhamtari"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339244",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339244"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanjari Balod"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dondi Lohara (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339246",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339246"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patan"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339247",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339247"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Durg-Rural"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339250",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339250"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Durg City"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339251",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339251"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vaishali Nagar"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339252",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339252"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ahiwara (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339253",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339253"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saja"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339254",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339254"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bemetara"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339255",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339255"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nawagarh (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pandariya"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339257",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339257"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kawardha"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339258",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339258"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khairagarh"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339261",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339261"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dongargarh (SC)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dongargaon"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339263",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339263"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khujji"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mohla-Manpur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339265",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339265"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Antagarh (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339266",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339266"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhanupratappur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339268",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339268"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kanker (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339269",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339269"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Keshkal (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339270",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339270"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kondagaon (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339272",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339272"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bastar (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339273",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339273"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jagdalpur"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339274",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339274"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chitrakot (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339275",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339275"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dantewada (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339276",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339276"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bijapur (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q55339278",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55339278"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Konta (ST)"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q9656239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q9656239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24457183"
+      ],
+      "type": {
+        "lang:en": "constituency of the Chhattisgarh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhilai Nagar"
+      },
+      "parent_id": "Q1168"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

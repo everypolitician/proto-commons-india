@@ -1,0 +1,1460 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Tripura Legislative Assembly",
+        "lang:hi": "त्रिपुरा विधान सभा"
+      },
+      "id": "Q7843860",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7843860"
+        }
+      ],
+      "area_id": "Q1363",
+      "seat_counts": {
+        "Q24559639": "60"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1363",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1363"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018652"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Tripura",
+        "lang:hi": "त्रिपुरा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q17011469",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17011469"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AGARTALA"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q30599530",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599530"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "HRISHYAMUKH"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q30599533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MAJLISHPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734859",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734859"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SIMNA (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734861",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734861"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MOHANPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734895",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734895"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAMUTIA (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734898",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734898"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BARJALA (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHAYERPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734966",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734966"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAMNAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734968",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734968"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TOWN BORDOWALI"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q48734973",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48734973"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BANAMALIPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANDAIBAZAR(ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449764",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449764"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TAKARJALA (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449770",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449770"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PRATAPGARH (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449782",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449782"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BADHARGHAT (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KAMALASAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449798",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449798"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MANU (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449804",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449804"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BISHALGARH"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449811",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449811"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "GOLAGHATI (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449814",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449814"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SURYAMANINAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449817",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449817"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHARILAM (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449819",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449819"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BOXANAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449821",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449821"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "NALCHAR (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449824",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449824"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SONAMURA"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449827",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449827"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DHANPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAMCHANDRAGHAT(ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449833",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449833"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KHOWAI"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449838",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449838"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "ASHARAMBARI (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449847",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449847"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KALYANPUR-PRAMODENAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449860",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449860"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "TELIAMURA"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q54449876",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54449876"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KRISHNAPUR (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGMA (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739052",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739052"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RADHAKISHOREPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739053",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739053"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "MATARBARI"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KAKRABAN-SALGARAH(SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739055",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739055"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAJNAGAR (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BELONIA"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739057",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739057"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SANTIRBAZAR (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JOLAIBARI (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SABROOM"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AMPINAGAR (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AMARPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739062",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739062"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KARBOOK (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739063",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739063"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "RAIMA VALLEY (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739064",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739064"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KAMALPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739065",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739065"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "SURMA (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739066",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739066"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "AMBASSA (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739067",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739067"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KARAMCHHARA (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHHAWMANU (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739069",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739069"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PABIACHHARA (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739070",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739070"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "FATIKROY (SC)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739071",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739071"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "CHANDIPUR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739072",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739072"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KAILASAHAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739073",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739073"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KADAMTALA - KURTI"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739074",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739074"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "BAGBASSA"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739075",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739075"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "DHARMANAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739076",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739076"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "JUBARAJNAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PANISAGAR"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739079",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739079"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "PENCHARTHAL (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q55739080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tr/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55739080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24559639"
+      ],
+      "type": {
+        "lang:en": "constituency of the Tripura Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "KANCHANPUR (ST)"
+      },
+      "parent_id": "Q1363"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

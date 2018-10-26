@@ -1,0 +1,793 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Sikkim Legislative Assembly",
+        "lang:hi": "सिक्किम विधान सभा"
+      },
+      "id": "Q7513808",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7513808"
+        }
+      ],
+      "area_id": "Q1505",
+      "seat_counts": {
+        "Q24547509": "32"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018650"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Sikkim",
+        "lang:hi": "सिक्किम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q54528373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54528373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Namchi-Singhithang"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yoksam-Tashiding(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yangthang"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maneybung-Dentam"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gyalshing-Barnyak"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rinchenpong(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Daramdin(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720410",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720410"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Soreong-Chakung"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720412",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720412"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Salghari-Zoom (SC)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barfung(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720417",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720417"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Poklok-Kamrang"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720418",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720418"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Melli"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720419",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720419"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Namthang-Rateypani"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720420",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720420"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Temi-Namphing"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720421",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720421"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rangang-Yangang"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tumen-Lingi(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khamdong-Singtam"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "West Pendam(SC)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720426",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720426"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rhenock"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720430",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720430"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chujachen"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720431",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720431"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gnathang-Machong(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720432",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720432"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Namcheybung"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720433",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720433"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shyari(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720434",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720434"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Martam-Rumtek (BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720435",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720435"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Upper Tadong"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720436",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720436"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Arithang"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gangtok(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720438",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720438"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Upper Burtuk"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720442",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720442"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kabi Lungchuk(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720443",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720443"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Djongu(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q55720444",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:sk/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55720444"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24547509"
+      ],
+      "type": {
+        "lang:en": "constituency of the Sikkim Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lachen Mangan(BL)"
+      },
+      "parent_id": "Q1505"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

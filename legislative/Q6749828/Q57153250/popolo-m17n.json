@@ -1,0 +1,1460 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Manipur Legislative Assembly",
+        "lang:hi": "मणिपुर विधान सभा"
+      },
+      "id": "Q6749828",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6749828"
+        }
+      ],
+      "area_id": "Q1193",
+      "seat_counts": {
+        "Q19464087": "60"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1193",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1193"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018640"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Manipur",
+        "lang:hi": "मणिपुर"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q28179944",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179944"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Keisamthong"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q28179951",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179951"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thongju"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q28179956",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179956"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thangmeiband"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q28419650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28419650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tamei"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q30599934",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599934"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wabgai"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q30601143",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30601143"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kangpokpi"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q30601173",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30601173"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "langthabal"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q32212769",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32212769"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khundrakpam"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q32214326",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q32214326"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Heingang"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q48727058",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727058"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tipaimukh"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q48727060",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727060"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandel"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q48727225",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727225"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Andro"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q48728012",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48728012"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chingai"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q48728019",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48728019"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Churachandpur"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khurai"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khetrigao"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Keirao"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lamlai"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Uripok"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sagolband"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Singjamei"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Yaiskul"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wangkhei"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sekmai"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587648",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587648"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lamsang"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Konthoujam"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patsoi"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naoriya Pakhanglak*"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wangoi"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587653",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587653"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mayang Imphal"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nambol"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Oinam"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bishenpur"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Moirang"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thanga"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kumbi"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lilong"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thoubal"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wangkhem"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587663",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587663"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Heirok"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Wangjing Tentha"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khangabo"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kakching"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hiyanglam"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587669",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587669"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sugnoo"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jiribam"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tengnoupal"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Phungyar"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ukhrul"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saikul"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karong"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mao"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tadubi"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saitu"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tamenglong"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nungba"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thanlon"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Henglep"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587684",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587684"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saikot"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q55587687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mn/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55587687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19464087"
+      ],
+      "type": {
+        "lang:en": "constituency of the Manipur Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Singhat"
+      },
+      "parent_id": "Q1193"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
