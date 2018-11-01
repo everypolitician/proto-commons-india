@@ -1,0 +1,142 @@
+<OGRVRTDataSource>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Ahmedabad">
+      <SrcDataSource relativeToVRT="1">Ahmedabad-wards.geojson</SrcDataSource>
+      <SrcLayer>Ahmedabad-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Bangalore">
+      <SrcDataSource relativeToVRT="1">Bangalore-wards.geojson</SrcDataSource>
+      <SrcLayer>Bangalore-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Bhopal">
+      <SrcDataSource relativeToVRT="1">Bhopal-wards.geojson</SrcDataSource>
+      <SrcLayer>Bhopal-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Bhubaneswar">
+      <SrcDataSource relativeToVRT="1">Bhubaneswar-wards.geojson</SrcDataSource>
+      <SrcLayer>Bhubaneswar-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Bodh_Gaya">
+      <SrcDataSource relativeToVRT="1">Bodh_Gaya-wards.geojson</SrcDataSource>
+      <SrcLayer>Bodh_Gaya_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Chandigarh">
+      <SrcDataSource relativeToVRT="1">Chandigarh-wards.geojson</SrcDataSource>
+      <SrcLayer>Chandigarh_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Chennai">
+      <SrcDataSource relativeToVRT="1">Chennai-wards.geojson</SrcDataSource>
+      <SrcLayer>Chennai-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Coimbatore">
+      <SrcDataSource relativeToVRT="1">Coimbatore-wards.geojson</SrcDataSource>
+      <SrcLayer>Coimbatore-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Delhi">
+      <SrcDataSource relativeToVRT="1">Delhi-wards.geojson</SrcDataSource>
+      <SrcLayer>Delhi_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Faridabad">
+      <SrcDataSource relativeToVRT="1">Faridabad-wards.geojson</SrcDataSource>
+      <SrcLayer>Faridabad_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Hyderabad">
+      <SrcDataSource relativeToVRT="1">Hyderabad-wards.geojson</SrcDataSource>
+      <SrcLayer>Hyderabad-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Jaipur">
+      <SrcDataSource relativeToVRT="1">Jaipur-wards.geojson</SrcDataSource>
+      <SrcLayer>Jaipur_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Katihar">
+      <SrcDataSource relativeToVRT="1">Katihar-wards.geojson</SrcDataSource>
+      <SrcLayer>Katihar_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Kishangarh">
+      <SrcDataSource relativeToVRT="1">Kishangarh-wards.geojson</SrcDataSource>
+      <SrcLayer>Kishangarh_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Pune">
+      <SrcDataSource relativeToVRT="1">maps-wards.geojson</SrcDataSource>
+      <SrcLayer>maps-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Mumbai">
+      <SrcDataSource relativeToVRT="1">Mumbai-wards.geojson</SrcDataSource>
+      <SrcLayer>Mumbai-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="NMMC">
+      <SrcDataSource relativeToVRT="1">NMMC-wards.geojson</SrcDataSource>
+      <SrcLayer>NMMC-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="PCMC">
+      <SrcDataSource relativeToVRT="1">PCMC-wards.geojson</SrcDataSource>
+      <SrcLayer>PCMC-wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Purnia">
+      <SrcDataSource relativeToVRT="1">Purnia-wards.geojson</SrcDataSource>
+      <SrcLayer>Purnia_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+  <OGRVRTWarpedLayer>
+    <OGRVRTLayer name="Vijayawada">
+      <SrcDataSource relativeToVRT="1">Vijayawada-wards.geojson</SrcDataSource>
+      <SrcLayer>Vijayawada_Wards</SrcLayer>
+    </OGRVRTLayer>
+    <TargetSRS>EPSG:4326</TargetSRS>
+  </OGRVRTWarpedLayer>
+</OGRVRTDataSource>
