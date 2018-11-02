@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Bhagirath Choudhary"
+      },
+      "id": "Q28873568",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28873568"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -20,6 +34,20 @@
       "seat_counts": {
         "Q17599276": "200"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
@@ -4873,6 +4901,38 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28873568-4aa4a2fb-dd9c-4c9d-9f9e-032ce3ebd933",
+      "person_id": "Q28873568",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19804858",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28873568-4aa4a2fb-dd9c-4c9d-9f9e-032ce3ebd933",
+      "person_id": "Q28873568",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19804858",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    }
   ]
 }
