@@ -5,4 +5,4 @@ source 'https://rubygems.org'
 
 ruby '2.4.2'
 
-gem 'commons-builder', :git => 'git://github.com/everypolitician/commons-builder.git'
+gem 'commons-builder', path: '/home/kebl2765/Miranda/Projects/commons-builder'
