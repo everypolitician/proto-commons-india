@@ -68932,7 +68932,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "All India Majlis-e-Ittehadul Muslimeen"
+        "value" : "All India Muslim farzi party"
       },
       "statement" : {
         "type" : "uri",
@@ -69030,7 +69030,7 @@
       "party_name_en" : {
         "xml:lang" : "en",
         "type" : "literal",
-        "value" : "All India Majlis-e-Ittehadul Muslimeen"
+        "value" : "All India Muslim farzi party"
       },
       "statement" : {
         "type" : "uri",
@@ -78097,6 +78097,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1996-01-01T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-11-12T00:00:00Z"
       }
     }, {
       "statement" : {
@@ -78186,6 +78191,11 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "1996-01-01T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-11-12T00:00:00Z"
       }
     }, {
       "party" : {
@@ -81622,192 +81632,6 @@
       },
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4901930-63F52845-01FD-4867-8A55-68EC5FF648E1"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4880639"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "बेगूसराय लोक सभा निर्वाचन क्षेत्र"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Begusarai"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16556694"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोकसभा सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Lok Sabha"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4901930"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bhola Singh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q230003"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोक सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lok Sabha"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q668"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "545"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bharatiya Janata Party"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q4901930-63F52845-01FD-4867-8A55-68EC5FF648E1"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4880639"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "बेगूसराय लोक सभा निर्वाचन क्षेत्र"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Begusarai"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q486839"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सांसद"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of parliament"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q16556694"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोकसभा सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "member of the Lok Sabha"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4901930"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bhola Singh"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q230003"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "लोक सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Lok Sabha"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q668"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "545"
-      }
-    }, {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bharatiya Janata Party"
-      },
-      "statement" : {
-        "type" : "uri",
         "value" : "http://www.wikidata.org/entity/statement/Q4901930-E2D53AC0-D334-4233-8D7D-6A1A006EA48A"
       },
       "district" : {
@@ -81986,6 +81810,212 @@
         "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
         "type" : "literal",
         "value" : "2009-01-01T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4901930-63F52845-01FD-4867-8A55-68EC5FF648E1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4880639"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "बेगूसराय लोक सभा निर्वाचन क्षेत्र"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Begusarai"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4901930"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhola Singh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "545"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-10-19T00:00:00Z"
+      }
+    }, {
+      "party" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q10230"
+      },
+      "party_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "भारतीय जनता पार्टी"
+      },
+      "party_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bharatiya Janata Party"
+      },
+      "statement" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/statement/Q4901930-63F52845-01FD-4867-8A55-68EC5FF648E1"
+      },
+      "district" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4880639"
+      },
+      "district_name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "बेगूसराय लोक सभा निर्वाचन क्षेत्र"
+      },
+      "district_name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Begusarai"
+      },
+      "role_superclass" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q486839"
+      },
+      "role_superclass_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "सांसद"
+      },
+      "role_superclass_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of parliament"
+      },
+      "role" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q16556694"
+      },
+      "role_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोकसभा सदस्य"
+      },
+      "role_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "member of the Lok Sabha"
+      },
+      "item" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q4901930"
+      },
+      "name_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Bhola Singh"
+      },
+      "org" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q230003"
+      },
+      "org_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "लोक सभा"
+      },
+      "org_en" : {
+        "xml:lang" : "en",
+        "type" : "literal",
+        "value" : "Lok Sabha"
+      },
+      "org_jurisdiction" : {
+        "type" : "uri",
+        "value" : "http://www.wikidata.org/entity/Q668"
+      },
+      "org_seat_count" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
+        "type" : "literal",
+        "value" : "545"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2014-01-01T00:00:00Z"
+      },
+      "end" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-10-19T00:00:00Z"
       }
     }, {
       "party" : {
