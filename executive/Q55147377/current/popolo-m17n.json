@@ -15,6 +15,22 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Jai Ram Thakur",
+        "lang:hi": "जयराम ठाकुर"
+      },
+      "id": "Q6123452",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6123452"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -107,6 +123,24 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q55147377",
       "area_id": "Q1177",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018635",
+      "role": {
+        "lang:en": "Chief Minister of Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश के मुख्यमंत्री"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6123452-c2a3e49d-4b55-fa88-42e6-a5ecb8574f73",
+      "person_id": "Q6123452",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147377",
+      "area_id": "Q1177",
+      "start_date": "2017-12-27",
       "role_superclass_code": "Q5096847",
       "role_superclass": {
         "lang:en": "Chief Minister",

@@ -1,6 +1,24 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Pawan Kumar Chamling",
+        "lang:hi": "पवन कुमार चामलिंग"
+      },
+      "id": "Q2475703",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2475703"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BeautifulSikkim"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +35,20 @@
         }
       ],
       "area_id": "Q1505"
+    },
+    {
+      "name": {
+        "lang:en": "Sikkim Democratic Front",
+        "lang:hi": "सिक्किम डेमोक्रेटिक फ्रन्ट"
+      },
+      "id": "Q2285614",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2285614"
+        }
+      ]
     }
   ],
   "areas": [
@@ -72,6 +104,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2475703-fd91c5e1-415f-e1bf-212e-0a83a94add5b",
+      "person_id": "Q2475703",
+      "on_behalf_of_id": "Q2285614",
+      "organization_id": "Q55147396",
+      "area_id": "Q1505",
+      "start_date": "1994-12-12",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018650",
+      "role": {
+        "lang:en": "Chief Minister of Sikkim",
+        "lang:hi": "सिक्किम के मुख्यमंत्री"
+      }
+    }
   ]
 }

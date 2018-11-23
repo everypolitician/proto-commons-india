@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Raghubar Das",
+        "lang:hi": "रघुवर दास"
+      },
+      "id": "Q7282990",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7282990"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q1184"
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
     }
   ],
   "areas": [
@@ -72,6 +101,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7282990-3022ae4b-45ca-d399-6550-febd24fa7950",
+      "person_id": "Q7282990",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q55147381",
+      "area_id": "Q1184",
+      "start_date": "2014-12-28",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018637",
+      "role": {
+        "lang:en": "Chief Minister of Jharkhand",
+        "lang:hi": "झारखंड के मुख्यमंत्री"
+      }
+    }
   ]
 }
