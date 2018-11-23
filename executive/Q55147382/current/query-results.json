@@ -6,7 +6,7 @@
     "bindings" : [ {
       "statement" : {
         "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q251790-B2BCA153-4AD2-4C59-821C-2F1AA4C9E863"
+        "value" : "http://www.wikidata.org/entity/statement/Q251790-531e8372-4b32-9b66-9b62-99f42dc1f11e"
       },
       "item" : {
         "type" : "uri",
@@ -58,6 +58,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Chief Minister of Karnataka"
+      },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2018-05-23T00:00:00Z"
       },
       "role_superclass" : {
         "type" : "uri",
@@ -484,6 +489,11 @@
         "type" : "literal",
         "value" : "Chief Minister of Karnataka"
       },
+      "start" : {
+        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
+        "type" : "literal",
+        "value" : "2013-05-13T00:00:00Z"
+      },
       "role_superclass" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q5096847"
@@ -515,11 +525,6 @@
       "org_jurisdiction" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q1185"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2013-05-13T00:00:00Z"
       }
     }, {
       "statement" : {
