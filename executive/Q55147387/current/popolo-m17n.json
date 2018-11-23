@@ -1,6 +1,21 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Pu Lalthanhawla",
+        "lang:hi": "पु ललथनहवला"
+      },
+      "id": "Q5094693",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094693"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -17,6 +32,20 @@
         }
       ],
       "area_id": "Q1502"
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
     }
   ],
   "areas": [
@@ -72,6 +101,23 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5094693-5faf4e71-4e6e-b5b4-a5b1-f7a0f2197d43",
+      "person_id": "Q5094693",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q55147387",
+      "area_id": "Q1502",
+      "start_date": "2008-12-11",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018647",
+      "role": {
+        "lang:en": "Chief Minister of Mizoram",
+        "lang:hi": "मिजोरम के मुख्यमंत्री"
+      }
+    }
   ]
 }

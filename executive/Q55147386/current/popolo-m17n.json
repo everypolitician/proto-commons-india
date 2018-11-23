@@ -2,6 +2,22 @@
   "persons": [
     {
       "name": {
+        "lang:en": "Conrad Sangma",
+        "lang:hi": "कॉनराड संगमा"
+      },
+      "id": "Q5162596",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5162596"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "J. Dringwell Rymbai"
       },
       "id": "Q6105426",
@@ -31,6 +47,20 @@
         }
       ],
       "area_id": "Q1195"
+    },
+    {
+      "name": {
+        "lang:en": "National People's Party (India)",
+        "lang:hi": "नेशनल पीपल्स पार्टी (भारत)"
+      },
+      "id": "Q6974870",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6974870"
+        }
+      ]
     },
     {
       "name": {
@@ -99,6 +129,24 @@
     }
   ],
   "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5162596-24e63bc2-4b16-a040-2110-bf55e24253e0",
+      "person_id": "Q5162596",
+      "on_behalf_of_id": "Q6974870",
+      "organization_id": "Q55147386",
+      "area_id": "Q1195",
+      "start_date": "2018-03-06",
+      "role_superclass_code": "Q5096847",
+      "role_superclass": {
+        "lang:en": "Chief Minister",
+        "lang:hi": "मुख्यमन्त्री"
+      },
+      "role_code": "Q55018641",
+      "role": {
+        "lang:en": "Chief Minister of Meghalaya",
+        "lang:hi": "मेघालय के मुख्यमंत्री"
+      }
+    },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6105426-416C3363-2C15-487A-AE51-5B64E8019922",
       "person_id": "Q6105426",
