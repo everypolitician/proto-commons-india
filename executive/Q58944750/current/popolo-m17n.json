@@ -1,0 +1,71 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Gautam Shah"
+      },
+      "id": "Q21729795",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21729795"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Amdavad Municipal Corporation"
+      },
+      "id": "Q58944750",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944750"
+        }
+      ],
+      "area_id": "Q58954348"
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    }
+  ],
+  "areas": [
+
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21729795-bde9c241-4afe-0b10-6f23-0982a0032d8b",
+      "person_id": "Q21729795",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q58944750",
+      "area_id": "Q58954348",
+      "start_date": "2015-12-14",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:hi": "महापौर"
+      },
+      "role_code": "Q19893852",
+      "role": {
+        "lang:en": "Mayor of Ahmedabad"
+      }
+    }
+  ]
+}
