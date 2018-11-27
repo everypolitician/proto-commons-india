@@ -11991,6 +11991,53 @@
         },
         "body": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58942732"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muzaffarnagar Municipal Corporation"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58944241"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Muzaffarnagar"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58954776"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Muzaffarnagar Municipal Corporation area"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "महापौर"
+        },
+        "body": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/Q58945034"
         },
         "body_en": {
