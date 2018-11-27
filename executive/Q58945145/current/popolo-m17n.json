@@ -19,7 +19,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1186",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:kl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1186"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q26218416"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Kerala",
+        "lang:hi": "केरल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954916",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:kl/municipality:thiruvananthapuram"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954916"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944377"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Thiruvananthapuram Corporation area"
+      },
+      "parent_id": "Q1186"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

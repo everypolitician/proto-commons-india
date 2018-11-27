@@ -19,7 +19,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22337580"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Gujarat",
+        "lang:hi": "गुजरात"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954661",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/municipality:junagadh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954661"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944150"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Junagadh Municipal Corporation area"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

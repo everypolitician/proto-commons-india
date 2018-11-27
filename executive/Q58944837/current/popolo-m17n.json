@@ -19,7 +19,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018635"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Himachal Pradesh",
+        "lang:hi": "हिमाचल प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954480",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hp/municipality:bilaspur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954480"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944001"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Bilaspur Municipal Corporation area"
+      },
+      "parent_id": "Q1177"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -47,7 +47,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1061",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1061"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q22337580"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Gujarat",
+        "lang:hi": "गुजरात"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954348",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:gj/municipality:ahmedabad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954348"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q19893852"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Ahmedabad Municipal Corporation area"
+      },
+      "parent_id": "Q1061"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
     {

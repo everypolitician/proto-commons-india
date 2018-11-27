@@ -19,7 +19,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018654"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "West Bengal",
+        "lang:hi": "पश्चिम बंगाल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954750",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/municipality:maheshtala"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954750"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944212"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Maheshtala municipality"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

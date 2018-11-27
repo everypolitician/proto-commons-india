@@ -1354,21 +1354,6 @@
     },
     {
       "name": {
-        "lang:en": "Kalsingh Bhabar"
-      },
-      "id": "Q58451940",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58451940"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Bhoopendra Bhaiya"
       },
       "id": "Q58451946",
@@ -1781,21 +1766,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q58452489"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Shankarlal Tiwari"
-      },
-      "id": "Q58452508",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58452508"
         }
       ],
       "links": [
@@ -3034,36 +3004,6 @@
     },
     {
       "name": {
-        "lang:en": "Nathan Shah Kevreti"
-      },
-      "id": "Q58461315",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58461315"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Parul Sahu Kesari"
-      },
-      "id": "Q58461322",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58461322"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Hina Likhiram Kaware"
       },
       "id": "Q58461326",
@@ -3389,6 +3329,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q7290007"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Sanjay Pathak"
+      },
+      "id": "Q7418459",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7418459"
         }
       ],
       "links": [
@@ -8898,10 +8853,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q4907188",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -8915,9 +8869,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q4907188",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -9822,10 +9777,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442651",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -9839,22 +9793,6 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442651",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q28677015-f61cfa13-f7d9-4f6e-958b-98f52b7d0712",
-      "person_id": "Q28677015",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q17101760",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -9875,6 +9813,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28677015-f61cfa13-f7d9-4f6e-958b-98f52b7d0712",
+      "person_id": "Q28677015",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q17101760",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -9954,10 +9909,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q5618456",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -9971,9 +9925,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q5618456",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10053,9 +10008,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q25241407",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10069,10 +10025,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q25241407",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10284,9 +10239,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q30599904",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10300,23 +10256,6 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q30599904",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q47126294-D6745CF3-3B77-44FD-9C2B-A91A7DEFEBA0",
-      "person_id": "Q47126294",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q7290059",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -10345,15 +10284,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q4838090-B0456AE2-E1E0-4330-8F7F-58F27E11BB79",
-      "person_id": "Q4838090",
+      "id": "http://www.wikidata.org/entity/statement/Q47126294-D6745CF3-3B77-44FD-9C2B-A91A7DEFEBA0",
+      "person_id": "Q47126294",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
-      "area_id": "Q30716996",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q7290059",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10370,6 +10308,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q4838090-B0456AE2-E1E0-4330-8F7F-58F27E11BB79",
+      "person_id": "Q4838090",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q30716996",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10515,9 +10470,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q4853516",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10531,27 +10487,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q4853516",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q53568490-9213988C-1C1A-4287-8E1C-B67CDD849611",
-      "person_id": "Q53568490",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q6400639",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10568,6 +10506,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q53568490-9213988C-1C1A-4287-8E1C-B67CDD849611",
+      "person_id": "Q53568490",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6727600",
+      "area_id": "Q6400639",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10746,9 +10701,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q4740334",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10762,23 +10718,6 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q4740334",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q54158966-85BDD42D-A6C3-425C-85EC-D28995BC5B09",
-      "person_id": "Q54158966",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q54244481",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -10807,15 +10746,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q54159470-7974D006-401C-4F79-BA86-AEF1D44406C7",
-      "person_id": "Q54159470",
+      "id": "http://www.wikidata.org/entity/statement/Q54158966-85BDD42D-A6C3-425C-85EC-D28995BC5B09",
+      "person_id": "Q54158966",
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
-      "area_id": "Q54244874",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q54244481",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10832,6 +10770,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54159470-7974D006-401C-4F79-BA86-AEF1D44406C7",
+      "person_id": "Q54159470",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6727600",
+      "area_id": "Q54244874",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10878,9 +10833,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q55442601",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10894,27 +10850,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q55442601",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q54161188-46FA7127-3B21-4612-9D55-591B0295E30D",
-      "person_id": "Q54161188",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442612",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -10931,6 +10869,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q54161188-46FA7127-3B21-4612-9D55-591B0295E30D",
+      "person_id": "Q54161188",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442612",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11274,9 +11229,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q55442608",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11290,27 +11246,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q55442608",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5527778-149AEDC2-C5C1-4432-AC64-B8C37B156CA7",
-      "person_id": "Q5527778",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442624",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11327,6 +11265,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5527778-149AEDC2-C5C1-4432-AC64-B8C37B156CA7",
+      "person_id": "Q5527778",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442624",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11472,9 +11427,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q6935985",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11488,27 +11444,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q6935985",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q55956122-d89ec026-eee0-4008-a1d0-88006d5a2068",
-      "person_id": "Q55956122",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442657",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11525,6 +11463,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q55956122-d89ec026-eee0-4008-a1d0-88006d5a2068",
+      "person_id": "Q55956122",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442657",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -11785,39 +11740,6 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q5577560",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58451940-C8A5AFAD-36FF-42F0-968F-CC773500C0DB",
-      "person_id": "Q58451940",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442687",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58451940-C8A5AFAD-36FF-42F0-968F-CC773500C0DB",
-      "person_id": "Q58451940",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442687",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -12660,10 +12582,9 @@
       "on_behalf_of_id": "Q803681",
       "organization_id": "Q6727600",
       "area_id": "Q54244694",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -12677,25 +12598,10 @@
       "on_behalf_of_id": "Q803681",
       "organization_id": "Q6727600",
       "area_id": "Q54244694",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58452469-5ADC18F5-03E2-41AD-B3C4-07EF03FD48C5",
-      "person_id": "Q58452469",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q25241413",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -12713,6 +12619,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58452469-5ADC18F5-03E2-41AD-B3C4-07EF03FD48C5",
+      "person_id": "Q58452469",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q25241413",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -12754,31 +12676,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58452508-DFA88F45-4252-4541-BB09-861DCF1A15A0",
-      "person_id": "Q58452508",
+      "id": "http://www.wikidata.org/entity/statement/Q58452522-D1778179-11A8-4D44-A90E-E8C647E0ECF1",
+      "person_id": "Q58452522",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
-      "area_id": "Q55442593",
+      "area_id": "Q55442594",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58452508-DFA88F45-4252-4541-BB09-861DCF1A15A0",
-      "person_id": "Q58452508",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442593",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -12804,38 +12709,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58452522-D1778179-11A8-4D44-A90E-E8C647E0ECF1",
-      "person_id": "Q58452522",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442594",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58452539-111D6166-5165-47DF-BDB1-8A06F3E36952",
-      "person_id": "Q58452539",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442692",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58452539-111D6166-5165-47DF-BDB1-8A06F3E36952",
       "person_id": "Q58452539",
       "on_behalf_of_id": "Q10230",
@@ -12845,6 +12718,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58452539-111D6166-5165-47DF-BDB1-8A06F3E36952",
+      "person_id": "Q58452539",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442692",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13188,10 +13077,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442701",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13205,25 +13093,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442701",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58452873-12E23E55-0021-497B-B3DF-F26236B64E35",
-      "person_id": "Q58452873",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442630",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13241,6 +13114,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58452873-12E23E55-0021-497B-B3DF-F26236B64E35",
+      "person_id": "Q58452873",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442630",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13386,10 +13275,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q13521924",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13403,25 +13291,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q13521924",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58458138-D331B5F2-EC27-4E9C-AAB8-81C745E69EB1",
-      "person_id": "Q58458138",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q25209162",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13439,6 +13312,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58458138-D331B5F2-EC27-4E9C-AAB8-81C745E69EB1",
+      "person_id": "Q58458138",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q25209162",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13617,10 +13506,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q17090616",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13634,22 +13522,6 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
       "area_id": "Q17090616",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58459215-699BE583-149A-4968-9169-F747B504D282",
-      "person_id": "Q58459215",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q6966532",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -13670,6 +13542,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58459215-699BE583-149A-4968-9169-F747B504D282",
+      "person_id": "Q58459215",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q6966532",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13749,10 +13638,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q30598758",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13766,9 +13654,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q30598758",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13881,9 +13770,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442627",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -13897,10 +13787,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442627",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -14112,9 +14001,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442633",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -14128,10 +14018,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442633",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -14706,10 +14595,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442683",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -14723,9 +14611,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442683",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -14805,9 +14694,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q25241400",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -14821,10 +14711,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q25241400",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15036,9 +14925,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442677",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15052,23 +14942,6 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442677",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461215-E1720B66-64BC-4FAE-AC13-F2E74AFBCC86",
-      "person_id": "Q58461215",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q7286328",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -15097,15 +14970,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58461240-43296A58-AAEE-4E63-B0CB-8006DCC18DBD",
-      "person_id": "Q58461240",
-      "on_behalf_of_id": "Q327591",
+      "id": "http://www.wikidata.org/entity/statement/Q58461215-E1720B66-64BC-4FAE-AC13-F2E74AFBCC86",
+      "person_id": "Q58461215",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
-      "area_id": "Q30605757",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q7286328",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15122,6 +14994,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58461240-43296A58-AAEE-4E63-B0CB-8006DCC18DBD",
+      "person_id": "Q58461240",
+      "on_behalf_of_id": "Q327591",
+      "organization_id": "Q6727600",
+      "area_id": "Q30605757",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15267,9 +15156,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442666",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15283,27 +15173,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q55442666",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461290-66A00180-39C5-4CC4-9FE5-14E2056BF713",
-      "person_id": "Q58461290",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q4854285",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15320,6 +15192,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58461290-66A00180-39C5-4CC4-9FE5-14E2056BF713",
+      "person_id": "Q58461290",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q4854285",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15493,60 +15382,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58461315-FC2E6C76-0884-4C69-B262-7E1E43D6506F",
-      "person_id": "Q58461315",
-      "on_behalf_of_id": "Q10230",
+      "id": "http://www.wikidata.org/entity/statement/Q58461326-F9CE2D33-BAC4-4217-BDE4-4B2492A03B6D",
+      "person_id": "Q58461326",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q6727600",
-      "area_id": "Q55442636",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461315-FC2E6C76-0884-4C69-B262-7E1E43D6506F",
-      "person_id": "Q58461315",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442636",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461322-58DB20D2-0B28-4432-9AFD-49725D550D51",
-      "person_id": "Q58461322",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q7646425",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461322-58DB20D2-0B28-4432-9AFD-49725D550D51",
-      "person_id": "Q58461322",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q6727600",
-      "area_id": "Q7646425",
+      "area_id": "Q55442622",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -15567,23 +15407,6 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461326-F9CE2D33-BAC4-4217-BDE4-4B2492A03B6D",
-      "person_id": "Q58461326",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q55442622",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15762,10 +15585,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q13521925",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15779,25 +15601,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q13521925",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24529702",
-      "role": {
-        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
-        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58461381-02FFDC1F-EF98-4DF8-A192-ACA4350DC2A9",
-      "person_id": "Q58461381",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6727600",
-      "area_id": "Q4890846",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15815,6 +15622,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58461381-02FFDC1F-EF98-4DF8-A192-ACA4350DC2A9",
+      "person_id": "Q58461381",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6727600",
+      "area_id": "Q4890846",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -15993,10 +15816,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q6733277",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -16010,9 +15832,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q6733277",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -16059,9 +15882,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q25222156",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -16075,10 +15899,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q25222156",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -16224,10 +16047,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q54247026",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24529702",
       "role": {
@@ -16241,9 +16063,27 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
       "area_id": "Q54247026",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7290007-F4BDC667-FFE7-4FED-A566-83FD6A10611D",
+      "person_id": "Q7290007",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442654",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24529702",
       "role": {
@@ -16268,11 +16108,27 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q7290007-F4BDC667-FFE7-4FED-A566-83FD6A10611D",
-      "person_id": "Q7290007",
+      "id": "http://www.wikidata.org/entity/statement/Q7418459-7E4D0E49-6B17-43A8-8BF1-BC92D7906FAD",
+      "person_id": "Q7418459",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q6727600",
-      "area_id": "Q55442654",
+      "area_id": "Q55442606",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24529702",
+      "role": {
+        "lang:en": "Member of the Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7418459-7E4D0E49-6B17-43A8-8BF1-BC92D7906FAD",
+      "person_id": "Q7418459",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q6727600",
+      "area_id": "Q55442606",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",

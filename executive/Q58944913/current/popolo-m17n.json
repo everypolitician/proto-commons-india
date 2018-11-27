@@ -19,7 +19,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1174",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1174"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018634"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Haryana",
+        "lang:hi": "हरियाणा"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:hr/municipality:gurgaon"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944088"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Municipal Corporation of Gurgoan area"
+      },
+      "parent_id": "Q1174"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
