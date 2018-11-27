@@ -53,7 +53,7 @@ WHERE {
     (wd:Q17053972 wd:Q58947161)
     (wd:Q17056450 wd:Q58947185)
     (wd:Q18126899 wd:Q58947241)
-    (wd:Q18359162 rdf:nil)
+    (wd:Q18359162 wd:Q58947456)
     (wd:Q18386602 wd:Q58947218)
     (wd:Q30108922 wd:Q58947013)
     (wd:Q4045640 wd:Q58947093)
@@ -67,9 +67,9 @@ WHERE {
     (wd:Q6497204 wd:Q58947260)
     (wd:Q6966849 wd:Q58947305)
     (wd:Q7194723 wd:Q58947341)
-    (wd:Q7555808 rdf:nil)
-    (wd:Q7798279 rdf:nil)
-    (wd:Q7878932 rdf:nil)
+    (wd:Q7555808 wd:Q58947400)
+    (wd:Q7798279 wd:Q58947422)
+    (wd:Q7878932 wd:Q58947446)
   }
   ?house (p:P361/ps:P361)* ?legislature .
       ?baseTerm p:P31|p:P279 [ ps:P279|ps:P31 wd:Q15238777 ; pq:P642 ?legislature ] .
