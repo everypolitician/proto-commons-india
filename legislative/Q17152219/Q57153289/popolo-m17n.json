@@ -769,21 +769,6 @@
     },
     {
       "name": {
-        "lang:en": "Gampa Govardhan"
-      },
-      "id": "Q5520379",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q5520379"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Thanneeru Harish Rao"
       },
       "id": "Q57017063",
@@ -1069,6 +1054,21 @@
     },
     {
       "name": {
+        "lang:en": "Kalvakuntla Vidya Sagar Rao"
+      },
+      "id": "Q58436420",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58436420"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
         "lang:en": "Alla Venkateshwar Reddy"
       },
       "id": "Q58436442",
@@ -1241,6 +1241,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q58437186"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Shakil"
+      },
+      "id": "Q58437264",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58437264"
         }
       ],
       "links": [
@@ -1498,6 +1513,21 @@
         {
           "scheme": "wikidata",
           "identifier": "Q6428202"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Konda Surekha"
+      },
+      "id": "Q6428922",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6428922"
         }
       ],
       "links": [
@@ -4686,10 +4716,9 @@
       "on_behalf_of_id": "Q234277",
       "organization_id": "Q17152219",
       "area_id": "Q4900537",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -4703,9 +4732,10 @@
       "on_behalf_of_id": "Q234277",
       "organization_id": "Q17152219",
       "area_id": "Q4900537",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5643,9 +5673,10 @@
       "on_behalf_of_id": "Q2837501",
       "organization_id": "Q17152219",
       "area_id": "Q4842282",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5659,27 +5690,9 @@
       "on_behalf_of_id": "Q2837501",
       "organization_id": "Q17152219",
       "area_id": "Q4842282",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q28839633-D2040EDF-C650-4010-A0D7-4CC3DF6983A9",
-      "person_id": "Q28839633",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q6354786",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5696,6 +5709,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28839633-D2040EDF-C650-4010-A0D7-4CC3DF6983A9",
+      "person_id": "Q28839633",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q6354786",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5939,7 +5969,7 @@
       "person_id": "Q48984613",
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
-      "area_id": "Q7144233",
+      "area_id": "Q15706179",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -5955,7 +5985,7 @@
       "person_id": "Q48984613",
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
-      "area_id": "Q7144233",
+      "area_id": "Q15706179",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -6171,9 +6201,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q6433974",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6187,10 +6218,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q6433974",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6364,39 +6394,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5520379-1153E417-8520-40EE-9FE4-1184F4CE3AE7",
-      "person_id": "Q5520379",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q6356004",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5520379-1153E417-8520-40EE-9FE4-1184F4CE3AE7",
-      "person_id": "Q5520379",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q6356004",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q57017063-D269759F-74ED-4FDD-AB92-EA46D0A64009",
       "person_id": "Q57017063",
       "on_behalf_of_id": "Q3518390",
@@ -6534,10 +6531,9 @@
       "on_behalf_of_id": "Q2279320",
       "organization_id": "Q17152219",
       "area_id": "Q800097",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6551,25 +6547,10 @@
       "on_behalf_of_id": "Q2279320",
       "organization_id": "Q17152219",
       "area_id": "Q800097",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58433021-BD391D7B-B094-4066-8C55-8362BCDBD657",
-      "person_id": "Q58433021",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q7042123",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6595,15 +6576,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58433088-0D943CCF-8324-411A-91A3-831218614BF7",
-      "person_id": "Q58433088",
-      "on_behalf_of_id": "Q2279320",
+      "id": "http://www.wikidata.org/entity/statement/Q58433021-BD391D7B-B094-4066-8C55-8362BCDBD657",
+      "person_id": "Q58433021",
+      "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
-      "area_id": "Q6301866",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q7042123",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6620,6 +6600,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58433088-0D943CCF-8324-411A-91A3-831218614BF7",
+      "person_id": "Q58433088",
+      "on_behalf_of_id": "Q2279320",
+      "organization_id": "Q17152219",
+      "area_id": "Q6301866",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7024,11 +7021,27 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58436442-B7E7AC2A-1699-44FD-AD76-544388E5A1B0",
-      "person_id": "Q58436442",
+      "id": "http://www.wikidata.org/entity/statement/Q58436420-D8A6435A-0B95-4FA0-B94D-FAABF66DC473",
+      "person_id": "Q58436420",
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
-      "area_id": "Q5266563",
+      "area_id": "Q6431440",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58436420-D8A6435A-0B95-4FA0-B94D-FAABF66DC473",
+      "person_id": "Q58436420",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q6431440",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -7057,14 +7070,15 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58436893-D6F650EF-98CD-40DE-9A6A-BD6072FB75D9",
-      "person_id": "Q58436893",
-      "on_behalf_of_id": "Q10225",
+      "id": "http://www.wikidata.org/entity/statement/Q58436442-B7E7AC2A-1699-44FD-AD76-544388E5A1B0",
+      "person_id": "Q58436442",
+      "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
-      "area_id": "Q5094313",
-      "role_superclass_code": "Q3526627",
+      "area_id": "Q5266563",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7082,6 +7096,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58436893-D6F650EF-98CD-40DE-9A6A-BD6072FB75D9",
+      "person_id": "Q58436893",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q5094313",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7128,10 +7158,9 @@
       "on_behalf_of_id": "Q8046035",
       "organization_id": "Q17152219",
       "area_id": "Q7194831",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7145,25 +7174,10 @@
       "on_behalf_of_id": "Q8046035",
       "organization_id": "Q17152219",
       "area_id": "Q7194831",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58437024-13500414-B0D2-4E4B-82E5-AA540E5A995B",
-      "person_id": "Q58437024",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q5104844",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7181,6 +7195,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58437024-13500414-B0D2-4E4B-82E5-AA540E5A995B",
+      "person_id": "Q58437024",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q5104844",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7420,6 +7450,39 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q58437264-C710D37F-CACE-4ED3-B5CC-6C43B32BCDD3",
+      "person_id": "Q58437264",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4936522",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58437264-C710D37F-CACE-4ED3-B5CC-6C43B32BCDD3",
+      "person_id": "Q58437264",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4936522",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q58437277-1FC1EAC5-572F-4733-91A5-36CA6B165A39",
       "person_id": "Q58437277",
       "on_behalf_of_id": "Q3518390",
@@ -7590,9 +7653,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
       "area_id": "Q6965561",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7606,10 +7670,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
       "area_id": "Q6965561",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7656,10 +7719,9 @@
       "on_behalf_of_id": "Q2279320",
       "organization_id": "Q17152219",
       "area_id": "Q5984844",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7673,9 +7735,10 @@
       "on_behalf_of_id": "Q2279320",
       "organization_id": "Q17152219",
       "area_id": "Q5984844",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7981,14 +8044,31 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6444382-A7CFF787-9201-4236-9A3A-A7539B3FCD77",
-      "person_id": "Q6444382",
-      "on_behalf_of_id": "Q10225",
+      "id": "http://www.wikidata.org/entity/statement/Q6428922-73716A6A-CBD7-4167-B6DB-4D7B667E1E8C",
+      "person_id": "Q6428922",
+      "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
-      "area_id": "Q6958576",
+      "area_id": "Q7968795",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6428922-73716A6A-CBD7-4167-B6DB-4D7B667E1E8C",
+      "person_id": "Q6428922",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q7968795",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8006,6 +8086,38 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6444382-A7CFF787-9201-4236-9A3A-A7539B3FCD77",
+      "person_id": "Q6444382",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q6958576",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6744315-8CF9A654-8E3F-4D73-8BCE-4AD898A3DDD1",
+      "person_id": "Q6744315",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q6727357",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8031,38 +8143,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q6744315-8CF9A654-8E3F-4D73-8BCE-4AD898A3DDD1",
-      "person_id": "Q6744315",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q6727357",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6935501-CAE8FFAB-D10D-4482-AB1C-ED4776C5F3A8",
-      "person_id": "Q6935501",
-      "on_behalf_of_id": "Q2837501",
-      "organization_id": "Q17152219",
-      "area_id": "Q8047260",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q6935501-CAE8FFAB-D10D-4482-AB1C-ED4776C5F3A8",
       "person_id": "Q6935501",
       "on_behalf_of_id": "Q2837501",
@@ -8072,6 +8152,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6935501-CAE8FFAB-D10D-4482-AB1C-ED4776C5F3A8",
+      "person_id": "Q6935501",
+      "on_behalf_of_id": "Q2837501",
+      "organization_id": "Q17152219",
+      "area_id": "Q8047260",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8382,10 +8478,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7126580",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8399,25 +8494,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7126580",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7931369-CC7FDC79-97BA-4E89-A4F2-2027B6E20A86",
-      "person_id": "Q7931369",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q7968797",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8435,6 +8515,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7931369-CC7FDC79-97BA-4E89-A4F2-2027B6E20A86",
+      "person_id": "Q7931369",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q7968797",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
