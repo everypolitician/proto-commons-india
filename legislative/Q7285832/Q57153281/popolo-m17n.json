@@ -250,24 +250,6 @@
     },
     {
       "name": {
-        "lang:en": "Narayan Singh Dewal"
-      },
-      "id": "Q27889088",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q27889088"
-        }
-      ],
-      "links": [
-        {
-          "note": "facebook",
-          "url": "https://www.facebook.com/narayansingh.dewal.39"
-        }
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Ratan Lal Jaldhari"
       },
       "id": "Q27985923",
@@ -1751,21 +1733,6 @@
     },
     {
       "name": {
-        "lang:en": "Nand Kishore Maharia"
-      },
-      "id": "Q58393796",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58393796"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
         "lang:en": "Nandlal Meena"
       },
       "id": "Q58394114",
@@ -1833,21 +1800,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q58420692"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Darshan Singh"
-      },
-      "id": "Q58420708",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58420708"
         }
       ],
       "links": [
@@ -1953,21 +1905,6 @@
         {
           "scheme": "wikidata",
           "identifier": "Q58421446"
-        }
-      ],
-      "links": [
-
-      ]
-    },
-    {
-      "name": {
-        "lang:en": "Man Singh"
-      },
-      "id": "Q58421472",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q58421472"
         }
       ],
       "links": [
@@ -7932,10 +7869,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19803610",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -7949,9 +7885,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19803610",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8455,39 +8392,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q27889088-ABF15764-D3C3-4B0C-BA5D-FB2870487D4C",
-      "person_id": "Q27889088",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19811596",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q27889088-ABF15764-D3C3-4B0C-BA5D-FB2870487D4C",
-      "person_id": "Q27889088",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19811596",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q27985923-84976d16-6ebb-4785-bf34-438c1ef94648",
       "person_id": "Q27985923",
       "on_behalf_of_id": "Q10230",
@@ -8526,10 +8430,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17064047",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8543,9 +8446,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17064047",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8592,9 +8496,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19803659",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8608,10 +8513,25 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19803659",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28873566-8e2e69f8-128e-4d5f-8dd2-23d2f31cee8f",
+      "person_id": "Q28873566",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19803779",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8637,38 +8557,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q28873566-8e2e69f8-128e-4d5f-8dd2-23d2f31cee8f",
-      "person_id": "Q28873566",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19803779",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q28873568-4aa4a2fb-dd9c-4c9d-9f9e-032ce3ebd933",
-      "person_id": "Q28873568",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19804858",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q28873568-4aa4a2fb-dd9c-4c9d-9f9e-032ce3ebd933",
       "person_id": "Q28873568",
       "on_behalf_of_id": "Q10230",
@@ -8678,6 +8566,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28873568-4aa4a2fb-dd9c-4c9d-9f9e-032ce3ebd933",
+      "person_id": "Q28873568",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19804858",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8724,10 +8628,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19803778",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8741,9 +8644,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19803778",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8790,9 +8694,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19805648",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8806,10 +8711,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19805648",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8856,9 +8760,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19804856",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8872,10 +8777,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19804856",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8955,9 +8859,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19809833",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -8971,10 +8876,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19809833",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9153,9 +9057,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19813386",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9169,10 +9074,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19813386",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9648,9 +9552,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q4696292",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9664,10 +9569,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q4696292",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9747,9 +9651,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19815808",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9763,23 +9668,6 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19815808",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q2997305-4ED348AC-41B2-4587-BA3F-14130083E9D7",
-      "person_id": "Q2997305",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q17059056",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -9808,6 +9696,38 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q2997305-4ED348AC-41B2-4587-BA3F-14130083E9D7",
+      "person_id": "Q2997305",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q17059056",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q30612175-c57e5007-959c-4810-b07d-cdc5e5d047b3",
+      "person_id": "Q30612175",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19804859",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q30612175-c57e5007-959c-4810-b07d-cdc5e5d047b3",
       "person_id": "Q30612175",
       "on_behalf_of_id": "Q10230",
@@ -9825,14 +9745,15 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q30612175-c57e5007-959c-4810-b07d-cdc5e5d047b3",
-      "person_id": "Q30612175",
-      "on_behalf_of_id": "Q10230",
+      "id": "http://www.wikidata.org/entity/statement/Q3345004-DB506FC7-1F77-429A-BB65-3555D4870491",
+      "person_id": "Q3345004",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
-      "area_id": "Q19804859",
-      "role_superclass_code": "Q3526627",
+      "area_id": "Q19814000",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9857,40 +9778,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q3345004-DB506FC7-1F77-429A-BB65-3555D4870491",
-      "person_id": "Q3345004",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q7285832",
-      "area_id": "Q19814000",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q43901350-31E4D1FA-FFBB-4149-A358-774B282DEC47",
-      "person_id": "Q43901350",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19806425",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q43901350-31E4D1FA-FFBB-4149-A358-774B282DEC47",
       "person_id": "Q43901350",
       "on_behalf_of_id": "Q10230",
@@ -9899,6 +9786,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q43901350-31E4D1FA-FFBB-4149-A358-774B282DEC47",
+      "person_id": "Q43901350",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19806425",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9945,9 +9849,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19807991",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -9961,10 +9866,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19807991",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10044,9 +9948,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17082907",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10060,27 +9965,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17082907",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q50318014-E187C18E-2CE5-4E7E-AAD7-85906D5ECB3D",
-      "person_id": "Q50318014",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19805381",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10097,6 +9984,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q50318014-E187C18E-2CE5-4E7E-AAD7-85906D5ECB3D",
+      "person_id": "Q50318014",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19805381",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10143,9 +10047,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15649866",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10159,10 +10064,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15649866",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10209,10 +10113,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19808985",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10226,25 +10129,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19808985",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q5555608-8D756850-CE24-4057-AFC3-07E17CA936E1",
-      "person_id": "Q5555608",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q17088533",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10270,15 +10158,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q5617192-54F3F44B-4959-488D-AE5C-F0A942B00979",
-      "person_id": "Q5617192",
+      "id": "http://www.wikidata.org/entity/statement/Q5555608-8D756850-CE24-4057-AFC3-07E17CA936E1",
+      "person_id": "Q5555608",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
-      "area_id": "Q15645252",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q17088533",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10295,6 +10182,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q5617192-54F3F44B-4959-488D-AE5C-F0A942B00979",
+      "person_id": "Q5617192",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q15645252",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10341,9 +10245,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19809621",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10357,23 +10262,6 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19809621",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58339715-62811FCD-06BD-4C8F-B8F5-560AA389640A",
-      "person_id": "Q58339715",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19816205",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -10402,6 +10290,38 @@
       }
     },
     {
+      "id": "http://www.wikidata.org/entity/statement/Q58339715-62811FCD-06BD-4C8F-B8F5-560AA389640A",
+      "person_id": "Q58339715",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19816205",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58339732-FA759CFB-6A36-49A7-9694-D7CDACC9601C",
+      "person_id": "Q58339732",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19805511",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
       "id": "http://www.wikidata.org/entity/statement/Q58339732-FA759CFB-6A36-49A7-9694-D7CDACC9601C",
       "person_id": "Q58339732",
       "on_behalf_of_id": "Q10230",
@@ -10419,14 +10339,15 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58339732-FA759CFB-6A36-49A7-9694-D7CDACC9601C",
-      "person_id": "Q58339732",
+      "id": "http://www.wikidata.org/entity/statement/Q58339820-855A085E-0F4F-4A51-9B92-B2CAA2A52A48",
+      "person_id": "Q58339820",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
-      "area_id": "Q19805511",
-      "role_superclass_code": "Q3526627",
+      "area_id": "Q18693056",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10451,40 +10372,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58339820-855A085E-0F4F-4A51-9B92-B2CAA2A52A48",
-      "person_id": "Q58339820",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q18693056",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58343669-E068DEE2-87BF-41FC-A0A5-648473ED30C1",
-      "person_id": "Q58343669",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19806545",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58343669-E068DEE2-87BF-41FC-A0A5-648473ED30C1",
       "person_id": "Q58343669",
       "on_behalf_of_id": "Q10230",
@@ -10493,6 +10380,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58343669-E068DEE2-87BF-41FC-A0A5-648473ED30C1",
+      "person_id": "Q58343669",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19806545",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10539,9 +10443,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17052120",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10555,10 +10460,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17052120",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10605,10 +10509,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15646816",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10622,25 +10525,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15646816",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58375872-ED51B42D-6C9E-42E9-8688-ACA978F6DA94",
-      "person_id": "Q58375872",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19805489",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10666,15 +10554,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58375880-6794A719-28FE-4BF9-833A-15DA6839D5F9",
-      "person_id": "Q58375880",
+      "id": "http://www.wikidata.org/entity/statement/Q58375872-ED51B42D-6C9E-42E9-8688-ACA978F6DA94",
+      "person_id": "Q58375872",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
-      "area_id": "Q19806688",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q19805489",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10691,6 +10578,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58375880-6794A719-28FE-4BF9-833A-15DA6839D5F9",
+      "person_id": "Q58375880",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19806688",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10737,9 +10641,10 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7285832",
       "area_id": "Q15695416",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10753,27 +10658,9 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7285832",
       "area_id": "Q15695416",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58376100-3DBE2C85-A7F9-4F6A-991D-DBC468F0FC6E",
-      "person_id": "Q58376100",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19815807",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10790,6 +10677,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58376100-3DBE2C85-A7F9-4F6A-991D-DBC468F0FC6E",
+      "person_id": "Q58376100",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19815807",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10836,9 +10740,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15676769",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10852,27 +10757,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15676769",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58377152-A9E8D8C7-AA2B-4C8E-B3A5-D03703551D4D",
-      "person_id": "Q58377152",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q7285832",
-      "area_id": "Q19806734",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10889,6 +10776,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58377152-A9E8D8C7-AA2B-4C8E-B3A5-D03703551D4D",
+      "person_id": "Q58377152",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q7285832",
+      "area_id": "Q19806734",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10935,9 +10839,10 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7285832",
       "area_id": "Q19808946",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -10951,10 +10856,9 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7285832",
       "area_id": "Q19808946",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11001,10 +10905,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17082999",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11018,25 +10921,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17082999",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58377474-1A3E5803-545E-4BCD-B814-CC52C1CFE33B",
-      "person_id": "Q58377474",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q7285832",
-      "area_id": "Q19806826",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11062,15 +10950,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58377595-E49CC0BA-2A3F-4559-9AE7-6A01649E75DC",
-      "person_id": "Q58377595",
-      "on_behalf_of_id": "Q10230",
+      "id": "http://www.wikidata.org/entity/statement/Q58377474-1A3E5803-545E-4BCD-B814-CC52C1CFE33B",
+      "person_id": "Q58377474",
+      "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
-      "area_id": "Q19806648",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q19806826",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11087,6 +10974,23 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58377595-E49CC0BA-2A3F-4559-9AE7-6A01649E75DC",
+      "person_id": "Q58377595",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19806648",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11166,9 +11070,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19805203",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11182,10 +11087,25 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19805203",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58377697-86A8104B-4F94-4A55-99DA-B7264221E60D",
+      "person_id": "Q58377697",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19807417",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11211,38 +11131,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58377697-86A8104B-4F94-4A55-99DA-B7264221E60D",
-      "person_id": "Q58377697",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19807417",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58377718-76F19E46-6684-425A-AE65-084124E0A1BD",
-      "person_id": "Q58377718",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q7285832",
-      "area_id": "Q19806505",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58377718-76F19E46-6684-425A-AE65-084124E0A1BD",
       "person_id": "Q58377718",
       "on_behalf_of_id": "Q10225",
@@ -11252,6 +11140,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58377718-76F19E46-6684-425A-AE65-084124E0A1BD",
+      "person_id": "Q58377718",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q7285832",
+      "area_id": "Q19806505",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11331,9 +11235,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
       "area_id": "Q19812873",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11347,23 +11252,6 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
       "area_id": "Q19812873",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58381598-C77DBDC7-566A-4AD7-BA23-7C3054E91517",
-      "person_id": "Q58381598",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19804605",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -11384,6 +11272,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58381598-C77DBDC7-566A-4AD7-BA23-7C3054E91517",
+      "person_id": "Q58381598",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19804605",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11496,10 +11400,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19806941",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11513,25 +11416,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19806941",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58381726-CDF853DF-E912-49EE-B5C6-A0301AB427EF",
-      "person_id": "Q58381726",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q18111254",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11549,6 +11437,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58381726-CDF853DF-E912-49EE-B5C6-A0301AB427EF",
+      "person_id": "Q58381726",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q18111254",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11628,9 +11532,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15697610",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11644,10 +11549,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15697610",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11694,10 +11598,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19807735",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11711,9 +11614,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19807735",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11722,27 +11626,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58393796-CCCA5D21-347D-4645-881D-839C12BF02DF",
-      "person_id": "Q58393796",
-      "on_behalf_of_id": "Q327591",
+      "id": "http://www.wikidata.org/entity/statement/Q58394114-AB8293E4-2587-4F4E-BF52-BC6001B2D521",
+      "person_id": "Q58394114",
+      "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
-      "area_id": "Q15659387",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58393796-CCCA5D21-347D-4645-881D-839C12BF02DF",
-      "person_id": "Q58393796",
-      "on_behalf_of_id": "Q327591",
-      "organization_id": "Q7285832",
-      "area_id": "Q15659387",
+      "area_id": "Q19808510",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -11763,23 +11651,6 @@
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58394114-AB8293E4-2587-4F4E-BF52-BC6001B2D521",
-      "person_id": "Q58394114",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19808510",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11826,10 +11697,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
       "area_id": "Q17067648",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11843,25 +11713,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
       "area_id": "Q17067648",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58420679-52F21B06-716E-4677-AA2E-F9ABD90AAC38",
-      "person_id": "Q58420679",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19806205",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11887,15 +11742,14 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58420692-9DA76D52-FE62-42E9-93BF-B9C001E31869",
-      "person_id": "Q58420692",
+      "id": "http://www.wikidata.org/entity/statement/Q58420679-52F21B06-716E-4677-AA2E-F9ABD90AAC38",
+      "person_id": "Q58420679",
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
-      "area_id": "Q19806658",
-      "role_superclass_code": "Q486839",
+      "area_id": "Q19806205",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -11920,27 +11774,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58420708-EC7E6DC4-712B-4C8B-8822-2E6C0CA7C7A6",
-      "person_id": "Q58420708",
-      "on_behalf_of_id": "Q10225",
+      "id": "http://www.wikidata.org/entity/statement/Q58420692-9DA76D52-FE62-42E9-93BF-B9C001E31869",
+      "person_id": "Q58420692",
+      "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
-      "area_id": "Q19804673",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58420708-EC7E6DC4-712B-4C8B-8822-2E6C0CA7C7A6",
-      "person_id": "Q58420708",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q7285832",
-      "area_id": "Q19804673",
+      "area_id": "Q19806658",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
@@ -11991,9 +11829,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17088088",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12007,10 +11846,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17088088",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12184,39 +12022,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58421472-2E948F89-16EC-4BB8-A400-9B8519DCD030",
-      "person_id": "Q58421472",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19805569",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58421472-2E948F89-16EC-4BB8-A400-9B8519DCD030",
-      "person_id": "Q58421472",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19805569",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58421587-44728B00-9BC2-4687-9CD0-593545513D80",
       "person_id": "Q58421587",
       "on_behalf_of_id": "Q10230",
@@ -12255,9 +12060,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
       "area_id": "Q19811542",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12271,10 +12077,25 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q7285832",
       "area_id": "Q19811542",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58421825-28CFE96D-BC49-4D55-ADCC-9DCA8F91C0C2",
+      "person_id": "Q58421825",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q4850824",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12300,38 +12121,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58421825-28CFE96D-BC49-4D55-ADCC-9DCA8F91C0C2",
-      "person_id": "Q58421825",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q4850824",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58421880-4A6DAE90-62A1-4615-98F5-D7AAEC790970",
-      "person_id": "Q58421880",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19808470",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58421880-4A6DAE90-62A1-4615-98F5-D7AAEC790970",
       "person_id": "Q58421880",
       "on_behalf_of_id": "Q10230",
@@ -12341,6 +12130,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58421880-4A6DAE90-62A1-4615-98F5-D7AAEC790970",
+      "person_id": "Q58421880",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19808470",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12387,10 +12192,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15654895",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12404,25 +12208,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15654895",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58429162-E6BCC599-0C5C-4D93-BE6B-E020CB2A0D80",
-      "person_id": "Q58429162",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19809526",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12440,6 +12229,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58429162-E6BCC599-0C5C-4D93-BE6B-E020CB2A0D80",
+      "person_id": "Q58429162",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19809526",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12486,10 +12291,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15680490",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12503,25 +12307,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q15680490",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58429187-BE32C84C-7000-432A-9BBA-CB6344793D48",
-      "person_id": "Q58429187",
-      "on_behalf_of_id": "Q803681",
-      "organization_id": "Q7285832",
-      "area_id": "Q15646991",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12539,6 +12328,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58429187-BE32C84C-7000-432A-9BBA-CB6344793D48",
+      "person_id": "Q58429187",
+      "on_behalf_of_id": "Q803681",
+      "organization_id": "Q7285832",
+      "area_id": "Q15646991",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12585,10 +12390,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19805207",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12602,9 +12406,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19805207",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12651,9 +12456,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19808102",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12667,10 +12473,25 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19808102",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58429433-EB0261A7-25F7-44E6-9C4E-7002B653FCBE",
+      "person_id": "Q58429433",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q16254729",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12696,38 +12517,6 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58429433-EB0261A7-25F7-44E6-9C4E-7002B653FCBE",
-      "person_id": "Q58429433",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q16254729",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58429451-7754D9F3-8F97-4B01-90F2-6AFFFF99CF6B",
-      "person_id": "Q58429451",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19809729",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
       "id": "http://www.wikidata.org/entity/statement/Q58429451-7754D9F3-8F97-4B01-90F2-6AFFFF99CF6B",
       "person_id": "Q58429451",
       "on_behalf_of_id": "Q10230",
@@ -12737,6 +12526,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58429451-7754D9F3-8F97-4B01-90F2-6AFFFF99CF6B",
+      "person_id": "Q58429451",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19809729",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12783,10 +12588,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19808305",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12800,25 +12604,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19808305",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q17599276",
-      "role": {
-        "lang:en": "Member of the Rajasthan Legislative Assembly",
-        "lang:hi": "राजस्थान विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58429478-F67F9EB1-67C6-4FFE-A585-03E33480BAC4",
-      "person_id": "Q58429478",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q7285832",
-      "area_id": "Q19805443",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12836,6 +12625,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q17599276",
+      "role": {
+        "lang:en": "Member of the Rajasthan Legislative Assembly",
+        "lang:hi": "राजस्थान विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58429478-F67F9EB1-67C6-4FFE-A585-03E33480BAC4",
+      "person_id": "Q58429478",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q7285832",
+      "area_id": "Q19805443",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12915,9 +12720,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q16991554",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -12931,10 +12737,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q16991554",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -13014,9 +12819,10 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7285832",
       "area_id": "Q15673392",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -13030,10 +12836,9 @@
       "on_behalf_of_id": "Q327591",
       "organization_id": "Q7285832",
       "area_id": "Q15673392",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -13212,9 +13017,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19815678",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -13228,10 +13034,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q19815678",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {
@@ -13608,9 +13413,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17052156",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q17599276",
       "role": {
@@ -13624,10 +13430,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q7285832",
       "area_id": "Q17052156",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q17599276",
       "role": {

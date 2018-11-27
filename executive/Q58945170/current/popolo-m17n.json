@@ -19,7 +19,79 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018639"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Madhya Pradesh",
+        "lang:hi": "मध्य प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954942",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/municipality:ujjain"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954942"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944403"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Ujjain Municipal Corporation area"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
