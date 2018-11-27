@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Sambalpur Municipal Corporation"
+      },
+      "id": "Q58945109",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58945109"
+        }
+      ],
+      "area_id": "Q58954874"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:od/municipality:sambalpur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944330"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Sambalpur Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of South Delhi Municipal Corporation"
+      },
+      "id": "Q58944866",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944866"
+        }
+      ],
+      "area_id": "Q58481533"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1353",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1353"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1790154"
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:en": "Delhi",
+        "lang:hi": "दिल्ली"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58481533",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:dl/municipality:south-delhi"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58481533"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944032"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "South Delhi"
+      },
+      "parent_id": "Q1353"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Aizwal Municipal Corporation"
+      },
+      "id": "Q58944751",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944751"
+        }
+      ],
+      "area_id": "Q58954349"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1502",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mz"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1502"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018647"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Mizoram",
+        "lang:hi": "मिज़ोरम"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954349",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mz/municipality:aizawl"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954349"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58943886"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Aizwal Municipal Corporation area"
+      },
+      "parent_id": "Q1502"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

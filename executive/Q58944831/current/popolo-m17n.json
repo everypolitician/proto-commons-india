@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Bhubhaneshwar Municipal Corporation"
+      },
+      "id": "Q58944831",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944831"
+        }
+      ],
+      "area_id": "Q58954471"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954471",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:od/municipality:bhubaneswar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954471"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58943983"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Bhubhaneshwar Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

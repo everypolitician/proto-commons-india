@@ -1016,7 +1016,7 @@
     ],
     "name_columns": {
       "lang:en": "AC_NAME"
-    }  
+    }
   },
   {
     "directory": "tamil-nadu-ac",
@@ -1042,6 +1042,3049 @@
     ],
     "name_columns": {
       "lang:en": "AC_NAME"
-    }  
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of warangal",
+        "position_item_id": "Q58944418"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ts/municipality:warangal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of vishakapatnam",
+        "position_item_id": "Q58944415"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:visakhapatnam",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of vijayawada",
+        "position_item_id": "Q58944414"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:vijayawada",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of vasai-virar",
+        "position_item_id": "Q58944412"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:vasai-virar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of varanasi",
+        "position_item_id": "Q58944409"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:varanasi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of vadodara",
+        "position_item_id": "Q58944408"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:vadodara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ulhasnagar",
+        "position_item_id": "Q58944407"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:ulhasnagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ujjain",
+        "position_item_id": "Q58944403"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:ujjain",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of udaipur",
+        "position_item_id": "Q58944391"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:udaipur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of tumkur",
+        "position_item_id": "Q58944389"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:tumakuru",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of tiruppur",
+        "position_item_id": "Q58944386"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:tiruppur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of tirupati",
+        "position_item_id": "Q58944385"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:tirupati",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of tirunelveli",
+        "position_item_id": "Q58944384"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:tirunelveli",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of tiruchirapalli",
+        "position_item_id": "Q58944380"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:tiruchirappalli",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of thrissur",
+        "position_item_id": "Q58944378"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:kl/municipality:thrissur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of thiruvananthapuram",
+        "position_item_id": "Q58944377"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:kl/municipality:thiruvananthapuram",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of thane",
+        "position_item_id": "Q58944374"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:thane",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of surat",
+        "position_item_id": "Q58944360"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:surat",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of srinagar",
+        "position_item_id": "Q6797813"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:uk/municipality:srinagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of south dumdum",
+        "position_item_id": "Q58944358"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:south-dumdum",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of sonepat",
+        "position_item_id": "Q58944356"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:sonipat",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of solapur",
+        "position_item_id": "Q58944354"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:solapur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of siliguri",
+        "position_item_id": "Q58944353"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:siliguri",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of shivamogga",
+        "position_item_id": "Q58944351"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:shivamogga",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of shahjahanpur",
+        "position_item_id": "Q58944348"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:shahjahanpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of satna",
+        "position_item_id": "Q58944347"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:satna",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of satara",
+        "position_item_id": "Q58944346"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:satara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of sangli-miraj & kupwad",
+        "position_item_id": "Q58944332"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:sangli",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of sambalpur",
+        "position_item_id": "Q58944330"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:od/municipality:sambalpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of salem",
+        "position_item_id": "Q58944328"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:salem",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of saharanpur",
+        "position_item_id": "Q58944326"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:saharanpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of sagar",
+        "position_item_id": "Q58944324"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:sagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of rothak",
+        "position_item_id": "Q58944323"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:rohtak",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ratlam",
+        "position_item_id": "Q58944320"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:ratlam",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ranchi",
+        "position_item_id": "Q58944318"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:jh/municipality:ranchi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of rampur",
+        "position_item_id": "Q58944317"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:rampur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of rajpur sonarpur",
+        "position_item_id": "Q58944303"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:rajpur-sonarpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of rajkot",
+        "position_item_id": "Q58944300"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:rajkot",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of rajamahendravaram",
+        "position_item_id": "Q58944298"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:rajahmundry",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of raipur",
+        "position_item_id": "Q58944297"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ct/municipality:raipur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of purnea",
+        "position_item_id": "Q58944294"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:purnia",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of pune",
+        "position_item_id": "Q5306335"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:pune",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of pimpri-chinchwad",
+        "position_item_id": "Q58944292"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:pimpri-chinchwad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of patna",
+        "position_item_id": "Q58944291"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:patna",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of patiala",
+        "position_item_id": "Q58944290"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:pb/municipality:patiala",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of parbhani",
+        "position_item_id": "Q58944288"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:parbhani",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of panipat",
+        "position_item_id": "Q58944277"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:panipat",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of panihati",
+        "position_item_id": "Q58944273"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:panihati",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of north dumdum",
+        "position_item_id": "Q58944271"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:north-dumdum",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of noida",
+        "position_item_id": "Q58944270"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:noida",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of nizamabad",
+        "position_item_id": "Q58944267"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ts/municipality:nizamabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of nellore",
+        "position_item_id": "Q58944265"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:nellore",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of navi mumbai",
+        "position_item_id": "Q58944264"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:navi_mumbai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of nashik",
+        "position_item_id": "Q58944260"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:nashik",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of nanded waghala",
+        "position_item_id": "Q58944258"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:nanded",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of nagpur",
+        "position_item_id": "Q58944244"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:nagpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of mysore",
+        "position_item_id": "Q58944243"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:mysore",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of mumbai",
+        "position_item_id": "Q58944240"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:mumbai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of mira-bhayandar",
+        "position_item_id": "Q58944238"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:mira-bhayandar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of meerut",
+        "position_item_id": "Q58944235"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:meerut",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of maunath bhanjan",
+        "position_item_id": "Q58944234"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:mau",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of mathura",
+        "position_item_id": "Q58944232"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:mathura",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of mangalore",
+        "position_item_id": "Q58944216"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:mangalore",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of malegoan",
+        "position_item_id": "Q58944214"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:malegaon",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of maheshtala",
+        "position_item_id": "Q58944212"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:maheshtala",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of madurai",
+        "position_item_id": "Q58944210"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:madurai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ludhiana",
+        "position_item_id": "Q58944208"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:pb/municipality:ludhiana",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of lucknow",
+        "position_item_id": "Q58944207"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:lucknow",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of loni",
+        "position_item_id": "Q58944205"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:loni",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of latur",
+        "position_item_id": "Q58944202"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:latur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kurnool",
+        "position_item_id": "Q58944201"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:kurnool",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kozhikode",
+        "position_item_id": "Q24952113"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:kl/municipality:kozhikode",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kota",
+        "position_item_id": "Q58944188"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:kota",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of korba",
+        "position_item_id": "Q58944187"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ct/municipality:korba",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kollam",
+        "position_item_id": "Q58944185"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:kl/municipality:kollam",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kolhapur",
+        "position_item_id": "Q58944182"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:kolhapur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kochi",
+        "position_item_id": "Q58944180"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:kl/municipality:kochi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of khammam",
+        "position_item_id": "Q58944178"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ts/municipality:khammam",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of karnal",
+        "position_item_id": "Q58944176"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:karnal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of karimnagar",
+        "position_item_id": "Q58944173"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ts/municipality:karimnagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of lucknow",
+        "position_item_id": "Q58944171"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:kanpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of kamarhati",
+        "position_item_id": "Q58944158"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:kamarhati",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kalyan-dombivali",
+        "position_item_id": "Q58944156"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:kalyan-dombivali",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kakinada",
+        "position_item_id": "Q58944153"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:kakinada",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kadapa",
+        "position_item_id": "Q58944152"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:cuddapah",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of junagadh",
+        "position_item_id": "Q58944150"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:junagadh",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jodhpur",
+        "position_item_id": "Q58944148"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:jodhpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jhansi",
+        "position_item_id": "Q58944146"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:jhansi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jamshedpur",
+        "position_item_id": "Q58944144"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:jh/municipality:jamshedpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jamnagar",
+        "position_item_id": "Q58944142"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:jamnagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jammu",
+        "position_item_id": "Q58944130"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:jk/municipality:jammu",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of jalna",
+        "position_item_id": "Q58944127"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:jalna",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jalgoan",
+        "position_item_id": "Q58944125"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:jalgaon",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jalandhar",
+        "position_item_id": "Q58944123"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:pb/municipality:jalandhar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jaipur",
+        "position_item_id": "Q58944120"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:jaipur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jabalpur",
+        "position_item_id": "Q58944118"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:jabalpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of indore",
+        "position_item_id": "Q58944117"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:indore",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of imphal",
+        "position_item_id": "Q58944115"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mn/municipality:imphal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ichalkaranji",
+        "position_item_id": "Q58944112"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:ichalkaranji",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of hyderabad",
+        "position_item_id": "Q58944099"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ts/municipality:hyderabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of hubli-dharwad",
+        "position_item_id": "Q58944097"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:dharwad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of howrah",
+        "position_item_id": "Q58944094"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:howrah",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of gwalior",
+        "position_item_id": "Q58944093"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:gwalior",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of guwahati",
+        "position_item_id": "Q58944091"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:as/municipality:guwahati",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of gurgoan",
+        "position_item_id": "Q58944088"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:gurgaon",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of guntur",
+        "position_item_id": "Q58944086"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:guntur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kalaburagi",
+        "position_item_id": "Q58944084"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:kalaburagi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of gorakhpur",
+        "position_item_id": "Q58944082"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:gorakhpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ghaziabad",
+        "position_item_id": "Q58944070"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:ghaziabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of gaya",
+        "position_item_id": "Q58944069"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:gaya",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of firozabad",
+        "position_item_id": "Q58944065"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:firozabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of farrukhabad",
+        "position_item_id": "Q58944064"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:farrukhabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of faridabad",
+        "position_item_id": "Q58944063"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:faridabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of etawah",
+        "position_item_id": "Q58944061"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:etawah",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of erode",
+        "position_item_id": "Q58944058"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:erode",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of eluru",
+        "position_item_id": "Q58944057"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:eluru",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of durgapur",
+        "position_item_id": "Q58944055"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:durgapur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of durg",
+        "position_item_id": "Q58944042"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ct/municipality:durg",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of dhule",
+        "position_item_id": "Q58944040"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:dhule",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of dhanbad",
+        "position_item_id": "Q58944038"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:jh/municipality:dhanbad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of dewas",
+        "position_item_id": "Q58944036"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:dewas",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of dehradun",
+        "position_item_id": "Q58944029"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:uk/municipality:dehradun",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of devanagere",
+        "position_item_id": "Q58944027"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:davanagere",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of dharbanga",
+        "position_item_id": "Q58944013"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:darbhanga",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of cuttack",
+        "position_item_id": "Q58944012"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:od/municipality:cuttack",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of coimbatore",
+        "position_item_id": "Q15637382"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:coimbatore",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of chennai",
+        "position_item_id": "Q58944011"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:chennai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of chandrapur",
+        "position_item_id": "Q58944007"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:chandrapur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of chandigarh",
+        "position_item_id": "Q58944006"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/municipality:chandigarh",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bokaro",
+        "position_item_id": "Q58944004"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:jh/municipality:bokaro_steel_city",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bilaspur",
+        "position_item_id": "Q58944001"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hp/municipality:bilaspur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bikaner",
+        "position_item_id": "Q58943999"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:bikaner",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of vijayapura",
+        "position_item_id": "Q58943998"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ct/municipality:bijapur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bihar shariff",
+        "position_item_id": "Q58943984"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:bihar_sharif",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhubhaneshwar",
+        "position_item_id": "Q58943983"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:od/municipality:bhubaneswar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhopal",
+        "position_item_id": "Q58943982"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:bhopal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhiwandi nizampur",
+        "position_item_id": "Q58943979"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:bhiwandi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of bhilwara",
+        "position_item_id": "Q58943977"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:bhilwara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhilai",
+        "position_item_id": "Q58943976"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ct/municipality:bhilai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhavnagar",
+        "position_item_id": "Q58943975"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:bhavnagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of bhatpara",
+        "position_item_id": "Q58943971"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:bhatpara",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhratpur",
+        "position_item_id": "Q58943970"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:bharatpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhagalpur",
+        "position_item_id": "Q58943958"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:bhagalpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of berhampur",
+        "position_item_id": "Q58943954"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:od/municipality:berhampur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bellary",
+        "position_item_id": "Q58943953"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:ballari",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of belgaum",
+        "position_item_id": "Q58943951"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:belagavi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of begusarai",
+        "position_item_id": "Q58943949"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:begusarai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bathinda",
+        "position_item_id": "Q58943947"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:pb/municipality:bathinda",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bareilly",
+        "position_item_id": "Q58943946"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:bareilly",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of bardhaman",
+        "position_item_id": "Q58943943"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:bardhaman",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of barasat",
+        "position_item_id": "Q58943942"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:barasat",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bengaluru",
+        "position_item_id": "Q58943925"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:bengaluru",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of bally",
+        "position_item_id": "Q58943923"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:bally",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of avadi",
+        "position_item_id": "Q58943922"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:avadi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of aurangabad",
+        "position_item_id": "Q58943921"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:aurangabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of asansol",
+        "position_item_id": "Q58943917"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:asansol",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of arrah",
+        "position_item_id": "Q58943916"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:arrah",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of anantapur",
+        "position_item_id": "Q58943915"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:anantapur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of amritsar",
+        "position_item_id": "Q58943914"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:pb/municipality:amritsar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of amravati",
+        "position_item_id": "Q58943913"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:amravati",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of ambernath",
+        "position_item_id": "Q58943897"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:ambernath",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of alwar",
+        "position_item_id": "Q58943895"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:alwar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of allahabad",
+        "position_item_id": "Q58943893"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:allahabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of aligarh",
+        "position_item_id": "Q58943892"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:aligarh",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of akola",
+        "position_item_id": "Q58943890"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:akola",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ajmer",
+        "position_item_id": "Q58943888"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:ajmer",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "chairman of aizwal",
+        "position_item_id": "Q58943886"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mz/municipality:aizawl",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ahmedabad",
+        "position_item_id": "Q19893852"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:ahmedabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ahmednagar",
+        "position_item_id": "Q6797650"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:ahmednagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of agra",
+        "position_item_id": "Q58943885"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:agra",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of agartala",
+        "position_item_id": "Q58943882"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tr/municipality:agartala",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of east delhi",
+        "position_item_id": "Q58944034"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:dl/municipality:east-delhi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of south delhi",
+        "position_item_id": "Q58944032"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:dl/municipality:south-delhi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of north delhi",
+        "position_item_id": "Q58944030"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:dl/municipality:north-delhi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of rourkela",
+        "position_item_id": "Q59137131"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:od/municipality:rourkela",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ozhukarai",
+        "position_item_id": "Q59137379"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:py/municipality:ozhukarai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of muzaffarpur",
+        "position_item_id": "Q58944242"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:muzaffarpur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of muzaffarnagar",
+        "position_item_id": "Q58944241"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:up/municipality:muzaffarnagar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities-no-geom",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of kolkata",
+        "position_item_id": "Q48730651"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:wb/municipality:kolkata",
+      "column": "MS_FB"
+    }
   }
 ]

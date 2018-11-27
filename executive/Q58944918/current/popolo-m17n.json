@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Howrah Municipal Corporation"
+      },
+      "id": "Q58944918",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944918"
+        }
+      ],
+      "area_id": "Q58954608"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018654"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "West Bengal",
+        "lang:hi": "पश्चिम बंगाल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/municipality:howrah"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944094"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Howrah Municipal Corporation area"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

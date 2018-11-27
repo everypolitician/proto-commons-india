@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Mysore City Corporation"
+      },
+      "id": "Q58945037",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58945037"
+        }
+      ],
+      "area_id": "Q58954781"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1185",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1185"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q53761260"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Karnataka",
+        "lang:hi": "कर्नाटक"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954781",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ka/municipality:mysore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954781"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944243"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Mysore City Corporation area"
+      },
+      "parent_id": "Q1185"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

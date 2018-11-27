@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of the Greater Hyderabad Municipal Corporation"
+      },
+      "id": "Q58944922",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944922"
+        }
+      ],
+      "area_id": "Q58954617"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ts/municipality:hyderabad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944099"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Greater Hyderabad Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

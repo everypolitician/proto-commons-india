@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Coimbatore City Municipal Corporation"
+      },
+      "id": "Q58944851",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944851"
+        }
+      ],
+      "area_id": "Q58954505"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1445",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tn"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1445"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24040821"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Tamil Nadu",
+        "lang:hi": "तमिल नाडु"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954505",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tn/municipality:coimbatore"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954505"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q15637382"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Coimbatore City Municipal Corporation area"
+      },
+      "parent_id": "Q1445"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

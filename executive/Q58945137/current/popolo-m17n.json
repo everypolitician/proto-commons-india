@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Srinagar Municipal Corporation"
+      },
+      "id": "Q58945137",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58945137"
+        }
+      ],
+      "area_id": "Q58954908"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:uk/municipality:srinagar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q6797813"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Srinagar Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

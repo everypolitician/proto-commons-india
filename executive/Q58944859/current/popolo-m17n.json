@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Nagar Nigam Dehradun"
+      },
+      "id": "Q58944859",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944859"
+        }
+      ],
+      "area_id": "Q58954514"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954514",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:uk/municipality:dehradun"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954514"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944029"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Nagar Nigam Dehradun area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

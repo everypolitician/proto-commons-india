@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Ozhukarai Municipality"
+      },
+      "id": "Q58945060",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58945060"
+        }
+      ],
+      "area_id": "Q58954815"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954815",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:py/municipality:ozhukarai"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954815"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59137379"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Ozhukarai municipality"
+      },
+      "parent_id": "Q66743"
+    },
+    {
+      "id": "Q66743",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/territory:py"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q66743"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55139200"
+      ],
+      "type": {
+        "lang:en": "union territory of India",
+        "lang:hi": "भारत के संघ राज्यक्षेत्र"
+      },
+      "name": {
+        "lang:en": "Puducherry",
+        "lang:hi": "पुदुच्चेरी"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

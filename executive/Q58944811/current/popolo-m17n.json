@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Berhampur Municipal Corporation"
+      },
+      "id": "Q58944811",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944811"
+        }
+      ],
+      "area_id": "Q58954440"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954440",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:od/municipality:berhampur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954440"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58943954"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Berhampur Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

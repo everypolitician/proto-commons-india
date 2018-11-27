@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Rourkela Municipal Corporation"
+      },
+      "id": "Q58945101",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58945101"
+        }
+      ],
+      "area_id": "Q58954862"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954862",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:od/municipality:rourkela"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954862"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q59137131"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Rourkela Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Jamshedpur Municipal Corporation"
+      },
+      "id": "Q58944949",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944949"
+        }
+      ],
+      "area_id": "Q58954654"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1184",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1184"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018637"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Jharkhand",
+        "lang:hi": "झारखण्ड"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:jh/municipality:jamshedpur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944144"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Jamshedpur Municipal Corporation area"
+      },
+      "parent_id": "Q1184"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Khammam Municipal Corporation"
+      },
+      "id": "Q58944978",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944978"
+        }
+      ],
+      "area_id": "Q58954692"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ts/municipality:khammam"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944178"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Khammam Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

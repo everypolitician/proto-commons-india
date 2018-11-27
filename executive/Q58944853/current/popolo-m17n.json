@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Cuttack Municipal Corporation"
+      },
+      "id": "Q58944853",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944853"
+        }
+      ],
+      "area_id": "Q58954508"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954508",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:od/municipality:cuttack"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954508"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944012"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Cuttack Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}

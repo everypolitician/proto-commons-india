@@ -1,0 +1,143 @@
+{
+  "persons": [
+    {
+      "name": {
+        "lang:en": "Bidhan Chandra Roy",
+        "lang:hi": "बिधान चंद्र राय"
+      },
+      "id": "Q2901773",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q2901773"
+        }
+      ],
+      "links": [
+
+      ]
+    }
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Kolkata Municipal Corporation"
+      },
+      "id": "Q58944986",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944986"
+        }
+      ],
+      "area_id": "Q58954708"
+    },
+    {
+      "name": {
+        "lang:en": "Indian National Congress",
+        "lang:hi": "भारतीय राष्ट्रीय कांग्रेस"
+      },
+      "id": "Q10225",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10225"
+        }
+      ]
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1356",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1356"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018654"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "West Bengal",
+        "lang:hi": "पश्चिम बंगाल"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954708",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:wb/municipality:kolkata"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954708"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q48730651"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Kolkata Municipal Corporation area"
+      },
+      "parent_id": "Q1356"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q2901773-e52cc9b8-44e5-4035-40b9-ab7106ba6223",
+      "person_id": "Q2901773",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q58944986",
+      "area_id": "Q58954708",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:hi": "महापौर"
+      },
+      "role_code": "Q48730651",
+      "role": {
+        "lang:en": "Mayor of Kolkata"
+      }
+    }
+  ]
+}

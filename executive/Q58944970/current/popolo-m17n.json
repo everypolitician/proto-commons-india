@@ -1,0 +1,49 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "General Body of Karimnagar Municipal Corporation"
+      },
+      "id": "Q58944970",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58944970"
+        }
+      ],
+      "area_id": "Q58954687"
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q58954687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ts/municipality:karimnagar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944173"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Karimnagar Municipal Corporation area"
+      },
+      "parent_id": null
+    }
+  ],
+  "memberships": [
+
+  ]
+}
