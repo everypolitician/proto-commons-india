@@ -133,11 +133,6 @@
         "type" : "literal",
         "value" : "2017-01-01T00:00:00Z"
       },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "परेश धानाणी"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q18109621"
@@ -146,6 +141,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Amreli"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "परेश धानाणी"
       }
     }, {
       "statement" : {
@@ -212,11 +212,6 @@
         "type" : "literal",
         "value" : "2014-10-19T00:00:00Z"
       },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "विजय रूपाणी"
-      },
       "district" : {
         "type" : "uri",
         "value" : "http://www.wikidata.org/entity/Q17199169"
@@ -225,6 +220,11 @@
         "xml:lang" : "en",
         "type" : "literal",
         "value" : "Rajkot Pashchim"
+      },
+      "name_hi" : {
+        "xml:lang" : "hi",
+        "type" : "literal",
+        "value" : "विजय रूपाणी"
       }
     } ]
   }
