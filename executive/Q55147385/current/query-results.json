@@ -1,204 +1,231 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_hi", "party", "party_name_en", "party_name_hi", "district", "district_name_en", "district_name_hi", "role", "role_en", "role_hi", "start", "end", "facebook", "role_superclass", "role_superclass_en", "role_superclass_hi", "org", "org_en", "org_hi", "org_jurisdiction" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_hi",
+      "party",
+      "party_name_en",
+      "party_name_hi",
+      "district",
+      "district_name_en",
+      "district_name_hi",
+      "role",
+      "role_en",
+      "role_hi",
+      "start",
+      "end",
+      "facebook",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_hi",
+      "org",
+      "org_en",
+      "org_hi",
+      "org_jurisdiction"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7049407-a6252f2f-4f1d-ad87-26b4-67795232c184"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7049407-a6252f2f-4f1d-ad87-26b4-67795232c184"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7049407"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nongthombam Biren Singh"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "एन बीरेन सिंह"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10225"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indian National Congress"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय राष्ट्रीय कांग्रेस"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1193"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manipur"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मणिपुर"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55018640"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister of Manipur"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मणिपुर के मुख्यमंत्री"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-03-15T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5096847"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मुख्यमन्त्री"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55147385"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Council of Ministers of Manipur"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मणिपुर विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1193"
+        }
       },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7049407"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nongthombam Biren Singh"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एन बीरेन सिंह"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10225"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Indian National Congress"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय राष्ट्रीय कांग्रेस"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manipur"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55018640"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Manipur"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर के मुख्यमंत्री"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-03-15T00:00:00Z"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5096847"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मुख्यमन्त्री"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147385"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Manipur"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q7049407-a6252f2f-4f1d-ad87-26b4-67795232c184"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7049407"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Nongthombam Biren Singh"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "एन बीरेन सिंह"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1193"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Manipur"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मणिपुर"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55018640"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister of Manipur"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मणिपुर के मुख्यमंत्री"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-03-15T00:00:00Z"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5096847"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Chief Minister"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मुख्यमन्त्री"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55147385"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Council of Ministers of Manipur"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "मणिपुर विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1193"
+        }
       }
-    }, {
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q7049407-a6252f2f-4f1d-ad87-26b4-67795232c184"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q7049407"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Nongthombam Biren Singh"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "एन बीरेन सिंह"
-      },
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q10230"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bharatiya Janata Party"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "भारतीय जनता पार्टी"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Manipur"
-      },
-      "district_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55018640"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister of Manipur"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर के मुख्यमंत्री"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2017-03-15T00:00:00Z"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q5096847"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Chief Minister"
-      },
-      "role_superclass_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मुख्यमन्त्री"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q55147385"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Council of Ministers of Manipur"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "मणिपुर विधान सभा"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1193"
-      }
-    } ]
+    ]
   }
 }

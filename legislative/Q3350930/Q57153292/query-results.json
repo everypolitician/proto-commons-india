@@ -1,101 +1,128 @@
 {
-  "head" : {
-    "vars" : [ "statement", "item", "name_en", "name_hi", "party", "party_name_en", "party_name_hi", "district", "district_name_en", "district_name_hi", "role", "role_en", "role_hi", "role_superclass", "role_superclass_en", "role_superclass_hi", "start", "end", "facebook", "org", "org_en", "org_hi", "org_jurisdiction", "org_seat_count" ]
+  "head": {
+    "vars": [
+      "statement",
+      "item",
+      "name_en",
+      "name_hi",
+      "party",
+      "party_name_en",
+      "party_name_hi",
+      "district",
+      "district_name_en",
+      "district_name_hi",
+      "role",
+      "role_en",
+      "role_hi",
+      "role_superclass",
+      "role_superclass_en",
+      "role_superclass_hi",
+      "start",
+      "end",
+      "facebook",
+      "org",
+      "org_en",
+      "org_hi",
+      "org_jurisdiction",
+      "org_seat_count"
+    ]
   },
-  "results" : {
-    "bindings" : [ {
-      "party" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q912899"
-      },
-      "party_name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "सर्वभारतीय तृणमूल कांग्रेस"
-      },
-      "party_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "All India Trinamool Congress"
-      },
-      "statement" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/statement/Q465041-22E2A83F-EA85-49AD-BEF4-D22327890E7C"
-      },
-      "district" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q4900478"
-      },
-      "district_name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Bhabanipur"
-      },
-      "role_superclass" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3526627"
-      },
-      "role_superclass_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of a Legislative Assembly of India"
-      },
-      "role" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q19007052"
-      },
-      "role_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पश्चिम बंगाल विधान सभा के सदस्य"
-      },
-      "role_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Member of the West Bengal Legislative Assembly"
-      },
-      "item" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q465041"
-      },
-      "name_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "Mamata Banerjee"
-      },
-      "org" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q3350930"
-      },
-      "org_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "पश्चिम बंगाल विधान सभा"
-      },
-      "org_en" : {
-        "xml:lang" : "en",
-        "type" : "literal",
-        "value" : "West Bengal Legislative Assembly"
-      },
-      "org_jurisdiction" : {
-        "type" : "uri",
-        "value" : "http://www.wikidata.org/entity/Q1356"
-      },
-      "org_seat_count" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#decimal",
-        "type" : "literal",
-        "value" : "295"
-      },
-      "name_hi" : {
-        "xml:lang" : "hi",
-        "type" : "literal",
-        "value" : "ममता बनर्जी"
-      },
-      "start" : {
-        "datatype" : "http://www.w3.org/2001/XMLSchema#dateTime",
-        "type" : "literal",
-        "value" : "2011-09-28T00:00:00Z"
+  "results": {
+    "bindings": [
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q465041-22E2A83F-EA85-49AD-BEF4-D22327890E7C"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q465041"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mamata Banerjee"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "ममता बनर्जी"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q912899"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "All India Trinamool Congress"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सर्वभारतीय तृणमूल कांग्रेस"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4900478"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bhabanipur"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19007052"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the West Bengal Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "पश्चिम बंगाल विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3526627"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Assembly of India"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2011-09-28T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3350930"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "West Bengal Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "पश्चिम बंगाल विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1356"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "295"
+        }
       }
-    } ]
+    ]
   }
 }
