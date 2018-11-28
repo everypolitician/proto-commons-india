@@ -24,7 +24,7 @@
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:ts/municipality:hyderabad"
+          "identifier": "country:in/state:tg/municipality:hyderabad"
         },
         {
           "scheme": "wikidata",
@@ -40,7 +40,57 @@
       "name": {
         "lang:en": "Greater Hyderabad Municipal Corporation area"
       },
+      "parent_id": "Q677037"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
       "parent_id": null
+    },
+    {
+      "id": "Q677037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q677037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018651"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Telangana",
+        "lang:hi": "तेलंगाना"
+      },
+      "parent_id": "Q668"
     }
   ],
   "memberships": [

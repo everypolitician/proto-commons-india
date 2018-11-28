@@ -20,11 +20,36 @@
   ],
   "areas": [
     {
+      "id": "Q22048",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:or"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22048"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q39271481"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Odisha",
+        "lang:hi": "ओडिशा"
+      },
+      "parent_id": "Q668"
+    },
+    {
       "id": "Q58954440",
       "identifiers": [
         {
           "scheme": "MS_FB",
-          "identifier": "country:in/state:od/municipality:berhampur"
+          "identifier": "country:in/state:or/municipality:berhampur"
         },
         {
           "scheme": "wikidata",
@@ -39,6 +64,31 @@
       },
       "name": {
         "lang:en": "Berhampur Municipal Corporation area"
+      },
+      "parent_id": "Q22048"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
       },
       "parent_id": null
     }
