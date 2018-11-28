@@ -1338,6 +1338,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Punnulal Mohle"
+      },
+      "id": "Q7260474",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7260474"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -6467,6 +6482,39 @@
       "organization_id": "Q5094831",
       "area_id": "Q55339208",
       "end_date": "2018-10-30",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24457183",
+      "role": {
+        "lang:en": "Member of the Chhattisgarh Legislative Assembly",
+        "lang:hi": "छत्तीसगढ़ विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7260474-C2739B73-2112-483C-A475-0282D85FF5AE",
+      "person_id": "Q7260474",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q5094831",
+      "area_id": "Q25209159",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24457183",
+      "role": {
+        "lang:en": "Member of the Chhattisgarh Legislative Assembly",
+        "lang:hi": "छत्तीसगढ़ विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7260474-C2739B73-2112-483C-A475-0282D85FF5AE",
+      "person_id": "Q7260474",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q5094831",
+      "area_id": "Q25209159",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",
