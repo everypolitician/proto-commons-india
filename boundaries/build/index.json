@@ -1083,23 +1083,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of vijayawada",
-        "position_item_id": "Q58944414"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:ap/municipality:vijayawada",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of vasai-virar",
         "position_item_id": "Q58944412"
       }
@@ -1729,57 +1712,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of purnea",
-        "position_item_id": "Q58944294"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:br/municipality:purnia",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of pune",
-        "position_item_id": "Q5306335"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:mh/municipality:pune",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of pimpri-chinchwad",
-        "position_item_id": "Q58944292"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:mh/municipality:pimpri-chinchwad",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of patna",
         "position_item_id": "Q58944291"
       }
@@ -1933,23 +1865,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of navi mumbai",
-        "position_item_id": "Q58944264"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:mh/municipality:navi_mumbai",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of nashik",
         "position_item_id": "Q58944260"
       }
@@ -2010,23 +1925,6 @@
     },
     "filter": {
       "match": "country:in/state:ka/municipality:mysore",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of mumbai",
-        "position_item_id": "Q58944240"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:mh/municipality:mumbai",
       "column": "MS_FB"
     }
   },
@@ -2647,23 +2545,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of jaipur",
-        "position_item_id": "Q58944120"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:rj/municipality:jaipur",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of jabalpur",
         "position_item_id": "Q58944118"
       }
@@ -2724,23 +2605,6 @@
     },
     "filter": {
       "match": "country:in/state:mh/municipality:ichalkaranji",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of hyderabad",
-        "position_item_id": "Q58944099"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:tg/municipality:hyderabad",
       "column": "MS_FB"
     }
   },
@@ -2902,23 +2766,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of gaya",
-        "position_item_id": "Q58944069"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:br/municipality:gaya",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of firozabad",
         "position_item_id": "Q58944065"
       }
@@ -2945,23 +2792,6 @@
     },
     "filter": {
       "match": "country:in/state:up/municipality:farrukhabad",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of faridabad",
-        "position_item_id": "Q58944063"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:hr/municipality:faridabad",
       "column": "MS_FB"
     }
   },
@@ -3174,40 +3004,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of coimbatore",
-        "position_item_id": "Q15637382"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:tn/municipality:coimbatore",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of chennai",
-        "position_item_id": "Q58944011"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:tn/municipality:chennai",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of chandrapur",
         "position_item_id": "Q58944007"
       }
@@ -3217,23 +3013,6 @@
     },
     "filter": {
       "match": "country:in/state:mh/municipality:chandrapur",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of chandigarh",
-        "position_item_id": "Q58944006"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/municipality:chandigarh",
       "column": "MS_FB"
     }
   },
@@ -3319,40 +3098,6 @@
     },
     "filter": {
       "match": "country:in/state:br/municipality:bihar_sharif",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of bhubhaneshwar",
-        "position_item_id": "Q58943983"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:or/municipality:bhubaneswar",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of bhopal",
-        "position_item_id": "Q58943982"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:mp/municipality:bhopal",
       "column": "MS_FB"
     }
   },
@@ -3616,23 +3361,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of bengaluru",
-        "position_item_id": "Q58943925"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:ka/municipality:bengaluru",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "chairman of bally",
         "position_item_id": "Q58943923"
       }
@@ -3888,23 +3616,6 @@
     "area_type_wikidata_item_id": "Q58953536",
     "associations": [
       {
-        "comment": "mayor of ahmedabad",
-        "position_item_id": "Q19893852"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/state:gj/municipality:ahmedabad",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
         "comment": "mayor of ahmednagar",
         "position_item_id": "Q6797650"
       }
@@ -3948,57 +3659,6 @@
     },
     "filter": {
       "match": "country:in/state:tr/municipality:agartala",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of east delhi",
-        "position_item_id": "Q58944034"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/territory:dl/municipality:east-delhi",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of south delhi",
-        "position_item_id": "Q58944032"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/territory:dl/municipality:south-delhi",
-      "column": "MS_FB"
-    }
-  },
-  {
-    "directory": "cities-no-geom",
-    "area_type_wikidata_item_id": "Q58953536",
-    "associations": [
-      {
-        "comment": "mayor of north delhi",
-        "position_item_id": "Q58944030"
-      }
-    ],
-    "name_columns": {
-      "lang:en": "MCNAME"
-    },
-    "filter": {
-      "match": "country:in/territory:dl/municipality:north-delhi",
       "column": "MS_FB"
     }
   },
@@ -4084,6 +3744,346 @@
     },
     "filter": {
       "match": "country:in/state:wb/municipality:kolkata",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of ahmedabad",
+        "position_item_id": "Q19893852"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:gj/municipality:ahmedabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bengaluru",
+        "position_item_id": "Q58943925"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ka/municipality:bengaluru",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhopal",
+        "position_item_id": "Q58943982"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mp/municipality:bhopal",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of bhubhaneshwar",
+        "position_item_id": "Q58943983"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:or/municipality:bhubaneswar",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of chennai",
+        "position_item_id": "Q58944011"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:chennai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of coimbatore",
+        "position_item_id": "Q15637382"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tn/municipality:coimbatore",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of faridabad",
+        "position_item_id": "Q58944063"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:hr/municipality:faridabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of gaya",
+        "position_item_id": "Q58944069"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:gaya",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of jaipur",
+        "position_item_id": "Q58944120"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:rj/municipality:jaipur",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of navi mumbai",
+        "position_item_id": "Q58944264"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:navi_mumbai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of pune",
+        "position_item_id": "Q5306335"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:pune",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of purnea",
+        "position_item_id": "Q58944294"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:br/municipality:purnia",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of vijayawada",
+        "position_item_id": "Q58944414"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:ap/municipality:vijayawada",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of north delhi",
+        "position_item_id": "Q58944030"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:dl/municipality:north-delhi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of east delhi",
+        "position_item_id": "Q58944034"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:dl/municipality:east-delhi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of south delhi",
+        "position_item_id": "Q58944032"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/territory:dl/municipality:south-delhi",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of chandigarh",
+        "position_item_id": "Q58944006"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/municipality:chandigarh",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of hyderabad",
+        "position_item_id": "Q58944099"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:tg/municipality:hyderabad",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of mumbai",
+        "position_item_id": "Q58944240"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:mumbai",
+      "column": "MS_FB"
+    }
+  },
+  {
+    "directory": "cities",
+    "area_type_wikidata_item_id": "Q58953536",
+    "associations": [
+      {
+        "comment": "mayor of pimpri-chinchwad",
+        "position_item_id": "Q58944292"
+      }
+    ],
+    "name_columns": {
+      "lang:en": "MCNAME"
+    },
+    "filter": {
+      "match": "country:in/state:mh/municipality:pimpri-chinchwad",
       "column": "MS_FB"
     }
   }
