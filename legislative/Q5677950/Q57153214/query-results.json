@@ -205,6 +205,346 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q16739170-2F7FC85A-7435-44CA-B553-617E73A5CF0A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16739170"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kiran Choudhary"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "किरण चौधरी"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10225"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indian National Congress"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय राष्ट्रीय कांग्रेस"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7827605"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tosham"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "तोशाम विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24497178"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Haryana Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरयाणा विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3526627"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Assembly of India"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5677950"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haryana Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरियाणा विधानसभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1174"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "90"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q16739170-2F7FC85A-7435-44CA-B553-617E73A5CF0A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16739170"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kiran Choudhary"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "किरण चौधरी"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10225"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indian National Congress"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय राष्ट्रीय कांग्रेस"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7827605"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Tosham"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "तोशाम विधानसभा निर्वाचन क्षेत्र, हरियाणा"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24497178"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Haryana Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरयाणा विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सांसद"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5677950"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haryana Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरियाणा विधानसभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1174"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "90"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q16739170-4C8E6FCD-9D0A-449D-8C72-B8D2552C293A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16739170"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kiran Choudhary"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "किरण चौधरी"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24497178"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Haryana Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरयाणा विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3526627"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Assembly of India"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-01T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5677950"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haryana Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरियाणा विधानसभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1174"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "90"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q16739170-4C8E6FCD-9D0A-449D-8C72-B8D2552C293A"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q16739170"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kiran Choudhary"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "किरण चौधरी"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24497178"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Haryana Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरयाणा विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सांसद"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2004-01-01T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q5677950"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Haryana Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "हरियाणा विधानसभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1174"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "90"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q18205799-2914813D-E5DA-4C00-9E83-7020231D07D4"
         },
         "item": {
@@ -350,346 +690,6 @@
           "xml:lang": "hi",
           "type": "literal",
           "value": "सांसद"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5677950"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Haryana Legislative Assembly"
-        },
-        "org_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरियाणा विधानसभा"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1174"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "90"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18388395-756C63AA-27B9-48B9-8E1C-814F18359F73"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18388395"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Kiran Choudhry"
-        },
-        "name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "किरण चौधरी"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q10225"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Indian National Congress"
-        },
-        "party_name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "भारतीय राष्ट्रीय कांग्रेस"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7827605"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Tosham"
-        },
-        "district_name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "तोशाम विधानसभा निर्वाचन क्षेत्र, हरियाणा"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q24497178"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Haryana Legislative Assembly"
-        },
-        "role_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरयाणा विधान सभा के सदस्य"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3526627"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of a Legislative Assembly of India"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5677950"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Haryana Legislative Assembly"
-        },
-        "org_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरियाणा विधानसभा"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1174"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "90"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18388395-756C63AA-27B9-48B9-8E1C-814F18359F73"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18388395"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Kiran Choudhry"
-        },
-        "name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "किरण चौधरी"
-        },
-        "party": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q10225"
-        },
-        "party_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Indian National Congress"
-        },
-        "party_name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "भारतीय राष्ट्रीय कांग्रेस"
-        },
-        "district": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q7827605"
-        },
-        "district_name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Tosham"
-        },
-        "district_name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "तोशाम विधानसभा निर्वाचन क्षेत्र, हरियाणा"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q24497178"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Haryana Legislative Assembly"
-        },
-        "role_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरयाणा विधान सभा के सदस्य"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q486839"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "member of parliament"
-        },
-        "role_superclass_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "सांसद"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5677950"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Haryana Legislative Assembly"
-        },
-        "org_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरियाणा विधानसभा"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1174"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "90"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18388395-17C06CC8-6CA8-4D07-A779-83FD6635962B"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18388395"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Kiran Choudhry"
-        },
-        "name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "किरण चौधरी"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q24497178"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Haryana Legislative Assembly"
-        },
-        "role_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरयाणा विधान सभा के सदस्य"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q3526627"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of a Legislative Assembly of India"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2004-01-01T00:00:00Z"
-        },
-        "org": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5677950"
-        },
-        "org_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Haryana Legislative Assembly"
-        },
-        "org_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरियाणा विधानसभा"
-        },
-        "org_jurisdiction": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q1174"
-        },
-        "org_seat_count": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
-          "type": "literal",
-          "value": "90"
-        }
-      },
-      {
-        "statement": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/statement/Q18388395-17C06CC8-6CA8-4D07-A779-83FD6635962B"
-        },
-        "item": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q18388395"
-        },
-        "name_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Kiran Choudhry"
-        },
-        "name_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "किरण चौधरी"
-        },
-        "role": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q24497178"
-        },
-        "role_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "Member of the Haryana Legislative Assembly"
-        },
-        "role_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "हरयाणा विधान सभा के सदस्य"
-        },
-        "role_superclass": {
-          "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q486839"
-        },
-        "role_superclass_en": {
-          "xml:lang": "en",
-          "type": "literal",
-          "value": "member of parliament"
-        },
-        "role_superclass_hi": {
-          "xml:lang": "hi",
-          "type": "literal",
-          "value": "सांसद"
-        },
-        "start": {
-          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
-          "type": "literal",
-          "value": "2004-01-01T00:00:00Z"
         },
         "org": {
           "type": "uri",
