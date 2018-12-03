@@ -19,7 +19,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q22424",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:pb"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q22424"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q1516776"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Punjab",
+        "lang:hi": "पंजाब"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:pb/municipality:jalandhar"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944123",
+        "Q58947193"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Municipal Corporation Jalandhar area"
+      },
+      "parent_id": "Q22424"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

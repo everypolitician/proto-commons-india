@@ -19,7 +19,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1168",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1168"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q38772867"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Chhattisgarh",
+        "lang:hi": "छत्तीसगढ़"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954837",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:ct/municipality:raipur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954837"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944297",
+        "Q58947347"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Raipur Municipal Corporation area"
+      },
+      "parent_id": "Q1168"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

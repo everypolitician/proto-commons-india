@@ -1,6 +1,92 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Bonthu Rammohan"
+      },
+      "id": "Q23415472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23415472"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BonthuRammohan"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Baba Fasi Uddin"
+      },
+      "id": "Q24049146",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24049146"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rudraraju Venkata Satya Surya Janaki Rama Raju"
+      },
+      "id": "Q59312926",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59312926"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/rjanakiramaraju.trs"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Neerugonda Jagadeeshwar Goud"
+      },
+      "id": "Q59313061",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59313061"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/Nirugonda-jagadish-goud-132314560494874"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Jupally Sathyanarayana Rao"
+      },
+      "id": "Q59313119",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59313119"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/100010770258024"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,12 +102,174 @@
         }
       ],
       "area_id": "Q58954617"
+    },
+    {
+      "name": {
+        "lang:en": "Telangana Rashtra Samithi",
+        "lang:hi": "तेलंगाना राष्ट्र समिति"
+      },
+      "id": "Q3518390",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3518390"
+        }
+      ]
     }
   ],
   "areas": [
-
+    {
+      "id": "Q58954617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tg/municipality:hyderabad"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944099",
+        "Q58232918"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Greater Hyderabad Municipal Corporation area"
+      },
+      "parent_id": "Q677037"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q677037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q677037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018651",
+        "Q55192423"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Telangana",
+        "lang:hi": "तेलंगाना"
+      },
+      "parent_id": "Q668"
+    }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23415472-05f1ef71-4142-d5c8-b529-9c8b870d4c03",
+      "person_id": "Q23415472",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q5259597",
+      "start_date": "2016-02-02",
+      "role_superclass_code": "Q58232853",
+      "role_superclass": {
+        "lang:en": "corporator"
+      },
+      "role_code": "Q58232918",
+      "role": {
+        "lang:en": "corporator in Greater Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24049146-4966d684-4fcf-a661-ca77-859157fee6d1",
+      "person_id": "Q24049146",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q5259597",
+      "start_date": "2016-02-02",
+      "role_superclass_code": "Q58232853",
+      "role_superclass": {
+        "lang:en": "corporator"
+      },
+      "role_code": "Q58232918",
+      "role": {
+        "lang:en": "corporator in Greater Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59312926-345d5b2d-4f34-18c3-1ce9-8b0b973e00d4",
+      "person_id": "Q59312926",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q5259597",
+      "start_date": "2016-02-02",
+      "role_superclass_code": "Q58232853",
+      "role_superclass": {
+        "lang:en": "corporator"
+      },
+      "role_code": "Q58232918",
+      "role": {
+        "lang:en": "corporator in Greater Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59313061-da79dfe7-4517-113a-996b-8ede0552ea22",
+      "person_id": "Q59313061",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q5259597",
+      "start_date": "2016-02-02",
+      "role_superclass_code": "Q58232853",
+      "role_superclass": {
+        "lang:en": "corporator"
+      },
+      "role_code": "Q58232918",
+      "role": {
+        "lang:en": "corporator in Greater Hyderabad Municipal Corporation"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59313119-5bf6bb0e-4d18-3895-6d98-e02ccee682c6",
+      "person_id": "Q59313119",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q5259597",
+      "start_date": "2016-02-02",
+      "role_superclass_code": "Q58232853",
+      "role_superclass": {
+        "lang:en": "corporator"
+      },
+      "role_code": "Q58232918",
+      "role": {
+        "lang:en": "corporator in Greater Hyderabad Municipal Corporation"
+      }
+    }
   ]
 }

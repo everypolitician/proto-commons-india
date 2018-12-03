@@ -20,7 +20,81 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1191",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1191"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q221922",
+        "Q55192422"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Maharashtra",
+        "lang:hi": "महाराष्ट्र"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954831",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mh/municipality:pune"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954831"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q5306335",
+        "Q58947343"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Pune Municipal Corporation area"
+      },
+      "parent_id": "Q1191"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

@@ -19,7 +19,80 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1437",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:rj"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1437"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018649"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Rajasthan",
+        "lang:hi": "राजस्थान"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954658",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:rj/municipality:jodhpur"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954658"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944148",
+        "Q58947214"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Jodhpur Municipal Corporation area"
+      },
+      "parent_id": "Q1437"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 

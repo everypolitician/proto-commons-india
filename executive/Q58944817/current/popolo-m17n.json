@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Manhar Mori"
+      },
+      "id": "Q59313028",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59313028"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -57,7 +71,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q58943975"
+        "Q58943975",
+        "Q58947061"
       ],
       "type": {
         "lang:en": "municipal corporation area"
@@ -94,6 +109,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59313028-A4C2ACA0-FCE7-45A4-AD7F-665730131F9A",
+      "person_id": "Q59313028",
+      "organization_id": "Q58944817",
+      "area_id": "Q58954447",
+      "start_date": "2018-06-14",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:hi": "महापौर"
+      },
+      "role_code": "Q58943975",
+      "role": {
+        "lang:en": "Mayor of Bhavnagar"
+      }
+    }
   ]
 }

@@ -1,6 +1,23 @@
 {
   "persons": [
-
+    {
+      "name": {
+        "lang:en": "Bonthu Rammohan"
+      },
+      "id": "Q23415472",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q23415472"
+        }
+      ],
+      "links": [
+        {
+          "note": "facebook",
+          "url": "https://www.facebook.com/BonthuRammohan"
+        }
+      ]
+    }
   ],
   "organizations": [
     {
@@ -16,6 +33,20 @@
         }
       ],
       "area_id": "Q58954617"
+    },
+    {
+      "name": {
+        "lang:en": "Telangana Rashtra Samithi",
+        "lang:hi": "तेलंगाना राष्ट्र समिति"
+      },
+      "id": "Q3518390",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3518390"
+        }
+      ]
     }
   ],
   "areas": [
@@ -32,7 +63,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q58944099"
+        "Q58944099",
+        "Q58232918"
       ],
       "type": {
         "lang:en": "municipal corporation area"
@@ -80,7 +112,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q55018651"
+        "Q55018651",
+        "Q55192423"
       ],
       "type": {
         "lang:en": "state of India",
@@ -94,6 +127,22 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q23415472-352d5072-4934-4681-2a3c-98817b8f456c",
+      "person_id": "Q23415472",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q58944922",
+      "area_id": "Q58954617",
+      "start_date": "2016-02-02",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:hi": "महापौर"
+      },
+      "role_code": "Q58944099",
+      "role": {
+        "lang:en": "Mayor of Hyderabad"
+      }
+    }
   ]
 }
