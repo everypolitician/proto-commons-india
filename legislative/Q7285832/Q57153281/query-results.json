@@ -19272,6 +19272,189 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q58381598-C77DBDC7-566A-4AD7-BA23-7C3054E91517"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58381598"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arjun Lal Jeengar"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19804605"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kapasan"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "कपासन विधानसभा क्षेत्र (राजस्थान)"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17599276"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Rajasthan Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3526627"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Assembly of India"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7285832"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajasthan Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1437"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "200"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q58381598-C77DBDC7-566A-4AD7-BA23-7C3054E91517"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58381598"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arjun Lal Jeengar"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19804605"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kapasan"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "कपासन विधानसभा क्षेत्र (राजस्थान)"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17599276"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Rajasthan Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सांसद"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7285832"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajasthan Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1437"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "200"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q58381607-E1273381-F687-4CA1-A6F3-0E7AB09B3A8A"
         },
         "item": {
@@ -19765,6 +19948,189 @@
           "xml:lang": "hi",
           "type": "literal",
           "value": "मालपुरा विधानसभा क्षेत्र (राजस्थान)"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17599276"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Rajasthan Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सांसद"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7285832"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajasthan Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1437"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "200"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q58381714-D8D797E0-4B3F-454F-B3A9-6309C5BC69BA"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58381714"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Devendra Katara"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19806941"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungarpur"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "डूंगरपुर विधानसभा क्षेत्र (राजस्थान)"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17599276"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Rajasthan Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3526627"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Assembly of India"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7285832"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajasthan Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1437"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "200"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q58381714-D8D797E0-4B3F-454F-B3A9-6309C5BC69BA"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58381714"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Devendra Katara"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19806941"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Dungarpur"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "डूंगरपुर विधानसभा क्षेत्र (राजस्थान)"
         },
         "role": {
           "type": "uri",
@@ -22144,6 +22510,189 @@
           "xml:lang": "hi",
           "type": "literal",
           "value": "करौली विधानसभा क्षेत्र (राजस्थान)"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17599276"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Rajasthan Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सांसद"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7285832"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajasthan Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1437"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "200"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q58420908-D87B3F16-787A-49D1-9FFF-4DDB61F114AE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58420908"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Girraj Singh"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10225"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indian National Congress"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय राष्ट्रीय कांग्रेस"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19809000"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bari"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बाड़ी विधानसभा क्षेत्र (राजस्थान)"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17599276"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of the Rajasthan Legislative Assembly"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3526627"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Assembly of India"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q7285832"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajasthan Legislative Assembly"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राजस्थान विधान सभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1437"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "200"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q58420908-D87B3F16-787A-49D1-9FFF-4DDB61F114AE"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58420908"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Girraj Singh"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10225"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Indian National Congress"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय राष्ट्रीय कांग्रेस"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19809000"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bari"
+        },
+        "district_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बाड़ी विधानसभा क्षेत्र (राजस्थान)"
         },
         "role": {
           "type": "uri",

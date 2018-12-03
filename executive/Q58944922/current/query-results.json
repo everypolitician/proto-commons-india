@@ -28,7 +28,89 @@
   },
   "results": {
     "bindings": [
-
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q23415472-352d5072-4934-4681-2a3c-98817b8f456c"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q23415472"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bonthu Rammohan"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3518390"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Telangana Rashtra Samithi"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "तेलंगाना राष्ट्र समिति"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58954617"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Greater Hyderabad Municipal Corporation area"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58944099"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Hyderabad"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-02-02T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "BonthuRammohan"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "महापौर"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58944922"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "General Body of the Greater Hyderabad Municipal Corporation"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58954617"
+        }
+      }
     ]
   }
 }

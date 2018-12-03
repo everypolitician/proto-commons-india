@@ -29,7 +29,406 @@
   },
   "results": {
     "bindings": [
-
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q21174022-b71d7849-4bd8-1521-7f36-b0102c602947"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q21174022"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Gulam Rasool Balyawi"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q904827"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Janata Dal (United)"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "जनता दल"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192419"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Bihar Legislative Council"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बिहार विधान परिषद के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192405"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Council"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "विधान परिषद के सदस्य"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-06-03T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4907067"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bihar Legislative Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1165"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q24572543-fbe450ea-494c-9f5b-7e6a-3713f4b1ccde"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24572543"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Arjun Sahani"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192419"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Bihar Legislative Council"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बिहार विधान परिषद के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192405"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Council"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "विधान परिषद के सदस्य"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-06-03T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4907067"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bihar Legislative Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1165"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q24572546-5fa7bb25-4193-616e-0db9-6eb638a97ddd"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24572546"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "C. P. Sinha"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q904827"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Janata Dal (United)"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "जनता दल"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192419"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Bihar Legislative Council"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बिहार विधान परिषद के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192405"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Council"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "विधान परिषद के सदस्य"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-06-03T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4907067"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bihar Legislative Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1165"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q24572547-70d77275-4e1e-f79e-e6fa-b25d389157bb"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q24572547"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Vinod Narayan Jha"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192419"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Bihar Legislative Council"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बिहार विधान परिषद के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192405"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Council"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "विधान परिषद के सदस्य"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-06-03T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4907067"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bihar Legislative Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1165"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q25190100-e8d0eabe-4ec8-7753-d8e1-199c7acca8a9"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q25190100"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rannvijay Singh"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3176919"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rashtriya Janata Dal"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राष्ट्रीय जनता दल"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192419"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of Bihar Legislative Council"
+        },
+        "role_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "बिहार विधान परिषद के सदस्य"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q55192405"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Member of a Legislative Council"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "विधान परिषद के सदस्य"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2016-06-03T00:00:00Z"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q4907067"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bihar Legislative Council"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1165"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "75"
+        }
+      }
     ]
   }
 }

@@ -35437,6 +35437,72 @@
       {
         "statement": {
           "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q3633158-14a494e7-ad04-4e8d-9709-d0b4f1978ceb"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q3633158"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Akhlaqur Rahman Kidwai"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "ए आर किदवई"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q17324844"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of the Rajya Sabha"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q486839"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "member of parliament"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "सांसद"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q244730"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Rajya Sabha"
+        },
+        "org_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "राज्यसभा"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q668"
+        },
+        "org_seat_count": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#decimal",
+          "type": "literal",
+          "value": "245"
+        }
+      },
+      {
+        "statement": {
+          "type": "uri",
           "value": "http://www.wikidata.org/entity/statement/Q3633497-f165c060-8112-44b0-8a0a-14339d66180b"
         },
         "item": {
@@ -43619,6 +43685,11 @@
           "xml:lang": "en",
           "type": "literal",
           "value": "Ajay pratap singh"
+        },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "अजय प्रताप सिंह उर्फ लल्‍ला भइया"
         },
         "party": {
           "type": "uri",
@@ -70171,6 +70242,11 @@
           "type": "literal",
           "value": "Virendra Kumar Sakhlecha"
         },
+        "name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "वीरेन्द्र कुमार सकलेचा"
+        },
         "role": {
           "type": "uri",
           "value": "http://www.wikidata.org/entity/Q17324844"
@@ -70296,7 +70372,7 @@
         "name_hi": {
           "xml:lang": "hi",
           "type": "literal",
-          "value": "विशम्‍भर प्रसाद निषाद"
+          "value": "विशम्भर प्रसाद निषाद"
         },
         "party": {
           "type": "uri",

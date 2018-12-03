@@ -28,7 +28,89 @@
   },
   "results": {
     "bindings": [
-
+      {
+        "statement": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/statement/Q59312590-45b613b4-418c-c2f6-277c-8bc5143a9e07"
+        },
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q59312590"
+        },
+        "name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mridula Jaiswal"
+        },
+        "party": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q10230"
+        },
+        "party_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Bharatiya Janata Party"
+        },
+        "party_name_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "भारतीय जनता पार्टी"
+        },
+        "district": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58954953"
+        },
+        "district_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Varanasi Municipal Corporation area"
+        },
+        "role": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58944409"
+        },
+        "role_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Varanasi"
+        },
+        "start": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "type": "literal",
+          "value": "2017-12-01T00:00:00Z"
+        },
+        "facebook": {
+          "type": "literal",
+          "value": "mridulajaiswalbjp"
+        },
+        "role_superclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "role_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "role_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "महापौर"
+        },
+        "org": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58945175"
+        },
+        "org_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "General Body of Varanasi Municipal Corporation"
+        },
+        "org_jurisdiction": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58954953"
+        }
+      }
     ]
   }
 }

@@ -4191,17 +4191,17 @@
         },
         "positionSuperclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2285706"
+          "value": "http://www.wikidata.org/entity/Q5096847"
         },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "head of government"
+          "value": "Chief Minister"
         },
         "position_superclass_hi": {
           "xml:lang": "hi",
           "type": "literal",
-          "value": "शासनप्रमुख"
+          "value": "मुख्यमन्त्री"
         },
         "body": {
           "type": "uri",
@@ -4248,17 +4248,17 @@
         },
         "positionSuperclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5096847"
+          "value": "http://www.wikidata.org/entity/Q2285706"
         },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister"
+          "value": "head of government"
         },
         "position_superclass_hi": {
           "xml:lang": "hi",
           "type": "literal",
-          "value": "मुख्यमन्त्री"
+          "value": "शासनप्रमुख"
         },
         "body": {
           "type": "uri",
@@ -4506,6 +4506,53 @@
           "xml:lang": "hi",
           "type": "literal",
           "value": "ओडिशा विधान सभा"
+        }
+      },
+      {
+        "position": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q48730651"
+        },
+        "position_name_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Mayor of Kolkata"
+        },
+        "adminAreaTypes": {
+          "type": "literal",
+          "value": "Q24238356"
+        },
+        "adminArea": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58954708"
+        },
+        "admin_area_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "Kolkata Municipal Corporation area"
+        },
+        "positionSuperclass": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q30185"
+        },
+        "position_superclass_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "mayor"
+        },
+        "position_superclass_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "महापौर"
+        },
+        "body": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q58944986"
+        },
+        "body_en": {
+          "xml:lang": "en",
+          "type": "literal",
+          "value": "General Body of Kolkata Municipal Corporation"
         }
       },
       {
