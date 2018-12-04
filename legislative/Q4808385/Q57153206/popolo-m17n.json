@@ -30,6 +30,21 @@
       "links": [
 
       ]
+    },
+    {
+      "name": {
+        "lang:en": "Maneswar Brahma"
+      },
+      "id": "Q27947598",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q27947598"
+        }
+      ],
+      "links": [
+
+      ]
     }
   ],
   "organizations": [
@@ -3101,6 +3116,37 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q4808385",
       "area_id": "Q25212207",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27947598-b02a2a9a-d7b1-4d2b-ae71-0bf09c19745e",
+      "person_id": "Q27947598",
+      "organization_id": "Q4808385",
+      "start_date": "2016-01-01",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q21191662",
+      "role": {
+        "lang:en": "Member of the Assam Legislative Assembly",
+        "lang:hi": "असम विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q27947598-b02a2a9a-d7b1-4d2b-ae71-0bf09c19745e",
+      "person_id": "Q27947598",
+      "organization_id": "Q4808385",
+      "start_date": "2016-01-01",
       "role_superclass_code": "Q486839",
       "role_superclass": {
         "lang:en": "member of parliament",

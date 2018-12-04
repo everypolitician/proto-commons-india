@@ -19,7 +19,81 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q58954970",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tg/municipality:warangal"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954970"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58944418",
+        "Q58947463"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Greater Warangal Municipal Corporation area"
+      },
+      "parent_id": "Q677037"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q677037",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:tg"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q677037"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018651",
+        "Q55192423"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Telangana",
+        "lang:hi": "तेलंगाना"
+      },
+      "parent_id": "Q668"
+    }
   ],
   "memberships": [
 

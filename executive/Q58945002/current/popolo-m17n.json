@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Suresh Pawar"
+      },
+      "id": "Q59313032",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59313032"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -32,7 +46,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q221922"
+        "Q221922",
+        "Q55192422"
       ],
       "type": {
         "lang:en": "state of India",
@@ -57,7 +72,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q58944202"
+        "Q58944202",
+        "Q58947260"
       ],
       "type": {
         "lang:en": "municipal corporation area"
@@ -94,6 +110,20 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59313032-C2CCBEF7-53A1-4FF0-BFF7-F2C7B0E0471D",
+      "person_id": "Q59313032",
+      "organization_id": "Q58945002",
+      "area_id": "Q58954725",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:hi": "महापौर"
+      },
+      "role_code": "Q58944202",
+      "role": {
+        "lang:en": "Mayor of Latur"
+      }
+    }
   ]
 }

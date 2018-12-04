@@ -1,6 +1,20 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Koneru Sreedhar"
+      },
+      "id": "Q59313029",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q59313029"
+        }
+      ],
+      "links": [
 
+      ]
+    }
   ],
   "organizations": [
     {
@@ -32,7 +46,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q1813083"
+        "Q1813083",
+        "Q55192418"
       ],
       "type": {
         "lang:en": "state of India",
@@ -57,7 +72,8 @@
         }
       ],
       "associated_wikidata_positions": [
-        "Q58944414"
+        "Q58944414",
+        "Q58947456"
       ],
       "type": {
         "lang:en": "municipal corporation area"
@@ -94,6 +110,21 @@
     }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q59313029-694BB4BA-3DC0-4193-A273-1C69E7E18A3A",
+      "person_id": "Q59313029",
+      "organization_id": "Q58945178",
+      "area_id": "Q58954959",
+      "start_date": "2014-07-01",
+      "role_superclass_code": "Q30185",
+      "role_superclass": {
+        "lang:en": "mayor",
+        "lang:hi": "महापौर"
+      },
+      "role_code": "Q58944414",
+      "role": {
+        "lang:en": "Mayor of Vijayawada"
+      }
+    }
   ]
 }

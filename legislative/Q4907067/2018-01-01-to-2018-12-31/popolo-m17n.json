@@ -1,6 +1,80 @@
 {
   "persons": [
+    {
+      "name": {
+        "lang:en": "Gulam Rasool Balyawi"
+      },
+      "id": "Q21174022",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q21174022"
+        }
+      ],
+      "links": [
 
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Arjun Sahani"
+      },
+      "id": "Q24572543",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24572543"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "C. P. Sinha"
+      },
+      "id": "Q24572546",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24572546"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Vinod Narayan Jha"
+      },
+      "id": "Q24572547",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q24572547"
+        }
+      ],
+      "links": [
+
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rannvijay Singh"
+      },
+      "id": "Q25190100",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25190100"
+        }
+      ],
+      "links": [
+
+      ]
+    }
   ],
   "organizations": [
     {
@@ -19,12 +93,188 @@
       "seat_counts": {
         "Q55192419": "75"
       }
+    },
+    {
+      "name": {
+        "lang:en": "Bharatiya Janata Party",
+        "lang:hi": "भारतीय जनता पार्टी"
+      },
+      "id": "Q10230",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q10230"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Rashtriya Janata Dal",
+        "lang:hi": "राष्ट्रीय जनता दल"
+      },
+      "id": "Q3176919",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q3176919"
+        }
+      ]
+    },
+    {
+      "name": {
+        "lang:en": "Janata Dal (United)",
+        "lang:hi": "जनता दल"
+      },
+      "id": "Q904827",
+      "classification": "party",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q904827"
+        }
+      ]
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1165",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:br"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1165"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55020138",
+        "Q55192419"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Bihar",
+        "lang:hi": "बिहार"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
-
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q21174022-b71d7849-4bd8-1521-7f36-b0102c602947",
+      "person_id": "Q21174022",
+      "on_behalf_of_id": "Q904827",
+      "organization_id": "Q4907067",
+      "start_date": "2016-06-03",
+      "role_superclass_code": "Q55192405",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Council",
+        "lang:hi": "विधान परिषद के सदस्य"
+      },
+      "role_code": "Q55192419",
+      "role": {
+        "lang:en": "Member of Bihar Legislative Council",
+        "lang:hi": "बिहार विधान परिषद के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24572543-fbe450ea-494c-9f5b-7e6a-3713f4b1ccde",
+      "person_id": "Q24572543",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q4907067",
+      "start_date": "2016-06-03",
+      "role_superclass_code": "Q55192405",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Council",
+        "lang:hi": "विधान परिषद के सदस्य"
+      },
+      "role_code": "Q55192419",
+      "role": {
+        "lang:en": "Member of Bihar Legislative Council",
+        "lang:hi": "बिहार विधान परिषद के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24572546-5fa7bb25-4193-616e-0db9-6eb638a97ddd",
+      "person_id": "Q24572546",
+      "on_behalf_of_id": "Q904827",
+      "organization_id": "Q4907067",
+      "start_date": "2016-06-03",
+      "role_superclass_code": "Q55192405",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Council",
+        "lang:hi": "विधान परिषद के सदस्य"
+      },
+      "role_code": "Q55192419",
+      "role": {
+        "lang:en": "Member of Bihar Legislative Council",
+        "lang:hi": "बिहार विधान परिषद के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q24572547-70d77275-4e1e-f79e-e6fa-b25d389157bb",
+      "person_id": "Q24572547",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q4907067",
+      "start_date": "2016-06-03",
+      "role_superclass_code": "Q55192405",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Council",
+        "lang:hi": "विधान परिषद के सदस्य"
+      },
+      "role_code": "Q55192419",
+      "role": {
+        "lang:en": "Member of Bihar Legislative Council",
+        "lang:hi": "बिहार विधान परिषद के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q25190100-e8d0eabe-4ec8-7753-d8e1-199c7acca8a9",
+      "person_id": "Q25190100",
+      "on_behalf_of_id": "Q3176919",
+      "organization_id": "Q4907067",
+      "start_date": "2016-06-03",
+      "role_superclass_code": "Q55192405",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Council",
+        "lang:hi": "विधान परिषद के सदस्य"
+      },
+      "role_code": "Q55192419",
+      "role": {
+        "lang:en": "Member of Bihar Legislative Council",
+        "lang:hi": "बिहार विधान परिषद के सदस्य"
+      }
+    }
   ]
 }

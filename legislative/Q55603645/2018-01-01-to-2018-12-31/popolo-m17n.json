@@ -19,7 +19,81 @@
     }
   ],
   "areas": [
-
+    {
+      "id": "Q1498",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:up"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1498"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q28966983",
+        "Q55192424"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Uttar Pradesh",
+        "lang:hi": "उत्तर प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q58954355",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:up/municipality:aligarh"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q58954355"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q58943892",
+        "Q58946988"
+      ],
+      "type": {
+        "lang:en": "municipal corporation area"
+      },
+      "name": {
+        "lang:en": "Aligarh Municipal Corporation area"
+      },
+      "parent_id": "Q1498"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    }
   ],
   "memberships": [
 
