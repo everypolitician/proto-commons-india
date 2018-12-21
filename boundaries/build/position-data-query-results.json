@@ -587,7 +587,7 @@
         },
         "adminAreaTypes": {
           "type": "literal",
-          "value": "Q10864048 Q515"
+          "value": "Q10864048 Q15284"
         },
         "adminArea": {
           "type": "uri",
@@ -2763,7 +2763,7 @@
         },
         "adminAreaTypes": {
           "type": "literal",
-          "value": "Q10864048 Q515"
+          "value": "Q10864048 Q15284"
         },
         "adminArea": {
           "type": "uri",
@@ -4191,17 +4191,17 @@
         },
         "positionSuperclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q5096847"
+          "value": "http://www.wikidata.org/entity/Q2285706"
         },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "Chief Minister"
+          "value": "head of government"
         },
         "position_superclass_hi": {
           "xml:lang": "hi",
           "type": "literal",
-          "value": "मुख्यमन्त्री"
+          "value": "शासनप्रमुख"
         },
         "body": {
           "type": "uri",
@@ -4248,17 +4248,17 @@
         },
         "positionSuperclass": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q2285706"
+          "value": "http://www.wikidata.org/entity/Q5096847"
         },
         "position_superclass_en": {
           "xml:lang": "en",
           "type": "literal",
-          "value": "head of government"
+          "value": "Chief Minister"
         },
         "position_superclass_hi": {
           "xml:lang": "hi",
           "type": "literal",
-          "value": "शासनप्रमुख"
+          "value": "मुख्यमन्त्री"
         },
         "body": {
           "type": "uri",
@@ -20675,12 +20675,17 @@
         },
         "body": {
           "type": "uri",
-          "value": "http://www.wikidata.org/entity/Q58942773"
+          "value": "http://www.wikidata.org/entity/Q30262990"
         },
         "body_en": {
           "xml:lang": "en",
           "type": "literal",
           "value": "Raipur Municipal Corporation"
+        },
+        "body_hi": {
+          "xml:lang": "hi",
+          "type": "literal",
+          "value": "रायपुर नगर निगम"
         }
       },
       {
