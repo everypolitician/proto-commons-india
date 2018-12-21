@@ -422,7 +422,8 @@
     },
     {
       "name": {
-        "lang:en": "K. T. Rama Rao"
+        "lang:en": "K. T. Rama Rao",
+        "lang:hi": "केटी राम राव"
       },
       "id": "Q25748324",
       "identifiers": [
@@ -513,7 +514,7 @@
     },
     {
       "name": {
-        "lang:en": "Kalvakuntla Chandrashekar",
+        "lang:en": "K. Chandrashekar Rao",
         "lang:hi": "कल्वाकुंतला चंद्रशेखर राव"
       },
       "id": "Q33168",
@@ -1870,7 +1871,7 @@
     },
     {
       "name": {
-        "lang:en": "All India Muslim farzi party",
+        "lang:en": "All India Majlis-e-Ittehadul Muslimeen",
         "lang:hi": "अखिल भारतीय मजलिस-ए-इत्तेहादुल मुस्लिमीन"
       },
       "id": "Q2837501",
@@ -4750,9 +4751,10 @@
       "on_behalf_of_id": "Q234277",
       "organization_id": "Q17152219",
       "area_id": "Q4900537",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -4766,10 +4768,9 @@
       "on_behalf_of_id": "Q234277",
       "organization_id": "Q17152219",
       "area_id": "Q4900537",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -4849,9 +4850,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
       "area_id": "Q6874782",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -4865,10 +4867,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
       "area_id": "Q6874782",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -4981,9 +4982,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q4902168",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -4997,23 +4999,6 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q4902168",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q17180865-230FDB0D-0396-48CF-BC2A-C10C381F1D91",
-      "person_id": "Q17180865",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q4901950",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -5034,6 +5019,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17180865-230FDB0D-0396-48CF-BC2A-C10C381F1D91",
+      "person_id": "Q17180865",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4901950",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5113,9 +5114,10 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q17152219",
       "area_id": "Q5587233",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5129,10 +5131,9 @@
       "on_behalf_of_id": "Q10230",
       "organization_id": "Q17152219",
       "area_id": "Q5587233",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5278,9 +5279,10 @@
       "on_behalf_of_id": "Q2279320",
       "organization_id": "Q17152219",
       "area_id": "Q7415537",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5294,10 +5296,9 @@
       "on_behalf_of_id": "Q2279320",
       "organization_id": "Q17152219",
       "area_id": "Q7415537",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5377,9 +5378,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7799207",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -5393,10 +5395,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7799207",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6169,9 +6170,10 @@
       "on_behalf_of_id": "Q803681",
       "organization_id": "Q17152219",
       "area_id": "Q778154",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6185,10 +6187,9 @@
       "on_behalf_of_id": "Q803681",
       "organization_id": "Q17152219",
       "area_id": "Q778154",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6268,9 +6269,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q12991356",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6284,10 +6286,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q12991356",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6631,9 +6632,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7042123",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6647,10 +6649,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7042123",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6730,9 +6731,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q6370776",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -6746,23 +6748,6 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q6370776",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58434550-74E5833D-5E61-4660-9A70-34C3EDD47E67",
-      "person_id": "Q58434550",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q8051560",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -6791,11 +6776,11 @@
       }
     },
     {
-      "id": "http://www.wikidata.org/entity/statement/Q58434770-C4518382-D437-4E72-886F-06CB3DAF5AC6",
-      "person_id": "Q58434770",
+      "id": "http://www.wikidata.org/entity/statement/Q58434550-74E5833D-5E61-4660-9A70-34C3EDD47E67",
+      "person_id": "Q58434550",
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
-      "area_id": "Q4706008",
+      "area_id": "Q8051560",
       "role_superclass_code": "Q3526627",
       "role_superclass": {
         "lang:en": "Member of a Legislative Assembly of India"
@@ -6816,6 +6801,22 @@
       "role_superclass": {
         "lang:en": "member of parliament",
         "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      }
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58434770-C4518382-D437-4E72-886F-06CB3DAF5AC6",
+      "person_id": "Q58434770",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q4706008",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7225,9 +7226,10 @@
       "on_behalf_of_id": "Q8046035",
       "organization_id": "Q17152219",
       "area_id": "Q4811983",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7241,10 +7243,9 @@
       "on_behalf_of_id": "Q8046035",
       "organization_id": "Q17152219",
       "area_id": "Q4811983",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7654,9 +7655,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q5310669",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7670,10 +7672,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q5310669",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7852,9 +7853,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q6958581",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -7868,10 +7870,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q6958581",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8182,9 +8183,10 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
       "area_id": "Q6958576",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8198,10 +8200,9 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q17152219",
       "area_id": "Q6958576",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8248,9 +8249,10 @@
       "on_behalf_of_id": "Q2837501",
       "organization_id": "Q17152219",
       "area_id": "Q8047260",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8264,10 +8266,9 @@
       "on_behalf_of_id": "Q2837501",
       "organization_id": "Q17152219",
       "area_id": "Q8047260",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8611,9 +8612,10 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7968797",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
@@ -8627,10 +8629,9 @@
       "on_behalf_of_id": "Q3518390",
       "organization_id": "Q17152219",
       "area_id": "Q7968797",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
