@@ -88,6 +88,7 @@ WHERE {
     (wd:Q28173697 wd:Q58232921)
     (wd:Q286536 wd:Q58947092)
     (wd:Q30108922 wd:Q58947013)
+    (wd:Q30262990 wd:Q58947347)
     (wd:Q39054349 wd:Q58947289)
     (wd:Q4045640 wd:Q58947093)
     (wd:Q4045694 wd:Q58947268)
@@ -186,7 +187,6 @@ WHERE {
     (wd:Q58942766 wd:Q58947328)
     (wd:Q58942768 wd:Q58947331)
     (wd:Q58942771 wd:Q58947345)
-    (wd:Q58942773 wd:Q58947347)
     (wd:Q58942775 wd:Q58947348)
     (wd:Q58942778 wd:Q58947351)
     (wd:Q58942791 wd:Q58947353)
@@ -242,7 +242,10 @@ WHERE {
                                    pq:P2937 ?term ] .
   }
 
+  # Only include terms without end dates or whose end dates are in the future
   FILTER (!BOUND(?termEnd) || ?termEnd > NOW())
-  FILTER (!BOUND(?termReplacedBy))
+  # Only include terms which haven't been replaced unless they have end dates
+  # (and so by implication, as per above, have end dates in the future)
+  FILTER (!BOUND(?termReplacedBy) || BOUND(?termEnd))
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,hi". }
 } ORDER BY ?termStart ?term

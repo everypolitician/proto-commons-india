@@ -1,21 +1,6 @@
 {
   "persons": [
-    {
-      "name": {
-        "lang:en": "Shivraj Singh Chauhan",
-        "lang:hi": "शिवराज सिंह चौहान"
-      },
-      "id": "Q3180602",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q3180602"
-        }
-      ],
-      "links": [
 
-      ]
-    }
   ],
   "organizations": [
     {
@@ -32,20 +17,6 @@
         }
       ],
       "area_id": "Q1188"
-    },
-    {
-      "name": {
-        "lang:en": "Bharatiya Janata Party",
-        "lang:hi": "भारतीय जनता पार्टी"
-      },
-      "id": "Q10230",
-      "classification": "party",
-      "identifiers": [
-        {
-          "scheme": "wikidata",
-          "identifier": "Q10230"
-        }
-      ]
     }
   ],
   "areas": [
@@ -101,23 +72,6 @@
     }
   ],
   "memberships": [
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q3180602-829bf3d7-413c-2bef-f5b1-e6780470fae6",
-      "person_id": "Q3180602",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q55147383",
-      "area_id": "Q1188",
-      "start_date": "2005-11-29",
-      "role_superclass_code": "Q5096847",
-      "role_superclass": {
-        "lang:en": "Chief Minister",
-        "lang:hi": "मुख्यमन्त्री"
-      },
-      "role_code": "Q55018639",
-      "role": {
-        "lang:en": "Chief Minister of Madhya Pradesh",
-        "lang:hi": "मध्य प्रदेश के मुख्यमंत्री"
-      }
-    }
+
   ]
 }

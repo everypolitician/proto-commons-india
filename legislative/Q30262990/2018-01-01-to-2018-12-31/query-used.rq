@@ -6,10 +6,11 @@ SELECT ?statement
        ?role_superclass ?role_superclass_en ?role_superclass_hi
        ?start ?end ?facebook
        ?org ?org_en ?org_hi ?org_jurisdiction ?org_seat_count
+       ?linkedToTerm
 WHERE {
   BIND(wd:Q58947347 as ?role) .
   BIND(wd:Q58947347 as ?specific_role) .
-  BIND(wd:Q58942773 as ?org) .
+  BIND(wd:Q30262990 as ?org) .
   OPTIONAL {
   ?org rdfs:label ?org_en
   FILTER(LANG(?org_en) = "en")

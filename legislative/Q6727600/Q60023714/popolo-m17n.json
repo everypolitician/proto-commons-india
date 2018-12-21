@@ -1,0 +1,5370 @@
+{
+  "persons": [
+
+  ],
+  "organizations": [
+    {
+      "name": {
+        "lang:en": "Madhya Pradesh Legislative Assembly",
+        "lang:hi": "मध्य प्रदेश विधान सभा"
+      },
+      "id": "Q6727600",
+      "classification": "branch",
+      "identifiers": [
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6727600"
+        }
+      ],
+      "area_id": "Q1188",
+      "seat_counts": {
+        "Q24529702": "231"
+      }
+    }
+  ],
+  "areas": [
+    {
+      "id": "Q1188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q1188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q55018639"
+      ],
+      "type": {
+        "lang:en": "state of India",
+        "lang:hi": "भारतीय राज्य"
+      },
+      "name": {
+        "lang:en": "Madhya Pradesh",
+        "lang:hi": "मध्य प्रदेश"
+      },
+      "parent_id": "Q668"
+    },
+    {
+      "id": "Q11934826",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:175"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q11934826"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandhata"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q13521924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:57"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13521924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hatta (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q13521925",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:6"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13521925"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Morena"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q13521926",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:64"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13521926"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagod"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q13521927",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:24"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13521927"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pohari"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q13521928",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:45"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13521928"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Prithvipur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q13521929",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:68"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q13521929"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sirmour"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q16958169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:93"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q16958169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Murwara"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q17027080",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:156"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17027080"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Budhni"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q17049606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:145"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17049606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Basoda"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q17068214",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:146"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17068214"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kurwai (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q17090616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:147"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17090616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sironj"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q17101760",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:144"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q17101760"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vidisha"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q19808056",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:81"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19808056"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Devsar (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q19895829",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:39"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q19895829"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rehli"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25209156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:139"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pipariya (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25209160",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:177"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209160"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khandwa (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25209162",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:149"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25209162"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Berasia (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25222156",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:209"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25222156"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dr. Ambedkar Nagar-Mhow"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241398",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:216"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241398"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ujjain Uttar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241399",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:217"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241399"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ujjain Dakshin"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241400",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:203"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241400"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Depalpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241401",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:204"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241401"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indore-1"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241402",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:205"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241402"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indore-2"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241403",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:206"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241403"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indore-3"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241404",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:207"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241404"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indore-4"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241405",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:208"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241405"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Indore-5"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241406",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:210"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241406"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rau"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241407",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:211"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241407"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanwer (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241408",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:212"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241408"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nagada-Khachrod"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241413",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:65"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241413"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maihar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25241425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:132"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25241425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghoradongri (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q25646485",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:136"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q25646485"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Seoni-Malwa"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q28179324",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:179"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179324"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Nepanagar (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q28179960",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:131"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28179960"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Betul"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q28419685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:171"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q28419685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dewas"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30129566",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:155"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30129566"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Huzur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30598756",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:214"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30598756"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tarana (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30598758",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:215"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30598758"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ghatiya (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30598761",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:218"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30598761"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badnagar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30599368",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:223"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599368"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alot (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30599373",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:213"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599373"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mahidpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30599642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:166"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Agar (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30599646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:202"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badnawar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30599904",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:76"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599904"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Churhat"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30599908",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:174"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30599908"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bagali (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30601051",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:89"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30601051"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bandhavgarh (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30605757",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:159"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30605757"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sehore"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30678411",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:151"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30678411"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narela"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30716996",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:154"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30716996"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Govindpura"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30717000",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:153"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30717000"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhopal Madhya"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30717001",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:152"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30717001"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhopal Dakshin-Paschim"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q30717003",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:150"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q30717003"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhopal Uttar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4726859",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:191"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4726859"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Alirajpur (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4740334",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:66"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4740334"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amarpatan"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4740949",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:8"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4740949"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ambah (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4805777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:32"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4805777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ashok Nagar (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4813112",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:9"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4813112"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ater"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4853516",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:28"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4853516"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bamori"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4854285",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:42"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4854285"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Banda"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q48727245",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:99"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q48727245"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jabalpur Cantt."
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4890846",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:83"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4890846"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Beohari (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4900983",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:21"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4900983"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhander (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4901801",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:10"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901801"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhind"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4901842",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:18"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4901842"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhitarwar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4907188",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:52"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4907188"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bijawar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q4913799",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:35"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q4913799"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bina (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5066095",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:30"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5066095"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chachoura"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5071013",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:33"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071013"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chanderi"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5071118",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:49"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5071118"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chandla (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5094800",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:51"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5094800"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chhatarpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5207545",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:19"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5207545"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dabra (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5212789",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:55"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5212789"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Damoh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5227655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:22"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5227655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Datia"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5260050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:38"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5260050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deori"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5277157",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:7"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5277157"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dimani"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54209809",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:134"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54209809"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Timarni (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54242873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:61"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54242873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chitrakoot"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54243230",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:62"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54243230"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raigaon (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54244050",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:69"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54244050"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Semariya"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54244481",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:71"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54244481"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mauganj"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54244590",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:72"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54244590"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Deotalab"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54244694",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:73"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54244694"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mangawan (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54244874",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:75"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54244874"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gurh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54245096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:77"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54245096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sidhi"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54245238",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:80"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54245238"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Singrauli"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54245409",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:79"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54245409"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chitrangi (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q54247026",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:74"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q54247026"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rewa"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442593",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:63"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442593"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Satna"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442594",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:70"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442594"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Teonthar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442595",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:78"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442595"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sihawal"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442596",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:82"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442596"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhauhani (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442597",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:84"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442597"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jaisinghnagar (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442598",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:85"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442598"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jaitpur (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442599",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:86"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442599"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kotma"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442600",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:87"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442600"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Anuppur (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442601",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:88"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442601"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pushprajgarh (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442604",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:90"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442604"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manpur (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442605",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:91"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442605"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barwara (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442606",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:92"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442606"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vijayraghavgarh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442607",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:94"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442607"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bahoriband"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442608",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:95"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442608"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Patan"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442609",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:96"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442609"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bargi"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442610",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:97"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442610"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jabalpur Purba(SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442611",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:98"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442611"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jabalpur Uttar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442612",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:100"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442612"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jabalpur Paschim"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442615",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:101"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442615"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panagar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442616",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:102"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442616"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sihora (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442617",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:103"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442617"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shahpura (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442618",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:105"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442618"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bichhiya (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442619",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:106"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442619"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Niwas (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442620",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:107"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442620"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandla (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:108"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Baihar (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442622",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:109"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442622"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lanji"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442623",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:110"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442623"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Paraswada"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442624",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:111"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442624"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Balaghat"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442625",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:112"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442625"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Waraseoni"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442626",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:113"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442626"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Katangi"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442627",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:114"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442627"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Barghat (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442628",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:115"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442628"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Seoni"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442629",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:116"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442629"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Keolari"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442630",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:117"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442630"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lakhnadon(ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442631",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:118"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442631"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gotegaon (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442632",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:119"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442632"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narsingpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442633",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:120"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442633"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tendukheda"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442634",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:121"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442634"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gadarwara"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442636",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:122"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442636"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Junnardeo (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442637",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:123"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442637"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amarwara (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442638",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:124"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442638"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Churai"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:125"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Saunsar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442640",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:126"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442640"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Chhindwara"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442641",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:127"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442641"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Parasia (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442642",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:128"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442642"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pandhurna (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442643",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:129"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442643"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Multai"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442644",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:130"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442644"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Amla (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442645",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:133"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442645"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhainsdehi (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442646",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:135"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442646"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harda"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442647",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:137"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442647"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hoshangabad"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442649",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:138"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442649"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sohagpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442650",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:140"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442650"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Udaipura"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442651",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:141"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442651"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhojpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442652",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:142"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442652"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sanchi (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442654",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:143"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442654"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Silwani"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442655",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:157"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442655"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ashta (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442656",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:158"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442656"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ichhawar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442657",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:160"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442657"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Narsinghgarh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442659",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:161"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442659"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Biaora"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442660",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:162"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442660"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajgarh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442662",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:163"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442662"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khilchipur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442663",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:164"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442663"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sarangpur (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442664",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:165"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442664"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Susner"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442665",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:167"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442665"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shajapur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442666",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:168"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442666"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shujalpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442667",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:169"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442667"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kalapipal"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:170"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sonkatch (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442670",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:172"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442670"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Hatpipliya"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442671",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:173"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442671"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khategaon"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442672",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:176"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442672"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Harsud (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:178"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pandhana (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442674",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:180"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442674"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Burhanpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442675",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:181"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442675"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhikangaon (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442676",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:182"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442676"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badwah"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442677",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:183"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442677"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maheshwar (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442678",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:184"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442678"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kasrawad"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442679",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:185"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442679"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khargone"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442680",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:186"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442680"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Bhagwanpura(ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442681",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:187"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442681"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sendhawa (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442682",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:188"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442682"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajpur (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442683",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:189"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442683"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pansemal (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442685",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:190"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442685"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Badwani (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442686",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:193"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442686"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jhabua (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442687",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:194"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442687"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Thandla (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442688",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:195"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442688"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Petlawad (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442689",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:196"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442689"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sardarpur (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442690",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:197"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442690"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gandhwani (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442691",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:199"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442691"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manawar (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442692",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:200"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442692"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dharampuri (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442693",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:201"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442693"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dhar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442695",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:219"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442695"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ratlam Rural (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442696",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:220"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442696"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Ratlam City"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442697",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:222"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442697"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jaora"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442698",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:224"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442698"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mandsour"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442699",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:225"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442699"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malhargarh (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442700",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:226"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442700"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Suwasra"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55442701",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:227"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55442701"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Garoth"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55443077",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:148"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55443077"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shamshabad"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q55443673",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:104"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q55443673"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Dindori (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5577560",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:13"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5577560"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gohad (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5618456",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:29"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5618456"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Guna (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5618924",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:59"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5618924"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gunnaor (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5623256",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:15"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5623256"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gwalior"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5623259",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:16"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5623259"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gwalior East"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5623262",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:14"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5623262"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gwalior Rural"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q5623264",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:17"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q5623264"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Gwalior South"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6110105",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:56"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6110105"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jabera"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6164501",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:44"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6164501"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jatara (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6165873",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:230"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6165873"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jawad"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6206777",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:192"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6206777"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Jobat (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6294621",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:4"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6294621"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Joura"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6370177",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:23"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6370177"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Karera (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6400639",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:47"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6400639"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khargapur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6403054",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:36"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6403054"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Khurai"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6427068",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:27"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6427068"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kolaras"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6442565",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:198"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6442565"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Kukshi (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6473148",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:11"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6473148"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Lahar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q668",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q668"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q192711"
+      ],
+      "type": {
+        "lang:en": "country",
+        "lang:hi": "देश"
+      },
+      "name": {
+        "lang:hi": "भारत गणराज्य",
+        "lang:en": "Republic of India"
+      },
+      "parent_id": null
+    },
+    {
+      "id": "Q6733277",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:48"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6733277"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Maharajpur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6743239",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:53"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6743239"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Malhara"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6746984",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:228"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6746984"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Manasa"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6809494",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:12"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6809494"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mehgaon"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6935985",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:34"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6935985"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Mungaoli"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6966532",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:40"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6966532"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Naryoli (SC)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q6986871",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:229"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q6986871"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Neemuch"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7041877",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:46"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7041877"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Niwari"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7131359",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:60"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7131359"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Panna"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7144721",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:54"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7144721"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pathariya"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7156096",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:58"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7156096"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pawai"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7190635",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:26"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7190635"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Pichhore"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7282974",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:31"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7282974"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Raghogarh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7286328",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:50"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7286328"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rajnagar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7290059",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:67"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7290059"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Rampur-Baghelan"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7395857",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:3"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7395857"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sabalgarh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7399004",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:41"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7399004"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sagar"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7400169",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:221"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7400169"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sailana (ST)"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7458210",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:20"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7458210"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sewda"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7494397",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:1"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7494397"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sheopur"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7499423",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:25"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7499423"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Shivpuri"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7637024",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:5"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7637024"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Sumawali"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7646425",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:37"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7646425"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Surkhi"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7801880",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:43"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7801880"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Tikamgarh"
+      },
+      "parent_id": "Q1188"
+    },
+    {
+      "id": "Q7929322",
+      "identifiers": [
+        {
+          "scheme": "MS_FB",
+          "identifier": "country:in/state:mp/assembly-constituency:2"
+        },
+        {
+          "scheme": "wikidata",
+          "identifier": "Q7929322"
+        }
+      ],
+      "associated_wikidata_positions": [
+        "Q24529702"
+      ],
+      "type": {
+        "lang:en": "constituency of the Madhya Pradesh Legislative Assembly"
+      },
+      "name": {
+        "lang:en": "Vijaypur"
+      },
+      "parent_id": "Q1188"
+    }
+  ],
+  "memberships": [
+
+  ]
+}

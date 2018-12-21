@@ -1681,15 +1681,17 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6884693",
       "area_id": "Q55589748",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24540202",
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16729837-AA971A4E-B7DE-44C2-A935-C1B493637E33",
@@ -1697,16 +1699,16 @@
       "on_behalf_of_id": "Q10225",
       "organization_id": "Q6884693",
       "area_id": "Q55589748",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24540202",
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24952293-680a98d2-d82f-4df5-9080-fb39d189952e",
@@ -1722,7 +1724,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24952293-680a98d2-d82f-4df5-9080-fb39d189952e",
@@ -1739,23 +1742,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a",
-      "person_id": "Q28842094",
-      "on_behalf_of_id": "Q1126393",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589747",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a",
@@ -1772,7 +1760,25 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q28842094-ebdf2fc2-5deb-4108-9619-6c66cb074b0a",
+      "person_id": "Q28842094",
+      "on_behalf_of_id": "Q1126393",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589747",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA",
@@ -1788,7 +1794,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5094693-51F322F7-14CD-4C5E-A4F7-3AC74C7A26EA",
@@ -1805,7 +1812,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58325975-68EBA4F3-EA7F-41E6-B2AF-2A692BFFCB7D",
@@ -1821,7 +1829,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58325975-68EBA4F3-EA7F-41E6-B2AF-2A692BFFCB7D",
@@ -1838,7 +1847,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58325977-414D4B96-21BD-40A8-A47E-CA2C90842DE1",
@@ -1854,7 +1864,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58325977-414D4B96-21BD-40A8-A47E-CA2C90842DE1",
@@ -1871,7 +1882,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326017-532C840A-5B82-4D5B-B549-C2475B716B13",
@@ -1887,7 +1899,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326017-532C840A-5B82-4D5B-B549-C2475B716B13",
@@ -1904,7 +1917,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326718-64C23656-9BF3-4512-BE51-F63122375E6C",
@@ -1920,7 +1934,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326718-64C23656-9BF3-4512-BE51-F63122375E6C",
@@ -1937,7 +1952,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326727-164D4E6B-6F2D-47AE-87FD-8FAF4418496C",
@@ -1953,7 +1969,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326727-164D4E6B-6F2D-47AE-87FD-8FAF4418496C",
@@ -1970,7 +1987,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326729-7D52C78A-D09E-46C9-AC2E-D5DA3D86DCEB",
@@ -1986,7 +2004,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326729-7D52C78A-D09E-46C9-AC2E-D5DA3D86DCEB",
@@ -2003,7 +2022,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326785-F5F834C5-8B83-49BD-AD3E-4C995FFE51C9",
@@ -2019,7 +2039,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326785-F5F834C5-8B83-49BD-AD3E-4C995FFE51C9",
@@ -2036,23 +2057,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58326789-783C4DE2-6A4D-45E0-982C-76D76FB37CD4",
-      "person_id": "Q58326789",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589740",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326789-783C4DE2-6A4D-45E0-982C-76D76FB37CD4",
@@ -2069,7 +2075,25 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58326789-783C4DE2-6A4D-45E0-982C-76D76FB37CD4",
+      "person_id": "Q58326789",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589740",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326794-04674F25-A173-4E25-A79F-07F50A48BBA9",
@@ -2085,7 +2109,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326794-04674F25-A173-4E25-A79F-07F50A48BBA9",
@@ -2102,7 +2127,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326826-4BFCC81D-A5C2-459A-8746-125129C52660",
@@ -2118,7 +2144,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326826-4BFCC81D-A5C2-459A-8746-125129C52660",
@@ -2135,7 +2162,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326904-2E08656C-729A-4482-A6F8-A2A5999F598D",
@@ -2151,7 +2179,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326904-2E08656C-729A-4482-A6F8-A2A5999F598D",
@@ -2168,23 +2197,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58326905-B81B5F34-30FE-49A4-887F-B420A0BC244B",
-      "person_id": "Q58326905",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589712",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326905-B81B5F34-30FE-49A4-887F-B420A0BC244B",
@@ -2201,7 +2215,25 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58326905-B81B5F34-30FE-49A4-887F-B420A0BC244B",
+      "person_id": "Q58326905",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589712",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326908-457FE994-A9C5-491B-80A5-7FC1E8C26A74",
@@ -2217,7 +2249,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326908-457FE994-A9C5-491B-80A5-7FC1E8C26A74",
@@ -2234,7 +2267,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326919-04F29798-B705-4D66-B20F-5C3BE94950B3",
@@ -2250,7 +2284,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326919-04F29798-B705-4D66-B20F-5C3BE94950B3",
@@ -2267,7 +2302,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326925-69F1B10B-EDD1-4556-84D3-AB977E4EA827",
@@ -2283,7 +2319,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58326925-69F1B10B-EDD1-4556-84D3-AB977E4EA827",
@@ -2300,7 +2337,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58327181-34C5242B-8C4F-4741-B935-637D8C6DE0CC",
@@ -2316,7 +2354,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58327181-34C5242B-8C4F-4741-B935-637D8C6DE0CC",
@@ -2333,7 +2372,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328361-07BAD5ED-10E5-49D9-9F85-C6061849A4FA",
@@ -2349,7 +2389,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328361-07BAD5ED-10E5-49D9-9F85-C6061849A4FA",
@@ -2366,7 +2407,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328364-A7C827BF-960C-4E3E-A65C-1221AA605529",
@@ -2382,7 +2424,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328364-A7C827BF-960C-4E3E-A65C-1221AA605529",
@@ -2399,7 +2442,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328391-723FFDE0-3A73-4157-87A5-FF1F2A73A0D8",
@@ -2415,7 +2459,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328391-723FFDE0-3A73-4157-87A5-FF1F2A73A0D8",
@@ -2432,7 +2477,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328394-55E1C396-C725-4052-BEEE-A433BC9119A3",
@@ -2448,7 +2494,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328394-55E1C396-C725-4052-BEEE-A433BC9119A3",
@@ -2465,7 +2512,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328443-9BBF1E3B-6652-48A4-B223-3282E0033843",
@@ -2481,7 +2529,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328443-9BBF1E3B-6652-48A4-B223-3282E0033843",
@@ -2498,23 +2547,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58328466-32DCC942-6BC4-44F7-B81C-CE4C0933E53E",
-      "person_id": "Q58328466",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589729",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328466-32DCC942-6BC4-44F7-B81C-CE4C0933E53E",
@@ -2531,7 +2565,25 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58328466-32DCC942-6BC4-44F7-B81C-CE4C0933E53E",
+      "person_id": "Q58328466",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589729",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328505-90AA0B4D-71A6-4153-869E-3C362AD1E370",
@@ -2547,7 +2599,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328505-90AA0B4D-71A6-4153-869E-3C362AD1E370",
@@ -2564,7 +2617,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328510-955B488B-1C86-4593-AC04-65C6CF360577",
@@ -2580,7 +2634,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328510-955B488B-1C86-4593-AC04-65C6CF360577",
@@ -2597,7 +2652,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328522-D6588CF5-F268-48DD-812D-5520B317FFDD",
@@ -2613,7 +2669,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328522-D6588CF5-F268-48DD-812D-5520B317FFDD",
@@ -2630,7 +2687,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328529-BC452A92-BD74-4DDC-AFB7-4FCEA4EF924B",
@@ -2646,7 +2704,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328529-BC452A92-BD74-4DDC-AFB7-4FCEA4EF924B",
@@ -2663,23 +2722,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58328563-303A12F3-350B-48CF-AA5C-1454FB106B18",
-      "person_id": "Q58328563",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589724",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328563-303A12F3-350B-48CF-AA5C-1454FB106B18",
@@ -2696,7 +2740,43 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58328563-303A12F3-350B-48CF-AA5C-1454FB106B18",
+      "person_id": "Q58328563",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589724",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58328585-A477D3CF-BFED-40B1-A3E3-E7833BB5F969",
+      "person_id": "Q58328585",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589730",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328585-A477D3CF-BFED-40B1-A3E3-E7833BB5F969",
@@ -2712,24 +2792,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58328585-A477D3CF-BFED-40B1-A3E3-E7833BB5F969",
-      "person_id": "Q58328585",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589730",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328618-36CFD534-3A28-4F8F-B5B9-50088AEBD00F",
@@ -2745,7 +2809,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328618-36CFD534-3A28-4F8F-B5B9-50088AEBD00F",
@@ -2762,7 +2827,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328862-8F4712D9-D71D-438A-B05F-B7A7AA520B91",
@@ -2778,7 +2844,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328862-8F4712D9-D71D-438A-B05F-B7A7AA520B91",
@@ -2795,7 +2862,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328870-C6C11B0A-75DB-47A8-B8E1-234B18A2A6D1",
@@ -2811,7 +2879,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58328870-C6C11B0A-75DB-47A8-B8E1-234B18A2A6D1",
@@ -2828,23 +2897,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58329073-2D95F29A-F764-4204-B1AE-A38B2A4E3B9D",
-      "person_id": "Q58329073",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q6884693",
-      "area_id": "Q55589723",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24540202",
-      "role": {
-        "lang:en": "Member of the Mizoram Legislative Assembly",
-        "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329073-2D95F29A-F764-4204-B1AE-A38B2A4E3B9D",
@@ -2861,7 +2915,25 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58329073-2D95F29A-F764-4204-B1AE-A38B2A4E3B9D",
+      "person_id": "Q58329073",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q6884693",
+      "area_id": "Q55589723",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24540202",
+      "role": {
+        "lang:en": "Member of the Mizoram Legislative Assembly",
+        "lang:hi": "मिजोरम विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329084-78AF7B60-897C-4B97-AEA1-E1EC8137EBF4",
@@ -2877,7 +2949,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329084-78AF7B60-897C-4B97-AEA1-E1EC8137EBF4",
@@ -2894,7 +2967,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329149-EC321C0C-00C5-436E-9FA7-96ED42581BE7",
@@ -2910,7 +2984,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329149-EC321C0C-00C5-436E-9FA7-96ED42581BE7",
@@ -2927,7 +3002,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329172-2B9FE10A-BB1B-411F-89D4-9EF727568C56",
@@ -2943,7 +3019,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58329172-2B9FE10A-BB1B-411F-89D4-9EF727568C56",
@@ -2960,7 +3037,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7915071-167F623B-179D-4127-9B88-5D150DB4A250",
@@ -2976,7 +3054,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7915071-167F623B-179D-4127-9B88-5D150DB4A250",
@@ -2993,7 +3072,8 @@
       "role": {
         "lang:en": "Member of the Mizoram Legislative Assembly",
         "lang:hi": "मिजोरम विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153252"
     }
   ]
 }

@@ -422,7 +422,8 @@
     },
     {
       "name": {
-        "lang:en": "K. T. Rama Rao"
+        "lang:en": "K. T. Rama Rao",
+        "lang:hi": "केटी राम राव"
       },
       "id": "Q25748324",
       "identifiers": [
@@ -513,7 +514,7 @@
     },
     {
       "name": {
-        "lang:en": "Kalvakuntla Chandrashekar",
+        "lang:en": "K. Chandrashekar Rao",
         "lang:hi": "कल्वाकुंतला चंद्रशेखर राव"
       },
       "id": "Q33168",
@@ -1870,7 +1871,7 @@
     },
     {
       "name": {
-        "lang:en": "All India Muslim farzi party",
+        "lang:en": "All India Majlis-e-Ittehadul Muslimeen",
         "lang:hi": "अखिल भारतीय मजलिस-ए-इत्तेहादुल मुस्लिमीन"
       },
       "id": "Q2837501",
@@ -4750,15 +4751,17 @@
       "on_behalf_of_id": "Q234277",
       "organization_id": "Q17152219",
       "area_id": "Q4900537",
-      "role_superclass_code": "Q3526627",
+      "role_superclass_code": "Q486839",
       "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
       },
       "role_code": "Q24331572",
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q10951750-D50E8C73-F84D-4E34-8E21-8D6AA2135322",
@@ -4766,16 +4769,16 @@
       "on_behalf_of_id": "Q234277",
       "organization_id": "Q17152219",
       "area_id": "Q4900537",
-      "role_superclass_code": "Q486839",
+      "role_superclass_code": "Q3526627",
       "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
+        "lang:en": "Member of a Legislative Assembly of India"
       },
       "role_code": "Q24331572",
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q15709482-6E97188F-F6A1-4B6E-979F-539F10AB7FA9",
@@ -4791,7 +4794,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q15709482-6E97188F-F6A1-4B6E-979F-539F10AB7FA9",
@@ -4808,7 +4812,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16207441-CBD2D3E5-BC78-45B9-9026-A2BE5D476BC6",
@@ -4824,7 +4829,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16207441-CBD2D3E5-BC78-45B9-9026-A2BE5D476BC6",
@@ -4841,23 +4847,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q16734983-0D1BACD9-51FE-43AD-BC3F-D0773AD49F61",
-      "person_id": "Q16734983",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q6874782",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16734983-0D1BACD9-51FE-43AD-BC3F-D0773AD49F61",
@@ -4874,7 +4865,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q16734983-0D1BACD9-51FE-43AD-BC3F-D0773AD49F61",
+      "person_id": "Q16734983",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q6874782",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16979865-CAA5C73B-8A89-499D-AD79-37D73777AB61",
@@ -4890,7 +4899,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q16979865-CAA5C73B-8A89-499D-AD79-37D73777AB61",
@@ -4907,7 +4917,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17037519-408131E1-84A6-4716-92B2-72F9D5A1E3D8",
@@ -4923,7 +4934,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17037519-408131E1-84A6-4716-92B2-72F9D5A1E3D8",
@@ -4940,7 +4952,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17107620-AED3DB43-3E7D-4AE9-8717-98154B6FCCCA",
@@ -4956,7 +4969,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17107620-AED3DB43-3E7D-4AE9-8717-98154B6FCCCA",
@@ -4973,23 +4987,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q17152140-F914FAB0-67CF-43EE-A202-4D80A533D6BA",
-      "person_id": "Q17152140",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q4902168",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17152140-F914FAB0-67CF-43EE-A202-4D80A533D6BA",
@@ -5006,7 +5005,43 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17152140-F914FAB0-67CF-43EE-A202-4D80A533D6BA",
+      "person_id": "Q17152140",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4902168",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17180865-230FDB0D-0396-48CF-BC2A-C10C381F1D91",
+      "person_id": "Q17180865",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q4901950",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17180865-230FDB0D-0396-48CF-BC2A-C10C381F1D91",
@@ -5022,24 +5057,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q17180865-230FDB0D-0396-48CF-BC2A-C10C381F1D91",
-      "person_id": "Q17180865",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q4901950",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17305741-A0B0CB8C-C70B-415E-97A4-2EF422A971B1",
@@ -5055,7 +5074,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17305741-A0B0CB8C-C70B-415E-97A4-2EF422A971B1",
@@ -5072,7 +5092,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17385998-C54BEB65-C077-46E3-9A0E-98FB8229E3D4",
@@ -5088,7 +5109,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17385998-C54BEB65-C077-46E3-9A0E-98FB8229E3D4",
@@ -5105,23 +5127,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q17489724-0DF0BDF8-3353-4AA7-8CD8-61FC28DC49DC",
-      "person_id": "Q17489724",
-      "on_behalf_of_id": "Q10230",
-      "organization_id": "Q17152219",
-      "area_id": "Q5587233",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17489724-0DF0BDF8-3353-4AA7-8CD8-61FC28DC49DC",
@@ -5138,7 +5145,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q17489724-0DF0BDF8-3353-4AA7-8CD8-61FC28DC49DC",
+      "person_id": "Q17489724",
+      "on_behalf_of_id": "Q10230",
+      "organization_id": "Q17152219",
+      "area_id": "Q5587233",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17495934-B9BD53FC-76B9-4ECF-B1FF-9C7B7F5F09E5",
@@ -5154,7 +5179,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q17495934-B9BD53FC-76B9-4ECF-B1FF-9C7B7F5F09E5",
@@ -5171,7 +5197,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20716124-622AF4C6-E350-4156-8E4E-3115E3270CAE",
@@ -5187,7 +5214,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20716124-622AF4C6-E350-4156-8E4E-3115E3270CAE",
@@ -5204,7 +5232,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20716614-51A9F5AF-C88D-4980-A395-301094968211",
@@ -5220,7 +5249,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20716614-51A9F5AF-C88D-4980-A395-301094968211",
@@ -5237,7 +5267,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20774341-85686C61-AAFB-4221-AA32-CF0651CFE31A",
@@ -5253,7 +5284,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20774341-85686C61-AAFB-4221-AA32-CF0651CFE31A",
@@ -5270,23 +5302,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q20774384-53A083AA-63A7-4C2B-9CD0-68C67AB3F1C2",
-      "person_id": "Q20774384",
-      "on_behalf_of_id": "Q2279320",
-      "organization_id": "Q17152219",
-      "area_id": "Q7415537",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q20774384-53A083AA-63A7-4C2B-9CD0-68C67AB3F1C2",
@@ -5303,7 +5320,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q20774384-53A083AA-63A7-4C2B-9CD0-68C67AB3F1C2",
+      "person_id": "Q20774384",
+      "on_behalf_of_id": "Q2279320",
+      "organization_id": "Q17152219",
+      "area_id": "Q7415537",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22003532-7E53223E-884B-4BA8-BFB0-B95A53D2FF18",
@@ -5319,7 +5354,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22003532-7E53223E-884B-4BA8-BFB0-B95A53D2FF18",
@@ -5336,7 +5372,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277235-41A37DF5-8CF3-4694-8E69-4B78A18D1B42",
@@ -5352,7 +5389,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277235-41A37DF5-8CF3-4694-8E69-4B78A18D1B42",
@@ -5369,23 +5407,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q22277859-22115211-77D8-45C1-85C0-33EFD2047C48",
-      "person_id": "Q22277859",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q7799207",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22277859-22115211-77D8-45C1-85C0-33EFD2047C48",
@@ -5402,7 +5425,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q22277859-22115211-77D8-45C1-85C0-33EFD2047C48",
+      "person_id": "Q22277859",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q7799207",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22278803-F6239E4A-DD87-44D4-B542-9EADAB552C7F",
@@ -5418,7 +5459,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22278803-F6239E4A-DD87-44D4-B542-9EADAB552C7F",
@@ -5435,7 +5477,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22279730-FC084572-D181-46F6-950D-8A64A89415A5",
@@ -5451,7 +5494,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q22279730-FC084572-D181-46F6-950D-8A64A89415A5",
@@ -5468,7 +5512,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23760989-0CA5BDB3-6450-4300-BEE8-8F7CAA8401D4",
@@ -5484,7 +5529,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23760989-0CA5BDB3-6450-4300-BEE8-8F7CAA8401D4",
@@ -5501,7 +5547,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23887622-9D53B8AD-3CF5-4B88-B91B-5889A43D25A8",
@@ -5517,7 +5564,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23887622-9D53B8AD-3CF5-4B88-B91B-5889A43D25A8",
@@ -5534,7 +5582,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23887623-70C805E5-A73E-4133-8C64-5618AD3C78FD",
@@ -5550,7 +5599,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q23887623-70C805E5-A73E-4133-8C64-5618AD3C78FD",
@@ -5567,7 +5617,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24263602-83B1FDA1-E275-4023-B48C-5124A6215675",
@@ -5583,7 +5634,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24263602-83B1FDA1-E275-4023-B48C-5124A6215675",
@@ -5600,7 +5652,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24938338-91376192-BBEF-4CDB-BCBA-FBE94B7BF381",
@@ -5616,7 +5669,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24938338-91376192-BBEF-4CDB-BCBA-FBE94B7BF381",
@@ -5633,7 +5687,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24947271-D9464D1C-C62D-4957-9AB2-44D958CA8585",
@@ -5649,7 +5704,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q24947271-D9464D1C-C62D-4957-9AB2-44D958CA8585",
@@ -5666,7 +5722,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25748324-12115B2B-C655-435F-B8CB-732DC9DD74EE",
@@ -5682,7 +5739,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q25748324-12115B2B-C655-435F-B8CB-732DC9DD74EE",
@@ -5699,7 +5757,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q27087954-2437318d-a138-4f74-bccc-fb3c3f77d8a1",
@@ -5715,7 +5774,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q27087954-2437318d-a138-4f74-bccc-fb3c3f77d8a1",
@@ -5732,7 +5792,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28839633-D2040EDF-C650-4010-A0D7-4CC3DF6983A9",
@@ -5748,7 +5809,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q28839633-D2040EDF-C650-4010-A0D7-4CC3DF6983A9",
@@ -5765,7 +5827,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q29536453-1e4d4607-0afb-49c9-b756-7de1e248381b",
@@ -5781,7 +5844,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q29536453-1e4d4607-0afb-49c9-b756-7de1e248381b",
@@ -5798,7 +5862,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q3195789-BEB99908-4E04-4BF4-AC67-C154DCAC3C08",
@@ -5814,7 +5879,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q3195789-BEB99908-4E04-4BF4-AC67-C154DCAC3C08",
@@ -5831,7 +5897,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q32108632-6D74658C-928D-4D04-BEA8-C1743293DF69",
@@ -5847,7 +5914,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q32108632-6D74658C-928D-4D04-BEA8-C1743293DF69",
@@ -5864,7 +5932,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q33168-45B7AC6E-8953-4A45-855E-022EAEA7683B",
@@ -5880,7 +5949,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q33168-45B7AC6E-8953-4A45-855E-022EAEA7683B",
@@ -5897,7 +5967,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48040663-5644E5AA-B8DC-460E-BA4A-ED4B4471CC4C",
@@ -5913,7 +5984,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48040663-5644E5AA-B8DC-460E-BA4A-ED4B4471CC4C",
@@ -5930,7 +6002,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4838053-274E794B-7ED6-40E3-BD1A-16E9A3EEA4B3",
@@ -5946,7 +6019,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q4838053-274E794B-7ED6-40E3-BD1A-16E9A3EEA4B3",
@@ -5963,7 +6037,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48733100-F00DBCDB-ACDF-4116-A6C3-65D3FB416F34",
@@ -5979,7 +6054,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48733100-F00DBCDB-ACDF-4116-A6C3-65D3FB416F34",
@@ -5996,7 +6072,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48984613-CA66080B-CAD6-456C-AAD8-CF03575F2557",
@@ -6012,7 +6089,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48984613-CA66080B-CAD6-456C-AAD8-CF03575F2557",
@@ -6029,7 +6107,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48988250-A55D9B05-1B72-473C-A206-8AD803466909",
@@ -6045,7 +6124,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q48988250-A55D9B05-1B72-473C-A206-8AD803466909",
@@ -6062,7 +6142,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q50938695-D813AC4F-1EC2-4168-B6E6-8886E695F014",
@@ -6078,7 +6159,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q50938695-D813AC4F-1EC2-4168-B6E6-8886E695F014",
@@ -6095,7 +6177,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51167021-EEBB76B4-2CE5-4E8F-BDB9-88CE8834726A",
@@ -6111,7 +6194,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51167021-EEBB76B4-2CE5-4E8F-BDB9-88CE8834726A",
@@ -6128,7 +6212,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51167311-E975CD9A-72E9-47D6-A253-CB54FE21FFB1",
@@ -6144,7 +6229,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51167311-E975CD9A-72E9-47D6-A253-CB54FE21FFB1",
@@ -6161,23 +6247,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q51167529-E064A5CF-E32F-4031-9231-83C7873B07E1",
-      "person_id": "Q51167529",
-      "on_behalf_of_id": "Q803681",
-      "organization_id": "Q17152219",
-      "area_id": "Q778154",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q51167529-E064A5CF-E32F-4031-9231-83C7873B07E1",
@@ -6194,7 +6265,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q51167529-E064A5CF-E32F-4031-9231-83C7873B07E1",
+      "person_id": "Q51167529",
+      "on_behalf_of_id": "Q803681",
+      "organization_id": "Q17152219",
+      "area_id": "Q778154",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5203683-54E3BC73-E9DC-4A1F-AD5D-79962ABA7B96",
@@ -6210,7 +6299,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5203683-54E3BC73-E9DC-4A1F-AD5D-79962ABA7B96",
@@ -6227,7 +6317,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52200474-EF471208-D6F9-46D7-AFF4-BFF17E0E22F7",
@@ -6243,7 +6334,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52200474-EF471208-D6F9-46D7-AFF4-BFF17E0E22F7",
@@ -6260,23 +6352,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q52245839-C9E0682E-778B-484D-AE13-7FC82673479F",
-      "person_id": "Q52245839",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q12991356",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52245839-C9E0682E-778B-484D-AE13-7FC82673479F",
@@ -6293,7 +6370,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q52245839-C9E0682E-778B-484D-AE13-7FC82673479F",
+      "person_id": "Q52245839",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q12991356",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52246697-D9CBD7A0-B21B-49C4-AA84-B5D4A739237B",
@@ -6309,7 +6404,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52246697-D9CBD7A0-B21B-49C4-AA84-B5D4A739237B",
@@ -6326,7 +6422,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52265838-13D753F3-C0D3-45A4-8885-4055E0E713D1",
@@ -6342,7 +6439,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q52265838-13D753F3-C0D3-45A4-8885-4055E0E713D1",
@@ -6359,7 +6457,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5402546-D8568A9F-77F8-40CD-A1E5-235F86502395",
@@ -6375,7 +6474,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5402546-D8568A9F-77F8-40CD-A1E5-235F86502395",
@@ -6392,7 +6492,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5512319-53D93437-ACCB-4CB7-8BB5-FB4DBE7E3891",
@@ -6408,7 +6509,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5512319-53D93437-ACCB-4CB7-8BB5-FB4DBE7E3891",
@@ -6425,7 +6527,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5520379-1153E417-8520-40EE-9FE4-1184F4CE3AE7",
@@ -6441,7 +6544,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q5520379-1153E417-8520-40EE-9FE4-1184F4CE3AE7",
@@ -6458,7 +6562,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q57017063-D269759F-74ED-4FDD-AB92-EA46D0A64009",
@@ -6474,7 +6579,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q57017063-D269759F-74ED-4FDD-AB92-EA46D0A64009",
@@ -6491,7 +6597,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58432656-26E5E54B-9FB8-48EE-9C51-E5E39F134773",
@@ -6507,7 +6614,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58432656-26E5E54B-9FB8-48EE-9C51-E5E39F134773",
@@ -6524,7 +6632,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58432915-F5900218-45FD-4D7E-9451-A6DF51A01AFB",
@@ -6540,7 +6649,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58432915-F5900218-45FD-4D7E-9451-A6DF51A01AFB",
@@ -6557,7 +6667,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58432937-B6402487-BAED-4469-BA19-76220A260450",
@@ -6573,7 +6684,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58432937-B6402487-BAED-4469-BA19-76220A260450",
@@ -6590,7 +6702,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433002-FB2C768D-9975-483C-B05C-C0632F1B21D9",
@@ -6606,7 +6719,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433002-FB2C768D-9975-483C-B05C-C0632F1B21D9",
@@ -6623,23 +6737,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58433021-BD391D7B-B094-4066-8C55-8362BCDBD657",
-      "person_id": "Q58433021",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q7042123",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433021-BD391D7B-B094-4066-8C55-8362BCDBD657",
@@ -6656,7 +6755,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58433021-BD391D7B-B094-4066-8C55-8362BCDBD657",
+      "person_id": "Q58433021",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q7042123",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433088-0D943CCF-8324-411A-91A3-831218614BF7",
@@ -6672,7 +6789,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433088-0D943CCF-8324-411A-91A3-831218614BF7",
@@ -6689,7 +6807,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433132-72D6ADBC-4F85-4B12-9F16-ECCEC6613840",
@@ -6705,7 +6824,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433132-72D6ADBC-4F85-4B12-9F16-ECCEC6613840",
@@ -6722,23 +6842,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58433244-3AF2FD87-1810-467E-9658-B778C22F5B2E",
-      "person_id": "Q58433244",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q6370776",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58433244-3AF2FD87-1810-467E-9658-B778C22F5B2E",
@@ -6755,7 +6860,43 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58433244-3AF2FD87-1810-467E-9658-B778C22F5B2E",
+      "person_id": "Q58433244",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q6370776",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58434550-74E5833D-5E61-4660-9A70-34C3EDD47E67",
+      "person_id": "Q58434550",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q8051560",
+      "role_superclass_code": "Q486839",
+      "role_superclass": {
+        "lang:en": "member of parliament",
+        "lang:hi": "सांसद"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58434550-74E5833D-5E61-4660-9A70-34C3EDD47E67",
@@ -6771,40 +6912,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58434550-74E5833D-5E61-4660-9A70-34C3EDD47E67",
-      "person_id": "Q58434550",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q8051560",
-      "role_superclass_code": "Q486839",
-      "role_superclass": {
-        "lang:en": "member of parliament",
-        "lang:hi": "सांसद"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58434770-C4518382-D437-4E72-886F-06CB3DAF5AC6",
-      "person_id": "Q58434770",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q4706008",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
-      },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58434770-C4518382-D437-4E72-886F-06CB3DAF5AC6",
@@ -6821,7 +6930,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58434770-C4518382-D437-4E72-886F-06CB3DAF5AC6",
+      "person_id": "Q58434770",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q4706008",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58434789-EEA3AD29-325B-433E-AD97-F495BE897177",
@@ -6837,7 +6964,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58434789-EEA3AD29-325B-433E-AD97-F495BE897177",
@@ -6854,7 +6982,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58434943-1DBE7200-5521-4EF9-BE60-8FE7AD0CDC99",
@@ -6870,7 +6999,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58434943-1DBE7200-5521-4EF9-BE60-8FE7AD0CDC99",
@@ -6887,7 +7017,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58435640-C24D9202-EDB1-4650-B9BB-16298ECF5CF9",
@@ -6903,7 +7034,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58435640-C24D9202-EDB1-4650-B9BB-16298ECF5CF9",
@@ -6920,7 +7052,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58435939-559A468A-876E-4945-BE97-082BF18FA4B3",
@@ -6936,7 +7069,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58435939-559A468A-876E-4945-BE97-082BF18FA4B3",
@@ -6953,7 +7087,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58435985-DE522D3F-5422-401E-A5F7-C7D389F143A6",
@@ -6969,7 +7104,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58435985-DE522D3F-5422-401E-A5F7-C7D389F143A6",
@@ -6986,7 +7122,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436062-396DA44C-74D5-41A3-9D2F-922D12CC820D",
@@ -7002,7 +7139,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436062-396DA44C-74D5-41A3-9D2F-922D12CC820D",
@@ -7019,7 +7157,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436085-DD5D2315-68CF-4C71-914A-3D2E2C5AFAFC",
@@ -7035,7 +7174,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436085-DD5D2315-68CF-4C71-914A-3D2E2C5AFAFC",
@@ -7052,7 +7192,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436368-17C06224-6DCC-4ACE-8E16-B23EFDBD9084",
@@ -7068,7 +7209,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436368-17C06224-6DCC-4ACE-8E16-B23EFDBD9084",
@@ -7085,7 +7227,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436383-B8ECBD1C-4617-45BF-8B21-B9DD9208EFF8",
@@ -7101,7 +7244,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436383-B8ECBD1C-4617-45BF-8B21-B9DD9208EFF8",
@@ -7118,7 +7262,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436420-D8A6435A-0B95-4FA0-B94D-FAABF66DC473",
@@ -7134,7 +7279,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436420-D8A6435A-0B95-4FA0-B94D-FAABF66DC473",
@@ -7151,7 +7297,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436442-B7E7AC2A-1699-44FD-AD76-544388E5A1B0",
@@ -7167,7 +7314,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436442-B7E7AC2A-1699-44FD-AD76-544388E5A1B0",
@@ -7184,7 +7332,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436893-D6F650EF-98CD-40DE-9A6A-BD6072FB75D9",
@@ -7200,7 +7349,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436893-D6F650EF-98CD-40DE-9A6A-BD6072FB75D9",
@@ -7217,23 +7367,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58436952-78E97B44-6776-45B4-BFFF-BFF17A527513",
-      "person_id": "Q58436952",
-      "on_behalf_of_id": "Q8046035",
-      "organization_id": "Q17152219",
-      "area_id": "Q4811983",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436952-78E97B44-6776-45B4-BFFF-BFF17A527513",
@@ -7250,7 +7385,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58436952-78E97B44-6776-45B4-BFFF-BFF17A527513",
+      "person_id": "Q58436952",
+      "on_behalf_of_id": "Q8046035",
+      "organization_id": "Q17152219",
+      "area_id": "Q4811983",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436970-797EFFB2-190E-4D4C-8EA2-46FE07DE7CA8",
@@ -7266,7 +7419,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58436970-797EFFB2-190E-4D4C-8EA2-46FE07DE7CA8",
@@ -7283,7 +7437,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437024-13500414-B0D2-4E4B-82E5-AA540E5A995B",
@@ -7299,7 +7454,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437024-13500414-B0D2-4E4B-82E5-AA540E5A995B",
@@ -7316,7 +7472,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437063-7F016163-58DE-4CA1-9DBF-D533DE4340CA",
@@ -7332,7 +7489,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437063-7F016163-58DE-4CA1-9DBF-D533DE4340CA",
@@ -7349,7 +7507,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437084-7E2C3205-0439-444E-A2DD-39B0ADF9F2EA",
@@ -7365,7 +7524,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437084-7E2C3205-0439-444E-A2DD-39B0ADF9F2EA",
@@ -7382,7 +7542,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437107-3D2AD796-6E2B-41CF-A626-DE5A392635F1",
@@ -7398,7 +7559,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437107-3D2AD796-6E2B-41CF-A626-DE5A392635F1",
@@ -7415,7 +7577,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437121-E7DD9A43-30A6-42A4-A3AD-1F96D4D0DF1E",
@@ -7431,7 +7594,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437121-E7DD9A43-30A6-42A4-A3AD-1F96D4D0DF1E",
@@ -7448,7 +7612,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437137-043056EA-1795-4881-8AB6-76F0D40FF567",
@@ -7464,7 +7629,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437137-043056EA-1795-4881-8AB6-76F0D40FF567",
@@ -7481,7 +7647,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437157-2A7A755D-AFCF-4807-A2A5-59480BEF765E",
@@ -7497,7 +7664,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437157-2A7A755D-AFCF-4807-A2A5-59480BEF765E",
@@ -7514,7 +7682,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437186-BAF0DCC1-B944-4FE1-A5F1-A702BA934A6E",
@@ -7530,7 +7699,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437186-BAF0DCC1-B944-4FE1-A5F1-A702BA934A6E",
@@ -7547,7 +7717,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437264-C710D37F-CACE-4ED3-B5CC-6C43B32BCDD3",
@@ -7563,7 +7734,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437264-C710D37F-CACE-4ED3-B5CC-6C43B32BCDD3",
@@ -7580,7 +7752,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437277-1FC1EAC5-572F-4733-91A5-36CA6B165A39",
@@ -7596,7 +7769,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437277-1FC1EAC5-572F-4733-91A5-36CA6B165A39",
@@ -7613,7 +7787,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437292-749AABE7-02EE-4066-9AB2-2167056DE35A",
@@ -7629,7 +7804,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437292-749AABE7-02EE-4066-9AB2-2167056DE35A",
@@ -7646,23 +7822,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58437303-CFC70AFB-20CF-4003-80CB-69D0DB6C99EE",
-      "person_id": "Q58437303",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q5310669",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437303-CFC70AFB-20CF-4003-80CB-69D0DB6C99EE",
@@ -7679,7 +7840,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58437303-CFC70AFB-20CF-4003-80CB-69D0DB6C99EE",
+      "person_id": "Q58437303",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q5310669",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437317-0104C2C4-D2F8-4B39-9484-F4736B43B244",
@@ -7695,7 +7874,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437317-0104C2C4-D2F8-4B39-9484-F4736B43B244",
@@ -7712,7 +7892,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437324-E1DE85F9-9B53-4BC5-BDF9-CECCD5F0D3DB",
@@ -7728,7 +7909,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437324-E1DE85F9-9B53-4BC5-BDF9-CECCD5F0D3DB",
@@ -7745,7 +7927,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437367-452F1A08-E02C-4AD4-B017-17A56056F2A1",
@@ -7761,7 +7944,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437367-452F1A08-E02C-4AD4-B017-17A56056F2A1",
@@ -7778,7 +7962,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437378-3D9D6E15-9D9D-4F7E-9322-EC32D74ADC26",
@@ -7794,7 +7979,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437378-3D9D6E15-9D9D-4F7E-9322-EC32D74ADC26",
@@ -7811,7 +7997,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437391-8DD463EB-B111-46DD-8C42-9C8E460AED76",
@@ -7827,7 +8014,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437391-8DD463EB-B111-46DD-8C42-9C8E460AED76",
@@ -7844,23 +8032,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q58437415-8B725DC5-3B7F-476E-99CB-519F02CA2C6B",
-      "person_id": "Q58437415",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q6958581",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437415-8B725DC5-3B7F-476E-99CB-519F02CA2C6B",
@@ -7877,7 +8050,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q58437415-8B725DC5-3B7F-476E-99CB-519F02CA2C6B",
+      "person_id": "Q58437415",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q6958581",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437521-DA985707-84EA-454F-A0A3-6747B6957818",
@@ -7893,7 +8084,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437521-DA985707-84EA-454F-A0A3-6747B6957818",
@@ -7910,7 +8102,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437537-8378569F-7275-4779-BC9C-DA0D8FE5B1B2",
@@ -7926,7 +8119,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58437537-8378569F-7275-4779-BC9C-DA0D8FE5B1B2",
@@ -7943,7 +8137,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58889242-BA011E45-F11C-49B5-8BB2-D57BAC20F122",
@@ -7959,7 +8154,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q58889242-BA011E45-F11C-49B5-8BB2-D57BAC20F122",
@@ -7976,7 +8172,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6105817-26B89B4A-8ED9-49CE-BD30-2794992394D2",
@@ -7992,7 +8189,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6105817-26B89B4A-8ED9-49CE-BD30-2794992394D2",
@@ -8009,7 +8207,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6121936-09A03EC5-AD8E-43AB-BC57-B126DF8FF1CA",
@@ -8025,7 +8224,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6121936-09A03EC5-AD8E-43AB-BC57-B126DF8FF1CA",
@@ -8042,7 +8242,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6214828-526EBB65-F28A-4373-8C36-6F05C2110129",
@@ -8058,7 +8259,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6214828-526EBB65-F28A-4373-8C36-6F05C2110129",
@@ -8075,7 +8277,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6314533-907CF2DE-42D8-4D44-B3B8-D75CA7E08497",
@@ -8091,7 +8294,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6314533-907CF2DE-42D8-4D44-B3B8-D75CA7E08497",
@@ -8108,7 +8312,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6428202-62306F2D-9E0A-43A2-8170-71302FF9EA3E",
@@ -8124,7 +8329,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6428202-62306F2D-9E0A-43A2-8170-71302FF9EA3E",
@@ -8141,7 +8347,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6428922-73716A6A-CBD7-4167-B6DB-4D7B667E1E8C",
@@ -8157,7 +8364,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6428922-73716A6A-CBD7-4167-B6DB-4D7B667E1E8C",
@@ -8174,23 +8382,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6444382-A7CFF787-9201-4236-9A3A-A7539B3FCD77",
-      "person_id": "Q6444382",
-      "on_behalf_of_id": "Q10225",
-      "organization_id": "Q17152219",
-      "area_id": "Q6958576",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6444382-A7CFF787-9201-4236-9A3A-A7539B3FCD77",
@@ -8207,7 +8400,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6444382-A7CFF787-9201-4236-9A3A-A7539B3FCD77",
+      "person_id": "Q6444382",
+      "on_behalf_of_id": "Q10225",
+      "organization_id": "Q17152219",
+      "area_id": "Q6958576",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6744315-8CF9A654-8E3F-4D73-8BCE-4AD898A3DDD1",
@@ -8223,7 +8434,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6744315-8CF9A654-8E3F-4D73-8BCE-4AD898A3DDD1",
@@ -8240,23 +8452,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q6935501-CAE8FFAB-D10D-4482-AB1C-ED4776C5F3A8",
-      "person_id": "Q6935501",
-      "on_behalf_of_id": "Q2837501",
-      "organization_id": "Q17152219",
-      "area_id": "Q8047260",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6935501-CAE8FFAB-D10D-4482-AB1C-ED4776C5F3A8",
@@ -8273,7 +8470,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q6935501-CAE8FFAB-D10D-4482-AB1C-ED4776C5F3A8",
+      "person_id": "Q6935501",
+      "on_behalf_of_id": "Q2837501",
+      "organization_id": "Q17152219",
+      "area_id": "Q8047260",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6960784-0D409196-4C8E-4885-9B0B-D24637FB9F73",
@@ -8289,7 +8504,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6960784-0D409196-4C8E-4885-9B0B-D24637FB9F73",
@@ -8306,7 +8522,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6960942-A96F0ACC-46B4-4E91-9C74-48A32DB4E464",
@@ -8322,7 +8539,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q6960942-A96F0ACC-46B4-4E91-9C74-48A32DB4E464",
@@ -8339,7 +8557,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7117415-E27FC6E2-5F17-4B49-B5EA-A6EF49E224F2",
@@ -8355,7 +8574,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7117415-E27FC6E2-5F17-4B49-B5EA-A6EF49E224F2",
@@ -8372,7 +8592,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7123828-D6DF92A1-FF53-483C-B8C7-BB66D6CC8500",
@@ -8388,7 +8609,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7123828-D6DF92A1-FF53-483C-B8C7-BB66D6CC8500",
@@ -8405,7 +8627,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7273789-23751EF1-5CED-4537-AED5-A061EEB4E1D0",
@@ -8421,7 +8644,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7273789-23751EF1-5CED-4537-AED5-A061EEB4E1D0",
@@ -8438,7 +8662,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7317733-4BDFB63F-88DD-452B-940E-71037A92008F",
@@ -8454,7 +8679,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7317733-4BDFB63F-88DD-452B-940E-71037A92008F",
@@ -8471,7 +8697,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7559217-A14ECA0B-1B91-44E1-9BE5-D03185B9DC82",
@@ -8487,7 +8714,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7559217-A14ECA0B-1B91-44E1-9BE5-D03185B9DC82",
@@ -8504,7 +8732,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7668412-147D9FBA-7C62-44AD-AF7A-BE7B90865069",
@@ -8520,7 +8749,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7668412-147D9FBA-7C62-44AD-AF7A-BE7B90865069",
@@ -8537,7 +8767,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7668628-6159871A-2972-4DC9-B0FD-C38E6925D094",
@@ -8553,7 +8784,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7668628-6159871A-2972-4DC9-B0FD-C38E6925D094",
@@ -8570,7 +8802,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7798851-C3D27915-6B7C-4DDF-80F1-D559286D747C",
@@ -8586,7 +8819,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7798851-C3D27915-6B7C-4DDF-80F1-D559286D747C",
@@ -8603,23 +8837,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
-    },
-    {
-      "id": "http://www.wikidata.org/entity/statement/Q7931369-CC7FDC79-97BA-4E89-A4F2-2027B6E20A86",
-      "person_id": "Q7931369",
-      "on_behalf_of_id": "Q3518390",
-      "organization_id": "Q17152219",
-      "area_id": "Q7968797",
-      "role_superclass_code": "Q3526627",
-      "role_superclass": {
-        "lang:en": "Member of a Legislative Assembly of India"
       },
-      "role_code": "Q24331572",
-      "role": {
-        "lang:en": "Member of the Telangana Legislative Assembly",
-        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q7931369-CC7FDC79-97BA-4E89-A4F2-2027B6E20A86",
@@ -8636,7 +8855,25 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
+    },
+    {
+      "id": "http://www.wikidata.org/entity/statement/Q7931369-CC7FDC79-97BA-4E89-A4F2-2027B6E20A86",
+      "person_id": "Q7931369",
+      "on_behalf_of_id": "Q3518390",
+      "organization_id": "Q17152219",
+      "area_id": "Q7968797",
+      "role_superclass_code": "Q3526627",
+      "role_superclass": {
+        "lang:en": "Member of a Legislative Assembly of India"
+      },
+      "role_code": "Q24331572",
+      "role": {
+        "lang:en": "Member of the Telangana Legislative Assembly",
+        "lang:hi": "तेलंगाना विधान सभा के सदस्य"
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q8052649-7E8BBEBD-DD50-48F3-9C6D-0AEA03E48790",
@@ -8652,7 +8889,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     },
     {
       "id": "http://www.wikidata.org/entity/statement/Q8052649-7E8BBEBD-DD50-48F3-9C6D-0AEA03E48790",
@@ -8669,7 +8907,8 @@
       "role": {
         "lang:en": "Member of the Telangana Legislative Assembly",
         "lang:hi": "तेलंगाना विधान सभा के सदस्य"
-      }
+      },
+      "term_id": "Q57153289"
     }
   ]
 }
